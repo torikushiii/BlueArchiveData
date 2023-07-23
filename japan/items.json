@@ -1,0 +1,4837 @@
+[
+    {
+        "id": 1,
+        "name": "キーストーンのカケラ",
+        "category": "Material"
+    },
+    {
+        "id": 2,
+        "name": "ブースターチケット",
+        "category": "Material"
+    },
+    {
+        "id": 3,
+        "name": "キーストーン",
+        "category": "Material"
+    },
+    {
+        "id": 7,
+        "name": "総力戦コイン",
+        "category": "Coin"
+    },
+    {
+        "id": 8,
+        "name": "戦術コイン",
+        "category": "Coin"
+    },
+    {
+        "id": 9,
+        "name": "総力戦レアコイン",
+        "category": "Coin"
+    },
+    {
+        "id": 10,
+        "name": "初級レポート",
+        "category": "CharacterExpGrowth"
+    },
+    {
+        "id": 11,
+        "name": "中級レポート",
+        "category": "CharacterExpGrowth"
+    },
+    {
+        "id": 12,
+        "name": "上級レポート",
+        "category": "CharacterExpGrowth"
+    },
+    {
+        "id": 13,
+        "name": "最上級レポート",
+        "category": "CharacterExpGrowth"
+    },
+    {
+        "id": 23,
+        "name": "神名のカケラ",
+        "category": "Coin"
+    },
+    {
+        "id": 30,
+        "name": "カフェ設備コアLv1",
+        "category": "Material"
+    },
+    {
+        "id": 31,
+        "name": "カフェ設備コアLv2",
+        "category": "Material"
+    },
+    {
+        "id": 32,
+        "name": "カフェ設備コアLv3",
+        "category": "Material"
+    },
+    {
+        "id": 33,
+        "name": "カフェ設備コアLv4",
+        "category": "Material"
+    },
+    {
+        "id": 39,
+        "name": "カフェ設備コアLv10",
+        "category": "Material"
+    },
+    {
+        "id": 60,
+        "name": "火力演習コイン",
+        "category": "Coin"
+    },
+    {
+        "id": 61,
+        "name": "指名手配コイン",
+        "category": "Coin"
+    },
+    {
+        "id": 70,
+        "name": "大決戦コイン",
+        "category": "Coin"
+    },
+    {
+        "id": 71,
+        "name": "大決戦レアコイン",
+        "category": "Coin"
+    },
+    {
+        "id": 80,
+        "name": "初級テイラーストーン",
+        "category": "Material"
+    },
+    {
+        "id": 81,
+        "name": "中級テイラーストーン",
+        "category": "Material"
+    },
+    {
+        "id": 82,
+        "name": "上級テイラーストーン",
+        "category": "Material"
+    },
+    {
+        "id": 83,
+        "name": "最上級テイラーストーン",
+        "category": "Material"
+    },
+    {
+        "id": 90,
+        "name": "初級製造用マテリアル",
+        "category": "Material"
+    },
+    {
+        "id": 91,
+        "name": "中級製造用マテリアル",
+        "category": "Material"
+    },
+    {
+        "id": 92,
+        "name": "上級製造用マテリアル",
+        "category": "Material"
+    },
+    {
+        "id": 100,
+        "name": "ネブラディスクの欠片",
+        "category": "Material"
+    },
+    {
+        "id": 101,
+        "name": "壊れたネブラディスク",
+        "category": "Material"
+    },
+    {
+        "id": 102,
+        "name": "摩耗したネブラディスク",
+        "category": "Material"
+    },
+    {
+        "id": 103,
+        "name": "完全なネブラディスク",
+        "category": "Material"
+    },
+    {
+        "id": 110,
+        "name": "ファイストス円盤の欠片",
+        "category": "Material"
+    },
+    {
+        "id": 111,
+        "name": "壊れたファイストス円盤",
+        "category": "Material"
+    },
+    {
+        "id": 112,
+        "name": "摩耗したファイストス円盤",
+        "category": "Material"
+    },
+    {
+        "id": 113,
+        "name": "完全なファイストス円盤",
+        "category": "Material"
+    },
+    {
+        "id": 120,
+        "name": "ヴォルフスエックの鉄鉱石",
+        "category": "Material"
+    },
+    {
+        "id": 121,
+        "name": "ヴォルフスエック鋼鉄の欠片",
+        "category": "Material"
+    },
+    {
+        "id": 122,
+        "name": "低純度のヴォルフスエック鋼鉄",
+        "category": "Material"
+    },
+    {
+        "id": 123,
+        "name": "高純度のヴォルフスエック鋼鉄",
+        "category": "Material"
+    },
+    {
+        "id": 130,
+        "name": "ニムルドレンズの欠片",
+        "category": "Material"
+    },
+    {
+        "id": 131,
+        "name": "壊れたニムルドレンズ",
+        "category": "Material"
+    },
+    {
+        "id": 132,
+        "name": "摩耗したニムルドレンズ",
+        "category": "Material"
+    },
+    {
+        "id": 133,
+        "name": "完全なニムルドレンズ",
+        "category": "Material"
+    },
+    {
+        "id": 140,
+        "name": "マンドレイクの種",
+        "category": "Material"
+    },
+    {
+        "id": 141,
+        "name": "マンドレイクの芽",
+        "category": "Material"
+    },
+    {
+        "id": 142,
+        "name": "マンドレイクジュース",
+        "category": "Material"
+    },
+    {
+        "id": 143,
+        "name": "マンドレイク濃縮液",
+        "category": "Material"
+    },
+    {
+        "id": 150,
+        "name": "レヒニッツ写本のページ",
+        "category": "Material"
+    },
+    {
+        "id": 151,
+        "name": "傷んだレヒニッツ写本",
+        "category": "Material"
+    },
+    {
+        "id": 152,
+        "name": "編集済みのレヒニッツ写本",
+        "category": "Material"
+    },
+    {
+        "id": 153,
+        "name": "完全なレヒニッツ写本",
+        "category": "Material"
+    },
+    {
+        "id": 160,
+        "name": "エーテルの粉",
+        "category": "Material"
+    },
+    {
+        "id": 161,
+        "name": "エーテルの欠片",
+        "category": "Material"
+    },
+    {
+        "id": 162,
+        "name": "エーテルの結晶",
+        "category": "Material"
+    },
+    {
+        "id": 163,
+        "name": "エーテルのエッセンス",
+        "category": "Material"
+    },
+    {
+        "id": 170,
+        "name": "アンティキティラ装置の欠片",
+        "category": "Material"
+    },
+    {
+        "id": 171,
+        "name": "壊れたアンティキティラ装置",
+        "category": "Material"
+    },
+    {
+        "id": 172,
+        "name": "摩耗したアンティキティラ装置",
+        "category": "Material"
+    },
+    {
+        "id": 173,
+        "name": "完全なアンティキティラ装置",
+        "category": "Material"
+    },
+    {
+        "id": 180,
+        "name": "断片的なヴォイニッチ手稿のコピー",
+        "category": "Material"
+    },
+    {
+        "id": 181,
+        "name": "傷んだヴォイニッチ手稿のコピー",
+        "category": "Material"
+    },
+    {
+        "id": 182,
+        "name": "編集済みのヴォイニッチ手稿のコピー",
+        "category": "Material"
+    },
+    {
+        "id": 183,
+        "name": "完全なヴォイニッチ手稿のコピー",
+        "category": "Material"
+    },
+    {
+        "id": 190,
+        "name": "水晶埴輪の破片",
+        "category": "Material"
+    },
+    {
+        "id": 191,
+        "name": "壊れた水晶埴輪",
+        "category": "Material"
+    },
+    {
+        "id": 192,
+        "name": "修復済みの水晶埴輪",
+        "category": "Material"
+    },
+    {
+        "id": 193,
+        "name": "完全な水晶埴輪",
+        "category": "Material"
+    },
+    {
+        "id": 200,
+        "name": "トーテムポールの破片",
+        "category": "Material"
+    },
+    {
+        "id": 201,
+        "name": "破損したトーテムポール",
+        "category": "Material"
+    },
+    {
+        "id": 202,
+        "name": "修復済みのトーテムポール",
+        "category": "Material"
+    },
+    {
+        "id": 203,
+        "name": "完全なトーテムポール",
+        "category": "Material"
+    },
+    {
+        "id": 210,
+        "name": "古代の電池の破片",
+        "category": "Material"
+    },
+    {
+        "id": 211,
+        "name": "破損した古代の電池",
+        "category": "Material"
+    },
+    {
+        "id": 212,
+        "name": "摩耗した古代の電池",
+        "category": "Material"
+    },
+    {
+        "id": 213,
+        "name": "完全なる古代の電池",
+        "category": "Material"
+    },
+    {
+        "id": 230,
+        "name": "髪伸び人形の破片",
+        "category": "Material"
+    },
+    {
+        "id": 231,
+        "name": "破損した髪伸び人形",
+        "category": "Material"
+    },
+    {
+        "id": 232,
+        "name": "修理済みの髪伸び人形",
+        "category": "Material"
+    },
+    {
+        "id": 233,
+        "name": "完全な髪伸び人形",
+        "category": "Material"
+    },
+    {
+        "id": 240,
+        "name": "円盤型ペンダントの欠片",
+        "category": "Material"
+    },
+    {
+        "id": 241,
+        "name": "壊れた円盤型ペンダント",
+        "category": "Material"
+    },
+    {
+        "id": 242,
+        "name": "修復途中の円盤型ペンダント",
+        "category": "Material"
+    },
+    {
+        "id": 243,
+        "name": "完全な円盤型ペンダント",
+        "category": "Material"
+    },
+    {
+        "id": 250,
+        "name": "古代文明のメダルの欠片",
+        "category": "Material"
+    },
+    {
+        "id": 251,
+        "name": "破損した古代文明のメダル",
+        "category": "Material"
+    },
+    {
+        "id": 252,
+        "name": "修復途中の古代文明のメダル",
+        "category": "Material"
+    },
+    {
+        "id": 253,
+        "name": "完全な古代文明のメダル",
+        "category": "Material"
+    },
+    {
+        "id": 290,
+        "name": "ミステリーストーンの欠片",
+        "category": "Material"
+    },
+    {
+        "id": 291,
+        "name": "壊れたミステリーストーン",
+        "category": "Material"
+    },
+    {
+        "id": 292,
+        "name": "不完全なミステリーストーン",
+        "category": "Material"
+    },
+    {
+        "id": 293,
+        "name": "完全なミステリーストーン",
+        "category": "Material"
+    },
+    {
+        "id": 3000,
+        "name": "初級戦術教育BD\n（百鬼夜行）",
+        "category": "Material"
+    },
+    {
+        "id": 3001,
+        "name": "中級戦術教育BD\n（百鬼夜行）",
+        "category": "Material"
+    },
+    {
+        "id": 3002,
+        "name": "上級戦術教育BD\n（百鬼夜行）",
+        "category": "Material"
+    },
+    {
+        "id": 3003,
+        "name": "最上級戦術教育BD\n（百鬼夜行）",
+        "category": "Material"
+    },
+    {
+        "id": 3010,
+        "name": "初級戦術教育BD\n（レッドウィンター）",
+        "category": "Material"
+    },
+    {
+        "id": 3011,
+        "name": "中級戦術教育BD\n（レッドウィンター）",
+        "category": "Material"
+    },
+    {
+        "id": 3012,
+        "name": "上級戦術教育BD\n（レッドウィンター）",
+        "category": "Material"
+    },
+    {
+        "id": 3013,
+        "name": "最上級戦術教育BD\n（レッドウィンター）",
+        "category": "Material"
+    },
+    {
+        "id": 3020,
+        "name": "初級戦術教育BD\n（トリニティ）",
+        "category": "Material"
+    },
+    {
+        "id": 3021,
+        "name": "中級戦術教育BD\n（トリニティ）",
+        "category": "Material"
+    },
+    {
+        "id": 3022,
+        "name": "上級戦術教育BD\n（トリニティ）",
+        "category": "Material"
+    },
+    {
+        "id": 3023,
+        "name": "最上級戦術教育BD\n（トリニティ）",
+        "category": "Material"
+    },
+    {
+        "id": 3030,
+        "name": "初級戦術教育BD\n（ゲヘナ）",
+        "category": "Material"
+    },
+    {
+        "id": 3031,
+        "name": "中級戦術教育BD\n（ゲヘナ）",
+        "category": "Material"
+    },
+    {
+        "id": 3032,
+        "name": "上級戦術教育BD\n（ゲヘナ）",
+        "category": "Material"
+    },
+    {
+        "id": 3033,
+        "name": "最上級戦術教育BD\n（ゲヘナ）",
+        "category": "Material"
+    },
+    {
+        "id": 3040,
+        "name": "初級戦術教育BD\n（アビドス）",
+        "category": "Material"
+    },
+    {
+        "id": 3041,
+        "name": "中級戦術教育BD\n（アビドス）",
+        "category": "Material"
+    },
+    {
+        "id": 3042,
+        "name": "上級戦術教育BD\n（アビドス）",
+        "category": "Material"
+    },
+    {
+        "id": 3043,
+        "name": "最上級戦術教育BD\n（アビドス）",
+        "category": "Material"
+    },
+    {
+        "id": 3050,
+        "name": "初級戦術教育BD\n（ミレニアム）",
+        "category": "Material"
+    },
+    {
+        "id": 3051,
+        "name": "中級戦術教育BD\n（ミレニアム）",
+        "category": "Material"
+    },
+    {
+        "id": 3052,
+        "name": "上級戦術教育BD\n（ミレニアム）",
+        "category": "Material"
+    },
+    {
+        "id": 3053,
+        "name": "最上級戦術教育BD\n（ミレニアム）",
+        "category": "Material"
+    },
+    {
+        "id": 3060,
+        "name": "初級戦術教育BD\n（アリウス）",
+        "category": "Material"
+    },
+    {
+        "id": 3061,
+        "name": "中級戦術教育BD\n（アリウス）",
+        "category": "Material"
+    },
+    {
+        "id": 3062,
+        "name": "上級戦術教育BD\n（アリウス）",
+        "category": "Material"
+    },
+    {
+        "id": 3063,
+        "name": "最上級戦術教育BD\n（アリウス）",
+        "category": "Material"
+    },
+    {
+        "id": 3070,
+        "name": "初級戦術教育BD\n（山海経）",
+        "category": "Material"
+    },
+    {
+        "id": 3071,
+        "name": "中級戦術教育BD\n（山海経）",
+        "category": "Material"
+    },
+    {
+        "id": 3072,
+        "name": "上級戦術教育BD\n（山海経）",
+        "category": "Material"
+    },
+    {
+        "id": 3073,
+        "name": "最上級戦術教育BD\n（山海経）",
+        "category": "Material"
+    },
+    {
+        "id": 3080,
+        "name": "初級戦術教育BD\n（ヴァルキューレ）",
+        "category": "Material"
+    },
+    {
+        "id": 3081,
+        "name": "中級戦術教育BD\n（ヴァルキューレ）",
+        "category": "Material"
+    },
+    {
+        "id": 3082,
+        "name": "上級戦術教育BD\n（ヴァルキューレ）",
+        "category": "Material"
+    },
+    {
+        "id": 3083,
+        "name": "最上級戦術教育BD\n（ヴァルキューレ）",
+        "category": "Material"
+    },
+    {
+        "id": 4000,
+        "name": "初級技術ノート\n（百鬼夜行）",
+        "category": "Material"
+    },
+    {
+        "id": 4001,
+        "name": "中級技術ノート\n（百鬼夜行）",
+        "category": "Material"
+    },
+    {
+        "id": 4002,
+        "name": "上級技術ノート\n（百鬼夜行）",
+        "category": "Material"
+    },
+    {
+        "id": 4003,
+        "name": "最上級技術ノート\n（百鬼夜行）",
+        "category": "Material"
+    },
+    {
+        "id": 4010,
+        "name": "初級技術ノート\n（レッドウィンター）",
+        "category": "Material"
+    },
+    {
+        "id": 4011,
+        "name": "中級技術ノート\n（レッドウィンター）",
+        "category": "Material"
+    },
+    {
+        "id": 4012,
+        "name": "上級技術ノート\n（レッドウィンター）",
+        "category": "Material"
+    },
+    {
+        "id": 4013,
+        "name": "最上級技術ノート\n（レッドウィンター）",
+        "category": "Material"
+    },
+    {
+        "id": 4020,
+        "name": "初級技術ノート\n（トリニティ）",
+        "category": "Material"
+    },
+    {
+        "id": 4021,
+        "name": "中級技術ノート\n（トリニティ）",
+        "category": "Material"
+    },
+    {
+        "id": 4022,
+        "name": "上級技術ノート\n（トリニティ）",
+        "category": "Material"
+    },
+    {
+        "id": 4023,
+        "name": "最上級技術ノート\n（トリニティ）",
+        "category": "Material"
+    },
+    {
+        "id": 4030,
+        "name": "初級技術ノート\n（ゲヘナ）",
+        "category": "Material"
+    },
+    {
+        "id": 4031,
+        "name": "中級技術ノート\n（ゲヘナ）",
+        "category": "Material"
+    },
+    {
+        "id": 4032,
+        "name": "上級技術ノート\n（ゲヘナ）",
+        "category": "Material"
+    },
+    {
+        "id": 4033,
+        "name": "最上級技術ノート\n（ゲヘナ）",
+        "category": "Material"
+    },
+    {
+        "id": 4040,
+        "name": "初級技術ノート\n（アビドス）",
+        "category": "Material"
+    },
+    {
+        "id": 4041,
+        "name": "中級技術ノート\n（アビドス）",
+        "category": "Material"
+    },
+    {
+        "id": 4042,
+        "name": "上級技術ノート\n（アビドス）",
+        "category": "Material"
+    },
+    {
+        "id": 4043,
+        "name": "最上級技術ノート\n（アビドス）",
+        "category": "Material"
+    },
+    {
+        "id": 4050,
+        "name": "初級技術ノート\n（ミレニアム）",
+        "category": "Material"
+    },
+    {
+        "id": 4051,
+        "name": "中級技術ノート\n（ミレニアム）",
+        "category": "Material"
+    },
+    {
+        "id": 4052,
+        "name": "上級技術ノート\n（ミレニアム）",
+        "category": "Material"
+    },
+    {
+        "id": 4053,
+        "name": "最上級技術ノート\n（ミレニアム）",
+        "category": "Material"
+    },
+    {
+        "id": 4060,
+        "name": "初級技術ノート\n（アリウス）",
+        "category": "Material"
+    },
+    {
+        "id": 4061,
+        "name": "中級技術ノート\n（アリウス）",
+        "category": "Material"
+    },
+    {
+        "id": 4062,
+        "name": "上級技術ノート\n（アリウス）",
+        "category": "Material"
+    },
+    {
+        "id": 4063,
+        "name": "最上級技術ノート\n（アリウス）",
+        "category": "Material"
+    },
+    {
+        "id": 4070,
+        "name": "初級技術ノート\n（山海経）",
+        "category": "Material"
+    },
+    {
+        "id": 4071,
+        "name": "中級技術ノート\n（山海経）",
+        "category": "Material"
+    },
+    {
+        "id": 4072,
+        "name": "上級技術ノート\n（山海経）",
+        "category": "Material"
+    },
+    {
+        "id": 4073,
+        "name": "最上級技術ノート\n（山海経）",
+        "category": "Material"
+    },
+    {
+        "id": 4080,
+        "name": "初級技術ノート\n（ヴァルキューレ）",
+        "category": "Material"
+    },
+    {
+        "id": 4081,
+        "name": "中級技術ノート\n（ヴァルキューレ）",
+        "category": "Material"
+    },
+    {
+        "id": 4082,
+        "name": "上級技術ノート\n（ヴァルキューレ）",
+        "category": "Material"
+    },
+    {
+        "id": 4083,
+        "name": "最上級技術ノート\n（ヴァルキューレ）",
+        "category": "Material"
+    },
+    {
+        "id": 5000,
+        "name": "ウェーブキャットの枕",
+        "category": "Favor"
+    },
+    {
+        "id": 5001,
+        "name": "ペロロの腹筋ローラー",
+        "category": "Favor"
+    },
+    {
+        "id": 5002,
+        "name": "エーポッドプロ",
+        "category": "Favor"
+    },
+    {
+        "id": 5003,
+        "name": "禁断の愛\n〜許されないからこそ美しく〜",
+        "category": "Favor"
+    },
+    {
+        "id": 5004,
+        "name": "ゲームマガジン\n「ヒットガールズ」",
+        "category": "Favor"
+    },
+    {
+        "id": 5005,
+        "name": "チェリーローズカラーのグロス",
+        "category": "Favor"
+    },
+    {
+        "id": 5006,
+        "name": "お肌を透明にするBBクリーム",
+        "category": "Favor"
+    },
+    {
+        "id": 5007,
+        "name": "ミリタリー用カモフラージュクリーム3種セット",
+        "category": "Favor"
+    },
+    {
+        "id": 5008,
+        "name": "高級なクッキーセット",
+        "category": "Favor"
+    },
+    {
+        "id": 5009,
+        "name": "『銃 可愛い 青春』",
+        "category": "Favor"
+    },
+    {
+        "id": 5010,
+        "name": "天体望遠鏡",
+        "category": "Favor"
+    },
+    {
+        "id": 5011,
+        "name": "ゲームガールカラー復刻版",
+        "category": "Favor"
+    },
+    {
+        "id": 5012,
+        "name": "MX-レーションC型デザート風味",
+        "category": "Favor"
+    },
+    {
+        "id": 5013,
+        "name": "抹茶味の瓶ラムネ",
+        "category": "Favor"
+    },
+    {
+        "id": 5014,
+        "name": "ゼリーズの枕",
+        "category": "Favor"
+    },
+    {
+        "id": 5015,
+        "name": "跳躍探偵ウサギ\n〜霧に包まれた温泉での滑落〜",
+        "category": "Favor"
+    },
+    {
+        "id": 5016,
+        "name": "O-フィット",
+        "category": "Favor"
+    },
+    {
+        "id": 5017,
+        "name": "埋蔵金の地図",
+        "category": "Favor"
+    },
+    {
+        "id": 5018,
+        "name": "コスプレ用ぐるぐるメガネ",
+        "category": "Favor"
+    },
+    {
+        "id": 5019,
+        "name": "世界で最も無駄な絡繰りボックス",
+        "category": "Favor"
+    },
+    {
+        "id": 5020,
+        "name": "リボンのついた熊のぬいぐるみ",
+        "category": "Favor"
+    },
+    {
+        "id": 5021,
+        "name": "映画の前売りペアチケット",
+        "category": "Favor"
+    },
+    {
+        "id": 5022,
+        "name": "30色の絵の具セット",
+        "category": "Favor"
+    },
+    {
+        "id": 5023,
+        "name": "古典の詩集",
+        "category": "Favor"
+    },
+    {
+        "id": 5024,
+        "name": "可愛い食器セット",
+        "category": "Favor"
+    },
+    {
+        "id": 5025,
+        "name": "頭脳開発キューブパズル",
+        "category": "Favor"
+    },
+    {
+        "id": 5026,
+        "name": "大きなホールケーキ",
+        "category": "Favor"
+    },
+    {
+        "id": 5027,
+        "name": "ハイクラスビュッフェ招待券",
+        "category": "Favor"
+    },
+    {
+        "id": 5028,
+        "name": "食虫植物の植木鉢",
+        "category": "Favor"
+    },
+    {
+        "id": 5029,
+        "name": "高級そうな欲望のつぼ",
+        "category": "Favor"
+    },
+    {
+        "id": 5030,
+        "name": "ぜんまい式オルゴール",
+        "category": "Favor"
+    },
+    {
+        "id": 5031,
+        "name": "刺繍付きのハンカチ",
+        "category": "Favor"
+    },
+    {
+        "id": 5032,
+        "name": "百科事典",
+        "category": "Favor"
+    },
+    {
+        "id": 5033,
+        "name": "ザ・サプリメント",
+        "category": "Favor"
+    },
+    {
+        "id": 5034,
+        "name": "夏模様の浮き輪",
+        "category": "Favor"
+    },
+    {
+        "id": 5100,
+        "name": "レースの枕",
+        "category": "Favor"
+    },
+    {
+        "id": 5101,
+        "name": "ストリートオブヤンキー1巻",
+        "category": "Favor"
+    },
+    {
+        "id": 5102,
+        "name": "サミュエラ「ザ・ビヨンド」",
+        "category": "Favor"
+    },
+    {
+        "id": 5103,
+        "name": "レトロな卵の工芸品",
+        "category": "Favor"
+    },
+    {
+        "id": 5104,
+        "name": "ミルフィーユの正統派パフェ",
+        "category": "Favor"
+    },
+    {
+        "id": 5105,
+        "name": "エイ～ブックレア",
+        "category": "Favor"
+    },
+    {
+        "id": 5106,
+        "name": "おしゃれなくし",
+        "category": "Favor"
+    },
+    {
+        "id": 5107,
+        "name": "栄養満載の総合ビタミンゼリー",
+        "category": "Favor"
+    },
+    {
+        "id": 5108,
+        "name": "最高級の楓の盆栽",
+        "category": "Favor"
+    },
+    {
+        "id": 5109,
+        "name": "裁縫キット",
+        "category": "Favor"
+    },
+    {
+        "id": 5110,
+        "name": "音楽演奏会入場券",
+        "category": "Favor"
+    },
+    {
+        "id": 5111,
+        "name": "1日3回ダンベルセット",
+        "category": "Favor"
+    },
+    {
+        "id": 5112,
+        "name": "ボードゲーム「ザ・人生」",
+        "category": "Favor"
+    },
+    {
+        "id": 5998,
+        "name": "初音ミクのフォトカード",
+        "category": "Favor"
+    },
+    {
+        "id": 5999,
+        "name": "きらめきの花束",
+        "category": "Favor"
+    },
+    {
+        "id": 6000,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6001,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6002,
+        "name": "★2生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6003,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6004,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6005,
+        "name": "★2生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6100,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6101,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6102,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6103,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6200,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6201,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6300,
+        "name": "★2生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6301,
+        "name": "★2生徒確定募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6400,
+        "name": "1回募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6401,
+        "name": "1回募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6500,
+        "name": "10回募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6501,
+        "name": "10回募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6502,
+        "name": "10回募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6503,
+        "name": "10回募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6504,
+        "name": "10回募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6600,
+        "name": "★3生徒確定募集チケット（攻撃タイプ別）",
+        "category": "Material"
+    },
+    {
+        "id": 6601,
+        "name": "★3生徒確定募集チケット（攻撃タイプ別）",
+        "category": "Material"
+    },
+    {
+        "id": 6602,
+        "name": "★3生徒確定募集チケット（攻撃タイプ別）",
+        "category": "Material"
+    },
+    {
+        "id": 6603,
+        "name": "★3生徒確定募集チケット（攻撃タイプ別）",
+        "category": "Material"
+    },
+    {
+        "id": 6998,
+        "name": "1回募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 6999,
+        "name": "10回募集チケット",
+        "category": "Material"
+    },
+    {
+        "id": 7000,
+        "name": "ミッションデータ1：TypeD ",
+        "category": "Coin"
+    },
+    {
+        "id": 7001,
+        "name": "ミッションデータ1：TypeD ",
+        "category": "Coin"
+    },
+    {
+        "id": 9998,
+        "name": "秘伝ノートの断片",
+        "category": "Material"
+    },
+    {
+        "id": 9999,
+        "name": "秘伝ノート",
+        "category": "Material"
+    },
+    {
+        "id": 10000,
+        "name": "アルの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10001,
+        "name": "エイミの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10002,
+        "name": "ハルナの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10003,
+        "name": "ヒフミの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10004,
+        "name": "ヒナの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10005,
+        "name": "ホシノの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10006,
+        "name": "イオリの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10007,
+        "name": "マキの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10008,
+        "name": "ネルの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10009,
+        "name": "イズミの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10010,
+        "name": "シロコの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10011,
+        "name": "シュンの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10012,
+        "name": "スミレの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10013,
+        "name": "ツルギの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10014,
+        "name": "イズナの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10015,
+        "name": "アリスの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10016,
+        "name": "ミドリの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10017,
+        "name": "チェリノの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10018,
+        "name": "ユズの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10019,
+        "name": "アズサの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10020,
+        "name": "コハルの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10021,
+        "name": "アズサ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10022,
+        "name": "ヒナ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10023,
+        "name": "イオリ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10024,
+        "name": "シロコ（ライディング）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10025,
+        "name": "シュン（幼女）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10026,
+        "name": "ネル（バニーガール）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10027,
+        "name": "カリン（バニーガール）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10028,
+        "name": "アスナ（バニーガール）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10029,
+        "name": "ナツの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10030,
+        "name": "チナツ（温泉）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10031,
+        "name": "アル（正月）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10032,
+        "name": "ムツキ（正月）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10033,
+        "name": "ワカモの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10034,
+        "name": "ミモリの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10035,
+        "name": "ウイの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10036,
+        "name": "ヒナタの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10037,
+        "name": "マリナの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10038,
+        "name": "ミヤコの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10039,
+        "name": "ミユの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10040,
+        "name": "ツクヨの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10041,
+        "name": "ミサキの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10042,
+        "name": "アツコの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10043,
+        "name": "ワカモ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10044,
+        "name": "ノノミ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10045,
+        "name": "ホシノ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10046,
+        "name": "イズナ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10047,
+        "name": "チセ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10048,
+        "name": "サオリの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10049,
+        "name": "カズサの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10050,
+        "name": "ココナの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10051,
+        "name": "ウタハ（応援団）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10052,
+        "name": "ノアの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10053,
+        "name": "ユウカ（体操服）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10054,
+        "name": "マリー（体操服）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10055,
+        "name": "シグレの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10056,
+        "name": "セリナ（クリスマス）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10057,
+        "name": "ハルナ（正月）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10058,
+        "name": "ミネの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10059,
+        "name": "ミカの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10060,
+        "name": "メグの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10061,
+        "name": "サクラコの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10062,
+        "name": "トキの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10063,
+        "name": "コユキの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10064,
+        "name": "カヨコ（正月）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10065,
+        "name": "カホの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10066,
+        "name": "アリス（メイド）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10067,
+        "name": "トキ（バニーガール）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10068,
+        "name": "レイサの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10069,
+        "name": "ルミの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10070,
+        "name": "ミナの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10071,
+        "name": "ミヤコ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10072,
+        "name": "サキ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13000,
+        "name": "アカネの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13001,
+        "name": "チセの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13002,
+        "name": "アカリの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13003,
+        "name": "ハスミの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13004,
+        "name": "ノノミの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13005,
+        "name": "カヨコの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13006,
+        "name": "ムツキの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13007,
+        "name": "ジュンコの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13008,
+        "name": "セリカの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13009,
+        "name": "ツバキの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13010,
+        "name": "ユウカの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13011,
+        "name": "モモイの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13012,
+        "name": "キリノの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16000,
+        "name": "ハルカの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16001,
+        "name": "アスナの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16002,
+        "name": "コトリの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16003,
+        "name": "スズミの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16004,
+        "name": "フィーナの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16005,
+        "name": "ツルギ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16006,
+        "name": "イズミ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16007,
+        "name": "トモエの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16008,
+        "name": "フブキの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16009,
+        "name": "ミチルの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16010,
+        "name": "ヒビキ（応援団）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16011,
+        "name": "ハスミ（体操服）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16012,
+        "name": "ジュンコ（正月）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20000,
+        "name": "ヒビキの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20001,
+        "name": "カリンの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20002,
+        "name": "サヤの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20003,
+        "name": "マシロの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20004,
+        "name": "マシロ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20005,
+        "name": "ヒフミ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20006,
+        "name": "サヤ（私服）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20007,
+        "name": "初音ミクの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20008,
+        "name": "アコの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20009,
+        "name": "チェリノ（温泉）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20010,
+        "name": "ノドカ（温泉）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20011,
+        "name": "セリカ（正月）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20012,
+        "name": "セナの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20013,
+        "name": "チヒロの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20014,
+        "name": "サキの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20015,
+        "name": "カエデの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20016,
+        "name": "イロハの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20017,
+        "name": "ヒヨリの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20018,
+        "name": "モエの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20019,
+        "name": "アカネ（バニーガール）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20020,
+        "name": "ヒマリの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20021,
+        "name": "ハナエ（クリスマス）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20022,
+        "name": "フウカ（正月）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20023,
+        "name": "カンナの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20024,
+        "name": "ナギサの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20025,
+        "name": "ハルカ（正月）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20026,
+        "name": "ミノリの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20027,
+        "name": "",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23000,
+        "name": "アイリの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23001,
+        "name": "フウカの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23002,
+        "name": "ハナエの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23003,
+        "name": "ハレの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23004,
+        "name": "ウタハの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23005,
+        "name": "アヤネの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23006,
+        "name": "シズコの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23007,
+        "name": "ハナコの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23008,
+        "name": "マリーの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26000,
+        "name": "チナツの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26001,
+        "name": "コタマの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26002,
+        "name": "ジュリの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26003,
+        "name": "セリナの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26004,
+        "name": "シミコの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26005,
+        "name": "ヨシミの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26006,
+        "name": "ノドカの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26007,
+        "name": "アヤネ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26008,
+        "name": "シズコ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26009,
+        "name": "ユズ（メイド）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26010,
+        "name": "ミユ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 30000,
+        "name": "初級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30001,
+        "name": "中級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30002,
+        "name": "上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30003,
+        "name": "最上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30010,
+        "name": "初級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30011,
+        "name": "中級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30012,
+        "name": "上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30013,
+        "name": "最上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30014,
+        "name": "初級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30015,
+        "name": "中級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30016,
+        "name": "上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30017,
+        "name": "最上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30018,
+        "name": "初級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30019,
+        "name": "中級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30020,
+        "name": "上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 30021,
+        "name": "最上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40000,
+        "name": "初級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40001,
+        "name": "中級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40002,
+        "name": "上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40003,
+        "name": "最上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40010,
+        "name": "初級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40011,
+        "name": "中級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40012,
+        "name": "上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40013,
+        "name": "最上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40014,
+        "name": "初級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40015,
+        "name": "中級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40016,
+        "name": "上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40017,
+        "name": "最上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40018,
+        "name": "初級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40019,
+        "name": "中級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40020,
+        "name": "上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 40021,
+        "name": "最上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 50000,
+        "name": "初級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 50001,
+        "name": "中級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 50002,
+        "name": "上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 50003,
+        "name": "最上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 50004,
+        "name": "初級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 50005,
+        "name": "中級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 50006,
+        "name": "上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 50007,
+        "name": "最上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 60000,
+        "name": "初級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 60001,
+        "name": "中級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 60002,
+        "name": "上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 60003,
+        "name": "最上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 60004,
+        "name": "初級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 60005,
+        "name": "中級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 60006,
+        "name": "上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 60007,
+        "name": "最上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 60008,
+        "name": "初級技術ノート\n（ゲヘナ）",
+        "category": "Consumable"
+    },
+    {
+        "id": 60009,
+        "name": "初級技術ノート\n（ゲヘナ）",
+        "category": "Consumable"
+    },
+    {
+        "id": 60010,
+        "name": "初級技術ノート\n（アビドス）",
+        "category": "Consumable"
+    },
+    {
+        "id": 60011,
+        "name": "初級技術ノート\n（アビドス）",
+        "category": "Consumable"
+    },
+    {
+        "id": 60012,
+        "name": "初級技術ノート\n（ミレニアム）",
+        "category": "Consumable"
+    },
+    {
+        "id": 60013,
+        "name": "初級技術ノート\n（ミレニアム）",
+        "category": "Consumable"
+    },
+    {
+        "id": 60014,
+        "name": "初級技術ノート\n（トリニティ）",
+        "category": "Consumable"
+    },
+    {
+        "id": 60015,
+        "name": "初級技術ノート\n（トリニティ）",
+        "category": "Consumable"
+    },
+    {
+        "id": 60016,
+        "name": "初級技術ノート\n（レッドウィンター）",
+        "category": "Consumable"
+    },
+    {
+        "id": 60017,
+        "name": "初級技術ノート\n（レッドウィンター）",
+        "category": "Consumable"
+    },
+    {
+        "id": 60018,
+        "name": "初級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 70000,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70001,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70002,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70003,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70004,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70005,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70006,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70007,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70008,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70009,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70010,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70011,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70012,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70013,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70014,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70015,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70016,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70017,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70018,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70019,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70020,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70021,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70022,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70023,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70024,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70025,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70026,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70027,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70028,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70029,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70030,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70031,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70032,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70033,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70034,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70035,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70036,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70037,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70038,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70039,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70040,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70041,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70042,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70043,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70044,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70045,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70046,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70047,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70048,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70049,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70050,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70051,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70052,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70053,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70054,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70055,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70056,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70057,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70058,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70059,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70060,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70061,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70062,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70063,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70064,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70065,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70066,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70067,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70068,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70069,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70070,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70071,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70072,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70073,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70074,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70075,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70076,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70077,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70078,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70079,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70080,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70081,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70082,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70083,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70084,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70085,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 79999,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 80000,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 80001,
+        "name": "キツネせんべい",
+        "category": "Coin"
+    },
+    {
+        "id": 80002,
+        "name": "タヌキ印のお好み焼き",
+        "category": "Coin"
+    },
+    {
+        "id": 80003,
+        "name": "サクラ大福",
+        "category": "Coin"
+    },
+    {
+        "id": 80010,
+        "name": "チェリノマトリョーシカ",
+        "category": "Coin"
+    },
+    {
+        "id": 80011,
+        "name": "チェリノ印のチョコレート",
+        "category": "Coin"
+    },
+    {
+        "id": 80012,
+        "name": "おひげクレープ",
+        "category": "Coin"
+    },
+    {
+        "id": 80013,
+        "name": "勇猛髭勲章",
+        "category": "Coin"
+    },
+    {
+        "id": 80020,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 80021,
+        "name": "ビーチボール",
+        "category": "Coin"
+    },
+    {
+        "id": 80022,
+        "name": "海の家の食券",
+        "category": "Coin"
+    },
+    {
+        "id": 80023,
+        "name": "ミニロケット花火",
+        "category": "Coin"
+    },
+    {
+        "id": 80024,
+        "name": "クーラーボックス",
+        "category": "Collectible"
+    },
+    {
+        "id": 80025,
+        "name": "砂遊びセット",
+        "category": "Collectible"
+    },
+    {
+        "id": 80026,
+        "name": "ビーチチェア",
+        "category": "Collectible"
+    },
+    {
+        "id": 80027,
+        "name": "パラソルテーブル",
+        "category": "Collectible"
+    },
+    {
+        "id": 80028,
+        "name": "ビーチグッズ",
+        "category": "Collectible"
+    },
+    {
+        "id": 80029,
+        "name": "セーリングボート",
+        "category": "Collectible"
+    },
+    {
+        "id": 80030,
+        "name": "ゲヘナ印の補給ボックス",
+        "category": "Coin"
+    },
+    {
+        "id": 80031,
+        "name": "美食研究会の焼きトウモロコシ",
+        "category": "Coin"
+    },
+    {
+        "id": 80032,
+        "name": "夏のスケバンサングラス",
+        "category": "Coin"
+    },
+    {
+        "id": 80033,
+        "name": "びしょびしょヘルメット",
+        "category": "Coin"
+    },
+    {
+        "id": 80040,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 80041,
+        "name": "コウラ茸",
+        "category": "Coin"
+    },
+    {
+        "id": 80042,
+        "name": "クロ筍",
+        "category": "Coin"
+    },
+    {
+        "id": 80043,
+        "name": "ヒトガタ人蔘",
+        "category": "Coin"
+    },
+    {
+        "id": 80050,
+        "name": "チョコレートコイン",
+        "category": "Coin"
+    },
+    {
+        "id": 80051,
+        "name": "ウサギのステッカー",
+        "category": "Coin"
+    },
+    {
+        "id": 80052,
+        "name": "乗船チケット",
+        "category": "Coin"
+    },
+    {
+        "id": 80053,
+        "name": "サイコロ",
+        "category": "Coin"
+    },
+    {
+        "id": 80060,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 80061,
+        "name": "温泉タオル",
+        "category": "Coin"
+    },
+    {
+        "id": 80062,
+        "name": "おひげシャンプー",
+        "category": "Coin"
+    },
+    {
+        "id": 80063,
+        "name": "カピバラ型の入浴剤",
+        "category": "Coin"
+    },
+    {
+        "id": 80070,
+        "name": "福袋",
+        "category": "Coin"
+    },
+    {
+        "id": 80071,
+        "name": "ペロロ餅",
+        "category": "Coin"
+    },
+    {
+        "id": 80072,
+        "name": "黒亀組の絵馬",
+        "category": "Coin"
+    },
+    {
+        "id": 80073,
+        "name": "おみくじ引換券",
+        "category": "Coin"
+    },
+    {
+        "id": 80080,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 80081,
+        "name": "問題児の反省文",
+        "category": "Coin"
+    },
+    {
+        "id": 80082,
+        "name": "押収された違法駄菓子",
+        "category": "Coin"
+    },
+    {
+        "id": 80083,
+        "name": "環境美化活動用ゴミ袋",
+        "category": "Coin"
+    },
+    {
+        "id": 80084,
+        "name": "バレンタインデーのお誘い",
+        "category": "Coin"
+    },
+    {
+        "id": 80090,
+        "name": "ワカモの逮捕状",
+        "category": "Coin"
+    },
+    {
+        "id": 80100,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 80101,
+        "name": "シスターフッドのヴェール",
+        "category": "Coin"
+    },
+    {
+        "id": 80102,
+        "name": "トリニティの聖歌集",
+        "category": "Coin"
+    },
+    {
+        "id": 80103,
+        "name": "トリニティの燭台",
+        "category": "Coin"
+    },
+    {
+        "id": 80110,
+        "name": "ムシクイーンのカードパック",
+        "category": "Coin"
+    },
+    {
+        "id": 80111,
+        "name": "交流会のチラシ",
+        "category": "Coin"
+    },
+    {
+        "id": 80112,
+        "name": "和楽姫のうちわ",
+        "category": "Coin"
+    },
+    {
+        "id": 80113,
+        "name": "ニンペロさんグッズ",
+        "category": "Coin"
+    },
+    {
+        "id": 80120,
+        "name": "資材ボックス",
+        "category": "Coin"
+    },
+    {
+        "id": 80130,
+        "name": "地域通貨",
+        "category": "Coin"
+    },
+    {
+        "id": 80131,
+        "name": "百夜堂キラキラコイン",
+        "category": "Coin"
+    },
+    {
+        "id": 80132,
+        "name": "ツルツルサザエ",
+        "category": "Coin"
+    },
+    {
+        "id": 80133,
+        "name": "夏用忍法図鑑巻物",
+        "category": "Coin"
+    },
+    {
+        "id": 80134,
+        "name": "深海温泉島リゾート使用権",
+        "category": "Coin"
+    },
+    {
+        "id": 80135,
+        "name": "ムシクイーンクルーズリゾート使用権",
+        "category": "Coin"
+    },
+    {
+        "id": 80136,
+        "name": "超豪華リゾート使用権",
+        "category": "Coin"
+    },
+    {
+        "id": 80140,
+        "name": "スイーツクーポン",
+        "category": "Coin"
+    },
+    {
+        "id": 80141,
+        "name": "ミントチョコパフェ",
+        "category": "Coin"
+    },
+    {
+        "id": 80142,
+        "name": "マカロン",
+        "category": "Coin"
+    },
+    {
+        "id": 80143,
+        "name": "ロールウエハース",
+        "category": "Coin"
+    },
+    {
+        "id": 80150,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 80151,
+        "name": "お手玉",
+        "category": "Coin"
+    },
+    {
+        "id": 80152,
+        "name": "ミレニアムの旗",
+        "category": "Coin"
+    },
+    {
+        "id": 80153,
+        "name": "ホイッスル",
+        "category": "Coin"
+    },
+    {
+        "id": 80160,
+        "name": "スポーツドリンク",
+        "category": "Coin"
+    },
+    {
+        "id": 80161,
+        "name": "リレー用バトン",
+        "category": "Coin"
+    },
+    {
+        "id": 80162,
+        "name": "あんぱん",
+        "category": "Coin"
+    },
+    {
+        "id": 80163,
+        "name": "案内パンフレット",
+        "category": "Coin"
+    },
+    {
+        "id": 80170,
+        "name": "クリスマスプレゼント",
+        "category": "Coin"
+    },
+    {
+        "id": 80171,
+        "name": "クリスマスソックス",
+        "category": "Coin"
+    },
+    {
+        "id": 80172,
+        "name": "キャンディケイン",
+        "category": "Coin"
+    },
+    {
+        "id": 80173,
+        "name": "エッグノッグ",
+        "category": "Coin"
+    },
+    {
+        "id": 80180,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 80181,
+        "name": "紅白かまぼこ",
+        "category": "Coin"
+    },
+    {
+        "id": 80182,
+        "name": "おめでタイ",
+        "category": "Coin"
+    },
+    {
+        "id": 80183,
+        "name": "おみくじ引換券",
+        "category": "Coin"
+    },
+    {
+        "id": 80200,
+        "name": "多次元演算回路",
+        "category": "Coin"
+    },
+    {
+        "id": 80201,
+        "name": "次元エンジン付属品",
+        "category": "Coin"
+    },
+    {
+        "id": 80202,
+        "name": "宇宙チョコバーガー",
+        "category": "Coin"
+    },
+    {
+        "id": 80203,
+        "name": "ゲートアンロックコード - 外郭2区",
+        "category": "Coin"
+    },
+    {
+        "id": 80204,
+        "name": "ゲートアンロックコード - 外郭3区",
+        "category": "Coin"
+    },
+    {
+        "id": 80205,
+        "name": "ゲートアンロックコード - 中央区",
+        "category": "Coin"
+    },
+    {
+        "id": 80220,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 80221,
+        "name": "連邦生徒会の安全帽",
+        "category": "Coin"
+    },
+    {
+        "id": 80222,
+        "name": "財務諸表",
+        "category": "Coin"
+    },
+    {
+        "id": 80223,
+        "name": "めんたいポテチ",
+        "category": "Coin"
+    },
+    {
+        "id": 80230,
+        "name": "きれいなカチューシャ",
+        "category": "Coin"
+    },
+    {
+        "id": 80231,
+        "name": "メイクアップセット",
+        "category": "Coin"
+    },
+    {
+        "id": 80232,
+        "name": "屋敷への招待状",
+        "category": "Coin"
+    },
+    {
+        "id": 80240,
+        "name": "カードセット",
+        "category": "Coin"
+    },
+    {
+        "id": 80241,
+        "name": "玄武商会の食券",
+        "category": "Coin"
+    },
+    {
+        "id": 80242,
+        "name": "玄龍門バッジ",
+        "category": "Coin"
+    },
+    {
+        "id": 80243,
+        "name": "溶媒抽出セット",
+        "category": "Coin"
+    },
+    {
+        "id": 80250,
+        "name": "高級万年筆",
+        "category": "Coin"
+    },
+    {
+        "id": 80260,
+        "name": "冷凍エビ",
+        "category": "Coin"
+    },
+    {
+        "id": 80261,
+        "name": "小石",
+        "category": "Coin"
+    },
+    {
+        "id": 80262,
+        "name": "貝殻",
+        "category": "Coin"
+    },
+    {
+        "id": 80263,
+        "name": "乾いたヒトデ",
+        "category": "Coin"
+    },
+    {
+        "id": 80264,
+        "name": "サイコロ確定券",
+        "category": "Consumable"
+    },
+    {
+        "id": 80265,
+        "name": "サイコロ1確定券",
+        "category": "Coin"
+    },
+    {
+        "id": 80266,
+        "name": "サイコロ2確定券",
+        "category": "Coin"
+    },
+    {
+        "id": 80267,
+        "name": "サイコロ3確定券",
+        "category": "Coin"
+    },
+    {
+        "id": 80268,
+        "name": "サイコロ4確定券",
+        "category": "Coin"
+    },
+    {
+        "id": 80269,
+        "name": "サイコロ5確定券",
+        "category": "Coin"
+    },
+    {
+        "id": 80270,
+        "name": "サイコロ6確定券",
+        "category": "Coin"
+    },
+    {
+        "id": 80280,
+        "name": "高級万年筆",
+        "category": "Coin"
+    },
+    {
+        "id": 85000,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 85001,
+        "name": "キツネせんべい",
+        "category": "Coin"
+    },
+    {
+        "id": 85002,
+        "name": "タヌキ印のお好み焼き",
+        "category": "Coin"
+    },
+    {
+        "id": 85003,
+        "name": "サクラ大福",
+        "category": "Coin"
+    },
+    {
+        "id": 85010,
+        "name": "チェリノマトリョーシカ",
+        "category": "Coin"
+    },
+    {
+        "id": 85011,
+        "name": "チェリノ印のチョコレート",
+        "category": "Coin"
+    },
+    {
+        "id": 85012,
+        "name": "おひげクレープ",
+        "category": "Coin"
+    },
+    {
+        "id": 85013,
+        "name": "勇猛髭勲章",
+        "category": "Coin"
+    },
+    {
+        "id": 85020,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 85021,
+        "name": "ビーチボール",
+        "category": "Coin"
+    },
+    {
+        "id": 85022,
+        "name": "海の家の食券",
+        "category": "Coin"
+    },
+    {
+        "id": 85023,
+        "name": "ミニロケット花火",
+        "category": "Coin"
+    },
+    {
+        "id": 85024,
+        "name": "クーラーボックス",
+        "category": "Collectible"
+    },
+    {
+        "id": 85025,
+        "name": "砂遊びセット",
+        "category": "Collectible"
+    },
+    {
+        "id": 85026,
+        "name": "ビーチチェア",
+        "category": "Collectible"
+    },
+    {
+        "id": 85027,
+        "name": "パラソルテーブル",
+        "category": "Collectible"
+    },
+    {
+        "id": 85028,
+        "name": "ビーチグッズ",
+        "category": "Collectible"
+    },
+    {
+        "id": 85029,
+        "name": "セーリングボート",
+        "category": "Collectible"
+    },
+    {
+        "id": 85030,
+        "name": "ゲヘナ印の補給ボックス",
+        "category": "Coin"
+    },
+    {
+        "id": 85031,
+        "name": "美食研究会の焼きトウモロコシ",
+        "category": "Coin"
+    },
+    {
+        "id": 85032,
+        "name": "夏のスケバンサングラス",
+        "category": "Coin"
+    },
+    {
+        "id": 85033,
+        "name": "びしょびしょヘルメット",
+        "category": "Coin"
+    },
+    {
+        "id": 85040,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 85041,
+        "name": "コウラ茸",
+        "category": "Coin"
+    },
+    {
+        "id": 85042,
+        "name": "クロ筍",
+        "category": "Coin"
+    },
+    {
+        "id": 85043,
+        "name": "ヒトガタ人蔘",
+        "category": "Coin"
+    },
+    {
+        "id": 85050,
+        "name": "チョコレートコイン",
+        "category": "Coin"
+    },
+    {
+        "id": 85051,
+        "name": "ウサギのステッカー",
+        "category": "Coin"
+    },
+    {
+        "id": 85052,
+        "name": "乗船チケット",
+        "category": "Coin"
+    },
+    {
+        "id": 85053,
+        "name": "サイコロ",
+        "category": "Coin"
+    },
+    {
+        "id": 85060,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 85061,
+        "name": "温泉タオル",
+        "category": "Coin"
+    },
+    {
+        "id": 85062,
+        "name": "おひげシャンプー",
+        "category": "Coin"
+    },
+    {
+        "id": 85063,
+        "name": "カピバラ型の入浴剤",
+        "category": "Coin"
+    },
+    {
+        "id": 85070,
+        "name": "福袋",
+        "category": "Coin"
+    },
+    {
+        "id": 85071,
+        "name": "ペロロ餅",
+        "category": "Coin"
+    },
+    {
+        "id": 85072,
+        "name": "黒亀組の絵馬",
+        "category": "Coin"
+    },
+    {
+        "id": 85073,
+        "name": "おみくじ引換券",
+        "category": "Coin"
+    },
+    {
+        "id": 85080,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 85081,
+        "name": "問題児の反省文",
+        "category": "Coin"
+    },
+    {
+        "id": 85082,
+        "name": "押収された違法駄菓子",
+        "category": "Coin"
+    },
+    {
+        "id": 85083,
+        "name": "環境美化活動用ゴミ袋",
+        "category": "Coin"
+    },
+    {
+        "id": 85084,
+        "name": "バレンタインデーのお誘い",
+        "category": "Coin"
+    },
+    {
+        "id": 85090,
+        "name": "ワカモの逮捕状",
+        "category": "Coin"
+    },
+    {
+        "id": 85100,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 85101,
+        "name": "シスターフッドのヴェール",
+        "category": "Coin"
+    },
+    {
+        "id": 85102,
+        "name": "トリニティの聖歌集",
+        "category": "Coin"
+    },
+    {
+        "id": 85103,
+        "name": "トリニティの燭台",
+        "category": "Coin"
+    },
+    {
+        "id": 85110,
+        "name": "ムシクイーンのカードパック",
+        "category": "Coin"
+    },
+    {
+        "id": 85111,
+        "name": "交流会のチラシ",
+        "category": "Coin"
+    },
+    {
+        "id": 85112,
+        "name": "和楽姫のうちわ",
+        "category": "Coin"
+    },
+    {
+        "id": 85113,
+        "name": "ニンペロさんグッズ",
+        "category": "Coin"
+    },
+    {
+        "id": 85120,
+        "name": "資材ボックス",
+        "category": "Coin"
+    },
+    {
+        "id": 85130,
+        "name": "地域通貨",
+        "category": "Coin"
+    },
+    {
+        "id": 85131,
+        "name": "百夜堂キラキラコイン",
+        "category": "Coin"
+    },
+    {
+        "id": 85132,
+        "name": "ツルツルサザエ",
+        "category": "Coin"
+    },
+    {
+        "id": 85133,
+        "name": "夏用忍法図鑑巻物",
+        "category": "Coin"
+    },
+    {
+        "id": 85134,
+        "name": "深海温泉島リゾート使用権",
+        "category": "Coin"
+    },
+    {
+        "id": 85135,
+        "name": "ムシクイーンクルーズリゾート使用権",
+        "category": "Coin"
+    },
+    {
+        "id": 85136,
+        "name": "超豪華リゾート使用権",
+        "category": "Coin"
+    },
+    {
+        "id": 85140,
+        "name": "スイーツクーポン",
+        "category": "Coin"
+    },
+    {
+        "id": 85141,
+        "name": "ミントチョコパフェ",
+        "category": "Coin"
+    },
+    {
+        "id": 85142,
+        "name": "マカロン",
+        "category": "Coin"
+    },
+    {
+        "id": 85143,
+        "name": "ロールウエハース",
+        "category": "Coin"
+    },
+    {
+        "id": 90000,
+        "name": "エリア固有スペシャルボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 99999,
+        "name": "秘密報酬",
+        "category": "Consumable"
+    },
+    {
+        "id": 100000,
+        "name": "贈り物ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100001,
+        "name": "家具ボックス（☆3）",
+        "category": "Consumable"
+    },
+    {
+        "id": 100002,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100003,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100004,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100005,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100006,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100007,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100008,
+        "name": "贈り物選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100009,
+        "name": "高級贈り物ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100010,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100011,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100012,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100013,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100014,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100015,
+        "name": "初級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100016,
+        "name": "中級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100017,
+        "name": "上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100018,
+        "name": "最上級戦術教育BDボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100019,
+        "name": "初級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100020,
+        "name": "中級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100021,
+        "name": "上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100022,
+        "name": "最上級技術ノートボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100023,
+        "name": "オーパーツ（1）抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100024,
+        "name": "オーパーツ（2）抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100025,
+        "name": "オーパーツ（3）抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100026,
+        "name": "オーパーツ（4）抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100027,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 100028,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 110000,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 110001,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 110002,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 110003,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 110004,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 110005,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 110006,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 120000,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150000,
+        "name": "初級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150001,
+        "name": "中級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150002,
+        "name": "上級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150003,
+        "name": "最上級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150004,
+        "name": "初級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150005,
+        "name": "中級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150006,
+        "name": "上級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150007,
+        "name": "最上級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150008,
+        "name": "オーパーツ（１）選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150009,
+        "name": "オーパーツ（２）選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150010,
+        "name": "オーパーツ（３）選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150011,
+        "name": "オーパーツ（４）選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150012,
+        "name": "初級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150013,
+        "name": "中級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150014,
+        "name": "上級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150015,
+        "name": "最上級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150016,
+        "name": "初級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150017,
+        "name": "中級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150018,
+        "name": "上級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150019,
+        "name": "最上級技術ノート選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150020,
+        "name": "初級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150021,
+        "name": "中級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150022,
+        "name": "上級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150023,
+        "name": "最上級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150024,
+        "name": "初級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150025,
+        "name": "中級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150026,
+        "name": "上級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150027,
+        "name": "最上級戦術教育BD選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150028,
+        "name": "T2装備設計図選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150029,
+        "name": "T3装備設計図選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150030,
+        "name": "T4装備設計図選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150031,
+        "name": "T5装備設計図選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150032,
+        "name": "T6装備設計図選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150033,
+        "name": "T7装備設計図選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150034,
+        "name": "オーパーツ（１）選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150035,
+        "name": "オーパーツ（２）選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150036,
+        "name": "オーパーツ（３）選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150037,
+        "name": "オーパーツ（４）選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 150038,
+        "name": "家具選択ボックス（青）",
+        "category": "Consumable"
+    },
+    {
+        "id": 150039,
+        "name": "家具選択ボックス（橙）",
+        "category": "Consumable"
+    },
+    {
+        "id": 150040,
+        "name": "家具選択ボックス（紫）",
+        "category": "Consumable"
+    },
+    {
+        "id": 151000,
+        "name": "ノーマル家具シリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151001,
+        "name": "モモフレンズカフェシリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151002,
+        "name": "ゼリーズゲーセンシリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151003,
+        "name": "バレンタインシリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151004,
+        "name": "サマーリゾートシリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151005,
+        "name": "ハロウィーンカフェシリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151006,
+        "name": "伝統的な温泉郷シリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151007,
+        "name": "お正月シリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151008,
+        "name": "ミリタリーアウトドアシリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151009,
+        "name": "ビーチサイドシリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151010,
+        "name": "大運動会シリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151011,
+        "name": "アビドス教室シリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151012,
+        "name": "ゲーム開発部シリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 151991,
+        "name": "家具選択ボックス（青）",
+        "category": "Consumable"
+    },
+    {
+        "id": 151992,
+        "name": "家具選択ボックス（橙）",
+        "category": "Consumable"
+    },
+    {
+        "id": 151993,
+        "name": "家具選択ボックス（紫）",
+        "category": "Consumable"
+    },
+    {
+        "id": 151999,
+        "name": "その他シリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 160000,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160001,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160002,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160003,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160004,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160005,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160006,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160007,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160008,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160009,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160010,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160011,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160012,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160013,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160014,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160015,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 160016,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin"
+    },
+    {
+        "id": 180000,
+        "name": "スイートチョコポテトチップス",
+        "category": "Collectible"
+    },
+    {
+        "id": 180001,
+        "name": "エンジェルチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180002,
+        "name": "お徳用チョコレートパック",
+        "category": "Collectible"
+    },
+    {
+        "id": 180003,
+        "name": "アロナのチョコジンジャークッキー",
+        "category": "Collectible"
+    },
+    {
+        "id": 180004,
+        "name": "バレンタインペロロ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180005,
+        "name": "レーションD型",
+        "category": "Collectible"
+    },
+    {
+        "id": 180006,
+        "name": "ハッピーホットチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180007,
+        "name": "ショコラ・デ・ゲヘナ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180008,
+        "name": "大量の板チョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180009,
+        "name": "チョコ団子",
+        "category": "Collectible"
+    },
+    {
+        "id": 180010,
+        "name": "デス·ラブ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180011,
+        "name": "ライダーの間食",
+        "category": "Collectible"
+    },
+    {
+        "id": 180012,
+        "name": "海のお友達",
+        "category": "Collectible"
+    },
+    {
+        "id": 180013,
+        "name": "砂漠のバラ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180014,
+        "name": "ヴィーナスのチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180015,
+        "name": "盗聴装置14号",
+        "category": "Collectible"
+    },
+    {
+        "id": 180016,
+        "name": "缶のホットココア",
+        "category": "Collectible"
+    },
+    {
+        "id": 180017,
+        "name": "パヴェ・チョコレート（領収書付き）",
+        "category": "Collectible"
+    },
+    {
+        "id": 180018,
+        "name": "勇者のチョコレート（アイテム）",
+        "category": "Collectible"
+    },
+    {
+        "id": 180019,
+        "name": "手作りチョコスネイル",
+        "category": "Collectible"
+    },
+    {
+        "id": 180020,
+        "name": "妖怪MAXチョコレート味",
+        "category": "Collectible"
+    },
+    {
+        "id": 180021,
+        "name": "チョコ味のスプレー",
+        "category": "Collectible"
+    },
+    {
+        "id": 180022,
+        "name": "チョコレート砲弾Mk.2",
+        "category": "Collectible"
+    },
+    {
+        "id": 180023,
+        "name": "チョコレートネジ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180024,
+        "name": "チェリョンカ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180025,
+        "name": "改良型チェリョンカ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180026,
+        "name": "カカオの実",
+        "category": "Collectible"
+    },
+    {
+        "id": 180027,
+        "name": "不老不死の霊薬(失敗作)",
+        "category": "Collectible"
+    },
+    {
+        "id": 180028,
+        "name": "大人のラムボンボン",
+        "category": "Collectible"
+    },
+    {
+        "id": 180029,
+        "name": "チョコレート手錠",
+        "category": "Collectible"
+    },
+    {
+        "id": 180030,
+        "name": "特製チョコクルーラー",
+        "category": "Collectible"
+    },
+    {
+        "id": 180031,
+        "name": "チョコ埴輪",
+        "category": "Collectible"
+    },
+    {
+        "id": 180032,
+        "name": "リトル·ブレット",
+        "category": "Collectible"
+    },
+    {
+        "id": 180033,
+        "name": "ヒナの手作りチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180034,
+        "name": "あなたのための一口の休息",
+        "category": "Collectible"
+    },
+    {
+        "id": 180035,
+        "name": "すごく！おいしい！！チョコレート！！！",
+        "category": "Collectible"
+    },
+    {
+        "id": 180036,
+        "name": "社長の最高級チョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180037,
+        "name": "地獄のロシアンルーレット",
+        "category": "Collectible"
+    },
+    {
+        "id": 180038,
+        "name": "ココアが入ったマグカップ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180039,
+        "name": "ジュリの手作りチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180040,
+        "name": "共にする時間",
+        "category": "Collectible"
+    },
+    {
+        "id": 180041,
+        "name": "おやつ担当のお仕事",
+        "category": "Collectible"
+    },
+    {
+        "id": 180042,
+        "name": "選りすぐりの一品",
+        "category": "Collectible"
+    },
+    {
+        "id": 180043,
+        "name": "カシオペアの拳～ウーパールーパー大列伝～",
+        "category": "Collectible"
+    },
+    {
+        "id": 180044,
+        "name": "ミドリの手作りチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180045,
+        "name": "四字熟語チョコ煎餅",
+        "category": "Collectible"
+    },
+    {
+        "id": 180046,
+        "name": "百夜堂の限定スイーツ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180047,
+        "name": "特製忍者グッズ49番「チョコレートセット」",
+        "category": "Collectible"
+    },
+    {
+        "id": 180048,
+        "name": "安眠チョコレートと安眠グッズセット",
+        "category": "Collectible"
+    },
+    {
+        "id": 180049,
+        "name": "ワカモの愛がこもったチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180050,
+        "name": "美食の証明（抹茶味）",
+        "category": "Collectible"
+    },
+    {
+        "id": 180051,
+        "name": "バレンタインの聖者スカルマン",
+        "category": "Collectible"
+    },
+    {
+        "id": 180052,
+        "name": "ラブリー·クロスライン",
+        "category": "Collectible"
+    },
+    {
+        "id": 180053,
+        "name": "トゥインクルスター",
+        "category": "Collectible"
+    },
+    {
+        "id": 180054,
+        "name": "ホーリー・チョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180055,
+        "name": "本のお友",
+        "category": "Collectible"
+    },
+    {
+        "id": 180056,
+        "name": "ビー·ウィズ·ユー",
+        "category": "Collectible"
+    },
+    {
+        "id": 180057,
+        "name": "ペニーロイヤルチョコミント",
+        "category": "Collectible"
+    },
+    {
+        "id": 180058,
+        "name": "ヨシミの限定チョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180059,
+        "name": "言葉よりチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180060,
+        "name": "フォーチュンチョコレート（自作）",
+        "category": "Collectible"
+    },
+    {
+        "id": 180061,
+        "name": "バンデージチョコ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180062,
+        "name": "カカオ99.99%",
+        "category": "Collectible"
+    },
+    {
+        "id": 180063,
+        "name": "ツイステッドバレンタイン",
+        "category": "Collectible"
+    },
+    {
+        "id": 180064,
+        "name": "メイド·バイ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180065,
+        "name": "チョコオムライス",
+        "category": "Collectible"
+    },
+    {
+        "id": 180066,
+        "name": "チョコレート版画：竜",
+        "category": "Collectible"
+    },
+    {
+        "id": 180067,
+        "name": "バレンタイン·ビギニング",
+        "category": "Collectible"
+    },
+    {
+        "id": 180068,
+        "name": "甘い杯",
+        "category": "Collectible"
+    },
+    {
+        "id": 180069,
+        "name": "アマンド·クリムゾン",
+        "category": "Collectible"
+    },
+    {
+        "id": 180070,
+        "name": "不器用な手作りチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180071,
+        "name": "小さなショコラ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180072,
+        "name": "しっとりめのチョコクッキー",
+        "category": "Collectible"
+    },
+    {
+        "id": 180073,
+        "name": "苺のチョコケーキ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180074,
+        "name": "オール・トゥ・ユー",
+        "category": "Collectible"
+    },
+    {
+        "id": 180075,
+        "name": "丁寧なラッピング済みチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180076,
+        "name": "青いバラとチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180077,
+        "name": "ギディバのチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180078,
+        "name": "桜チョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180079,
+        "name": "最強のチョコサウルス",
+        "category": "Collectible"
+    },
+    {
+        "id": 180080,
+        "name": "とろけるロップイヤーチョコ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180081,
+        "name": "超天才清楚系病弱美少女ハッカー'sチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180082,
+        "name": "イロハの手作りスティックチョコ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180083,
+        "name": "忍術研究部のバッジ型チョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180084,
+        "name": "チョコを用いたキャロットケーキ",
+        "category": "Collectible"
+    },
+    {
+        "id": 180085,
+        "name": "チョコレートスモア",
+        "category": "Collectible"
+    },
+    {
+        "id": 180086,
+        "name": "補給品のチョコレートキャラメル",
+        "category": "Collectible"
+    },
+    {
+        "id": 180087,
+        "name": "チョコレートバーク",
+        "category": "Collectible"
+    },
+    {
+        "id": 180088,
+        "name": "チョコレートインク",
+        "category": "Collectible"
+    },
+    {
+        "id": 180089,
+        "name": "特別功労勲章チョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180090,
+        "name": "シグレ・ビタースペシャル",
+        "category": "Collectible"
+    },
+    {
+        "id": 180091,
+        "name": "ヒヨコ型のチョコレート",
+        "category": "Collectible"
+    },
+    {
+        "id": 180092,
+        "name": "ドライグレープフルーツのチョコがけ",
+        "category": "Collectible"
+    },
+    {
+        "id": 190000,
+        "name": "初級技術ノート抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 190001,
+        "name": "中級技術ノート抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 190002,
+        "name": "上級技術ノート抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 190003,
+        "name": "最上級技術ノート抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 190010,
+        "name": "初級戦術教育BD抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 190011,
+        "name": "中級戦術教育BD抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 190012,
+        "name": "上級戦術教育BD抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 190013,
+        "name": "最上級戦術教育BD抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 190020,
+        "name": "オーパーツ（1）抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 190021,
+        "name": "オーパーツ（2）抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 190022,
+        "name": "オーパーツ（3）抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 190023,
+        "name": "オーパーツ（4）抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191000,
+        "name": "ノーマル家具シリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191001,
+        "name": "モモフレンズカフェシリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191002,
+        "name": "ゼリーズゲーセンシリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191003,
+        "name": "バレンタインシリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191004,
+        "name": "サマーリゾートシリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191005,
+        "name": "ハロウィーンカフェシリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191006,
+        "name": "伝統的な温泉郷シリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191007,
+        "name": "お正月シリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191008,
+        "name": "ミリタリーアウトドアシリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191009,
+        "name": "ビーチサイドシリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191010,
+        "name": "大運動会シリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191011,
+        "name": "アビドス教室シリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191012,
+        "name": "ゲーム開発部シリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 191991,
+        "name": "家具抽選ボックス（青）",
+        "category": "Consumable"
+    },
+    {
+        "id": 191992,
+        "name": "家具抽選ボックス（橙）",
+        "category": "Consumable"
+    },
+    {
+        "id": 191993,
+        "name": "家具抽選ボックス（紫）",
+        "category": "Consumable"
+    },
+    {
+        "id": 191999,
+        "name": "その他シリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 200000,
+        "name": "プレナパテスの大人のカード",
+        "category": "Consumable"
+    },
+    {
+        "id": 200001,
+        "name": "粉々になった大人のカード",
+        "category": "Material"
+    },
+    {
+        "id": 10000000,
+        "name": "初級栄養ドリンク（AP30）",
+        "category": "Consumable"
+    },
+    {
+        "id": 10000001,
+        "name": "中級栄養ドリンク（AP60）",
+        "category": "Consumable"
+    },
+    {
+        "id": 10000002,
+        "name": "上級栄養ドリンク（AP120）",
+        "category": "Consumable"
+    },
+    {
+        "id": 10000003,
+        "name": "最上級栄養ドリンク（AP180）",
+        "category": "Consumable"
+    },
+    {
+        "id": 12000000,
+        "name": "★3生徒招集チケット",
+        "category": "Consumable"
+    },
+    {
+        "id": 20000000,
+        "name": "アロナのスタンプ",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000001,
+        "name": "ゲーム雑誌",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000002,
+        "name": "満点の答案用紙",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000003,
+        "name": "任務レポート",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000004,
+        "name": "マシュマロ串",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000005,
+        "name": "古ぼけたアリウスのバッジ",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000006,
+        "name": "手作りの花輪",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000007,
+        "name": "AMASの残骸",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000008,
+        "name": "思い出のフィルム",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000009,
+        "name": "工務部のチラシ",
+        "category": "Collectible"
+    },
+    {
+        "id": 20001000,
+        "name": "アロナのスタンプ",
+        "category": "Collectible"
+    },
+    {
+        "id": 29999998,
+        "name": "アロナのスタンプ",
+        "category": "Collectible"
+    },
+    {
+        "id": 29999999,
+        "name": "アロナのスタンプ",
+        "category": "Collectible"
+    }
+]

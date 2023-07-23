@@ -1,0 +1,2648 @@
+[
+    {
+        "id": 10000,
+        "name": "アル",
+        "devname": "aru",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
+    },
+    {
+        "id": 10001,
+        "name": "エイミ",
+        "devname": "eimi",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "SPTF"
+    },
+    {
+        "id": 10002,
+        "name": "ハルナ",
+        "devname": "haruna",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub"
+    },
+    {
+        "id": 10003,
+        "name": "ヒフミ",
+        "devname": "hihumi",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass"
+    },
+    {
+        "id": 10004,
+        "name": "ヒナ",
+        "devname": "hina",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Fuuki"
+    },
+    {
+        "id": 10005,
+        "name": "ホシノ",
+        "devname": "hoshino",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 10006,
+        "name": "イオリ",
+        "devname": "Iori",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Fuuki"
+    },
+    {
+        "id": 10007,
+        "name": "マキ",
+        "devname": "Maki",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "Veritas"
+    },
+    {
+        "id": 10008,
+        "name": "ネル",
+        "devname": "neru",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Badge",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
+        "id": 10009,
+        "name": "イズミ",
+        "devname": "izumi",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub"
+    },
+    {
+        "id": 10010,
+        "name": "シロコ",
+        "devname": "shiroko",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 10011,
+        "name": "シュン",
+        "devname": "Shun",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Shanhaijing",
+        "club": "Meihuayuan"
+    },
+    {
+        "id": 10012,
+        "name": "スミレ",
+        "devname": "Sumire",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "TrainingClub"
+    },
+    {
+        "id": 10013,
+        "name": "ツルギ",
+        "devname": "Tsurugi",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "Justice"
+    },
+    {
+        "id": 10014,
+        "name": "イズナ",
+        "devname": "Izuna",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "NinpoKenkyubu"
+    },
+    {
+        "id": 10015,
+        "name": "アリス",
+        "devname": "Aris",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "RG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "GameDev"
+    },
+    {
+        "id": 10016,
+        "name": "ミドリ",
+        "devname": "Midori",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev"
+    },
+    {
+        "id": 10017,
+        "name": "チェリノ",
+        "devname": "cherino",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "RedwinterSecretary"
+    },
+    {
+        "id": 10018,
+        "name": "ユズ",
+        "devname": "Yuzu",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "GL",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev"
+    },
+    {
+        "id": 10019,
+        "name": "アズサ",
+        "devname": "Azusa",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass"
+    },
+    {
+        "id": 10020,
+        "name": "コハル",
+        "devname": "Koharu",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass"
+    },
+    {
+        "id": 10021,
+        "name": "アズサ（水着）",
+        "devname": "Azusa",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass"
+    },
+    {
+        "id": 10022,
+        "name": "ヒナ（水着）",
+        "devname": "CH0063",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Fuuki"
+    },
+    {
+        "id": 10023,
+        "name": "イオリ（水着）",
+        "devname": "CH0064",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Fuuki"
+    },
+    {
+        "id": 10024,
+        "name": "シロコ（ライディング）",
+        "devname": "Shiroko",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 10025,
+        "name": "シュン（幼女）",
+        "devname": "CH0066",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Shanhaijing",
+        "club": "Meihuayuan"
+    },
+    {
+        "id": 10026,
+        "name": "ネル（バニーガール）",
+        "devname": "CH0101",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
+        "id": 10027,
+        "name": "カリン（バニーガール）",
+        "devname": "CH0100",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
+        "id": 10028,
+        "name": "アスナ（バニーガール）",
+        "devname": "CH0098",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
+        "id": 10029,
+        "name": "ナツ",
+        "devname": "CH0155",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert"
+    },
+    {
+        "id": 10030,
+        "name": "チナツ（温泉）",
+        "devname": "CH0163",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Charm"
+        ],
+        "school": "Gehenna",
+        "club": "Fuuki"
+    },
+    {
+        "id": 10031,
+        "name": "アル（正月）",
+        "devname": "Aru_newyear",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
+    },
+    {
+        "id": 10032,
+        "name": "ムツキ（正月）",
+        "devname": "Mutsuki_newyear",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
+    },
+    {
+        "id": 10033,
+        "name": "ワカモ",
+        "devname": "wakamo",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "EmptyClub"
+    },
+    {
+        "id": 10034,
+        "name": "ミモリ",
+        "devname": "Mimori",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Shugyobu"
+    },
+    {
+        "id": 10035,
+        "name": "ウイ",
+        "devname": "CH0169",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "BookClub"
+    },
+    {
+        "id": 10036,
+        "name": "ヒナタ",
+        "devname": "Hinata",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "SisterHood"
+    },
+    {
+        "id": 10037,
+        "name": "マリナ",
+        "devname": "Marina",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Charm"
+        ],
+        "school": "RedWinter",
+        "club": "RedwinterSecretary"
+    },
+    {
+        "id": 10038,
+        "name": "ミヤコ",
+        "devname": "Miyako",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Charm"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon"
+    },
+    {
+        "id": 10039,
+        "name": "ミユ",
+        "devname": "CH0145",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon"
+    },
+    {
+        "id": 10040,
+        "name": "ツクヨ",
+        "devname": "CH0114",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Charm"
+        ],
+        "school": "Hyakkiyako",
+        "club": "NinpoKenkyubu"
+    },
+    {
+        "id": 10041,
+        "name": "ミサキ",
+        "devname": "misaki",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "RL",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud"
+    },
+    {
+        "id": 10042,
+        "name": "アツコ",
+        "devname": "atsuko",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud"
+    },
+    {
+        "id": 10043,
+        "name": "ワカモ（水着）",
+        "devname": "CH0175",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "EmptyClub"
+    },
+    {
+        "id": 10044,
+        "name": "ノノミ（水着）",
+        "devname": "CH0092",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 10045,
+        "name": "ホシノ（水着）",
+        "devname": "Hoshino_Swimsuit",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 10046,
+        "name": "イズナ（水着）",
+        "devname": "CH0179",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "NinpoKenkyubu"
+    },
+    {
+        "id": 10047,
+        "name": "チセ（水着）",
+        "devname": "CH0178",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "GL",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Onmyobu"
+    },
+    {
+        "id": 10048,
+        "name": "サオリ",
+        "devname": "Saori",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud"
+    },
+    {
+        "id": 10049,
+        "name": "カズサ",
+        "devname": "Kazusa",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert"
+    },
+    {
+        "id": 10050,
+        "name": "ココナ",
+        "devname": "CH0137",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Shanhaijing",
+        "club": "Meihuayuan"
+    },
+    {
+        "id": 10051,
+        "name": "ウタハ（応援団）",
+        "devname": "CH0182",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "Engineer"
+    },
+    {
+        "id": 10052,
+        "name": "ノア",
+        "devname": "CH0095",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar"
+    },
+    {
+        "id": 10053,
+        "name": "ユウカ（体操服）",
+        "devname": "CH0184",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar"
+    },
+    {
+        "id": 10054,
+        "name": "マリー（体操服）",
+        "devname": "CH0186",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "SisterHood"
+    },
+    {
+        "id": 10055,
+        "name": "シグレ",
+        "devname": "Shigure",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "GL",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "Class227"
+    },
+    {
+        "id": 10056,
+        "name": "セリナ（クリスマス）",
+        "devname": "CH0194",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "KnightsHospitaller"
+    },
+    {
+        "id": 10057,
+        "name": "ハルナ（正月）",
+        "devname": "CH0191",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub"
+    },
+    {
+        "id": 10058,
+        "name": "ミネ",
+        "devname": "CH0152",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "KnightsHospitaller"
+    },
+    {
+        "id": 10059,
+        "name": "ミカ",
+        "devname": "CH0069",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "TeaParty"
+    },
+    {
+        "id": 10060,
+        "name": "メグ",
+        "devname": "CH0088",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "FT",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "HotSpringsDepartment"
+    },
+    {
+        "id": 10061,
+        "name": "サクラコ",
+        "devname": "Sakurako",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "SisterHood"
+    },
+    {
+        "id": 10062,
+        "name": "トキ",
+        "devname": "CH0187",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "ElasticArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
+        "id": 10063,
+        "name": "コユキ",
+        "devname": "CH0198",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar"
+    },
+    {
+        "id": 10064,
+        "name": "カヨコ（正月）",
+        "devname": "CH0086",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
+    },
+    {
+        "id": 10065,
+        "name": "カホ",
+        "devname": "CH0107",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Onmyobu"
+    },
+    {
+        "id": 10066,
+        "name": "アリス（メイド）",
+        "devname": "CH0200",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "RG",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev"
+    },
+    {
+        "id": 10067,
+        "name": "トキ（バニーガール）",
+        "devname": "CH0211",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
+        "id": 10068,
+        "name": "レイサ",
+        "devname": "CH0167",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "TrinityVigilance"
+    },
+    {
+        "id": 10069,
+        "name": "ルミ",
+        "devname": "CH0135",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Shanhaijing",
+        "club": "BlackTortoisePromenade"
+    },
+    {
+        "id": 10070,
+        "name": "ミナ",
+        "devname": "CH0138",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Shanhaijing",
+        "club": "Genryumon"
+    },
+    {
+        "id": 10071,
+        "name": "ミヤコ（水着）",
+        "devname": "CH0215",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Charm"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon"
+    },
+    {
+        "id": 10072,
+        "name": "サキ（水着）",
+        "devname": "CH0217",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon"
+    },
+    {
+        "id": 13000,
+        "name": "アカネ",
+        "devname": "akane",
+        "rarity": "SR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
+        "id": 13001,
+        "name": "チセ",
+        "devname": "Chise",
+        "rarity": "SR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "GL",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Onmyobu"
+    },
+    {
+        "id": 13002,
+        "name": "アカリ",
+        "devname": "akari",
+        "rarity": "SR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub"
+    },
+    {
+        "id": 13003,
+        "name": "ハスミ",
+        "devname": "hasumi",
+        "rarity": "SR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "Justice"
+    },
+    {
+        "id": 13004,
+        "name": "ノノミ",
+        "devname": "nonomi",
+        "rarity": "SR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 13005,
+        "name": "カヨコ",
+        "devname": "kayoko",
+        "rarity": "SR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
+    },
+    {
+        "id": 13006,
+        "name": "ムツキ",
+        "devname": "mutsuki",
+        "rarity": "SR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
+    },
+    {
+        "id": 13007,
+        "name": "ジュンコ",
+        "devname": "Zunko",
+        "rarity": "SR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub"
+    },
+    {
+        "id": 13008,
+        "name": "セリカ",
+        "devname": "serika",
+        "rarity": "SR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 13009,
+        "name": "ツバキ",
+        "devname": "Tusbaki",
+        "rarity": "SR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Shugyobu"
+    },
+    {
+        "id": 13010,
+        "name": "ユウカ",
+        "devname": "Yuuka",
+        "rarity": "SR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar"
+    },
+    {
+        "id": 13011,
+        "name": "モモイ",
+        "devname": "Momoi",
+        "rarity": "SR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev"
+    },
+    {
+        "id": 13012,
+        "name": "キリノ",
+        "devname": "Kirino",
+        "rarity": "SR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Charm"
+        ],
+        "school": "Valkyrie",
+        "club": "anzenkyoku"
+    },
+    {
+        "id": 16000,
+        "name": "ハルカ",
+        "devname": "haruka",
+        "rarity": "R",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
+    },
+    {
+        "id": 16001,
+        "name": "アスナ",
+        "devname": "Asuna",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
+        "id": 16002,
+        "name": "コトリ",
+        "devname": "kotori",
+        "rarity": "R",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "Engineer"
+    },
+    {
+        "id": 16003,
+        "name": "スズミ",
+        "devname": "suzumi",
+        "rarity": "R",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "TrinityVigilance"
+    },
+    {
+        "id": 16004,
+        "name": "フィーナ",
+        "devname": "pina",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "MatsuriOffice"
+    },
+    {
+        "id": 16005,
+        "name": "ツルギ（水着）",
+        "devname": "Tsurugi",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "Justice"
+    },
+    {
+        "id": 16006,
+        "name": "イズミ（水着）",
+        "devname": "Izumi",
+        "rarity": "R",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub"
+    },
+    {
+        "id": 16007,
+        "name": "トモエ",
+        "devname": "Tomoe",
+        "rarity": "R",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "RedwinterSecretary"
+    },
+    {
+        "id": 16008,
+        "name": "フブキ",
+        "devname": "CH0141",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Valkyrie",
+        "club": "anzenkyoku"
+    },
+    {
+        "id": 16009,
+        "name": "ミチル",
+        "devname": "CH0113",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "NinpoKenkyubu"
+    },
+    {
+        "id": 16010,
+        "name": "ヒビキ（応援団）",
+        "devname": "CH0181",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MT",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "Engineer"
+    },
+    {
+        "id": 16011,
+        "name": "ハスミ（体操服）",
+        "devname": "CH0190",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "Justice"
+    },
+    {
+        "id": 16012,
+        "name": "ジュンコ（正月）",
+        "devname": "CH0192",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub"
+    },
+    {
+        "id": 20000,
+        "name": "ヒビキ",
+        "devname": "Hibiki",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MT",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "Engineer"
+    },
+    {
+        "id": 20001,
+        "name": "カリン",
+        "devname": "karin",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
+        "id": 20002,
+        "name": "サヤ",
+        "devname": "saya",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Shanhaijing",
+        "club": "Endanbou"
+    },
+    {
+        "id": 20003,
+        "name": "マシロ",
+        "devname": "mashiro",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "Justice"
+    },
+    {
+        "id": 20004,
+        "name": "マシロ（水着）",
+        "devname": "CH0061",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "Justice"
+    },
+    {
+        "id": 20005,
+        "name": "ヒフミ（水着）",
+        "devname": "CH0058",
+        "rarity": "SSR",
+        "role": "Vehicle",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass"
+    },
+    {
+        "id": 20006,
+        "name": "サヤ（私服）",
+        "devname": "saya_casual",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Shanhaijing",
+        "club": "Endanbou"
+    },
+    {
+        "id": 20007,
+        "name": "初音ミク",
+        "devname": "CH9999",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "GL",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "ETC",
+        "club": "EmptyClub"
+    },
+    {
+        "id": 20008,
+        "name": "アコ",
+        "devname": "Ako",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "Fuuki"
+    },
+    {
+        "id": 20009,
+        "name": "チェリノ（温泉）",
+        "devname": "CH0164",
+        "rarity": "SSR",
+        "role": "Vehicle",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "RedwinterSecretary"
+    },
+    {
+        "id": 20010,
+        "name": "ノドカ（温泉）",
+        "devname": "CH0165",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "RedWinter",
+        "club": "Class227"
+    },
+    {
+        "id": 20011,
+        "name": "セリカ（正月）",
+        "devname": "Serika_newyear",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 20012,
+        "name": "セナ",
+        "devname": "CH0081",
+        "rarity": "SSR",
+        "role": "Vehicle",
+        "range": "Back",
+        "weaponType": "GL",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "Emergentology"
+    },
+    {
+        "id": 20013,
+        "name": "チヒロ",
+        "devname": "CH0160",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "Veritas"
+    },
+    {
+        "id": 20014,
+        "name": "サキ",
+        "devname": "CH0144",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon"
+    },
+    {
+        "id": 20015,
+        "name": "カエデ",
+        "devname": "Kaede",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Shugyobu"
+    },
+    {
+        "id": 20016,
+        "name": "イロハ",
+        "devname": "CH0156",
+        "rarity": "SSR",
+        "role": "Vehicle",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety"
+    },
+    {
+        "id": 20017,
+        "name": "ヒヨリ",
+        "devname": "hiyori",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud"
+    },
+    {
+        "id": 20018,
+        "name": "モエ",
+        "devname": "Moe",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon"
+    },
+    {
+        "id": 20019,
+        "name": "アカネ（バニーガール）",
+        "devname": "CH0099",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
+        "id": 20020,
+        "name": "ヒマリ",
+        "devname": "CH0159",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "SPTF"
+    },
+    {
+        "id": 20021,
+        "name": "ハナエ（クリスマス）",
+        "devname": "CH0195",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "KnightsHospitaller"
+    },
+    {
+        "id": 20022,
+        "name": "フウカ（正月）",
+        "devname": "CH0177",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "FoodService"
+    },
+    {
+        "id": 20023,
+        "name": "カンナ",
+        "devname": "CH0170",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Valkyrie",
+        "club": "PublicPeaceBureau"
+    },
+    {
+        "id": 20024,
+        "name": "ナギサ",
+        "devname": "Nagisa",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "TeaParty"
+    },
+    {
+        "id": 20025,
+        "name": "ハルカ（正月）",
+        "devname": "CH0087",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
+    },
+    {
+        "id": 20026,
+        "name": "ミノリ",
+        "devname": "CH0214",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "LaborParty"
+    },
+    {
+        "id": 20027,
+        "name": "",
+        "devname": "CH0188",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 23000,
+        "name": "アイリ",
+        "devname": "airi",
+        "rarity": "SR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert"
+    },
+    {
+        "id": 23001,
+        "name": "フウカ",
+        "devname": "fuuka",
+        "rarity": "SR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "FoodService"
+    },
+    {
+        "id": 23002,
+        "name": "ハナエ",
+        "devname": "hanae",
+        "rarity": "SR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "KnightsHospitaller"
+    },
+    {
+        "id": 23003,
+        "name": "ハレ",
+        "devname": "Hare",
+        "rarity": "SR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "Veritas"
+    },
+    {
+        "id": 23004,
+        "name": "ウタハ",
+        "devname": "Utaha",
+        "rarity": "SR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "Engineer"
+    },
+    {
+        "id": 23005,
+        "name": "アヤネ",
+        "devname": "Ayane",
+        "rarity": "SR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 23006,
+        "name": "シズコ",
+        "devname": "Shizuko",
+        "rarity": "SR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Hyakkiyako",
+        "club": "MatsuriOffice"
+    },
+    {
+        "id": 23007,
+        "name": "ハナコ",
+        "devname": "hanako",
+        "rarity": "SR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass"
+    },
+    {
+        "id": 23008,
+        "name": "マリー",
+        "devname": "Mari",
+        "rarity": "SR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "SisterHood"
+    },
+    {
+        "id": 26000,
+        "name": "チナツ",
+        "devname": "chinatsu",
+        "rarity": "R",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "Fuuki"
+    },
+    {
+        "id": 26001,
+        "name": "コタマ",
+        "devname": "kotama",
+        "rarity": "R",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "Veritas"
+    },
+    {
+        "id": 26002,
+        "name": "ジュリ",
+        "devname": "Juri",
+        "rarity": "R",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "FoodService"
+    },
+    {
+        "id": 26003,
+        "name": "セリナ",
+        "devname": "serina",
+        "rarity": "R",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "KnightsHospitaller"
+    },
+    {
+        "id": 26004,
+        "name": "シミコ",
+        "devname": "shimiko",
+        "rarity": "R",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "BookClub"
+    },
+    {
+        "id": 26005,
+        "name": "ヨシミ",
+        "devname": "yoshimi",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert"
+    },
+    {
+        "id": 26006,
+        "name": "ノドカ",
+        "devname": "Nodoka",
+        "rarity": "R",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "RedWinter",
+        "club": "Class227"
+    },
+    {
+        "id": 26007,
+        "name": "アヤネ（水着）",
+        "devname": "CH0176",
+        "rarity": "R",
+        "role": "Vehicle",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 26008,
+        "name": "シズコ（水着）",
+        "devname": "CH0180",
+        "rarity": "R",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Hyakkiyako",
+        "club": "MatsuriOffice"
+    },
+    {
+        "id": 26009,
+        "name": "ユズ（メイド）",
+        "devname": "CH0203",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "GL",
+        "bulletType": "Explosion",
+        "armorType": "ElasticArmor",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev"
+    },
+    {
+        "id": 26010,
+        "name": "ミユ（水着）",
+        "devname": "CH0218",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon"
+    }
+]

@@ -1,0 +1,2177 @@
+[
+    {
+        "id": 1,
+        "name": "ナチュラルな木の床",
+        "comfortBonus": 20
+    },
+    {
+        "id": 2,
+        "name": "ナチュラルな木の壁",
+        "comfortBonus": 20
+    },
+    {
+        "id": 3,
+        "name": "空色のグラデーション背景",
+        "comfortBonus": 20
+    },
+    {
+        "id": 4,
+        "name": "ホワイトボード",
+        "comfortBonus": 20
+    },
+    {
+        "id": 5,
+        "name": "原木の収納ケース",
+        "comfortBonus": 20
+    },
+    {
+        "id": 6,
+        "name": "シンプルな青色カーペット",
+        "comfortBonus": 20
+    },
+    {
+        "id": 7,
+        "name": "原木の椅子",
+        "comfortBonus": 20
+    },
+    {
+        "id": 8,
+        "name": "原木のサイドチェア",
+        "comfortBonus": 20
+    },
+    {
+        "id": 9,
+        "name": "原木の収納テーブル",
+        "comfortBonus": 20
+    },
+    {
+        "id": 10,
+        "name": "原木の大型テーブル",
+        "comfortBonus": 20
+    },
+    {
+        "id": 11,
+        "name": "カーテン付き窓",
+        "comfortBonus": 20
+    },
+    {
+        "id": 1100,
+        "name": "白いコーヒーテーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 1101,
+        "name": "カラーのシングルチェア",
+        "comfortBonus": 50
+    },
+    {
+        "id": 1102,
+        "name": "植木鉢の棚",
+        "comfortBonus": 50
+    },
+    {
+        "id": 1300,
+        "name": "青いタイルの壁",
+        "comfortBonus": 350
+    },
+    {
+        "id": 1200,
+        "name": "青いタイルの床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 1103,
+        "name": "白いデザートテーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 1104,
+        "name": "カラーの長椅子",
+        "comfortBonus": 50
+    },
+    {
+        "id": 1105,
+        "name": "カラーの二段植木鉢",
+        "comfortBonus": 50
+    },
+    {
+        "id": 1106,
+        "name": "モモフレンズのメニューの壁飾り",
+        "comfortBonus": 50
+    },
+    {
+        "id": 1107,
+        "name": "モモフレンズの写真付きの柱",
+        "comfortBonus": 50
+    },
+    {
+        "id": 1108,
+        "name": "ガラスの窓",
+        "comfortBonus": 50
+    },
+    {
+        "id": 1109,
+        "name": "ペロロのセット棚",
+        "comfortBonus": 50
+    },
+    {
+        "id": 1201,
+        "name": "木製バーカウンター",
+        "comfortBonus": 120
+    },
+    {
+        "id": 1202,
+        "name": "木製収納付きドリンクセット",
+        "comfortBonus": 120
+    },
+    {
+        "id": 1203,
+        "name": "ペロロ付きのカラーチェア",
+        "comfortBonus": 120
+    },
+    {
+        "id": 1204,
+        "name": "モモフレンズのネオン電光板",
+        "comfortBonus": 120
+    },
+    {
+        "id": 1301,
+        "name": "木製キッチンカウンター",
+        "comfortBonus": 350
+    },
+    {
+        "id": 1302,
+        "name": "モモフレンズのグッズ付き収納ケース",
+        "comfortBonus": 350
+    },
+    {
+        "id": 1303,
+        "name": "バリスタのペロロ人形",
+        "comfortBonus": 350
+    },
+    {
+        "id": 2100,
+        "name": "ピンク色のスツール",
+        "comfortBonus": 50
+    },
+    {
+        "id": 2101,
+        "name": "観葉植物",
+        "comfortBonus": 50
+    },
+    {
+        "id": 2102,
+        "name": "小さい窓",
+        "comfortBonus": 50
+    },
+    {
+        "id": 2300,
+        "name": "パターンタイルの壁",
+        "comfortBonus": 350
+    },
+    {
+        "id": 2200,
+        "name": "パターンタイルの床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 2103,
+        "name": "白いシンプルソファー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 2104,
+        "name": "レッドのアーケードゲーム機",
+        "comfortBonus": 50
+    },
+    {
+        "id": 2105,
+        "name": "パープルのアーケードゲーム機",
+        "comfortBonus": 50
+    },
+    {
+        "id": 2106,
+        "name": "ブルーのアーケードゲーム機",
+        "comfortBonus": 50
+    },
+    {
+        "id": 2107,
+        "name": "アーケードネオン電光板",
+        "comfortBonus": 50
+    },
+    {
+        "id": 2108,
+        "name": "ゼリーズのネオン電光板",
+        "comfortBonus": 50
+    },
+    {
+        "id": 2109,
+        "name": "カラフルパターンカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 2201,
+        "name": "カセットテープテーブル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 2202,
+        "name": "カラフルな自販機",
+        "comfortBonus": 120
+    },
+    {
+        "id": 2203,
+        "name": "カラーのマルチテレビ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 2204,
+        "name": "ゼリーズのクレーンゲーム",
+        "comfortBonus": 120
+    },
+    {
+        "id": 2301,
+        "name": "エアホッケーゲーム機",
+        "comfortBonus": 350
+    },
+    {
+        "id": 2302,
+        "name": "レースゲーム機",
+        "comfortBonus": 350
+    },
+    {
+        "id": 2303,
+        "name": "ダンシング・スターのゲーム機",
+        "comfortBonus": 350
+    },
+    {
+        "id": 3100,
+        "name": "チョコレートスイーツの模型",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3101,
+        "name": "バレンタインのスイーツオーブン",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3102,
+        "name": "バレンタインのスイーツキッチンカウンター",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3103,
+        "name": "バレンタインの収納セット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3104,
+        "name": "茶色のチェック柄カーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3105,
+        "name": "バレンタインのシングルチェア",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3106,
+        "name": "チョコレートパーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3107,
+        "name": "バレンタインのスイーツショーケース",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3108,
+        "name": "バレンタインのクッキーソファー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3109,
+        "name": "バレンタインのマルチテーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3110,
+        "name": "ポイント照明付きの柱",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3111,
+        "name": "チョコレート型のネオン電光掲示板",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3112,
+        "name": "手作りチョコレートの模型",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3113,
+        "name": "バレンタインのチョコレート窓",
+        "comfortBonus": 50
+    },
+    {
+        "id": 3200,
+        "name": "大型のチョコレートファウンテン",
+        "comfortBonus": 120
+    },
+    {
+        "id": 3201,
+        "name": "バレンタインのピンクなスイーツ模型",
+        "comfortBonus": 120
+    },
+    {
+        "id": 3202,
+        "name": "バレンタインのスイーツバーカウンター",
+        "comfortBonus": 120
+    },
+    {
+        "id": 3203,
+        "name": "チョコレートスイーツの壁飾り",
+        "comfortBonus": 120
+    },
+    {
+        "id": 3204,
+        "name": "バレンタインのピンク床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 3300,
+        "name": "バレンタインのハートプレゼントボックス",
+        "comfortBonus": 350
+    },
+    {
+        "id": 3301,
+        "name": "バレンタインのティーテーブル",
+        "comfortBonus": 350
+    },
+    {
+        "id": 3302,
+        "name": "バレンタインのチョコレート壁",
+        "comfortBonus": 350
+    },
+    {
+        "id": 3303,
+        "name": "ピンクのハート背景",
+        "comfortBonus": 350
+    },
+    {
+        "id": 4100,
+        "name": "ストライプカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 4101,
+        "name": "円形のストライプカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 4102,
+        "name": "折りたたみ式ビーチチェア",
+        "comfortBonus": 50
+    },
+    {
+        "id": 4103,
+        "name": "海へのお出かけセット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 4104,
+        "name": "青色のウッドパーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 4105,
+        "name": "シンプルな長方形植木鉢",
+        "comfortBonus": 50
+    },
+    {
+        "id": 4106,
+        "name": "モンステラの白い植木鉢",
+        "comfortBonus": 50
+    },
+    {
+        "id": 4107,
+        "name": "リゾート風の植木鉢",
+        "comfortBonus": 50
+    },
+    {
+        "id": 4108,
+        "name": "折りたたみ式リゾートテーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 4109,
+        "name": "トロピカルなアートフレーム",
+        "comfortBonus": 50
+    },
+    {
+        "id": 4110,
+        "name": "チェック柄の窓",
+        "comfortBonus": 50
+    },
+    {
+        "id": 4200,
+        "name": "夏のパラソルセット",
+        "comfortBonus": 120
+    },
+    {
+        "id": 4201,
+        "name": "レトロな三段積みアンプ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 4202,
+        "name": "トロピカルな壁掛けアート",
+        "comfortBonus": 120
+    },
+    {
+        "id": 4203,
+        "name": "夏のネオン電光板",
+        "comfortBonus": 120
+    },
+    {
+        "id": 4204,
+        "name": "リゾート地風のガラス窓",
+        "comfortBonus": 120
+    },
+    {
+        "id": 4205,
+        "name": "青いポーセリンストーンの床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 4300,
+        "name": "夏のデザートセットテーブル",
+        "comfortBonus": 350
+    },
+    {
+        "id": 4301,
+        "name": "浮き輪付きの小型プール",
+        "comfortBonus": 350
+    },
+    {
+        "id": 4302,
+        "name": "カラフルな大型プール",
+        "comfortBonus": 350
+    },
+    {
+        "id": 4303,
+        "name": "天蓋付きリゾートソファ",
+        "comfortBonus": 350
+    },
+    {
+        "id": 4304,
+        "name": "夏の青色ドット背景",
+        "comfortBonus": 350
+    },
+    {
+        "id": 4305,
+        "name": "夏の波模様の壁",
+        "comfortBonus": 350
+    },
+    {
+        "id": 5101,
+        "name": "ハロウィーンのパンプキン収納セット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5102,
+        "name": "ハロウィーンのクモの糸柄カーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5103,
+        "name": "ゴースト柄のシングルチェア",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5104,
+        "name": "パンプキンスープ風のスツール",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5105,
+        "name": "ハロウィーンのゴースト立て看板",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5106,
+        "name": "ハロウィーンのパーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5107,
+        "name": "ハロウィーンのパンプキン棚",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5108,
+        "name": "ハロウィーンのパンプキンダブルソファー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5109,
+        "name": "ハロウィーンのシロップ柄テーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5110,
+        "name": "ハロウィーンのネオン電光板",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5111,
+        "name": "ろうそくの壁飾り",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5112,
+        "name": "ハロウィーンのホラーな壁掛けセット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5113,
+        "name": "ハロウィーンの三段パンプキン",
+        "comfortBonus": 50
+    },
+    {
+        "id": 5201,
+        "name": "ハロウィーンのパンプキン暖炉",
+        "comfortBonus": 120
+    },
+    {
+        "id": 5202,
+        "name": "ハロウィーンのダイヤパターンの床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 5203,
+        "name": "ハロウィーンのパンプキンデザートテーブル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 5204,
+        "name": "クモの巣柄のアーチ型窓",
+        "comfortBonus": 120
+    },
+    {
+        "id": 5205,
+        "name": "ハロウィーンのパンプキンバーカウンター",
+        "comfortBonus": 120
+    },
+    {
+        "id": 5301,
+        "name": "ハロウィーンの撮影セット",
+        "comfortBonus": 350
+    },
+    {
+        "id": 5302,
+        "name": "ハロウィーンゴーストのぬいぐるみ",
+        "comfortBonus": 350
+    },
+    {
+        "id": 5303,
+        "name": "ハッピーハロウィーンの壁飾り",
+        "comfortBonus": 350
+    },
+    {
+        "id": 5304,
+        "name": "ハロウィーンのシロップ柄の壁",
+        "comfortBonus": 350
+    },
+    {
+        "id": 5305,
+        "name": "ハロウィーンナイトの背景",
+        "comfortBonus": 350
+    },
+    {
+        "id": 6100,
+        "name": "波模様の座椅子",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6101,
+        "name": "温泉カピバラ付き収納ケース",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6102,
+        "name": "温泉カピバラのガチャガチャ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6103,
+        "name": "温泉模様の灯篭",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6104,
+        "name": "扇子模様の行燈",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6105,
+        "name": "スチール製の雑誌スタンド",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6106,
+        "name": "伝統的な木材のパーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6107,
+        "name": "伝統的な木材のパーテーションゲート",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6108,
+        "name": "竹の植木鉢",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6109,
+        "name": "温泉カピバラのタペストリー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6110,
+        "name": "温泉セット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6111,
+        "name": "桜の盆栽付きテーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6112,
+        "name": "伝統的な格子の窓",
+        "comfortBonus": 50
+    },
+    {
+        "id": 6200,
+        "name": "マッサージチェア",
+        "comfortBonus": 120
+    },
+    {
+        "id": 6201,
+        "name": "抹茶セット付きの座卓",
+        "comfortBonus": 120
+    },
+    {
+        "id": 6202,
+        "name": "伝統的な畳の床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 6203,
+        "name": "保温庫",
+        "comfortBonus": 120
+    },
+    {
+        "id": 6300,
+        "name": "伝統的な格子柄の壁",
+        "comfortBonus": 350
+    },
+    {
+        "id": 6301,
+        "name": "檜の浴槽",
+        "comfortBonus": 350
+    },
+    {
+        "id": 6302,
+        "name": "雪花柄のグラデーション背景",
+        "comfortBonus": 350
+    },
+    {
+        "id": 7100,
+        "name": "お正月の座布団",
+        "comfortBonus": 50
+    },
+    {
+        "id": 7101,
+        "name": "お正月の和傘",
+        "comfortBonus": 50
+    },
+    {
+        "id": 7102,
+        "name": "お正月の提灯",
+        "comfortBonus": 50
+    },
+    {
+        "id": 7103,
+        "name": "お正月の帯掛",
+        "comfortBonus": 50
+    },
+    {
+        "id": 7104,
+        "name": "お正月の衝立",
+        "comfortBonus": 50
+    },
+    {
+        "id": 7105,
+        "name": "お正月の格子窓",
+        "comfortBonus": 50
+    },
+    {
+        "id": 7106,
+        "name": "灯油ストーブと切り餅",
+        "comfortBonus": 50
+    },
+    {
+        "id": 7107,
+        "name": "お正月のけん玉セットテーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 7200,
+        "name": "お正月の衣桁",
+        "comfortBonus": 120
+    },
+    {
+        "id": 7201,
+        "name": "おせち料理のテーブル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 7202,
+        "name": "お正月の畳の床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 7203,
+        "name": "書初め用のテーブル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 7300,
+        "name": "お正月の壁",
+        "comfortBonus": 350
+    },
+    {
+        "id": 7301,
+        "name": "お正月のこたつ",
+        "comfortBonus": 350
+    },
+    {
+        "id": 7302,
+        "name": "お正月の背景",
+        "comfortBonus": 350
+    },
+    {
+        "id": 8100,
+        "name": "ミリタリー弾薬箱",
+        "comfortBonus": 50
+    },
+    {
+        "id": 8101,
+        "name": "正方形のナチュラルカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 8102,
+        "name": "長方形のナチュラルカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 8103,
+        "name": "ミリタリーチェア・グリーン",
+        "comfortBonus": 50
+    },
+    {
+        "id": 8104,
+        "name": "ミリタリーチェア・イエロー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 8105,
+        "name": "ミリタリーチェア・ピンク",
+        "comfortBonus": 50
+    },
+    {
+        "id": 8106,
+        "name": "ミリタリーチェア・ブルー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 8107,
+        "name": "ミリタリーパーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 8108,
+        "name": "ミリタリー簡易テーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 8200,
+        "name": "ミリタリーブランチセット",
+        "comfortBonus": 120
+    },
+    {
+        "id": 8201,
+        "name": "折り畳み式のナチュラルチェア",
+        "comfortBonus": 120
+    },
+    {
+        "id": 8202,
+        "name": "ミリタリー非常食ケース",
+        "comfortBonus": 120
+    },
+    {
+        "id": 8203,
+        "name": "ミリタリー2段野戦ベッド",
+        "comfortBonus": 120
+    },
+    {
+        "id": 8204,
+        "name": "ミリタリー木製デッキ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 8205,
+        "name": "ミリタリータープの壁",
+        "comfortBonus": 120
+    },
+    {
+        "id": 8206,
+        "name": "ミリタリー背景",
+        "comfortBonus": 120
+    },
+    {
+        "id": 8300,
+        "name": "ミリタリーグリルセット",
+        "comfortBonus": 350
+    },
+    {
+        "id": 8301,
+        "name": "ミリタリータープの入り口",
+        "comfortBonus": 350
+    },
+    {
+        "id": 8302,
+        "name": "ミリタリー組み立て式キッチン",
+        "comfortBonus": 350
+    },
+    {
+        "id": 8303,
+        "name": "ミリタリー木製ガンスタンド",
+        "comfortBonus": 350
+    },
+    {
+        "id": 9100,
+        "name": "ビーチサイドのホワイトチェア",
+        "comfortBonus": 50
+    },
+    {
+        "id": 9101,
+        "name": "ビーチサイドのクーリングマット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 9102,
+        "name": "ベーシックホワイトパーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 9103,
+        "name": "原木のホワイトパーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 9104,
+        "name": "クールドリンク用冷蔵庫",
+        "comfortBonus": 50
+    },
+    {
+        "id": 9105,
+        "name": "ビーチサイドのホワイトテーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 9106,
+        "name": "原木のテラステーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 9107,
+        "name": "爽やかなフルーツバー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 9108,
+        "name": "爽やかなフルーツ壁飾り",
+        "comfortBonus": 50
+    },
+    {
+        "id": 9200,
+        "name": "営業中ののぼり旗",
+        "comfortBonus": 120
+    },
+    {
+        "id": 9201,
+        "name": "ビーチサイドのクーリング扇風機",
+        "comfortBonus": 120
+    },
+    {
+        "id": 9202,
+        "name": "ビーチサイドのカラフルライフジャケット",
+        "comfortBonus": 120
+    },
+    {
+        "id": 9203,
+        "name": "レモンパラソルホワイトテーブル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 9204,
+        "name": "ビーチサイドの原木の床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 9205,
+        "name": "ビーチサイドのホワイトの壁",
+        "comfortBonus": 120
+    },
+    {
+        "id": 9206,
+        "name": "ビーチサイドのオーシャンビュー窓",
+        "comfortBonus": 120
+    },
+    {
+        "id": 9207,
+        "name": "ビーチサイドの背景",
+        "comfortBonus": 120
+    },
+    {
+        "id": 9300,
+        "name": "チル&クールアイスクリーム冷蔵庫",
+        "comfortBonus": 350
+    },
+    {
+        "id": 9301,
+        "name": "カラフルドリンクバー",
+        "comfortBonus": 350
+    },
+    {
+        "id": 9302,
+        "name": "甘くて涼しいかき氷バー",
+        "comfortBonus": 350
+    },
+    {
+        "id": 9303,
+        "name": "ビーチサイドのオーシャンビューテラス",
+        "comfortBonus": 350
+    },
+    {
+        "id": 9304,
+        "name": "ビーチサイドのふわふわ浮き輪",
+        "comfortBonus": 350
+    },
+    {
+        "id": 10100,
+        "name": "大運動会の壁掛け時計",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10101,
+        "name": "大運動会のカラーコーン・レッド",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10102,
+        "name": "大運動会のカラーコーン・ブルー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10103,
+        "name": "大運動会のカラーコーン・スカイブルー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10104,
+        "name": "大運動会のフラッグ・ライトブルー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10105,
+        "name": "大運動会のフラッグ・ブルー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10106,
+        "name": "大運動会のフラッグ・イエロー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10107,
+        "name": "大運動会のスポーツマット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10108,
+        "name": "大運動会のマット・スカイブルー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10109,
+        "name": "大運動会のマット・ブルー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10110,
+        "name": "大運動会のマット・ベージュ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10111,
+        "name": "大運動会のスコアボード",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10112,
+        "name": "大運動会の窓",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10113,
+        "name": "大運動会のベージュの柱",
+        "comfortBonus": 50
+    },
+    {
+        "id": 10200,
+        "name": "大運動会のボール保管箱",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10201,
+        "name": "エナジードリンクバスケット",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10202,
+        "name": "大運動会のバスケットゴールポスト",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10203,
+        "name": "玉入れカゴ・イエロー",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10204,
+        "name": "玉入れカゴ・ブルー",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10205,
+        "name": "玉入れカゴ・スカイブルー",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10206,
+        "name": "大運動会の審判席",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10207,
+        "name": "大運動会のネット",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10208,
+        "name": "大運動会の木の床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10209,
+        "name": "大運動会のペロロフラッグ装飾",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10210,
+        "name": "大運動会の応援フラッグ装飾",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10211,
+        "name": "大運動会の壁紙",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10212,
+        "name": "大運動会の背景",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10213,
+        "name": "大運動会の立看板",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10214,
+        "name": "大運動会の折りたたみ椅子",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10215,
+        "name": "大運動会の跳び箱",
+        "comfortBonus": 120
+    },
+    {
+        "id": 10300,
+        "name": "大運動会のパン食い競走用スタンド",
+        "comfortBonus": 350
+    },
+    {
+        "id": 10301,
+        "name": "大運動会の休憩テント",
+        "comfortBonus": 350
+    },
+    {
+        "id": 10302,
+        "name": "大運動会の応援スタンド",
+        "comfortBonus": 350
+    },
+    {
+        "id": 10303,
+        "name": "大運動会の器具保管箱",
+        "comfortBonus": 350
+    },
+    {
+        "id": 10304,
+        "name": "大運動会のランチテーブル",
+        "comfortBonus": 350
+    },
+    {
+        "id": 10305,
+        "name": "大運動会のトロフィー陳列台",
+        "comfortBonus": 350
+    },
+    {
+        "id": 10306,
+        "name": "大運動会の入場ゲート",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11100,
+        "name": "アビドス教室の黒板",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11101,
+        "name": "アビドス教室の生徒用ロッカー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11102,
+        "name": "アビドス教室の収納ケース",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11103,
+        "name": "アビドス教室の椅子",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11104,
+        "name": "アビドス教室の壁掛け時計",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11105,
+        "name": "アビドス教室のお弁当が置かれた机",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11106,
+        "name": "アビドス教室の床",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11107,
+        "name": "アビドス教室の廊下パーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11108,
+        "name": "アビドス教室の壁掛けスピーカー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11109,
+        "name": "アビドス教室の柱",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11200,
+        "name": "アビドス教室のスケジュール黒板",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11201,
+        "name": "アビドス教室のキャンペーン黒板",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11202,
+        "name": "アビドス教室の掃除道具箱",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11203,
+        "name": "アビドス教室の先生用ロッカー",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11204,
+        "name": "アビドス教室のカーディガンが置かれた机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11205,
+        "name": "アビドス教室のクジラ人形が置かれた机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11206,
+        "name": "アビドス教室のメガネが置かれた机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11207,
+        "name": "アビドス教室の覆面が置かれた机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11208,
+        "name": "アビドス教室のリボンと手袋が置かれた机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11209,
+        "name": "アビドス教室の大きなバッグが置かれた机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11210,
+        "name": "アビドス教室のガンスタンド",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11211,
+        "name": "アビドス教室のボードパーテーション",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11212,
+        "name": "アビドス教室の先生のデスク",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11213,
+        "name": "アビドス教室のロゴフレーム",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11214,
+        "name": "アビドス教室の学級目標",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11215,
+        "name": "アビドス教室の分別ボックス",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11216,
+        "name": "アビドス教室のホワイトボード",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11217,
+        "name": "アビドス教室の背景",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11218,
+        "name": "アビドス教室のタイルの床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11219,
+        "name": "アビドス教室の壁",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11300,
+        "name": "アビドス教室の本棚",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11301,
+        "name": "アビドス教室の自転車",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11302,
+        "name": "アビドス教室のパーテーション",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11303,
+        "name": "アビドス教室の教卓",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11304,
+        "name": "アビドス教室の自動販売機",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11305,
+        "name": "アビドス教室のマシンガンスタンド",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11306,
+        "name": "アビドス教室の窓",
+        "comfortBonus": 350
+    },
+    {
+        "id": 12100,
+        "name": "ゲーム開発部模様の寝具セット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12101,
+        "name": "ミレニアム宅配セットボックス",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12102,
+        "name": "青の円形カーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12103,
+        "name": "ゲーム開発部の白いスツール",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12104,
+        "name": "ゲーム開発部の青い座椅子",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12105,
+        "name": "ゲーム開発部の赤い座布団",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12106,
+        "name": "ゲーム開発部の部室ドア",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12107,
+        "name": "ミレニアムロゴの窓付きパーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12108,
+        "name": "シルバー·ポリッシングの床",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12109,
+        "name": "ゲーム開発部の青いロッカー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12110,
+        "name": "ゲーム開発部の鉄製パーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12111,
+        "name": "サンスベリアセット植木鉢",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12112,
+        "name": "ゲーム開発部のスケジュールボード",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12113,
+        "name": "ドリンクお菓子セットのテーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12114,
+        "name": "ブルーラインの柱",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12115,
+        "name": "ゲーム開発部のロゴプレート",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12116,
+        "name": "白いミニ換気扇",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12117,
+        "name": "ゲーム開発部のLED電光板",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12118,
+        "name": "ヴィンテージな壁掛け扇風機",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12119,
+        "name": "ゲーム開発部の額縁",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12120,
+        "name": "ゲーム開発部の壁掛けエアコン",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12200,
+        "name": "レトロゲーム収納テーブル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12201,
+        "name": "ノートパソコン収納テーブル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12202,
+        "name": "ゲーム本収納テーブル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12203,
+        "name": "ゲーム用モニター",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12204,
+        "name": "ボードゲーム収納ケース",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12205,
+        "name": "ゲームグッズ収納ケース",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12206,
+        "name": "ゲーム機収納ケース",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12207,
+        "name": "ゲーム開発部のソファー",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12208,
+        "name": "ゲーム開発部のピンクベアーぬいぐるみ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12209,
+        "name": "モノトーンパターンの床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12210,
+        "name": "ブルーラインの壁",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12211,
+        "name": "ゲーム開発部のロゴ背景",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12300,
+        "name": "ゲーム開発部の個人収納ケース",
+        "comfortBonus": 350
+    },
+    {
+        "id": 12301,
+        "name": "ゲーム機用のウッドモニター",
+        "comfortBonus": 350
+    },
+    {
+        "id": 12302,
+        "name": "ゲーム開発部のカーペット",
+        "comfortBonus": 350
+    },
+    {
+        "id": 12303,
+        "name": "ゲーム開発部の人形",
+        "comfortBonus": 350
+    },
+    {
+        "id": 12304,
+        "name": "ゲーム開発部のホワイトボード",
+        "comfortBonus": 350
+    },
+    {
+        "id": 12305,
+        "name": "ゲーム開発部のカーテン付き窓",
+        "comfortBonus": 350
+    },
+    {
+        "id": 100000,
+        "name": "ビナー戦（屋外戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100001,
+        "name": "ビナー戦（屋外戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100002,
+        "name": "ビナー戦（屋外戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100003,
+        "name": "ビナー戦（屋外戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100010,
+        "name": "ビナー戦（屋内戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100011,
+        "name": "ビナー戦（屋内戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100012,
+        "name": "ビナー戦（屋内戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100013,
+        "name": "ビナー戦（屋内戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100020,
+        "name": "ビナー戦（市街地戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100021,
+        "name": "ビナー戦（市街地戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100022,
+        "name": "ビナー戦（市街地戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100023,
+        "name": "ビナー戦（市街地戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100100,
+        "name": "ケセド（屋外戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100101,
+        "name": "ケセド（屋外戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100102,
+        "name": "ケセド（屋外戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100103,
+        "name": "ケセド（屋外戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100110,
+        "name": "ケセド（屋内戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100111,
+        "name": "ケセド（屋内戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100112,
+        "name": "ケセド（屋内戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100113,
+        "name": "ケセド（屋内戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100120,
+        "name": "ケセド（市街地戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100121,
+        "name": "ケセド（市街地戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100122,
+        "name": "ケセド（市街地戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100123,
+        "name": "ケセド（市街地戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100200,
+        "name": "シロ＆クロ（屋外戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100201,
+        "name": "シロ＆クロ（屋外戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100202,
+        "name": "シロ＆クロ（屋外戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100203,
+        "name": "シロ＆クロ（屋外戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100210,
+        "name": "シロ＆クロ（屋内戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100211,
+        "name": "シロ＆クロ（屋内戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100212,
+        "name": "シロ＆クロ（屋内戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100213,
+        "name": "シロ＆クロ（屋内戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100220,
+        "name": "シロ＆クロ（市街地戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100221,
+        "name": "シロ＆クロ（市街地戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100222,
+        "name": "シロ＆クロ（市街地戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100223,
+        "name": "シロ＆クロ（市街地戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100310,
+        "name": "ヒエロニムス（屋内戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100311,
+        "name": "ヒエロニムス（屋内戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100312,
+        "name": "ヒエロニムス（屋内戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100313,
+        "name": "ヒエロニムス（屋内戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100320,
+        "name": "ヒエロニムス（市街地戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100321,
+        "name": "ヒエロニムス（市街地戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100322,
+        "name": "ヒエロニムス（市街地戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100323,
+        "name": "ヒエロニムス（市街地戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100400,
+        "name": "KAITEN FX Mk.0（屋外戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100401,
+        "name": "KAITEN FX Mk.0（屋外戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100402,
+        "name": "KAITEN FX Mk.0（屋外戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100403,
+        "name": "KAITEN FX Mk.0（屋外戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100420,
+        "name": "KAITEN FX Mk.0（市街地戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100421,
+        "name": "KAITEN FX Mk.0（市街地戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100422,
+        "name": "KAITEN FX Mk.0（市街地戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100423,
+        "name": "KAITEN FX Mk.0（市街地戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100510,
+        "name": "ペロロジラ（屋内戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100511,
+        "name": "ペロロジラ（屋内戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100512,
+        "name": "ペロロジラ（屋内戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100513,
+        "name": "ペロロジラ（屋内戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100500,
+        "name": "ペロロジラ（屋外戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100501,
+        "name": "ペロロジラ（屋外戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100502,
+        "name": "ペロロジラ（屋外戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100503,
+        "name": "ペロロジラ（屋外戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100620,
+        "name": "ホド（市街地戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100621,
+        "name": "ホド（市街地戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100622,
+        "name": "ホド（市街地戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100623,
+        "name": "ホド（市街地戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100710,
+        "name": "ゴズ（屋内戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100711,
+        "name": "ゴズ（屋内戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100712,
+        "name": "ゴズ（屋内戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100713,
+        "name": "ゴズ（屋内戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100610,
+        "name": "ホド（屋内戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100611,
+        "name": "ホド（屋内戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100612,
+        "name": "ホド（屋内戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100613,
+        "name": "ホド（屋内戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100810,
+        "name": "グレゴリオ（屋内戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100811,
+        "name": "グレゴリオ（屋内戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100812,
+        "name": "グレゴリオ（屋内戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100813,
+        "name": "グレゴリオ（屋内戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 200301,
+        "name": "トリニティの噴水",
+        "comfortBonus": 350
+    },
+    {
+        "id": 201301,
+        "name": "夏色のフォトボード",
+        "comfortBonus": 350
+    },
+    {
+        "id": 202301,
+        "name": "きらめくクリスマスツリー",
+        "comfortBonus": 350
+    },
+    {
+        "id": 202302,
+        "name": "227号温泉郷の案内図",
+        "comfortBonus": 350
+    },
+    {
+        "id": 203301,
+        "name": "ブルー·ニュートロ·ターンテーブル",
+        "comfortBonus": 350
+    },
+    {
+        "id": 203302,
+        "name": "百夜堂の出張屋台",
+        "comfortBonus": 350
+    },
+    {
+        "id": 203303,
+        "name": "伝統的な格子の掃き出し窓",
+        "comfortBonus": 350
+    },
+    {
+        "id": 204301,
+        "name": "アンティークな収納付きウッドデスク",
+        "comfortBonus": 350
+    },
+    {
+        "id": 205301,
+        "name": "ロイヤルダイヤチェア",
+        "comfortBonus": 350
+    },
+    {
+        "id": 206301,
+        "name": "ホログラム·キューブ·ターンテーブル",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207301,
+        "name": "大運動会のガイドボード",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207302,
+        "name": "カウンターチェア・ゴールドブラック",
+        "comfortBonus": 50
+    },
+    {
+        "id": 207303,
+        "name": "カウンターチェア・ゴールドレッドワイン",
+        "comfortBonus": 50
+    },
+    {
+        "id": 207304,
+        "name": "カウンターチェア・シルバーネオンブルー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 207305,
+        "name": "カウンターチェア・ダークバイオレット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 207306,
+        "name": "大運動会の思い出",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207307,
+        "name": "格闘ゲーム機",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207308,
+        "name": "暖かなクリスマス暖炉",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207309,
+        "name": "軽快な譜面台",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207310,
+        "name": "豪奢な装飾のティーテーブル",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207311,
+        "name": "トリニティオルガン",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207312,
+        "name": "ティーパーティーテーブル",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207313,
+        "name": "取調室のテーブル",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207314,
+        "name": "大聖堂の長椅子",
+        "comfortBonus": 350
+    },
+    {
+        "id": 208301,
+        "name": "D.U.シラトリ区のジオラマ",
+        "comfortBonus": 350
+    },
+    {
+        "id": 209301,
+        "name": "植物棚",
+        "comfortBonus": 350
+    },
+    {
+        "id": 209302,
+        "name": "百鬼夜行グッズの飾り棚",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210301,
+        "name": "ゲーム開発部のロッカー",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210302,
+        "name": "カウンターチェア・ディープブルー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 210303,
+        "name": "水色のシングルソファ",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210304,
+        "name": "鉄製引き戸ロッカー",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210305,
+        "name": "中華風ホットショーケース",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210306,
+        "name": "中華風の椅子",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210307,
+        "name": "木工作業台",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210308,
+        "name": "新鮮！魚箱",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210309,
+        "name": "スキューバダイビングギア保管ラック",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210310,
+        "name": "シャワーブース",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210311,
+        "name": "バタバタカジキの展示台",
+        "comfortBonus": 350
+    },
+    {
+        "id": 301001,
+        "name": "総力戦ブロンズトロフィースタンド01",
+        "comfortBonus": 50
+    },
+    {
+        "id": 301101,
+        "name": "総力戦シルバートロフィースタンド01",
+        "comfortBonus": 50
+    },
+    {
+        "id": 301201,
+        "name": "総力戦ゴールドトロフィースタンド01",
+        "comfortBonus": 120
+    },
+    {
+        "id": 301301,
+        "name": "総力戦プラチナトロフィースタンド01",
+        "comfortBonus": 350
+    },
+    {
+        "id": 301002,
+        "name": "総力戦ブロンズトロフィースタンド02",
+        "comfortBonus": 50
+    },
+    {
+        "id": 301102,
+        "name": "総力戦シルバートロフィースタンド02",
+        "comfortBonus": 50
+    },
+    {
+        "id": 301202,
+        "name": "総力戦ゴールドトロフィースタンド02",
+        "comfortBonus": 120
+    },
+    {
+        "id": 301302,
+        "name": "総力戦プラチナトロフィースタンド02",
+        "comfortBonus": 350
+    },
+    {
+        "id": 302301,
+        "name": "リコレクト・メモリー1st",
+        "comfortBonus": 350
+    },
+    {
+        "id": 302302,
+        "name": "リコレクト・メモリー2nd",
+        "comfortBonus": 350
+    },
+    {
+        "id": 302303,
+        "name": "リコレクト・メモリー3rd",
+        "comfortBonus": 350
+    },
+    {
+        "id": 302304,
+        "name": "リコレクト・メモリー4th",
+        "comfortBonus": 350
+    },
+    {
+        "id": 302305,
+        "name": "リコレクト・メモリー4.5th",
+        "comfortBonus": 350
+    }
+]

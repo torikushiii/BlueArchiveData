@@ -1,0 +1,4762 @@
+[
+    {
+        "id": 1,
+        "name": "Keystone Piece",
+        "category": "Material"
+    },
+    {
+        "id": 2,
+        "name": "Booster Ticket",
+        "category": "Material"
+    },
+    {
+        "id": 3,
+        "name": "Keystone",
+        "category": "Material"
+    },
+    {
+        "id": 7,
+        "name": "Total Assault Coin",
+        "category": "Coin"
+    },
+    {
+        "id": 8,
+        "name": "Tactical Challenge Coin",
+        "category": "Coin"
+    },
+    {
+        "id": 9,
+        "name": "Advanced Total Assault Coin",
+        "category": "Coin"
+    },
+    {
+        "id": 10,
+        "name": "Novice Activity Report",
+        "category": "CharacterExpGrowth"
+    },
+    {
+        "id": 11,
+        "name": "Normal Activity Report",
+        "category": "CharacterExpGrowth"
+    },
+    {
+        "id": 12,
+        "name": "Advanced Activity Report",
+        "category": "CharacterExpGrowth"
+    },
+    {
+        "id": 13,
+        "name": "Superior Activity Report",
+        "category": "CharacterExpGrowth"
+    },
+    {
+        "id": 23,
+        "name": "Eligma",
+        "category": "Coin"
+    },
+    {
+        "id": 30,
+        "name": "Cafe Facilities Core Lv. 1",
+        "category": "Material"
+    },
+    {
+        "id": 31,
+        "name": "Cafe Facilities Core Lv. 2",
+        "category": "Material"
+    },
+    {
+        "id": 32,
+        "name": "Cafe Facilities Core Lv. 3",
+        "category": "Material"
+    },
+    {
+        "id": 33,
+        "name": "Cafe Facilities Core Lv. 4",
+        "category": "Material"
+    },
+    {
+        "id": 39,
+        "name": "Cafe Facilities Core Lv. 10",
+        "category": "Material"
+    },
+    {
+        "id": 60,
+        "name": "Joint Firing Drill Coin",
+        "category": "Coin"
+    },
+    {
+        "id": 61,
+        "name": "Bounty Coins",
+        "category": "Coin"
+    },
+    {
+        "id": 80,
+        "name": "Lesser Fusion Keystone",
+        "category": "Material"
+    },
+    {
+        "id": 81,
+        "name": "Normal Fusion Keystone",
+        "category": "Material"
+    },
+    {
+        "id": 82,
+        "name": "Advanced Fusion Keystone",
+        "category": "Material"
+    },
+    {
+        "id": 83,
+        "name": "Superior Fusion Keystone",
+        "category": "Material"
+    },
+    {
+        "id": 90,
+        "name": "Lesser Crafting Material",
+        "category": "Material"
+    },
+    {
+        "id": 91,
+        "name": "Normal Crafting Material",
+        "category": "Material"
+    },
+    {
+        "id": 92,
+        "name": "Advanced Crafting Material",
+        "category": "Material"
+    },
+    {
+        "id": 100,
+        "name": "Nebra Sky Disk Piece",
+        "category": "Material"
+    },
+    {
+        "id": 101,
+        "name": "Broken Nebra Sky Disk",
+        "category": "Material"
+    },
+    {
+        "id": 102,
+        "name": "Damaged Nebra Sky Disk",
+        "category": "Material"
+    },
+    {
+        "id": 103,
+        "name": "Intact Nebra Sky Disk",
+        "category": "Material"
+    },
+    {
+        "id": 110,
+        "name": "Phaistos Disc Piece",
+        "category": "Material"
+    },
+    {
+        "id": 111,
+        "name": "Broken Phaistos Disc",
+        "category": "Material"
+    },
+    {
+        "id": 112,
+        "name": "Damaged Phaistos Disc",
+        "category": "Material"
+    },
+    {
+        "id": 113,
+        "name": "Intact Phaistos Disc",
+        "category": "Material"
+    },
+    {
+        "id": 120,
+        "name": "Wolfsegg Iron Ore",
+        "category": "Material"
+    },
+    {
+        "id": 121,
+        "name": "Wolfsegg Steel",
+        "category": "Material"
+    },
+    {
+        "id": 122,
+        "name": "Low-Purity Wolfsegg Steel",
+        "category": "Material"
+    },
+    {
+        "id": 123,
+        "name": "High-Purity Wolfsegg Steel",
+        "category": "Material"
+    },
+    {
+        "id": 130,
+        "name": "Nimrud Lens Piece",
+        "category": "Material"
+    },
+    {
+        "id": 131,
+        "name": "Broken Nimrud Lens",
+        "category": "Material"
+    },
+    {
+        "id": 132,
+        "name": "Damaged Nimrud Lens",
+        "category": "Material"
+    },
+    {
+        "id": 133,
+        "name": "Intact Nimrud Lens",
+        "category": "Material"
+    },
+    {
+        "id": 140,
+        "name": "Mandrake Seed",
+        "category": "Material"
+    },
+    {
+        "id": 141,
+        "name": "Mandrake Sprout",
+        "category": "Material"
+    },
+    {
+        "id": 142,
+        "name": "Mandrake Juice",
+        "category": "Material"
+    },
+    {
+        "id": 143,
+        "name": "Mandrake Extract",
+        "category": "Material"
+    },
+    {
+        "id": 150,
+        "name": "Rohonc Codex Page",
+        "category": "Material"
+    },
+    {
+        "id": 151,
+        "name": "Damaged Rohonc Codex",
+        "category": "Material"
+    },
+    {
+        "id": 152,
+        "name": "Annotated Rohonc Codex",
+        "category": "Material"
+    },
+    {
+        "id": 153,
+        "name": "Intact Rohonc Codex",
+        "category": "Material"
+    },
+    {
+        "id": 160,
+        "name": "Aether Dust",
+        "category": "Material"
+    },
+    {
+        "id": 161,
+        "name": "Aether Piece",
+        "category": "Material"
+    },
+    {
+        "id": 162,
+        "name": "Aether Shard",
+        "category": "Material"
+    },
+    {
+        "id": 163,
+        "name": "Aether Essence",
+        "category": "Material"
+    },
+    {
+        "id": 170,
+        "name": "Antikythera Mechanism Piece",
+        "category": "Material"
+    },
+    {
+        "id": 171,
+        "name": "Broken Antikythera Mechanism",
+        "category": "Material"
+    },
+    {
+        "id": 172,
+        "name": "Damaged Antikythera Mechanism",
+        "category": "Material"
+    },
+    {
+        "id": 173,
+        "name": "Intact Antikythera Mechanism",
+        "category": "Material"
+    },
+    {
+        "id": 180,
+        "name": "Voynich Manuscript Page",
+        "category": "Material"
+    },
+    {
+        "id": 181,
+        "name": "Damaged Voynich Manuscript",
+        "category": "Material"
+    },
+    {
+        "id": 182,
+        "name": "Annotated Voynich Manuscript",
+        "category": "Material"
+    },
+    {
+        "id": 183,
+        "name": "Intact Voynich Manuscript",
+        "category": "Material"
+    },
+    {
+        "id": 190,
+        "name": "Crystal Haniwa Fragment",
+        "category": "Material"
+    },
+    {
+        "id": 191,
+        "name": "Broken Crystal Haniwa",
+        "category": "Material"
+    },
+    {
+        "id": 192,
+        "name": "Repaired Crystal Haniwa",
+        "category": "Material"
+    },
+    {
+        "id": 193,
+        "name": "Intact Crystal Haniwa",
+        "category": "Material"
+    },
+    {
+        "id": 200,
+        "name": "Totem Pole Piece",
+        "category": "Material"
+    },
+    {
+        "id": 201,
+        "name": "Broken Totem Pole",
+        "category": "Material"
+    },
+    {
+        "id": 202,
+        "name": "Repaired Totem Pole",
+        "category": "Material"
+    },
+    {
+        "id": 203,
+        "name": "Intact Totem Pole",
+        "category": "Material"
+    },
+    {
+        "id": 210,
+        "name": "Ancient Battery Piece",
+        "category": "Material"
+    },
+    {
+        "id": 211,
+        "name": "Broken Ancient Battery",
+        "category": "Material"
+    },
+    {
+        "id": 212,
+        "name": "Damaged Ancient Battery",
+        "category": "Material"
+    },
+    {
+        "id": 213,
+        "name": "Intact Ancient Battery",
+        "category": "Material"
+    },
+    {
+        "id": 240,
+        "name": "Disco Colgante Piece",
+        "category": "Material"
+    },
+    {
+        "id": 241,
+        "name": "Broken Disco Colgante",
+        "category": "Material"
+    },
+    {
+        "id": 242,
+        "name": "Repaired Disco Colgante",
+        "category": "Material"
+    },
+    {
+        "id": 243,
+        "name": "Intact Disco Colgante",
+        "category": "Material"
+    },
+    {
+        "id": 290,
+        "name": "Winnipesaukee Stone Piece",
+        "category": "Material"
+    },
+    {
+        "id": 291,
+        "name": "Broken Winnipesaukee Stone",
+        "category": "Material"
+    },
+    {
+        "id": 292,
+        "name": "Damaged Winnipesaukee Stone",
+        "category": "Material"
+    },
+    {
+        "id": 293,
+        "name": "Intact Winnipesaukee Stone",
+        "category": "Material"
+    },
+    {
+        "id": 3000,
+        "name": "Beginner Tactical Training Blu-ray (Hyakkiyako)",
+        "category": "Material"
+    },
+    {
+        "id": 3001,
+        "name": "Normal Tactical Training Blu-ray (Hyakkiyako)",
+        "category": "Material"
+    },
+    {
+        "id": 3002,
+        "name": "Advanced Tactical Training Blu-ray (Hyakkiyako)",
+        "category": "Material"
+    },
+    {
+        "id": 3003,
+        "name": "Superior Tactical Training Blu-ray (Hyakkiyako)",
+        "category": "Material"
+    },
+    {
+        "id": 3010,
+        "name": "Beginner Tactical Training Blu-ray (Red Winter)",
+        "category": "Material"
+    },
+    {
+        "id": 3011,
+        "name": "Normal Tactical Training Blu-ray (Red Winter)",
+        "category": "Material"
+    },
+    {
+        "id": 3012,
+        "name": "Advanced Tactical Training Blu-ray (Red Winter)",
+        "category": "Material"
+    },
+    {
+        "id": 3013,
+        "name": "Superior Tactical Training Blu-ray (Red Winter)",
+        "category": "Material"
+    },
+    {
+        "id": 3020,
+        "name": "Beginner Tactical Training Blu-ray (Trinity)",
+        "category": "Material"
+    },
+    {
+        "id": 3021,
+        "name": "Normal Tactical Training Blu-ray (Trinity)",
+        "category": "Material"
+    },
+    {
+        "id": 3022,
+        "name": "Advanced Tactical Training Blu-ray (Trinity)",
+        "category": "Material"
+    },
+    {
+        "id": 3023,
+        "name": "Superior Tactical Training Blu-ray (Trinity)",
+        "category": "Material"
+    },
+    {
+        "id": 3030,
+        "name": "Beginner Tactical Training Blu-ray (Gehenna)",
+        "category": "Material"
+    },
+    {
+        "id": 3031,
+        "name": "Normal Tactical Training Blu-ray (Gehenna)",
+        "category": "Material"
+    },
+    {
+        "id": 3032,
+        "name": "Advanced Tactical Training Blu-ray (Gehenna)",
+        "category": "Material"
+    },
+    {
+        "id": 3033,
+        "name": "Superior Tactical Training Blu-ray (Gehenna)",
+        "category": "Material"
+    },
+    {
+        "id": 3040,
+        "name": "Beginner Tactical Training Blu-ray (Abydos)",
+        "category": "Material"
+    },
+    {
+        "id": 3041,
+        "name": "Normal Tactical Training Blu-ray (Abydos)",
+        "category": "Material"
+    },
+    {
+        "id": 3042,
+        "name": "Advanced Tactical Training Blu-ray (Abydos)",
+        "category": "Material"
+    },
+    {
+        "id": 3043,
+        "name": "Superior Tactical Training Blu-ray (Abydos)",
+        "category": "Material"
+    },
+    {
+        "id": 3050,
+        "name": "Beginner Tactical Training Blu-ray (Millennium)",
+        "category": "Material"
+    },
+    {
+        "id": 3051,
+        "name": "Normal Tactical Training Blu-ray (Millennium)",
+        "category": "Material"
+    },
+    {
+        "id": 3052,
+        "name": "Advanced Tactical Training Blu-ray (Millennium)",
+        "category": "Material"
+    },
+    {
+        "id": 3053,
+        "name": "Superior Tactical Training Blu-ray (Millennium)",
+        "category": "Material"
+    },
+    {
+        "id": 3060,
+        "name": "Beginner Tactical Training Blu-ray (Arius)",
+        "category": "Material"
+    },
+    {
+        "id": 3061,
+        "name": "Normal Tactical Training Blu-ray (Arius)",
+        "category": "Material"
+    },
+    {
+        "id": 3062,
+        "name": "Advance Tactical Training Blu-ray (Arius)",
+        "category": "Material"
+    },
+    {
+        "id": 3063,
+        "name": "Superior Tactical Training Blu-ray (Arius)",
+        "category": "Material"
+    },
+    {
+        "id": 3070,
+        "name": "Beginner Tactical Training Blu-ray (Shanhaijing)",
+        "category": "Material"
+    },
+    {
+        "id": 3071,
+        "name": "Normal Tactical Training Blu-ray (Shanhaijing)",
+        "category": "Material"
+    },
+    {
+        "id": 3072,
+        "name": "Advanced Tactical Training Blu-ray (Shanhaijing)",
+        "category": "Material"
+    },
+    {
+        "id": 3073,
+        "name": "Superior Tactical Training Blu-ray (Shanhaijing)",
+        "category": "Material"
+    },
+    {
+        "id": 3080,
+        "name": "Beginner Tactical Training Blu-ray (Valkyrie)",
+        "category": "Material"
+    },
+    {
+        "id": 3081,
+        "name": "Normal Tactical Training Blu-ray (Valkyrie)",
+        "category": "Material"
+    },
+    {
+        "id": 3082,
+        "name": "Advanced Tactical Training Blu-ray (Valkyrie)",
+        "category": "Material"
+    },
+    {
+        "id": 3083,
+        "name": "Superior Tactical Training Blu-ray (Valkyrie)",
+        "category": "Material"
+    },
+    {
+        "id": 4000,
+        "name": "Beginner Tech Notes (Hyakkiyako)",
+        "category": "Material"
+    },
+    {
+        "id": 4001,
+        "name": "Normal Tech Notes (Hyakkiyako)",
+        "category": "Material"
+    },
+    {
+        "id": 4002,
+        "name": "Advanced Tech Notes (Hyakkiyako)",
+        "category": "Material"
+    },
+    {
+        "id": 4003,
+        "name": "Superior Tech Notes (Hyakkiyako)",
+        "category": "Material"
+    },
+    {
+        "id": 4010,
+        "name": "Beginner Tech Notes (Red Winter)",
+        "category": "Material"
+    },
+    {
+        "id": 4011,
+        "name": "Normal Tech Notes (Red Winter)",
+        "category": "Material"
+    },
+    {
+        "id": 4012,
+        "name": "Advanced Tech Notes (Red Winter)",
+        "category": "Material"
+    },
+    {
+        "id": 4013,
+        "name": "Superior Tech Notes (Red Winter)",
+        "category": "Material"
+    },
+    {
+        "id": 4020,
+        "name": "Beginner Tech Notes (Trinity)",
+        "category": "Material"
+    },
+    {
+        "id": 4021,
+        "name": "Normal Tech Notes (Trinity)",
+        "category": "Material"
+    },
+    {
+        "id": 4022,
+        "name": "Advanced Tech Notes (Trinity)",
+        "category": "Material"
+    },
+    {
+        "id": 4023,
+        "name": "Superior Tech Notes (Trinity)",
+        "category": "Material"
+    },
+    {
+        "id": 4030,
+        "name": "Beginner Tech Notes (Gehenna)",
+        "category": "Material"
+    },
+    {
+        "id": 4031,
+        "name": "Normal Tech Notes (Gehenna)",
+        "category": "Material"
+    },
+    {
+        "id": 4032,
+        "name": "Advanced Tech Notes (Gehenna)",
+        "category": "Material"
+    },
+    {
+        "id": 4033,
+        "name": "Superior Tech Notes (Gehenna)",
+        "category": "Material"
+    },
+    {
+        "id": 4040,
+        "name": "Beginner Tech Notes (Abydos)",
+        "category": "Material"
+    },
+    {
+        "id": 4041,
+        "name": "Normal Tech Notes (Abydos)",
+        "category": "Material"
+    },
+    {
+        "id": 4042,
+        "name": "Advanced Tech Notes (Abydos)",
+        "category": "Material"
+    },
+    {
+        "id": 4043,
+        "name": "Superior Tech Notes (Abydos)",
+        "category": "Material"
+    },
+    {
+        "id": 4050,
+        "name": "Beginner Tech Notes (Millennium)",
+        "category": "Material"
+    },
+    {
+        "id": 4051,
+        "name": "Normal Tech Notes (Millennium)",
+        "category": "Material"
+    },
+    {
+        "id": 4052,
+        "name": "Advanced Tech Notes (Millennium)",
+        "category": "Material"
+    },
+    {
+        "id": 4053,
+        "name": "Superior Tech Notes (Millennium)",
+        "category": "Material"
+    },
+    {
+        "id": 4060,
+        "name": "Beginner Tech Notes (Arius)",
+        "category": "Material"
+    },
+    {
+        "id": 4061,
+        "name": "Normal Tech Notes (Arius)",
+        "category": "Material"
+    },
+    {
+        "id": 4062,
+        "name": "Advanced Tech Notes (Arius)",
+        "category": "Material"
+    },
+    {
+        "id": 4063,
+        "name": "Superior Tech Notes (Arius)",
+        "category": "Material"
+    },
+    {
+        "id": 4070,
+        "name": "Beginner Tech Notes (Shanhaijing)",
+        "category": "Material"
+    },
+    {
+        "id": 4071,
+        "name": "Normal Tech Notes (Shanhaijing)",
+        "category": "Material"
+    },
+    {
+        "id": 4072,
+        "name": "Advanced Tech Notes (Shanhaijing)",
+        "category": "Material"
+    },
+    {
+        "id": 4073,
+        "name": "Superior Tech Notes (Shanhaijing)",
+        "category": "Material"
+    },
+    {
+        "id": 4080,
+        "name": "Beginner Tech Notes (Valkyrie)",
+        "category": "Material"
+    },
+    {
+        "id": 4081,
+        "name": "Normal Tech Notes (Valkyrie)",
+        "category": "Material"
+    },
+    {
+        "id": 4082,
+        "name": "Advanced Tech Notes (Valkyrie)",
+        "category": "Material"
+    },
+    {
+        "id": 4083,
+        "name": "Superior Tech Notes (Valkyrie)",
+        "category": "Material"
+    },
+    {
+        "id": 5000,
+        "name": "Wavecat Pillow",
+        "category": "Favor"
+    },
+    {
+        "id": 5001,
+        "name": "Peroro Wheel",
+        "category": "Favor"
+    },
+    {
+        "id": 5002,
+        "name": "A-Pods Pro",
+        "category": "Favor"
+    },
+    {
+        "id": 5003,
+        "name": "Forbidden Love: Its beauty lies in its illicitness",
+        "category": "Favor"
+    },
+    {
+        "id": 5004,
+        "name": "Hitgirls Gaming Magazine",
+        "category": "Favor"
+    },
+    {
+        "id": 5005,
+        "name": "Cherry-Rose Lip Gloss",
+        "category": "Favor"
+    },
+    {
+        "id": 5006,
+        "name": "Glassy Glow BB Cream",
+        "category": "Favor"
+    },
+    {
+        "id": 5007,
+        "name": "Military Camo Foundation Trio",
+        "category": "Favor"
+    },
+    {
+        "id": 5008,
+        "name": "Fine Cookie Set",
+        "category": "Favor"
+    },
+    {
+        "id": 5009,
+        "name": "Guns, Charm, and Zeal",
+        "category": "Favor"
+    },
+    {
+        "id": 5010,
+        "name": "Astronomical Telescope",
+        "category": "Favor"
+    },
+    {
+        "id": 5011,
+        "name": "Gamegirl Color Replica",
+        "category": "Favor"
+    },
+    {
+        "id": 5012,
+        "name": "MX-Ration C-Type Dessert Flavor",
+        "category": "Favor"
+    },
+    {
+        "id": 5013,
+        "name": "Matcha Ramune",
+        "category": "Favor"
+    },
+    {
+        "id": 5014,
+        "name": "Jellies Cushion",
+        "category": "Favor"
+    },
+    {
+        "id": 5015,
+        "name": "Extraordinary Cottontail Detective- Case of the Misty Hot Spring Slide -",
+        "category": "Favor"
+    },
+    {
+        "id": 5016,
+        "name": "Ring Bit",
+        "category": "Favor"
+    },
+    {
+        "id": 5017,
+        "name": "Buried Treasure Map",
+        "category": "Favor"
+    },
+    {
+        "id": 5018,
+        "name": "Cosplayer Coke-Bottle Glasses",
+        "category": "Favor"
+    },
+    {
+        "id": 5019,
+        "name": "World's Most Useless Gadget",
+        "category": "Favor"
+    },
+    {
+        "id": 5020,
+        "name": "Teddy Bear with Bow",
+        "category": "Favor"
+    },
+    {
+        "id": 5021,
+        "name": "Movie Ticket",
+        "category": "Favor"
+    },
+    {
+        "id": 5022,
+        "name": "30-Color Paint Set",
+        "category": "Favor"
+    },
+    {
+        "id": 5023,
+        "name": "Classical Poetry Anthology",
+        "category": "Favor"
+    },
+    {
+        "id": 5024,
+        "name": "Cute Dishware Set",
+        "category": "Favor"
+    },
+    {
+        "id": 5025,
+        "name": "Brain Teaser Puzzle Cube",
+        "category": "Favor"
+    },
+    {
+        "id": 5026,
+        "name": "Large Whole Cake",
+        "category": "Favor"
+    },
+    {
+        "id": 5027,
+        "name": "Luxury Buffet Ticket",
+        "category": "Favor"
+    },
+    {
+        "id": 5028,
+        "name": "Potted Bug-Eating Plant",
+        "category": "Favor"
+    },
+    {
+        "id": 5029,
+        "name": "Extravagant Gilded Jar of Greed",
+        "category": "Favor"
+    },
+    {
+        "id": 5030,
+        "name": "Wind-Up Music Box",
+        "category": "Favor"
+    },
+    {
+        "id": 5031,
+        "name": "Embroidered Handkerchief",
+        "category": "Favor"
+    },
+    {
+        "id": 5032,
+        "name": "Encyclopedia",
+        "category": "Favor"
+    },
+    {
+        "id": 5033,
+        "name": "Health Food Supplement",
+        "category": "Favor"
+    },
+    {
+        "id": 5034,
+        "name": "Summer Floaty",
+        "category": "Favor"
+    },
+    {
+        "id": 5100,
+        "name": "Lace Pillow",
+        "category": "Favor"
+    },
+    {
+        "id": 5101,
+        "name": "Streets of Thugs Vol. 1",
+        "category": "Favor"
+    },
+    {
+        "id": 5102,
+        "name": "Samuela \"The Beyond\"",
+        "category": "Favor"
+    },
+    {
+        "id": 5103,
+        "name": "Antique Egg Handicraft",
+        "category": "Favor"
+    },
+    {
+        "id": 5104,
+        "name": "Mille-Feuille Traditional Parfait",
+        "category": "Favor"
+    },
+    {
+        "id": 5105,
+        "name": "Airbook Rare",
+        "category": "Favor"
+    },
+    {
+        "id": 5106,
+        "name": "Sophisticated Hairbrush",
+        "category": "Favor"
+    },
+    {
+        "id": 5107,
+        "name": "Nutrient-Packed Multivitamin Gummies",
+        "category": "Favor"
+    },
+    {
+        "id": 5108,
+        "name": "Finest Maple Bonsai",
+        "category": "Favor"
+    },
+    {
+        "id": 5109,
+        "name": "Sewing Kit",
+        "category": "Favor"
+    },
+    {
+        "id": 5110,
+        "name": "Music Concert Ticket",
+        "category": "Favor"
+    },
+    {
+        "id": 5111,
+        "name": "Three Times a Day Dumbbell Set",
+        "category": "Favor"
+    },
+    {
+        "id": 5112,
+        "name": "Board Game \"The Life\"",
+        "category": "Favor"
+    },
+    {
+        "id": 5998,
+        "name": "Hatsune Miku Photo Card",
+        "category": "Favor"
+    },
+    {
+        "id": 5999,
+        "name": "Shiny Bouquet",
+        "category": "Favor"
+    },
+    {
+        "id": 91000033,
+        "name": "Frank Burger Commemorative Card",
+        "category": "Favor"
+    },
+    {
+        "id": 91000034,
+        "name": "Dalkomm Coffee Commemorative Card",
+        "category": "Favor"
+    },
+    {
+        "id": 6000,
+        "name": "3★ Student Guaranteed Ticket",
+        "category": "Material"
+    },
+    {
+        "id": 6001,
+        "name": "3★ Student Guaranteed Ticket",
+        "category": "Material"
+    },
+    {
+        "id": 6002,
+        "name": " 2★ Student Guaranteed (x10) Ticket ",
+        "category": "Material"
+    },
+    {
+        "id": 6600,
+        "name": "3★ Student Guaranteed Recruitment Ticket (Attack Type)",
+        "category": "Material"
+    },
+    {
+        "id": 6601,
+        "name": "3★ Student Guaranteed Recruitment Ticket (Attack Type)",
+        "category": "Material"
+    },
+    {
+        "id": 6602,
+        "name": "3★ Student Guaranteed Recruitment Ticket (Attack Type)",
+        "category": "Material"
+    },
+    {
+        "id": 6603,
+        "name": "3★ Student Guaranteed Recruitment Ticket (Attack Type)",
+        "category": "Material"
+    },
+    {
+        "id": 6998,
+        "name": "1-Recruitment Ticket",
+        "category": "Material"
+    },
+    {
+        "id": 6999,
+        "name": "10-Recruitment Ticket",
+        "category": "Material"
+    },
+    {
+        "id": 7000,
+        "name": "Mission Data 1: D Type",
+        "category": "Coin"
+    },
+    {
+        "id": 7001,
+        "name": "Mission Data 1: D Type",
+        "category": "Coin"
+    },
+    {
+        "id": 9998,
+        "name": "Secret Tech Sheet",
+        "category": "Material"
+    },
+    {
+        "id": 9999,
+        "name": "Secret Tech Notes",
+        "category": "Material"
+    },
+    {
+        "id": 10000,
+        "name": "Aru's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10001,
+        "name": "Eimi's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10002,
+        "name": "Haruna's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10003,
+        "name": "Hifumi's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10004,
+        "name": "Hina's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10005,
+        "name": "Hoshino's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10006,
+        "name": "Iori's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10007,
+        "name": "Maki's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10008,
+        "name": "Neru's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10009,
+        "name": "Izumi's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10010,
+        "name": "Shiroko's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10011,
+        "name": "Shun's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10012,
+        "name": "Sumire's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10013,
+        "name": "Tsurugi's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10014,
+        "name": "Izuna's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10015,
+        "name": "Aris' Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10016,
+        "name": "Midori's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10017,
+        "name": "Cherino's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10018,
+        "name": "Yuzu's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10019,
+        "name": "Azusa's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10020,
+        "name": "Koharu's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10021,
+        "name": "Azusa (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10022,
+        "name": "Hina (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10023,
+        "name": "Iori (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10024,
+        "name": "Shiroko (Cycling)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10025,
+        "name": "Shun (Small)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10026,
+        "name": "Neru (Bunny)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10027,
+        "name": "Karin (Bunny)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10028,
+        "name": "Asuna (Bunny)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10029,
+        "name": "Natsu's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10030,
+        "name": "Chinatsu (Hot Spring)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10031,
+        "name": "Aru (New Year)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10032,
+        "name": "Mutsuki (New Year)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10033,
+        "name": "Wakamo's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10034,
+        "name": "Mimori's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10035,
+        "name": "Ui's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10036,
+        "name": "Hinata's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10037,
+        "name": "Marina's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10038,
+        "name": "Miyako's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10039,
+        "name": "Miyu's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10040,
+        "name": "Tsukuyo's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10041,
+        "name": "Misaki's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10042,
+        "name": "Atsuko's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10043,
+        "name": "Wakamo (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10044,
+        "name": "Nonomi (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10045,
+        "name": "Hoshino (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10046,
+        "name": "Izuna (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10047,
+        "name": "Chise (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10048,
+        "name": "Saori's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10049,
+        "name": "Kazusa's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10050,
+        "name": "Kokona's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10051,
+        "name": "Utaha (Cheer Squad)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10052,
+        "name": "Noa's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10053,
+        "name": "Yuuka (Track)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10054,
+        "name": "Mari (Track)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10055,
+        "name": "Shigure's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10056,
+        "name": "Serina (Christmas)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10057,
+        "name": "Haruna (New Year)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10058,
+        "name": "Mine's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13000,
+        "name": "Akane's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13001,
+        "name": "Chise's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13002,
+        "name": "Akari's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13003,
+        "name": "Hasumi's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13004,
+        "name": "Nonomi's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13005,
+        "name": "Kayoko's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13006,
+        "name": "Mutsuki's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13007,
+        "name": "Junko's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13008,
+        "name": "Serika's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13009,
+        "name": "Tsubaki's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13010,
+        "name": "Yuuka's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13011,
+        "name": "Momoi's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13012,
+        "name": "Kirino's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16000,
+        "name": "Haruka's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16001,
+        "name": "Asuna's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16002,
+        "name": "Kotori's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16003,
+        "name": "Suzumi's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16004,
+        "name": "Pina's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16005,
+        "name": "Tsurugi (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16006,
+        "name": "Izumi (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16007,
+        "name": "Tomoe's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16008,
+        "name": "Fubuki's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16009,
+        "name": "Michiru's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16010,
+        "name": "Hibiki (Cheer Squad)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16011,
+        "name": "Hasumi (Track)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16012,
+        "name": "Junko (New Year)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20000,
+        "name": "Hibiki's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20001,
+        "name": "Karin's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20002,
+        "name": "Saya's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20003,
+        "name": "Mashiro's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20004,
+        "name": "Mashiro (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20005,
+        "name": "Hifumi (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20006,
+        "name": "Saya (Casual)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20007,
+        "name": "Hatsune Miku's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20008,
+        "name": "Ako's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20009,
+        "name": "Cherino (Hot Spring)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20010,
+        "name": "Nodoka (Hot Spring)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20011,
+        "name": "Serika (New Year)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20012,
+        "name": "Sena's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20013,
+        "name": "Chihiro's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20014,
+        "name": "Saki's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20015,
+        "name": "Kaede's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20016,
+        "name": "Iroha's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20017,
+        "name": "Hiyori's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20018,
+        "name": "Moe's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20019,
+        "name": "Akane (Bunny)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20020,
+        "name": "Himari's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20021,
+        "name": "Hanae (Christmas)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20022,
+        "name": "Fuuka (New Year)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23000,
+        "name": "Airi's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23001,
+        "name": "Fuuka's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23002,
+        "name": "Hanae's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23003,
+        "name": "Hare's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23004,
+        "name": "Utaha's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23005,
+        "name": "Ayane's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23006,
+        "name": "Shizuko's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23007,
+        "name": "Hanako's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 23008,
+        "name": "Mari's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26000,
+        "name": "Chinatsu's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26001,
+        "name": "Kotama's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26002,
+        "name": "Juri's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26003,
+        "name": "Serina's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26004,
+        "name": "Shimiko's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26005,
+        "name": "Yoshimi's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26006,
+        "name": "Nodoka's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26007,
+        "name": "Ayane (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 26008,
+        "name": "Shizuko (Swimsuit)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 30000,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 30001,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 30002,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 30003,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 40000,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 40001,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 40002,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 40003,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 50000,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 50001,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 50002,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 50003,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 50004,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 50005,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 50006,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 50007,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 60000,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 60001,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 60002,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 60003,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 60004,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 60005,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 60006,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 60007,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 60008,
+        "name": "Beginner Tech Notes (Gehenna)",
+        "category": "Consumable"
+    },
+    {
+        "id": 60009,
+        "name": "Beginner Tech Notes (Gehenna)",
+        "category": "Consumable"
+    },
+    {
+        "id": 60010,
+        "name": "Beginner Tech Notes (Abydos)",
+        "category": "Consumable"
+    },
+    {
+        "id": 60011,
+        "name": "Beginner Tech Notes (Abydos)",
+        "category": "Consumable"
+    },
+    {
+        "id": 60012,
+        "name": "Beginner Tech Notes (Millennium)",
+        "category": "Consumable"
+    },
+    {
+        "id": 60013,
+        "name": "Beginner Tech Notes (Millennium)",
+        "category": "Consumable"
+    },
+    {
+        "id": 60014,
+        "name": "Beginner Tech Notes (Trinity)",
+        "category": "Consumable"
+    },
+    {
+        "id": 60015,
+        "name": "Beginner Tech Notes (Trinity)",
+        "category": "Consumable"
+    },
+    {
+        "id": 60016,
+        "name": "Beginner Tech Notes (Red Winter)",
+        "category": "Consumable"
+    },
+    {
+        "id": 60017,
+        "name": "Beginner Tech Notes (Red Winter)",
+        "category": "Consumable"
+    },
+    {
+        "id": 70000,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70001,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70002,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70003,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70004,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70005,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70006,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70007,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70008,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70009,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70010,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70011,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70012,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70013,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70014,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70015,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70016,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70017,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70018,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70019,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70020,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70021,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70022,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70023,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70024,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70025,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70026,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70027,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70028,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70029,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70030,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70031,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70032,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70033,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70034,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70035,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70036,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70037,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70038,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70039,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70040,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70041,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70042,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70043,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70044,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70045,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70046,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70047,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70048,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70049,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70050,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70051,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70052,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70053,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70054,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70055,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70056,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70057,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70058,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70059,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70060,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70061,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70062,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70063,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70064,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70065,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70066,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70067,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70068,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70069,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70070,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70071,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70072,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70073,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70074,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70075,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70076,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70077,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70078,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70079,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70080,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 79999,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070000,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070001,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070002,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070003,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070004,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070005,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070006,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070007,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070008,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070009,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070010,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070011,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070012,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070013,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070014,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070015,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070016,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070017,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070018,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070019,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070020,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070021,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070022,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070023,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070024,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070025,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070026,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070027,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070028,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070029,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070030,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070031,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070032,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070033,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070034,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070035,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070036,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070037,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070038,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070039,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070040,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070041,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070042,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070043,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070044,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070045,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070046,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070047,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070048,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070049,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070050,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070051,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070052,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 80000,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 80001,
+        "name": "Kitsune Senbei",
+        "category": "Coin"
+    },
+    {
+        "id": 80002,
+        "name": "Tanuki Okonomiyaki",
+        "category": "Coin"
+    },
+    {
+        "id": 80003,
+        "name": "Sakura Daifuku",
+        "category": "Coin"
+    },
+    {
+        "id": 80010,
+        "name": "Cherino Matryoshka",
+        "category": "Coin"
+    },
+    {
+        "id": 80011,
+        "name": "Cherenka Chocolate",
+        "category": "Coin"
+    },
+    {
+        "id": 80012,
+        "name": "Mustache Crepe",
+        "category": "Coin"
+    },
+    {
+        "id": 80013,
+        "name": "Red Mustache Medal",
+        "category": "Coin"
+    },
+    {
+        "id": 80020,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 80021,
+        "name": "Beach Volleyball",
+        "category": "Coin"
+    },
+    {
+        "id": 80022,
+        "name": "Beach Shack Meal Ticket",
+        "category": "Coin"
+    },
+    {
+        "id": 80023,
+        "name": "Weird Fireworks",
+        "category": "Coin"
+    },
+    {
+        "id": 80024,
+        "name": "Ice Cooler",
+        "category": "Collectible"
+    },
+    {
+        "id": 80025,
+        "name": "Sand Play Set",
+        "category": "Collectible"
+    },
+    {
+        "id": 80026,
+        "name": "Beach Chair",
+        "category": "Collectible"
+    },
+    {
+        "id": 80027,
+        "name": "Parasol Table",
+        "category": "Collectible"
+    },
+    {
+        "id": 80028,
+        "name": "Water Play Equipment",
+        "category": "Collectible"
+    },
+    {
+        "id": 80029,
+        "name": "Sailing Board",
+        "category": "Collectible"
+    },
+    {
+        "id": 80030,
+        "name": "Gehenna Supply Box",
+        "category": "Coin"
+    },
+    {
+        "id": 80031,
+        "name": "GRS Grilled Corn",
+        "category": "Coin"
+    },
+    {
+        "id": 80032,
+        "name": "Thug Summer Shades",
+        "category": "Coin"
+    },
+    {
+        "id": 80033,
+        "name": "Splashy Helmet",
+        "category": "Coin"
+    },
+    {
+        "id": 80040,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 80041,
+        "name": "Turtle Mushroom",
+        "category": "Coin"
+    },
+    {
+        "id": 80042,
+        "name": "Black Bamboo Shoot",
+        "category": "Coin"
+    },
+    {
+        "id": 80043,
+        "name": "Ginseng Doll",
+        "category": "Coin"
+    },
+    {
+        "id": 80050,
+        "name": "Chocolate Coin",
+        "category": "Coin"
+    },
+    {
+        "id": 80051,
+        "name": "Rabbit Sticker",
+        "category": "Coin"
+    },
+    {
+        "id": 80052,
+        "name": "Boarding Pass",
+        "category": "Coin"
+    },
+    {
+        "id": 80053,
+        "name": "Dice",
+        "category": "Coin"
+    },
+    {
+        "id": 90080000,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 90080001,
+        "name": "Kitsune Senbei",
+        "category": "Coin"
+    },
+    {
+        "id": 90080002,
+        "name": "Tanuki Okonomiyaki",
+        "category": "Coin"
+    },
+    {
+        "id": 90080003,
+        "name": "Sakura Daifuku",
+        "category": "Coin"
+    },
+    {
+        "id": 90080010,
+        "name": "Cherino Matryoshka",
+        "category": "Coin"
+    },
+    {
+        "id": 90080011,
+        "name": "Cherenka Chocolate",
+        "category": "Coin"
+    },
+    {
+        "id": 90080012,
+        "name": "Mustache Crepe",
+        "category": "Coin"
+    },
+    {
+        "id": 90080013,
+        "name": "Red Mustache Medal",
+        "category": "Coin"
+    },
+    {
+        "id": 90080020,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 90080021,
+        "name": "Beach Volleyball",
+        "category": "Coin"
+    },
+    {
+        "id": 90080022,
+        "name": "Beach Shack Meal Ticket",
+        "category": "Coin"
+    },
+    {
+        "id": 90080023,
+        "name": "Weird Fireworks",
+        "category": "Coin"
+    },
+    {
+        "id": 90080024,
+        "name": "Ice Cooler",
+        "category": "Coin"
+    },
+    {
+        "id": 90080025,
+        "name": "Sand Play Set",
+        "category": "Coin"
+    },
+    {
+        "id": 90080026,
+        "name": "Beach Chair",
+        "category": "Coin"
+    },
+    {
+        "id": 90080027,
+        "name": "Parasol Table",
+        "category": "Coin"
+    },
+    {
+        "id": 90080028,
+        "name": "Water Play Equipment",
+        "category": "Coin"
+    },
+    {
+        "id": 90080029,
+        "name": "Sailing Board",
+        "category": "Coin"
+    },
+    {
+        "id": 80060,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 80061,
+        "name": "Hot Spring Towel",
+        "category": "Coin"
+    },
+    {
+        "id": 80062,
+        "name": "Mustache Shampoo",
+        "category": "Coin"
+    },
+    {
+        "id": 80063,
+        "name": "Capybara Bath Bomb",
+        "category": "Coin"
+    },
+    {
+        "id": 80070,
+        "name": "New Year's Lucky Pouch",
+        "category": "Coin"
+    },
+    {
+        "id": 80071,
+        "name": "Peroro Kagami Mochi",
+        "category": "Coin"
+    },
+    {
+        "id": 80072,
+        "name": "Kurokame Gang Ema",
+        "category": "Coin"
+    },
+    {
+        "id": 80073,
+        "name": "New Year Omikuji Token",
+        "category": "Coin"
+    },
+    {
+        "id": 80080,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 80081,
+        "name": "Baddie's Apology Letter",
+        "category": "Coin"
+    },
+    {
+        "id": 80082,
+        "name": "Confiscated Junk Food",
+        "category": "Coin"
+    },
+    {
+        "id": 80083,
+        "name": "Eco-Friendly Trash Bags",
+        "category": "Coin"
+    },
+    {
+        "id": 80084,
+        "name": "Valentine's Day Outing Pass",
+        "category": "Coin"
+    },
+    {
+        "id": 80090,
+        "name": "Wakamo Arrest Warrant",
+        "category": "Coin"
+    },
+    {
+        "id": 80100,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 80101,
+        "name": "Missal Veil",
+        "category": "Coin"
+    },
+    {
+        "id": 80102,
+        "name": "Hymn Book",
+        "category": "Coin"
+    },
+    {
+        "id": 80103,
+        "name": "Cathedral Candle",
+        "category": "Coin"
+    },
+    {
+        "id": 80110,
+        "name": "Mushiqueen Card Pack",
+        "category": "Coin"
+    },
+    {
+        "id": 80111,
+        "name": "Scrimmage Flyer",
+        "category": "Coin"
+    },
+    {
+        "id": 80112,
+        "name": "Princess Waraku Fan",
+        "category": "Coin"
+    },
+    {
+        "id": 80113,
+        "name": "Ninpero Plush Merch",
+        "category": "Coin"
+    },
+    {
+        "id": 80120,
+        "name": "Materials Box",
+        "category": "Coin"
+    },
+    {
+        "id": 91000001,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000002,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000003,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000004,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000005,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000006,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000007,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000008,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000009,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000010,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000011,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000012,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000013,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000014,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000015,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000016,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000017,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000018,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000019,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000020,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000021,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000022,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000023,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000024,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000025,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000026,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000027,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000028,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000029,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000030,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000031,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 91000032,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 80130,
+        "name": "Local Currency",
+        "category": "Coin"
+    },
+    {
+        "id": 80131,
+        "name": "Momoyodou Shiny Coin",
+        "category": "Coin"
+    },
+    {
+        "id": 80132,
+        "name": "Shiny Conch",
+        "category": "Coin"
+    },
+    {
+        "id": 80133,
+        "name": "Summer Ninjutsu Codex Scroll",
+        "category": "Coin"
+    },
+    {
+        "id": 80134,
+        "name": "Deep Sea Hot Springs Island Resort Ticket",
+        "category": "Coin"
+    },
+    {
+        "id": 80135,
+        "name": "Mushiqueen Cruise Resort Ticket",
+        "category": "Coin"
+    },
+    {
+        "id": 80136,
+        "name": "Ultra Luxury Resort Ticket",
+        "category": "Coin"
+    },
+    {
+        "id": 80140,
+        "name": "Dessert Coupon",
+        "category": "Coin"
+    },
+    {
+        "id": 80141,
+        "name": "Mint Chocolate Parfait",
+        "category": "Coin"
+    },
+    {
+        "id": 80142,
+        "name": "Macaron",
+        "category": "Coin"
+    },
+    {
+        "id": 80143,
+        "name": "Rolled Wafer",
+        "category": "Coin"
+    },
+    {
+        "id": 80150,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 80151,
+        "name": "Beanbag",
+        "category": "Coin"
+    },
+    {
+        "id": 80152,
+        "name": "Millennium Flag",
+        "category": "Coin"
+    },
+    {
+        "id": 80153,
+        "name": "Whistle",
+        "category": "Coin"
+    },
+    {
+        "id": 80160,
+        "name": "Sports Drink",
+        "category": "Coin"
+    },
+    {
+        "id": 80161,
+        "name": "Relay Baton",
+        "category": "Coin"
+    },
+    {
+        "id": 80162,
+        "name": "Red Bean Bun",
+        "category": "Coin"
+    },
+    {
+        "id": 80163,
+        "name": "Information Brochure",
+        "category": "Coin"
+    },
+    {
+        "id": 80170,
+        "name": "Christmas Gift",
+        "category": "Coin"
+    },
+    {
+        "id": 80171,
+        "name": "Christmas Stocking",
+        "category": "Coin"
+    },
+    {
+        "id": 80172,
+        "name": "Candy Cane",
+        "category": "Coin"
+    },
+    {
+        "id": 80173,
+        "name": "Eggnog",
+        "category": "Coin"
+    },
+    {
+        "id": 80180,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 80181,
+        "name": "Red and White Fish Cakes",
+        "category": "Coin"
+    },
+    {
+        "id": 80182,
+        "name": "Snapper",
+        "category": "Coin"
+    },
+    {
+        "id": 80183,
+        "name": "Omikuji Exchange Ticket",
+        "category": "Coin"
+    },
+    {
+        "id": 80200,
+        "name": "Multi-Dimensional Computational Unit",
+        "category": "Coin"
+    },
+    {
+        "id": 80201,
+        "name": "Dimension Engine Part",
+        "category": "Coin"
+    },
+    {
+        "id": 80202,
+        "name": "Space Choco-Burger",
+        "category": "Coin"
+    },
+    {
+        "id": 80203,
+        "name": "Gate Unlock Code - Outer District 2",
+        "category": "Coin"
+    },
+    {
+        "id": 80204,
+        "name": "Gate Unlock Code - Outer District 3",
+        "category": "Coin"
+    },
+    {
+        "id": 80205,
+        "name": "Gate Unlock Code - Central District",
+        "category": "Coin"
+    },
+    {
+        "id": 80220,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 80221,
+        "name": "Student Council Hard Hat",
+        "category": "Coin"
+    },
+    {
+        "id": 80222,
+        "name": "Financial Report",
+        "category": "Coin"
+    },
+    {
+        "id": 80223,
+        "name": "Pollack Roe Crackers",
+        "category": "Coin"
+    },
+    {
+        "id": 85000,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 85001,
+        "name": "Kitsune Senbei",
+        "category": "Coin"
+    },
+    {
+        "id": 85002,
+        "name": "Tanuki Okonomiyaki",
+        "category": "Coin"
+    },
+    {
+        "id": 85003,
+        "name": "Sakura Daifuku",
+        "category": "Coin"
+    },
+    {
+        "id": 85010,
+        "name": "Cherino Matryoshka",
+        "category": "Coin"
+    },
+    {
+        "id": 85011,
+        "name": "Cherenka Chocolate",
+        "category": "Coin"
+    },
+    {
+        "id": 85012,
+        "name": "Mustache Crepe",
+        "category": "Coin"
+    },
+    {
+        "id": 85013,
+        "name": "Red Mustache Medal",
+        "category": "Coin"
+    },
+    {
+        "id": 85020,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 85021,
+        "name": "Beach Volleyball",
+        "category": "Coin"
+    },
+    {
+        "id": 85022,
+        "name": "Beach Shack Meal Ticket",
+        "category": "Coin"
+    },
+    {
+        "id": 85023,
+        "name": "Weird Fireworks",
+        "category": "Coin"
+    },
+    {
+        "id": 85024,
+        "name": "Ice Cooler",
+        "category": "Collectible"
+    },
+    {
+        "id": 85025,
+        "name": "Sand Play Set",
+        "category": "Collectible"
+    },
+    {
+        "id": 85026,
+        "name": "Beach Chair",
+        "category": "Collectible"
+    },
+    {
+        "id": 85027,
+        "name": "Parasol Table",
+        "category": "Collectible"
+    },
+    {
+        "id": 85028,
+        "name": "Water Play Equipment",
+        "category": "Collectible"
+    },
+    {
+        "id": 85029,
+        "name": "Sailing Board",
+        "category": "Collectible"
+    },
+    {
+        "id": 85030,
+        "name": "Gehenna Supply Box",
+        "category": "Coin"
+    },
+    {
+        "id": 85031,
+        "name": "GRS Grilled Corn",
+        "category": "Coin"
+    },
+    {
+        "id": 85032,
+        "name": "Thug Summer Shades",
+        "category": "Coin"
+    },
+    {
+        "id": 85033,
+        "name": "Splashy Helmet",
+        "category": "Coin"
+    },
+    {
+        "id": 85040,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 85041,
+        "name": "Turtle Mushroom",
+        "category": "Coin"
+    },
+    {
+        "id": 85042,
+        "name": "Black Bamboo Shoot",
+        "category": "Coin"
+    },
+    {
+        "id": 85043,
+        "name": "Ginseng Doll",
+        "category": "Coin"
+    },
+    {
+        "id": 85050,
+        "name": "Chocolate Coin",
+        "category": "Coin"
+    },
+    {
+        "id": 85051,
+        "name": "Rabbit Sticker",
+        "category": "Coin"
+    },
+    {
+        "id": 85052,
+        "name": "Boarding Pass",
+        "category": "Coin"
+    },
+    {
+        "id": 85053,
+        "name": "Dice",
+        "category": "Coin"
+    },
+    {
+        "id": 85060,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 85061,
+        "name": "Hot Spring Towel",
+        "category": "Coin"
+    },
+    {
+        "id": 85062,
+        "name": "Mustache Shampoo",
+        "category": "Coin"
+    },
+    {
+        "id": 85063,
+        "name": "Capybara Bath Bomb",
+        "category": "Coin"
+    },
+    {
+        "id": 85080,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 85081,
+        "name": "Baddie's Apology Letter",
+        "category": "Coin"
+    },
+    {
+        "id": 85082,
+        "name": "Confiscated Junk Food",
+        "category": "Coin"
+    },
+    {
+        "id": 85083,
+        "name": "Eco-Friendly Trash Bags",
+        "category": "Coin"
+    },
+    {
+        "id": 85084,
+        "name": "Valentine's Day Outing Pass",
+        "category": "Coin"
+    },
+    {
+        "id": 85090,
+        "name": "Wakamo Arrest Warrant",
+        "category": "Coin"
+    },
+    {
+        "id": 85100,
+        "name": "Event Points",
+        "category": "Coin"
+    },
+    {
+        "id": 85101,
+        "name": "Missal Veil",
+        "category": "Coin"
+    },
+    {
+        "id": 85102,
+        "name": "Hymn Book",
+        "category": "Coin"
+    },
+    {
+        "id": 85103,
+        "name": "Cathedral Candle",
+        "category": "Coin"
+    },
+    {
+        "id": 90000,
+        "name": "Special Area Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 99999,
+        "name": "Secret Reward",
+        "category": "Consumable"
+    },
+    {
+        "id": 100000,
+        "name": "Gift Box",
+        "category": "Consumable"
+    },
+    {
+        "id": 100001,
+        "name": "Furniture Box (3☆)",
+        "category": "Consumable"
+    },
+    {
+        "id": 100002,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100003,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100004,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100005,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100006,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100007,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100008,
+        "name": "Gift Choice Box",
+        "category": "Consumable"
+    },
+    {
+        "id": 100009,
+        "name": "Luxury Gift Box",
+        "category": "Consumable"
+    },
+    {
+        "id": 100010,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100011,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100012,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100013,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100014,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100015,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100016,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100017,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100018,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100019,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100020,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100021,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100022,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 100023,
+        "name": "Artifact Raffle Ticket 1",
+        "category": "Consumable"
+    },
+    {
+        "id": 100024,
+        "name": "Artifact Raffle Ticket 2",
+        "category": "Consumable"
+    },
+    {
+        "id": 100025,
+        "name": "Artifact Raffle Ticket 3",
+        "category": "Consumable"
+    },
+    {
+        "id": 100026,
+        "name": "Artifact Raffle Ticket 4",
+        "category": "Consumable"
+    },
+    {
+        "id": 110000,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 110001,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 110002,
+        "name": "Equipment Chest",
+        "category": "Consumable"
+    },
+    {
+        "id": 150000,
+        "name": "Beginner Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150001,
+        "name": "Normal Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150002,
+        "name": "Advanced Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150003,
+        "name": "Superior Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150004,
+        "name": "Beginner Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150005,
+        "name": "Normal Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150006,
+        "name": "Advanced Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150007,
+        "name": "Superior Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150008,
+        "name": "Artifact Choice Ticket 1",
+        "category": "Consumable"
+    },
+    {
+        "id": 150009,
+        "name": "Artifact Choice Ticket 2",
+        "category": "Consumable"
+    },
+    {
+        "id": 150010,
+        "name": "Artifact Choice Ticket 3",
+        "category": "Consumable"
+    },
+    {
+        "id": 150011,
+        "name": "Artifact Choice Ticket 4",
+        "category": "Consumable"
+    },
+    {
+        "id": 150012,
+        "name": "Beginner Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150013,
+        "name": "Normal Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150014,
+        "name": "Advanced Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150015,
+        "name": "Superior Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150016,
+        "name": "Beginner Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150017,
+        "name": "Normal Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150018,
+        "name": "Advanced Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150019,
+        "name": "Superior Tech Notes Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150020,
+        "name": "Beginner Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150021,
+        "name": "Normal Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150022,
+        "name": "Advanced Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150023,
+        "name": "Superior Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150024,
+        "name": "Beginner Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150025,
+        "name": "Normal Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150026,
+        "name": "Advanced Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150027,
+        "name": "Superior Tactical Training Blu-ray Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150028,
+        "name": "T2 Equipment Blueprint Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150029,
+        "name": "T3 Equipment Blueprint Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150030,
+        "name": "T4 Equipment Blueprint Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150031,
+        "name": "T5 Equipment Blueprint Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150032,
+        "name": "T6 Equipment Blueprint Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150033,
+        "name": "T7 Equipment Blueprint Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 150034,
+        "name": "Artifact Choice Ticket 1",
+        "category": "Consumable"
+    },
+    {
+        "id": 150035,
+        "name": "Artifact Choice Ticket 2",
+        "category": "Consumable"
+    },
+    {
+        "id": 150036,
+        "name": "Artifact Choice Ticket 3",
+        "category": "Consumable"
+    },
+    {
+        "id": 150037,
+        "name": "Artifact Choice Ticket 4",
+        "category": "Consumable"
+    },
+    {
+        "id": 151000,
+        "name": "Beginner Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 151001,
+        "name": "Momo Friends Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 151002,
+        "name": "Jellies Arcade Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 151003,
+        "name": "Valentine's Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 151004,
+        "name": "Summer Resort Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 151005,
+        "name": "Halloween Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 151006,
+        "name": "Hot Springs Resort Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 151007,
+        "name": "New Year's Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 151008,
+        "name": "Military Campground Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 151009,
+        "name": "Beachside Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 151010,
+        "name": "Field Day Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 160000,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160001,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160002,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160003,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160004,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160005,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160006,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160007,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160008,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160009,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160010,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160011,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160012,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160013,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160014,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160015,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 160016,
+        "name": "Mission Data 2: D-X Type",
+        "category": "Coin"
+    },
+    {
+        "id": 180000,
+        "name": "Chocolate Potato Chips",
+        "category": "Collectible"
+    },
+    {
+        "id": 180001,
+        "name": "Angel Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180002,
+        "name": "Bulk Mini Chocolates",
+        "category": "Collectible"
+    },
+    {
+        "id": 180003,
+        "name": "Arona's Chocolate Ginger Cookies",
+        "category": "Collectible"
+    },
+    {
+        "id": 180004,
+        "name": "Peroro Valentine",
+        "category": "Collectible"
+    },
+    {
+        "id": 180005,
+        "name": "Ration D-Type",
+        "category": "Collectible"
+    },
+    {
+        "id": 180006,
+        "name": "Happy Hot Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180007,
+        "name": "Schokolade Gehenna",
+        "category": "Collectible"
+    },
+    {
+        "id": 180008,
+        "name": "Bulk Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180009,
+        "name": "Chocolate Dango",
+        "category": "Collectible"
+    },
+    {
+        "id": 180010,
+        "name": "Death Love",
+        "category": "Collectible"
+    },
+    {
+        "id": 180011,
+        "name": "Rider's Snack",
+        "category": "Collectible"
+    },
+    {
+        "id": 180012,
+        "name": "Chocolate Ocean Friend",
+        "category": "Collectible"
+    },
+    {
+        "id": 180013,
+        "name": "Desert Rose",
+        "category": "Collectible"
+    },
+    {
+        "id": 180014,
+        "name": "Venus' Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180015,
+        "name": "Wiretapping Device No. 14",
+        "category": "Collectible"
+    },
+    {
+        "id": 180016,
+        "name": "Hot Cocoa Can",
+        "category": "Collectible"
+    },
+    {
+        "id": 180017,
+        "name": "Chocolate Pave Set (Receipt Inc.)",
+        "category": "Collectible"
+    },
+    {
+        "id": 180018,
+        "name": "Hero Chocolate (Item)",
+        "category": "Collectible"
+    },
+    {
+        "id": 180019,
+        "name": "Homemade Chocolate Slime",
+        "category": "Collectible"
+    },
+    {
+        "id": 180020,
+        "name": "Chocolate Monster MAX",
+        "category": "Collectible"
+    },
+    {
+        "id": 180021,
+        "name": "Chocolate Spray",
+        "category": "Collectible"
+    },
+    {
+        "id": 180022,
+        "name": "Chocolate Shell Mk.2",
+        "category": "Collectible"
+    },
+    {
+        "id": 180023,
+        "name": "Chocolate Screw",
+        "category": "Collectible"
+    },
+    {
+        "id": 180024,
+        "name": "Cherenka",
+        "category": "Collectible"
+    },
+    {
+        "id": 180025,
+        "name": "Improved Cherenka",
+        "category": "Collectible"
+    },
+    {
+        "id": 180026,
+        "name": "Cacao Bean",
+        "category": "Collectible"
+    },
+    {
+        "id": 180027,
+        "name": "Immortality Elixir (Failure)",
+        "category": "Collectible"
+    },
+    {
+        "id": 180028,
+        "name": "Rum Bonbons",
+        "category": "Collectible"
+    },
+    {
+        "id": 180029,
+        "name": "Chocolate Cuffs",
+        "category": "Collectible"
+    },
+    {
+        "id": 180030,
+        "name": "Special Chocolate Cruller",
+        "category": "Collectible"
+    },
+    {
+        "id": 180031,
+        "name": "Chocolate Haniwa",
+        "category": "Collectible"
+    },
+    {
+        "id": 180032,
+        "name": "Little Bullet",
+        "category": "Collectible"
+    },
+    {
+        "id": 180033,
+        "name": "Hina's Homemade Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180034,
+        "name": "A Relaxing Bite",
+        "category": "Collectible"
+    },
+    {
+        "id": 180035,
+        "name": "Delicious Chocolate! Really!",
+        "category": "Collectible"
+    },
+    {
+        "id": 180036,
+        "name": "Boss' Finest Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180037,
+        "name": "Roulette from Hell",
+        "category": "Collectible"
+    },
+    {
+        "id": 180038,
+        "name": "Mug of Hot Cocoa",
+        "category": "Collectible"
+    },
+    {
+        "id": 180039,
+        "name": "Gave-It-All Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180040,
+        "name": "Our Time Together",
+        "category": "Collectible"
+    },
+    {
+        "id": 180041,
+        "name": "Chocolate Gift Set",
+        "category": "Collectible"
+    },
+    {
+        "id": 180042,
+        "name": "The Final Choice",
+        "category": "Collectible"
+    },
+    {
+        "id": 180043,
+        "name": "Advance! Upalupa Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180044,
+        "name": "Midori's Homemade Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180045,
+        "name": "Chocolate Tsujiura Senbei",
+        "category": "Collectible"
+    },
+    {
+        "id": 180046,
+        "name": "Momoyodou Limited Dessert",
+        "category": "Collectible"
+    },
+    {
+        "id": 180047,
+        "name": "Chocolate Ninja Set No. 49!",
+        "category": "Collectible"
+    },
+    {
+        "id": 180048,
+        "name": "Chocolate Sleep Kit",
+        "category": "Collectible"
+    },
+    {
+        "id": 180049,
+        "name": "Wakamo's Love Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180050,
+        "name": "Gourmet Matcha Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180051,
+        "name": "Skullman, the Valentine Saint",
+        "category": "Collectible"
+    },
+    {
+        "id": 180052,
+        "name": "Lovely Cross Line",
+        "category": "Collectible"
+    },
+    {
+        "id": 180053,
+        "name": "Twinkling Star",
+        "category": "Collectible"
+    },
+    {
+        "id": 180054,
+        "name": "Chocolate Sister Figure",
+        "category": "Collectible"
+    },
+    {
+        "id": 180055,
+        "name": "Bead Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180056,
+        "name": "Be With You",
+        "category": "Collectible"
+    },
+    {
+        "id": 180057,
+        "name": "Pennyroyal Chocolate Mint",
+        "category": "Collectible"
+    },
+    {
+        "id": 180058,
+        "name": "Limited Yoshimi Edition",
+        "category": "Collectible"
+    },
+    {
+        "id": 180059,
+        "name": "Chocolate Over Words",
+        "category": "Collectible"
+    },
+    {
+        "id": 180060,
+        "name": "Homemade Fortune Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180061,
+        "name": "Bandaged Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180062,
+        "name": "Cacao 99.99%",
+        "category": "Collectible"
+    },
+    {
+        "id": 180063,
+        "name": "Twisted Valentine",
+        "category": "Collectible"
+    },
+    {
+        "id": 180064,
+        "name": "Made By Maid",
+        "category": "Collectible"
+    },
+    {
+        "id": 180065,
+        "name": "Chocolate Omurice",
+        "category": "Collectible"
+    },
+    {
+        "id": 180066,
+        "name": "Chocolate Dragon Engraving",
+        "category": "Collectible"
+    },
+    {
+        "id": 180067,
+        "name": "Valentine's Origins",
+        "category": "Collectible"
+    },
+    {
+        "id": 180068,
+        "name": "Chocolate Sakazuki",
+        "category": "Collectible"
+    },
+    {
+        "id": 180069,
+        "name": "Almond Crimson",
+        "category": "Collectible"
+    },
+    {
+        "id": 180070,
+        "name": "Messily Wrapped Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180071,
+        "name": "Chocolate Truffles for Children",
+        "category": "Collectible"
+    },
+    {
+        "id": 180072,
+        "name": "Squishy Chocolate Cookie",
+        "category": "Collectible"
+    },
+    {
+        "id": 180073,
+        "name": "Strawberry-Chocolate Cake",
+        "category": "Collectible"
+    },
+    {
+        "id": 180074,
+        "name": "Small Wrapped Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180075,
+        "name": "Thoroughly-Wrapped Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180076,
+        "name": "Flowers and Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180077,
+        "name": "Decadent Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180078,
+        "name": "Cherry Blossom White Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180079,
+        "name": "Ultimate Chocosaur",
+        "category": "Collectible"
+    },
+    {
+        "id": 180080,
+        "name": "Half-Melted Holland Lop Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180081,
+        "name": "Delicate Yet Beautiful Super Genius Hacker's Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180082,
+        "name": "Iroha's Handmade Chocolate Breadsticks",
+        "category": "Collectible"
+    },
+    {
+        "id": 180083,
+        "name": "Ninjutsu Research Club Badge Chocolate Set",
+        "category": "Collectible"
+    },
+    {
+        "id": 180084,
+        "name": "Chocolate Carrot Cake",
+        "category": "Collectible"
+    },
+    {
+        "id": 180085,
+        "name": "Chocolate S'mores",
+        "category": "Collectible"
+    },
+    {
+        "id": 180086,
+        "name": "Chocolate Caramel Ration",
+        "category": "Collectible"
+    },
+    {
+        "id": 180087,
+        "name": "Chocolate Bark",
+        "category": "Collectible"
+    },
+    {
+        "id": 180088,
+        "name": "Chocolate Ink",
+        "category": "Collectible"
+    },
+    {
+        "id": 180089,
+        "name": "Special Chocolate Medal of Merit",
+        "category": "Collectible"
+    },
+    {
+        "id": 180090,
+        "name": "Shigure's Bittersweet Special",
+        "category": "Collectible"
+    },
+    {
+        "id": 180091,
+        "name": "Chick-Shaped Chocolate",
+        "category": "Collectible"
+    },
+    {
+        "id": 180092,
+        "name": "Chocolate-Covered Grapefruit",
+        "category": "Collectible"
+    },
+    {
+        "id": 190000,
+        "name": "Beginner Tech Notes Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 190001,
+        "name": "Normal Tech Notes Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 190002,
+        "name": "Advanced Tech Notes Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 190003,
+        "name": "Superior Tech Notes Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 190010,
+        "name": "Beginner Tactical Training Blu-ray Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 190011,
+        "name": "Normal Tactical Training Blu-ray Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 190012,
+        "name": "Advanced Tactical Training Blu-ray Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 190013,
+        "name": "Superior Tactical Training Blu-ray Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 190020,
+        "name": "Artifact Raffle Ticket 1",
+        "category": "Consumable"
+    },
+    {
+        "id": 190021,
+        "name": "Artifact Raffle Ticket 2",
+        "category": "Consumable"
+    },
+    {
+        "id": 190022,
+        "name": "Artifact Raffle Ticket 3",
+        "category": "Consumable"
+    },
+    {
+        "id": 190023,
+        "name": "Artifact Raffle Ticket 4",
+        "category": "Consumable"
+    },
+    {
+        "id": 191000,
+        "name": "Beginner Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 191001,
+        "name": "Momo Friends Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 191002,
+        "name": "Jellies Arcade Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 191003,
+        "name": "Valentine's Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 191004,
+        "name": "Summer Resort Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 191005,
+        "name": "Halloween Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 191006,
+        "name": "Hot Springs Resort Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 191007,
+        "name": "New Year Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 191008,
+        "name": "Military Campground Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 191009,
+        "name": "Beachside Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 191010,
+        "name": "Field Day Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 200000,
+        "name": "Phrenapates's Credit Card",
+        "category": "Consumable"
+    },
+    {
+        "id": 200001,
+        "name": "Credit Card Shards",
+        "category": "Material"
+    },
+    {
+        "id": 10000000,
+        "name": "Lesser Energy Drink (30 AP)",
+        "category": "Consumable"
+    },
+    {
+        "id": 10000001,
+        "name": "Normal Energy Drink (60 AP)",
+        "category": "Consumable"
+    },
+    {
+        "id": 10000002,
+        "name": "Advanced Energy Drink (120 AP)",
+        "category": "Consumable"
+    },
+    {
+        "id": 10000003,
+        "name": "Superior Energy Drink (180 AP)",
+        "category": "Consumable"
+    },
+    {
+        "id": 20000000,
+        "name": "Arona's Stamp",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000001,
+        "name": "Video Game Magazine",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000002,
+        "name": "Perfect Exam Paper",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000003,
+        "name": "Mission Report",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000004,
+        "name": "Marshmallow Skewer",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000005,
+        "name": "Old Arius Badge",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000006,
+        "name": "Handmade Wreath",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000007,
+        "name": "AMAS Debris",
+        "category": "Collectible"
+    },
+    {
+        "id": 20000008,
+        "name": "Film of Memories",
+        "category": "Collectible"
+    },
+    {
+        "id": 20005001,
+        "name": "Video Game Magazine",
+        "category": "Collectible"
+    },
+    {
+        "id": 29999998,
+        "name": "Arona's Stamp",
+        "category": "Collectible"
+    },
+    {
+        "id": 29999999,
+        "name": "Arona's Stamp",
+        "category": "Collectible"
+    },
+    {
+        "id": 90000100,
+        "name": "Monthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000101,
+        "name": "Bimonthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000102,
+        "name": "2-Week AP Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000103,
+        "name": "Monthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000104,
+        "name": "Half Monthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000500,
+        "name": "Monthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000501,
+        "name": "Bimonthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000502,
+        "name": "2-Week AP Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000503,
+        "name": "Monthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000504,
+        "name": "Half Monthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000800,
+        "name": "Monthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000801,
+        "name": "Bimonthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000802,
+        "name": "2-Week AP Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000803,
+        "name": "Monthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90000804,
+        "name": "Half Monthly Pyroxene Pack",
+        "category": "MonthlyBonus"
+    },
+    {
+        "id": 90006000,
+        "name": "3★ Student Guaranteed Ticket",
+        "category": "Material"
+    },
+    {
+        "id": 90006001,
+        "name": "3★ Student Guaranteed Ticket",
+        "category": "Material"
+    },
+    {
+        "id": 90006002,
+        "name": "3★ Student Guaranteed Ticket",
+        "category": "Material"
+    },
+    {
+        "id": 90006101,
+        "name": " 3★ Student Guaranteed (10x) Ticket ",
+        "category": "Material"
+    },
+    {
+        "id": 90006400,
+        "name": "1-Recruitment Ticket",
+        "category": "Material"
+    },
+    {
+        "id": 911000000,
+        "name": "StartDash 3★ Ticket",
+        "category": "Material"
+    },
+    {
+        "id": 912000000,
+        "name": "3★ Student Choice Ticket",
+        "category": "Consumable"
+    },
+    {
+        "id": 90006500,
+        "name": "10-Recruitment Ticket",
+        "category": "Material"
+    }
+]

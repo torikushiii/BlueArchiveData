@@ -375,6 +375,26 @@
         "category": "Material"
     },
     {
+        "id": 220,
+        "name": "黄金の糸",
+        "category": "Material"
+    },
+    {
+        "id": 221,
+        "name": "黄金の巻糸",
+        "category": "Material"
+    },
+    {
+        "id": 222,
+        "name": "大きな黄金の巻糸",
+        "category": "Material"
+    },
+    {
+        "id": 223,
+        "name": "黄金の布",
+        "category": "Material"
+    },
+    {
         "id": 230,
         "name": "髪伸び人形の破片",
         "category": "Material"
@@ -432,6 +452,26 @@
     {
         "id": 253,
         "name": "完全な古代文明のメダル",
+        "category": "Material"
+    },
+    {
+        "id": 260,
+        "name": "中空十二面体の欠片",
+        "category": "Material"
+    },
+    {
+        "id": 261,
+        "name": "壊れた中空十二面体",
+        "category": "Material"
+    },
+    {
+        "id": 262,
+        "name": "修復途中の中空十二面体",
+        "category": "Material"
+    },
+    {
+        "id": 263,
+        "name": "完全な中空十二面体",
         "category": "Material"
     },
     {
@@ -1055,6 +1095,11 @@
         "category": "Favor"
     },
     {
+        "id": 5997,
+        "name": "美しい花束",
+        "category": "Favor"
+    },
+    {
         "id": 5998,
         "name": "初音ミクのフォトカード",
         "category": "Favor"
@@ -1585,6 +1630,16 @@
         "category": "SecretStone"
     },
     {
+        "id": 10073,
+        "name": "ウイ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10074,
+        "name": "ハナコ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
         "id": 13000,
         "name": "アカネの神名文字",
         "category": "SecretStone"
@@ -1712,6 +1767,11 @@
     {
         "id": 16012,
         "name": "ジュンコ（正月）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 16013,
+        "name": "コハル（水着）の神名文字",
         "category": "SecretStone"
     },
     {
@@ -1852,6 +1912,16 @@
     {
         "id": 20027,
         "name": "シロコ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20028,
+        "name": "ヒナタ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20029,
+        "name": "",
         "category": "SecretStone"
     },
     {
@@ -2680,6 +2750,31 @@
         "category": "RecruitCoin"
     },
     {
+        "id": 70086,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70087,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70088,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70089,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70090,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
         "id": 79999,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
@@ -3232,6 +3327,26 @@
     {
         "id": 80280,
         "name": "高級万年筆",
+        "category": "Coin"
+    },
+    {
+        "id": 80290,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 80291,
+        "name": "羊皮紙の欠片",
+        "category": "Coin"
+    },
+    {
+        "id": 80292,
+        "name": "レモン",
+        "category": "Coin"
+    },
+    {
+        "id": 80293,
+        "name": "古びた鍵",
         "category": "Coin"
     },
     {
@@ -4020,6 +4135,11 @@
         "category": "Consumable"
     },
     {
+        "id": 151013,
+        "name": "サンシャインリゾートシリーズ選択ボックス",
+        "category": "Consumable"
+    },
+    {
         "id": 151991,
         "name": "家具選択ボックス（青）",
         "category": "Consumable"
@@ -4715,6 +4835,11 @@
         "category": "Consumable"
     },
     {
+        "id": 191013,
+        "name": "サンシャインリゾートシリーズ抽選ボックス",
+        "category": "Consumable"
+    },
+    {
         "id": 191991,
         "name": "家具抽選ボックス（青）",
         "category": "Consumable"
@@ -4766,7 +4891,12 @@
     },
     {
         "id": 12000000,
-        "name": "★3生徒招集チケット",
+        "name": "★3生徒セレクトチケット",
+        "category": "Consumable"
+    },
+    {
+        "id": 12000001,
+        "name": "★3生徒セレクトチケット",
         "category": "Consumable"
     },
     {

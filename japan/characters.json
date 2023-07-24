@@ -1314,6 +1314,42 @@
         "club": "RabbitPlatoon"
     },
     {
+        "id": 10073,
+        "name": "ウイ（水着）",
+        "devname": "CH0204",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "ElasticArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "BookClub"
+    },
+    {
+        "id": 10074,
+        "name": "ハナコ（水着）",
+        "devname": "CH0209",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Sonic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -1780,6 +1816,24 @@
         ],
         "school": "Gehenna",
         "club": "GourmetClub"
+    },
+    {
+        "id": 16013,
+        "name": "コハル（水着）",
+        "devname": "CH0205",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass"
     },
     {
         "id": 20000,
@@ -2284,6 +2338,42 @@
         ],
         "school": "Abydos",
         "club": "Countermeasure"
+    },
+    {
+        "id": 20028,
+        "name": "ヒナタ（水着）",
+        "devname": "CH0210",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "SisterHood"
+    },
+    {
+        "id": 20029,
+        "name": "",
+        "devname": "CH0183",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Shugyobu"
     },
     {
         "id": 23000,

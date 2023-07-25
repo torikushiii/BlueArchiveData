@@ -1160,6 +1160,191 @@
         "comfortBonus": 350
     },
     {
+        "id": 11100,
+        "name": "Abydos Classroom Blackboard",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11101,
+        "name": "Abydos Classroom Student Cabinet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11102,
+        "name": "Abydos Classroom Storage Cabinet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11103,
+        "name": "Abydos Classroom Chair",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11104,
+        "name": "Abydos Classroom Wall Clock",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11105,
+        "name": "Abydos Classroom Desk with Boxed Lunch",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11106,
+        "name": "Abydos Classroom Floor",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11107,
+        "name": "Abydos Classroom Hallway Partition",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11108,
+        "name": "Abydos Classroom Wall-Mounted Speaker",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11109,
+        "name": "Abydos Classroom Pillar",
+        "comfortBonus": 50
+    },
+    {
+        "id": 11200,
+        "name": "Abydos Classroom Schedule Blackboard",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11201,
+        "name": "Abydos Classroom Campaign Blackboard",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11202,
+        "name": "Abydos Classroom Cleaning Toolbox",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11203,
+        "name": "Sensei's Abydos Classroom Cabinet",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11204,
+        "name": "Abydos Classroom Desk with Cardigan",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11205,
+        "name": "Abydos Classroom Desk with Whale Toy",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11206,
+        "name": "Abydos Classroom Desk with Glasses",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11207,
+        "name": "Abydos Classroom Desk with Mask",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11208,
+        "name": "Abydos Classroom Desk with Ribbon and Gloves",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11209,
+        "name": "Abydos Classroom Desk with Large Bag",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11210,
+        "name": "Abydos Classroom Gun Rack",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11211,
+        "name": "Abydos Classroom Board Partition",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11212,
+        "name": "Sensei's Abydos Classroom Desk",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11213,
+        "name": "Abydos Classroom Framed Logo",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11214,
+        "name": "Abydos Classroom Motto",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11215,
+        "name": "Abydos Classroom Recycling Basket",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11216,
+        "name": "Abydos Classroom Whiteboard",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11217,
+        "name": "Abydos Classroom Background",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11218,
+        "name": "Abydos Classroom Tile Floor",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11219,
+        "name": "Abydos Classroom Wall",
+        "comfortBonus": 120
+    },
+    {
+        "id": 11300,
+        "name": "Abydos Classroom Bookshelf",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11301,
+        "name": "Abydos Classroom Bicycle",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11302,
+        "name": "Abydos Classroom Normal Partition",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11303,
+        "name": "Abydos Classroom Lecture Desk",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11304,
+        "name": "Abydos Classroom Vending Machine",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11305,
+        "name": "Abydos Classroom Gatling Gun Rack",
+        "comfortBonus": 350
+    },
+    {
+        "id": 11306,
+        "name": "Abydos Classroom Window",
+        "comfortBonus": 350
+    },
+    {
         "id": 100000,
         "name": "Binah Bronze Trophy - Field Warfare",
         "comfortBonus": 50
@@ -1597,6 +1782,16 @@
     {
         "id": 207310,
         "name": "Elegant Flower Tea Table",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207311,
+        "name": "Trinity Organ",
+        "comfortBonus": 350
+    },
+    {
+        "id": 207312,
+        "name": "Tea Party Table",
         "comfortBonus": 350
     },
     {

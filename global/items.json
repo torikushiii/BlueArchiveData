@@ -1385,6 +1385,16 @@
         "category": "SecretStone"
     },
     {
+        "id": 10059,
+        "name": "Mika's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10060,
+        "name": "Megu's Eleph",
+        "category": "SecretStone"
+    },
+    {
         "id": 13000,
         "name": "Akane's Eleph",
         "category": "SecretStone"
@@ -1627,6 +1637,11 @@
     {
         "id": 20022,
         "name": "Fuuka (New Year)'s Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20023,
+        "name": "Kanna's Eleph",
         "category": "SecretStone"
     },
     {
@@ -2561,6 +2576,16 @@
     },
     {
         "id": 90070052,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070053,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070054,
         "name": "Recruitment Points",
         "category": "RecruitCoin"
     },
@@ -3890,6 +3915,11 @@
         "category": "Consumable"
     },
     {
+        "id": 151011,
+        "name": "Abydos Classroom Furniture Choice Ticket",
+        "category": "Consumable"
+    },
+    {
         "id": 160000,
         "name": "Mission Data 2: D-X Type",
         "category": "Coin"
@@ -4555,6 +4585,11 @@
         "category": "Consumable"
     },
     {
+        "id": 191011,
+        "name": "Abydos Classroom Furniture Raffle Ticket",
+        "category": "Consumable"
+    },
+    {
         "id": 200000,
         "name": "Phrenapates's Credit Card",
         "category": "Consumable"
@@ -4757,6 +4792,11 @@
     {
         "id": 90006500,
         "name": "10-Recruitment Ticket",
+        "category": "Material"
+    },
+    {
+        "id": 90006600,
+        "name": "3★ Student Guaranteed Recruitment Ticket (Attack Type)",
         "category": "Material"
     }
 ]

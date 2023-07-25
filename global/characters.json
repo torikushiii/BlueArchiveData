@@ -1062,6 +1062,42 @@
         "club": "KnightsHospitaller"
     },
     {
+        "id": 10059,
+        "name": "Mika",
+        "devname": "CH0069",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "TeaParty"
+    },
+    {
+        "id": 10060,
+        "name": "Megu",
+        "devname": "CH0088",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Front",
+        "weaponType": "FT",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "HotSpringsDepartment"
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -1942,6 +1978,24 @@
         ],
         "school": "Gehenna",
         "club": "FoodService"
+    },
+    {
+        "id": 20023,
+        "name": "Kanna",
+        "devname": "CH0170",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Valkyrie",
+        "club": "PublicPeaceBureau"
     },
     {
         "id": 23000,

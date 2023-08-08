@@ -1098,6 +1098,24 @@
         "club": "HotSpringsDepartment"
     },
     {
+        "id": 10061,
+        "name": "Sakurako",
+        "devname": "Sakurako",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "SisterHood"
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",

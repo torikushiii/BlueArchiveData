@@ -1400,6 +1400,11 @@
         "category": "SecretStone"
     },
     {
+        "id": 10062,
+        "name": "Toki's Eleph",
+        "category": "SecretStone"
+    },
+    {
         "id": 13000,
         "name": "Akane's Eleph",
         "category": "SecretStone"
@@ -1647,6 +1652,11 @@
     {
         "id": 20023,
         "name": "Kanna's Eleph",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20024,
+        "name": "Nagisa's Eleph",
         "category": "SecretStone"
     },
     {
@@ -2596,6 +2606,11 @@
     },
     {
         "id": 90070055,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 90070056,
         "name": "Recruitment Points",
         "category": "RecruitCoin"
     },

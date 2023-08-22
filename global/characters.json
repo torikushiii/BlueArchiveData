@@ -1116,6 +1116,24 @@
         "club": "SisterHood"
     },
     {
+        "id": 10062,
+        "name": "Toki",
+        "devname": "CH0187",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "ElasticArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -2014,6 +2032,24 @@
         ],
         "school": "Valkyrie",
         "club": "PublicPeaceBureau"
+    },
+    {
+        "id": 20024,
+        "name": "Nagisa",
+        "devname": "Nagisa",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "TeaParty"
     },
     {
         "id": 23000,

@@ -1215,6 +1215,11 @@
         "category": "Material"
     },
     {
+        "id": 6505,
+        "name": "10回募集チケット",
+        "category": "Material"
+    },
+    {
         "id": 6600,
         "name": "★3生徒確定募集チケット（攻撃タイプ別）",
         "category": "Material"
@@ -1640,6 +1645,16 @@
         "category": "SecretStone"
     },
     {
+        "id": 10075,
+        "name": "メルの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 10076,
+        "name": "",
+        "category": "SecretStone"
+    },
+    {
         "id": 13000,
         "name": "アカネの神名文字",
         "category": "SecretStone"
@@ -1702,6 +1717,11 @@
     {
         "id": 13012,
         "name": "キリノの神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 13013,
+        "name": "モミジの神名文字",
         "category": "SecretStone"
     },
     {
@@ -1922,6 +1942,11 @@
     {
         "id": 20029,
         "name": "ミモリ（水着）の神名文字",
+        "category": "SecretStone"
+    },
+    {
+        "id": 20030,
+        "name": "",
         "category": "SecretStone"
     },
     {
@@ -2775,6 +2800,36 @@
         "category": "RecruitCoin"
     },
     {
+        "id": 70091,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70092,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70093,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70094,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70095,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
+        "id": 70096,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin"
+    },
+    {
         "id": 79999,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
@@ -3350,6 +3405,26 @@
         "category": "Coin"
     },
     {
+        "id": 80300,
+        "name": "タロット·デラ·ルナ",
+        "category": "Coin"
+    },
+    {
+        "id": 80301,
+        "name": "インクカートリッジ",
+        "category": "Coin"
+    },
+    {
+        "id": 80302,
+        "name": "スタイラスペン",
+        "category": "Coin"
+    },
+    {
+        "id": 80303,
+        "name": "プチオンリーチケット",
+        "category": "Coin"
+    },
+    {
         "id": 85000,
         "name": "イベントPt",
         "category": "Coin"
@@ -3670,6 +3745,81 @@
         "category": "Coin"
     },
     {
+        "id": 85150,
+        "name": "イベントPt",
+        "category": "Coin"
+    },
+    {
+        "id": 85151,
+        "name": "お手玉",
+        "category": "Coin"
+    },
+    {
+        "id": 85152,
+        "name": "ミレニアムの旗",
+        "category": "Coin"
+    },
+    {
+        "id": 85153,
+        "name": "ホイッスル",
+        "category": "Coin"
+    },
+    {
+        "id": 85160,
+        "name": "スポーツドリンク",
+        "category": "Coin"
+    },
+    {
+        "id": 85161,
+        "name": "リレー用バトン",
+        "category": "Coin"
+    },
+    {
+        "id": 85162,
+        "name": "あんぱん",
+        "category": "Coin"
+    },
+    {
+        "id": 85163,
+        "name": "案内パンフレット",
+        "category": "Coin"
+    },
+    {
+        "id": 85164,
+        "name": "サイコロ確定券",
+        "category": "Consumable"
+    },
+    {
+        "id": 85165,
+        "name": "サイコロ1確定券",
+        "category": "Coin"
+    },
+    {
+        "id": 85166,
+        "name": "サイコロ2確定券",
+        "category": "Coin"
+    },
+    {
+        "id": 85167,
+        "name": "サイコロ3確定券",
+        "category": "Coin"
+    },
+    {
+        "id": 85168,
+        "name": "サイコロ4確定券",
+        "category": "Coin"
+    },
+    {
+        "id": 85169,
+        "name": "サイコロ5確定券",
+        "category": "Coin"
+    },
+    {
+        "id": 85170,
+        "name": "サイコロ6確定券",
+        "category": "Coin"
+    },
+    {
         "id": 90000,
         "name": "エリア固有スペシャルボックス",
         "category": "Consumable"
@@ -3825,6 +3975,11 @@
         "category": "Consumable"
     },
     {
+        "id": 100029,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
         "id": 110000,
         "name": "装備ボックス",
         "category": "Consumable"
@@ -3856,6 +4011,11 @@
     },
     {
         "id": 110006,
+        "name": "装備ボックス",
+        "category": "Consumable"
+    },
+    {
+        "id": 110007,
         "name": "装備ボックス",
         "category": "Consumable"
     },

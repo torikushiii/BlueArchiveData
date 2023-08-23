@@ -1350,6 +1350,42 @@
         "club": "RemedialClass"
     },
     {
+        "id": 10075,
+        "name": "メル",
+        "devname": "CH0124",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "KnowledgeLiberationFront"
+    },
+    {
+        "id": 10076,
+        "name": "",
+        "devname": "CH0185",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "Engineer"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -1582,6 +1618,24 @@
         ],
         "school": "Valkyrie",
         "club": "anzenkyoku"
+    },
+    {
+        "id": 13013,
+        "name": "モミジ",
+        "devname": "momiji",
+        "rarity": "SR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "RL",
+        "bulletType": "Sonic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "KnowledgeLiberationFront"
     },
     {
         "id": 16000,
@@ -2374,6 +2428,24 @@
         ],
         "school": "Hyakkiyako",
         "club": "Shugyobu"
+    },
+    {
+        "id": 20030,
+        "name": "",
+        "devname": "CH0193",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub"
     },
     {
         "id": 23000,

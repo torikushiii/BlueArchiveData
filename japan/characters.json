@@ -15,7 +15,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "Kohshinjo68"
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "Curios",
+            "Roman"
+        ]
     },
     {
         "id": 10001,
@@ -33,7 +37,11 @@
             "Charm"
         ],
         "school": "Millennium",
-        "club": "SPTF"
+        "club": "SPTF",
+        "favoriteGift": [
+            "Curios",
+            "Music"
+        ]
     },
     {
         "id": 10002,
@@ -51,7 +59,10 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "GourmetClub"
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "Simplicity"
+        ]
     },
     {
         "id": 10003,
@@ -69,7 +80,10 @@
             "Necklace"
         ],
         "school": "Trinity",
-        "club": "RemedialClass"
+        "club": "RemedialClass",
+        "favoriteGift": [
+            "MomoFriends"
+        ]
     },
     {
         "id": 10004,
@@ -87,7 +101,10 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "Fuuki"
+        "club": "Fuuki",
+        "favoriteGift": [
+            "Mystery"
+        ]
     },
     {
         "id": 10005,
@@ -105,7 +122,10 @@
             "Charm"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Roman"
+        ]
     },
     {
         "id": 10006,
@@ -123,7 +143,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "Fuuki"
+        "club": "Fuuki",
+        "favoriteGift": [
+            "Dessert",
+            "Army"
+        ]
     },
     {
         "id": 10007,
@@ -141,7 +165,11 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "Veritas"
+        "club": "Veritas",
+        "favoriteGift": [
+            "Toy",
+            "Art"
+        ]
     },
     {
         "id": 10008,
@@ -159,7 +187,10 @@
             "Charm"
         ],
         "school": "Millennium",
-        "club": "CleanNClearing"
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Toy"
+        ]
     },
     {
         "id": 10009,
@@ -177,7 +208,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "GourmetClub"
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "Dessert",
+            "Freakish"
+        ]
     },
     {
         "id": 10010,
@@ -195,7 +230,10 @@
             "Watch"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Sports"
+        ]
     },
     {
         "id": 10011,
@@ -213,7 +251,11 @@
             "Watch"
         ],
         "school": "Shanhaijing",
-        "club": "Meihuayuan"
+        "club": "Meihuayuan",
+        "favoriteGift": [
+            "Cosmetics",
+            "Beauty"
+        ]
     },
     {
         "id": 10012,
@@ -231,7 +273,10 @@
             "Charm"
         ],
         "school": "Millennium",
-        "club": "TrainingClub"
+        "club": "TrainingClub",
+        "favoriteGift": [
+            "Sports"
+        ]
     },
     {
         "id": 10013,
@@ -249,7 +294,10 @@
             "Charm"
         ],
         "school": "Trinity",
-        "club": "Justice"
+        "club": "Justice",
+        "favoriteGift": [
+            "LoveStory"
+        ]
     },
     {
         "id": 10014,
@@ -267,7 +315,10 @@
             "Watch"
         ],
         "school": "Hyakkiyako",
-        "club": "NinpoKenkyubu"
+        "club": "NinpoKenkyubu",
+        "favoriteGift": [
+            "Fashion"
+        ]
     },
     {
         "id": 10015,
@@ -285,7 +336,10 @@
             "Charm"
         ],
         "school": "Millennium",
-        "club": "GameDev"
+        "club": "GameDev",
+        "favoriteGift": [
+            "Game"
+        ]
     },
     {
         "id": 10016,
@@ -303,7 +357,10 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "GameDev"
+        "club": "GameDev",
+        "favoriteGift": [
+            "Jellyz"
+        ]
     },
     {
         "id": 10017,
@@ -321,7 +378,11 @@
             "Watch"
         ],
         "school": "RedWinter",
-        "club": "RedwinterSecretary"
+        "club": "RedwinterSecretary",
+        "favoriteGift": [
+            "Curios",
+            "CuriousFellow"
+        ]
     },
     {
         "id": 10018,
@@ -339,7 +400,11 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "GameDev"
+        "club": "GameDev",
+        "favoriteGift": [
+            "Electronic",
+            "Game"
+        ]
     },
     {
         "id": 10019,
@@ -357,7 +422,12 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "RemedialClass"
+        "club": "RemedialClass",
+        "favoriteGift": [
+            "Fashion",
+            "MomoFriends",
+            "Doll"
+        ]
     },
     {
         "id": 10020,
@@ -375,7 +445,12 @@
             "Necklace"
         ],
         "school": "Trinity",
-        "club": "RemedialClass"
+        "club": "RemedialClass",
+        "favoriteGift": [
+            "Cosmetics",
+            "LoveStory",
+            "Girlish"
+        ]
     },
     {
         "id": 10021,
@@ -393,7 +468,13 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "RemedialClass"
+        "club": "RemedialClass",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "MomoFriends",
+            "Doll"
+        ]
     },
     {
         "id": 10022,
@@ -411,7 +492,12 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "Fuuki"
+        "club": "Fuuki",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Mystery"
+        ]
     },
     {
         "id": 10023,
@@ -429,7 +515,13 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "Fuuki"
+        "club": "Fuuki",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Dessert",
+            "Army"
+        ]
     },
     {
         "id": 10024,
@@ -447,7 +539,11 @@
             "Watch"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Sports",
+            "Roman"
+        ]
     },
     {
         "id": 10025,
@@ -465,7 +561,11 @@
             "Watch"
         ],
         "school": "Shanhaijing",
-        "club": "Meihuayuan"
+        "club": "Meihuayuan",
+        "favoriteGift": [
+            "Dessert",
+            "Doll"
+        ]
     },
     {
         "id": 10026,
@@ -483,7 +583,10 @@
             "Charm"
         ],
         "school": "Millennium",
-        "club": "CleanNClearing"
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Game"
+        ]
     },
     {
         "id": 10027,
@@ -501,7 +604,10 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "CleanNClearing"
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Doll"
+        ]
     },
     {
         "id": 10028,
@@ -519,7 +625,10 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "CleanNClearing"
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Dessert"
+        ]
     },
     {
         "id": 10029,
@@ -537,7 +646,11 @@
             "Charm"
         ],
         "school": "Trinity",
-        "club": "HoukagoDessert"
+        "club": "HoukagoDessert",
+        "favoriteGift": [
+            "Dessert",
+            "Roman"
+        ]
     },
     {
         "id": 10030,
@@ -555,7 +668,12 @@
             "Charm"
         ],
         "school": "Gehenna",
-        "club": "Fuuki"
+        "club": "Fuuki",
+        "favoriteGift": [
+            "Curios",
+            "Books",
+            "Humanities"
+        ]
     },
     {
         "id": 10031,
@@ -573,7 +691,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "Kohshinjo68"
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "Curios",
+            "Roman"
+        ]
     },
     {
         "id": 10032,
@@ -591,7 +713,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "Kohshinjo68"
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "Toy",
+            "CuriousFellow"
+        ]
     },
     {
         "id": 10033,
@@ -609,7 +735,10 @@
             "Watch"
         ],
         "school": "Hyakkiyako",
-        "club": "EmptyClub"
+        "club": "EmptyClub",
+        "favoriteGift": [
+            "Doll"
+        ]
     },
     {
         "id": 10034,
@@ -627,7 +756,13 @@
             "Necklace"
         ],
         "school": "Hyakkiyako",
-        "club": "Shugyobu"
+        "club": "Shugyobu",
+        "favoriteGift": [
+            "Household",
+            "Food",
+            "Fashion",
+            "Simplicity"
+        ]
     },
     {
         "id": 10035,
@@ -645,7 +780,12 @@
             "Charm"
         ],
         "school": "Trinity",
-        "club": "BookClub"
+        "club": "BookClub",
+        "favoriteGift": [
+            "Books",
+            "PureLiterature",
+            "Humanities"
+        ]
     },
     {
         "id": 10036,
@@ -663,7 +803,11 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "SisterHood"
+        "club": "SisterHood",
+        "favoriteGift": [
+            "Horticulture",
+            "Simplicity"
+        ]
     },
     {
         "id": 10037,
@@ -681,7 +825,11 @@
             "Charm"
         ],
         "school": "RedWinter",
-        "club": "RedwinterSecretary"
+        "club": "RedwinterSecretary",
+        "favoriteGift": [
+            "Curios",
+            "Doll"
+        ]
     },
     {
         "id": 10038,
@@ -699,7 +847,11 @@
             "Charm"
         ],
         "school": "SRT",
-        "club": "RabbitPlatoon"
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "Army",
+            "Humanities"
+        ]
     },
     {
         "id": 10039,
@@ -717,7 +869,11 @@
             "Watch"
         ],
         "school": "SRT",
-        "club": "RabbitPlatoon"
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "Army",
+            "Simplicity"
+        ]
     },
     {
         "id": 10040,
@@ -735,7 +891,11 @@
             "Charm"
         ],
         "school": "Hyakkiyako",
-        "club": "NinpoKenkyubu"
+        "club": "NinpoKenkyubu",
+        "favoriteGift": [
+            "Horticulture",
+            "CuriousFellow"
+        ]
     },
     {
         "id": 10041,
@@ -753,7 +913,10 @@
             "Watch"
         ],
         "school": "Arius",
-        "club": "AriusSqud"
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "Doll"
+        ]
     },
     {
         "id": 10042,
@@ -771,7 +934,10 @@
             "Necklace"
         ],
         "school": "Arius",
-        "club": "AriusSqud"
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "Specialized"
+        ]
     },
     {
         "id": 10043,
@@ -789,7 +955,12 @@
             "Watch"
         ],
         "school": "Hyakkiyako",
-        "club": "EmptyClub"
+        "club": "EmptyClub",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Doll"
+        ]
     },
     {
         "id": 10044,
@@ -807,7 +978,13 @@
             "Watch"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Cosmetics",
+            "Girlish"
+        ]
     },
     {
         "id": 10045,
@@ -825,7 +1002,12 @@
             "Charm"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Roman"
+        ]
     },
     {
         "id": 10046,
@@ -843,7 +1025,12 @@
             "Watch"
         ],
         "school": "Hyakkiyako",
-        "club": "NinpoKenkyubu"
+        "club": "NinpoKenkyubu",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Fashion"
+        ]
     },
     {
         "id": 10047,
@@ -861,7 +1048,13 @@
             "Necklace"
         ],
         "school": "Hyakkiyako",
-        "club": "Onmyobu"
+        "club": "Onmyobu",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Books",
+            "PureLiterature"
+        ]
     },
     {
         "id": 10048,
@@ -879,7 +1072,11 @@
             "Watch"
         ],
         "school": "Arius",
-        "club": "AriusSqud"
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "Cosmetics",
+            "Girlish"
+        ]
     },
     {
         "id": 10049,
@@ -897,7 +1094,12 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "HoukagoDessert"
+        "club": "HoukagoDessert",
+        "favoriteGift": [
+            "Dessert",
+            "Delicious",
+            "Girlish"
+        ]
     },
     {
         "id": 10050,
@@ -915,7 +1117,11 @@
             "Necklace"
         ],
         "school": "Shanhaijing",
-        "club": "Meihuayuan"
+        "club": "Meihuayuan",
+        "favoriteGift": [
+            "Dessert",
+            "Delicious"
+        ]
     },
     {
         "id": 10051,
@@ -933,7 +1139,11 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "Engineer"
+        "club": "Engineer",
+        "favoriteGift": [
+            "Electronic",
+            "Observational"
+        ]
     },
     {
         "id": 10052,
@@ -951,7 +1161,11 @@
             "Charm"
         ],
         "school": "Millennium",
-        "club": "TheSeminar"
+        "club": "TheSeminar",
+        "favoriteGift": [
+            "Books",
+            "PureLiterature"
+        ]
     },
     {
         "id": 10053,
@@ -969,7 +1183,10 @@
             "Necklace"
         ],
         "school": "Millennium",
-        "club": "TheSeminar"
+        "club": "TheSeminar",
+        "favoriteGift": [
+            "Smart"
+        ]
     },
     {
         "id": 10054,
@@ -987,7 +1204,12 @@
             "Necklace"
         ],
         "school": "Trinity",
-        "club": "SisterHood"
+        "club": "SisterHood",
+        "favoriteGift": [
+            "Fashion",
+            "Horticulture",
+            "Simplicity"
+        ]
     },
     {
         "id": 10055,
@@ -1005,7 +1227,11 @@
             "Watch"
         ],
         "school": "RedWinter",
-        "club": "Class227"
+        "club": "Class227",
+        "favoriteGift": [
+            "Functional",
+            "Specialized"
+        ]
     },
     {
         "id": 10056,
@@ -1023,7 +1249,12 @@
             "Charm"
         ],
         "school": "Trinity",
-        "club": "KnightsHospitaller"
+        "club": "KnightsHospitaller",
+        "favoriteGift": [
+            "Functional",
+            "Bedding",
+            "Jellyz"
+        ]
     },
     {
         "id": 10057,
@@ -1041,7 +1272,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "GourmetClub"
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "Simplicity",
+            "Delicious"
+        ]
     },
     {
         "id": 10058,
@@ -1059,7 +1294,11 @@
             "Charm"
         ],
         "school": "Trinity",
-        "club": "KnightsHospitaller"
+        "club": "KnightsHospitaller",
+        "favoriteGift": [
+            "Cosmetics",
+            "Girlish"
+        ]
     },
     {
         "id": 10059,
@@ -1077,7 +1316,12 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "TeaParty"
+        "club": "TeaParty",
+        "favoriteGift": [
+            "Cosmetics",
+            "Dessert",
+            "Beauty"
+        ]
     },
     {
         "id": 10060,
@@ -1095,7 +1339,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "HotSpringsDepartment"
+        "club": "HotSpringsDepartment",
+        "favoriteGift": [
+            "Toy",
+            "CuriousFellow"
+        ]
     },
     {
         "id": 10061,
@@ -1113,7 +1361,10 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "SisterHood"
+        "club": "SisterHood",
+        "favoriteGift": [
+            "Dessert"
+        ]
     },
     {
         "id": 10062,
@@ -1131,7 +1382,11 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "CleanNClearing"
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Sports",
+            "Specialized"
+        ]
     },
     {
         "id": 10063,
@@ -1149,7 +1404,12 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "TheSeminar"
+        "club": "TheSeminar",
+        "favoriteGift": [
+            "Toy",
+            "Smart",
+            "Mystery"
+        ]
     },
     {
         "id": 10064,
@@ -1167,7 +1427,13 @@
             "Charm"
         ],
         "school": "Gehenna",
-        "club": "Kohshinjo68"
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "Electronic",
+            "Music",
+            "Fashion",
+            "Simplicity"
+        ]
     },
     {
         "id": 10065,
@@ -1185,7 +1451,11 @@
             "Watch"
         ],
         "school": "Hyakkiyako",
-        "club": "Onmyobu"
+        "club": "Onmyobu",
+        "favoriteGift": [
+            "Books",
+            "PureLiterature"
+        ]
     },
     {
         "id": 10066,
@@ -1203,7 +1473,12 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "GameDev"
+        "club": "GameDev",
+        "favoriteGift": [
+            "Game",
+            "Fashion",
+            "Toy"
+        ]
     },
     {
         "id": 10067,
@@ -1221,7 +1496,11 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "CleanNClearing"
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Sports",
+            "Specialized"
+        ]
     },
     {
         "id": 10068,
@@ -1239,7 +1518,12 @@
             "Charm"
         ],
         "school": "Trinity",
-        "club": "TrinityVigilance"
+        "club": "TrinityVigilance",
+        "favoriteGift": [
+            "Electronic",
+            "Music",
+            "Dessert"
+        ]
     },
     {
         "id": 10069,
@@ -1257,7 +1541,11 @@
             "Necklace"
         ],
         "school": "Shanhaijing",
-        "club": "BlackTortoisePromenade"
+        "club": "BlackTortoisePromenade",
+        "favoriteGift": [
+            "Fashion",
+            "Food"
+        ]
     },
     {
         "id": 10070,
@@ -1275,7 +1563,11 @@
             "Charm"
         ],
         "school": "Shanhaijing",
-        "club": "Genryumon"
+        "club": "Genryumon",
+        "favoriteGift": [
+            "Curios",
+            "CuriousFellow"
+        ]
     },
     {
         "id": 10071,
@@ -1293,7 +1585,13 @@
             "Charm"
         ],
         "school": "SRT",
-        "club": "RabbitPlatoon"
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Army",
+            "Humanities"
+        ]
     },
     {
         "id": 10072,
@@ -1311,7 +1609,14 @@
             "Watch"
         ],
         "school": "SRT",
-        "club": "RabbitPlatoon"
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Army",
+            "Specialized",
+            "Curios"
+        ]
     },
     {
         "id": 10073,
@@ -1329,7 +1634,14 @@
             "Charm"
         ],
         "school": "Trinity",
-        "club": "BookClub"
+        "club": "BookClub",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Books",
+            "Humanities",
+            "PureLiterature"
+        ]
     },
     {
         "id": 10074,
@@ -1347,7 +1659,14 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "RemedialClass"
+        "club": "RemedialClass",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Cosmetics",
+            "Simplicity",
+            "Beauty"
+        ]
     },
     {
         "id": 10075,
@@ -1365,7 +1684,12 @@
             "Watch"
         ],
         "school": "RedWinter",
-        "club": "KnowledgeLiberationFront"
+        "club": "KnowledgeLiberationFront",
+        "favoriteGift": [
+            "Books",
+            "Toy",
+            "Art"
+        ]
     },
     {
         "id": 10076,
@@ -1401,7 +1725,10 @@
             "Necklace"
         ],
         "school": "Millennium",
-        "club": "CleanNClearing"
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Household"
+        ]
     },
     {
         "id": 13001,
@@ -1419,7 +1746,11 @@
             "Watch"
         ],
         "school": "Hyakkiyako",
-        "club": "Onmyobu"
+        "club": "Onmyobu",
+        "favoriteGift": [
+            "Books",
+            "PureLiterature"
+        ]
     },
     {
         "id": 13002,
@@ -1437,7 +1768,10 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "GourmetClub"
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "BigMeal"
+        ]
     },
     {
         "id": 13003,
@@ -1455,7 +1789,11 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "Justice"
+        "club": "Justice",
+        "favoriteGift": [
+            "Dessert",
+            "BigMeal"
+        ]
     },
     {
         "id": 13004,
@@ -1473,7 +1811,11 @@
             "Watch"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Cosmetics",
+            "Girlish"
+        ]
     },
     {
         "id": 13005,
@@ -1491,7 +1833,11 @@
             "Necklace"
         ],
         "school": "Gehenna",
-        "club": "Kohshinjo68"
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "Electronic",
+            "Music"
+        ]
     },
     {
         "id": 13006,
@@ -1509,7 +1855,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "Kohshinjo68"
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "Toy",
+            "CuriousFellow"
+        ]
     },
     {
         "id": 13007,
@@ -1527,7 +1877,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "GourmetClub"
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "Dessert",
+            "Delicious"
+        ]
     },
     {
         "id": 13008,
@@ -1545,7 +1899,10 @@
             "Watch"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Curios"
+        ]
     },
     {
         "id": 13009,
@@ -1563,7 +1920,10 @@
             "Charm"
         ],
         "school": "Hyakkiyako",
-        "club": "Shugyobu"
+        "club": "Shugyobu",
+        "favoriteGift": [
+            "Bedding"
+        ]
     },
     {
         "id": 13010,
@@ -1581,7 +1941,10 @@
             "Charm"
         ],
         "school": "Millennium",
-        "club": "TheSeminar"
+        "club": "TheSeminar",
+        "favoriteGift": [
+            "Smart"
+        ]
     },
     {
         "id": 13011,
@@ -1599,7 +1962,10 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "GameDev"
+        "club": "GameDev",
+        "favoriteGift": [
+            "Game"
+        ]
     },
     {
         "id": 13012,
@@ -1617,7 +1983,11 @@
             "Charm"
         ],
         "school": "Valkyrie",
-        "club": "anzenkyoku"
+        "club": "anzenkyoku",
+        "favoriteGift": [
+            "Delicious",
+            "Simplicity"
+        ]
     },
     {
         "id": 13013,
@@ -1635,7 +2005,12 @@
             "Watch"
         ],
         "school": "RedWinter",
-        "club": "KnowledgeLiberationFront"
+        "club": "KnowledgeLiberationFront",
+        "favoriteGift": [
+            "Books",
+            "LoveStory",
+            "Girlish"
+        ]
     },
     {
         "id": 16000,
@@ -1653,7 +2028,11 @@
             "Charm"
         ],
         "school": "Gehenna",
-        "club": "Kohshinjo68"
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "Horticulture",
+            "CuriousFellow"
+        ]
     },
     {
         "id": 16001,
@@ -1671,7 +2050,10 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "CleanNClearing"
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Cosmetics"
+        ]
     },
     {
         "id": 16002,
@@ -1689,7 +2071,11 @@
             "Necklace"
         ],
         "school": "Millennium",
-        "club": "Engineer"
+        "club": "Engineer",
+        "favoriteGift": [
+            "Books",
+            "Specialized"
+        ]
     },
     {
         "id": 16003,
@@ -1707,7 +2093,10 @@
             "Necklace"
         ],
         "school": "Trinity",
-        "club": "TrinityVigilance"
+        "club": "TrinityVigilance",
+        "favoriteGift": [
+            "Doll"
+        ]
     },
     {
         "id": 16004,
@@ -1725,7 +2114,10 @@
             "Watch"
         ],
         "school": "Hyakkiyako",
-        "club": "MatsuriOffice"
+        "club": "MatsuriOffice",
+        "favoriteGift": [
+            "Movie"
+        ]
     },
     {
         "id": 16005,
@@ -1743,7 +2135,12 @@
             "Charm"
         ],
         "school": "Trinity",
-        "club": "Justice"
+        "club": "Justice",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "LoveStory"
+        ]
     },
     {
         "id": 16006,
@@ -1761,7 +2158,13 @@
             "Necklace"
         ],
         "school": "Gehenna",
-        "club": "GourmetClub"
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Dessert",
+            "Freakish"
+        ]
     },
     {
         "id": 16007,
@@ -1779,7 +2182,12 @@
             "Watch"
         ],
         "school": "RedWinter",
-        "club": "RedwinterSecretary"
+        "club": "RedwinterSecretary",
+        "favoriteGift": [
+            "Simplicity",
+            "Humanities",
+            "PureLiterature"
+        ]
     },
     {
         "id": 16008,
@@ -1797,7 +2205,11 @@
             "Watch"
         ],
         "school": "Valkyrie",
-        "club": "anzenkyoku"
+        "club": "anzenkyoku",
+        "favoriteGift": [
+            "Dessert",
+            "Delicious"
+        ]
     },
     {
         "id": 16009,
@@ -1815,7 +2227,11 @@
             "Watch"
         ],
         "school": "Hyakkiyako",
-        "club": "NinpoKenkyubu"
+        "club": "NinpoKenkyubu",
+        "favoriteGift": [
+            "Curios",
+            "Roman"
+        ]
     },
     {
         "id": 16010,
@@ -1833,7 +2249,12 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "Engineer"
+        "club": "Engineer",
+        "favoriteGift": [
+            "Electronic",
+            "Household",
+            "Music"
+        ]
     },
     {
         "id": 16011,
@@ -1851,7 +2272,11 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "Justice"
+        "club": "Justice",
+        "favoriteGift": [
+            "Dessert",
+            "BigMeal"
+        ]
     },
     {
         "id": 16012,
@@ -1869,7 +2294,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "GourmetClub"
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "Dessert",
+            "Delicious"
+        ]
     },
     {
         "id": 16013,
@@ -1887,7 +2316,13 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "RemedialClass"
+        "club": "RemedialClass",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "LoveStory",
+            "Humanities"
+        ]
     },
     {
         "id": 20000,
@@ -1905,7 +2340,10 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "Engineer"
+        "club": "Engineer",
+        "favoriteGift": [
+            "Electronic"
+        ]
     },
     {
         "id": 20001,
@@ -1923,7 +2361,10 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "CleanNClearing"
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Smart"
+        ]
     },
     {
         "id": 20002,
@@ -1941,7 +2382,11 @@
             "Watch"
         ],
         "school": "Shanhaijing",
-        "club": "Endanbou"
+        "club": "Endanbou",
+        "favoriteGift": [
+            "Functional",
+            "Specialized"
+        ]
     },
     {
         "id": 20003,
@@ -1959,7 +2404,10 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "Justice"
+        "club": "Justice",
+        "favoriteGift": [
+            "Army"
+        ]
     },
     {
         "id": 20004,
@@ -1977,7 +2425,12 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "Justice"
+        "club": "Justice",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Army"
+        ]
     },
     {
         "id": 20005,
@@ -1995,7 +2448,12 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "RemedialClass"
+        "club": "RemedialClass",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "MomoFriends"
+        ]
     },
     {
         "id": 20006,
@@ -2013,7 +2471,11 @@
             "Watch"
         ],
         "school": "Shanhaijing",
-        "club": "Endanbou"
+        "club": "Endanbou",
+        "favoriteGift": [
+            "Delicious",
+            "CuriousFellow"
+        ]
     },
     {
         "id": 20007,
@@ -2031,7 +2493,8 @@
             "Necklace"
         ],
         "school": "ETC",
-        "club": "EmptyClub"
+        "club": "EmptyClub",
+        "favoriteGift": []
     },
     {
         "id": 20008,
@@ -2049,7 +2512,11 @@
             "Necklace"
         ],
         "school": "Gehenna",
-        "club": "Fuuki"
+        "club": "Fuuki",
+        "favoriteGift": [
+            "Curios",
+            "Specialized"
+        ]
     },
     {
         "id": 20009,
@@ -2067,7 +2534,11 @@
             "Watch"
         ],
         "school": "RedWinter",
-        "club": "RedwinterSecretary"
+        "club": "RedwinterSecretary",
+        "favoriteGift": [
+            "Roman",
+            "CuriousFellow"
+        ]
     },
     {
         "id": 20010,
@@ -2085,7 +2556,12 @@
             "Necklace"
         ],
         "school": "RedWinter",
-        "club": "Class227"
+        "club": "Class227",
+        "favoriteGift": [
+            "Reservation",
+            "Dessert",
+            "Observational"
+        ]
     },
     {
         "id": 20011,
@@ -2103,7 +2579,10 @@
             "Watch"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Curios"
+        ]
     },
     {
         "id": 20012,
@@ -2121,7 +2600,11 @@
             "Necklace"
         ],
         "school": "Gehenna",
-        "club": "Emergentology"
+        "club": "Emergentology",
+        "favoriteGift": [
+            "Bedding",
+            "Specialized"
+        ]
     },
     {
         "id": 20013,
@@ -2139,7 +2622,11 @@
             "Necklace"
         ],
         "school": "Millennium",
-        "club": "Veritas"
+        "club": "Veritas",
+        "favoriteGift": [
+            "Electronic",
+            "Music"
+        ]
     },
     {
         "id": 20014,
@@ -2157,7 +2644,12 @@
             "Necklace"
         ],
         "school": "SRT",
-        "club": "RabbitPlatoon"
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "Army",
+            "Specialized",
+            "Curios"
+        ]
     },
     {
         "id": 20015,
@@ -2175,7 +2667,12 @@
             "Necklace"
         ],
         "school": "Hyakkiyako",
-        "club": "Shugyobu"
+        "club": "Shugyobu",
+        "favoriteGift": [
+            "Toy",
+            "CuriousFellow",
+            "Game"
+        ]
     },
     {
         "id": 20016,
@@ -2193,7 +2690,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "PandemoniumSociety"
+        "club": "PandemoniumSociety",
+        "favoriteGift": [
+            "Books",
+            "Game"
+        ]
     },
     {
         "id": 20017,
@@ -2211,7 +2712,10 @@
             "Watch"
         ],
         "school": "Arius",
-        "club": "AriusSqud"
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "Household"
+        ]
     },
     {
         "id": 20018,
@@ -2229,7 +2733,11 @@
             "Watch"
         ],
         "school": "SRT",
-        "club": "RabbitPlatoon"
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "Electronic",
+            "Army"
+        ]
     },
     {
         "id": 20019,
@@ -2247,7 +2755,11 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "CleanNClearing"
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Household",
+            "Food"
+        ]
     },
     {
         "id": 20020,
@@ -2265,7 +2777,11 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "SPTF"
+        "club": "SPTF",
+        "favoriteGift": [
+            "Curios",
+            "Mystery"
+        ]
     },
     {
         "id": 20021,
@@ -2283,7 +2799,11 @@
             "Necklace"
         ],
         "school": "Trinity",
-        "club": "KnightsHospitaller"
+        "club": "KnightsHospitaller",
+        "favoriteGift": [
+            "Functional",
+            "Sports"
+        ]
     },
     {
         "id": 20022,
@@ -2301,7 +2821,12 @@
             "Necklace"
         ],
         "school": "Gehenna",
-        "club": "FoodService"
+        "club": "FoodService",
+        "favoriteGift": [
+            "Household",
+            "Food",
+            "Functional"
+        ]
     },
     {
         "id": 20023,
@@ -2319,7 +2844,11 @@
             "Watch"
         ],
         "school": "Valkyrie",
-        "club": "PublicPeaceBureau"
+        "club": "PublicPeaceBureau",
+        "favoriteGift": [
+            "Functional",
+            "Specialized"
+        ]
     },
     {
         "id": 20024,
@@ -2337,7 +2866,11 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "TeaParty"
+        "club": "TeaParty",
+        "favoriteGift": [
+            "Curios",
+            "Delicious"
+        ]
     },
     {
         "id": 20025,
@@ -2355,7 +2888,11 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "Kohshinjo68"
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "Horticulture",
+            "CuriousFellow"
+        ]
     },
     {
         "id": 20026,
@@ -2373,7 +2910,12 @@
             "Watch"
         ],
         "school": "RedWinter",
-        "club": "LaborParty"
+        "club": "LaborParty",
+        "favoriteGift": [
+            "Functional",
+            "Books",
+            "Humanities"
+        ]
     },
     {
         "id": 20027,
@@ -2391,7 +2933,12 @@
             "Watch"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Sports"
+        ]
     },
     {
         "id": 20028,
@@ -2409,7 +2956,14 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "SisterHood"
+        "club": "SisterHood",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Household",
+            "Food",
+            "Simplicity"
+        ]
     },
     {
         "id": 20029,
@@ -2427,7 +2981,14 @@
             "Necklace"
         ],
         "school": "Hyakkiyako",
-        "club": "Shugyobu"
+        "club": "Shugyobu",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Household",
+            "Cosmetics",
+            "Books"
+        ]
     },
     {
         "id": 20030,
@@ -2463,7 +3024,10 @@
             "Necklace"
         ],
         "school": "Trinity",
-        "club": "HoukagoDessert"
+        "club": "HoukagoDessert",
+        "favoriteGift": [
+            "Dessert"
+        ]
     },
     {
         "id": 23001,
@@ -2481,7 +3045,11 @@
             "Necklace"
         ],
         "school": "Gehenna",
-        "club": "FoodService"
+        "club": "FoodService",
+        "favoriteGift": [
+            "Household",
+            "Food"
+        ]
     },
     {
         "id": 23002,
@@ -2499,7 +3067,10 @@
             "Necklace"
         ],
         "school": "Trinity",
-        "club": "KnightsHospitaller"
+        "club": "KnightsHospitaller",
+        "favoriteGift": [
+            "Cosmetics"
+        ]
     },
     {
         "id": 23003,
@@ -2517,7 +3088,10 @@
             "Necklace"
         ],
         "school": "Millennium",
-        "club": "Veritas"
+        "club": "Veritas",
+        "favoriteGift": [
+            "Game"
+        ]
     },
     {
         "id": 23004,
@@ -2535,7 +3109,10 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "Engineer"
+        "club": "Engineer",
+        "favoriteGift": [
+            "Observational"
+        ]
     },
     {
         "id": 23005,
@@ -2553,7 +3130,10 @@
             "Necklace"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Books"
+        ]
     },
     {
         "id": 23006,
@@ -2571,7 +3151,10 @@
             "Necklace"
         ],
         "school": "Hyakkiyako",
-        "club": "MatsuriOffice"
+        "club": "MatsuriOffice",
+        "favoriteGift": [
+            "Functional"
+        ]
     },
     {
         "id": 23007,
@@ -2589,7 +3172,12 @@
             "Necklace"
         ],
         "school": "Trinity",
-        "club": "RemedialClass"
+        "club": "RemedialClass",
+        "favoriteGift": [
+            "Books",
+            "LoveStory",
+            "Mystery"
+        ]
     },
     {
         "id": 23008,
@@ -2607,7 +3195,11 @@
             "Necklace"
         ],
         "school": "Trinity",
-        "club": "SisterHood"
+        "club": "SisterHood",
+        "favoriteGift": [
+            "Horticulture",
+            "Simplicity"
+        ]
     },
     {
         "id": 26000,
@@ -2625,7 +3217,11 @@
             "Necklace"
         ],
         "school": "Gehenna",
-        "club": "Fuuki"
+        "club": "Fuuki",
+        "favoriteGift": [
+            "Books",
+            "Humanities"
+        ]
     },
     {
         "id": 26001,
@@ -2643,7 +3239,11 @@
             "Necklace"
         ],
         "school": "Millennium",
-        "club": "Veritas"
+        "club": "Veritas",
+        "favoriteGift": [
+            "Toy",
+            "Doll"
+        ]
     },
     {
         "id": 26002,
@@ -2661,7 +3261,10 @@
             "Necklace"
         ],
         "school": "Gehenna",
-        "club": "FoodService"
+        "club": "FoodService",
+        "favoriteGift": [
+            "Art"
+        ]
     },
     {
         "id": 26003,
@@ -2679,7 +3282,10 @@
             "Necklace"
         ],
         "school": "Trinity",
-        "club": "KnightsHospitaller"
+        "club": "KnightsHospitaller",
+        "favoriteGift": [
+            "Jellyz"
+        ]
     },
     {
         "id": 26004,
@@ -2697,7 +3303,10 @@
             "Necklace"
         ],
         "school": "Trinity",
-        "club": "BookClub"
+        "club": "BookClub",
+        "favoriteGift": [
+            "Books"
+        ]
     },
     {
         "id": 26005,
@@ -2715,7 +3324,10 @@
             "Watch"
         ],
         "school": "Trinity",
-        "club": "HoukagoDessert"
+        "club": "HoukagoDessert",
+        "favoriteGift": [
+            "Dessert"
+        ]
     },
     {
         "id": 26006,
@@ -2733,7 +3345,11 @@
             "Necklace"
         ],
         "school": "RedWinter",
-        "club": "Class227"
+        "club": "Class227",
+        "favoriteGift": [
+            "Dessert",
+            "Observational"
+        ]
     },
     {
         "id": 26007,
@@ -2751,7 +3367,12 @@
             "Watch"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Books"
+        ]
     },
     {
         "id": 26008,
@@ -2769,7 +3390,12 @@
             "Necklace"
         ],
         "school": "Hyakkiyako",
-        "club": "MatsuriOffice"
+        "club": "MatsuriOffice",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Functional"
+        ]
     },
     {
         "id": 26009,
@@ -2787,7 +3413,11 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "GameDev"
+        "club": "GameDev",
+        "favoriteGift": [
+            "Electronic",
+            "Game"
+        ]
     },
     {
         "id": 26010,
@@ -2805,6 +3435,12 @@
             "Watch"
         ],
         "school": "SRT",
-        "club": "RabbitPlatoon"
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Army",
+            "Simplicity"
+        ]
     }
 ]

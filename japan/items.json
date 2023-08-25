@@ -1,5126 +1,7176 @@
 [
     {
         "id": 1,
+        "rarity": "N",
+        "quality": 1,
         "name": "キーストーンのカケラ",
         "category": "Material"
     },
     {
         "id": 2,
+        "rarity": "N",
+        "quality": 9,
         "name": "ブースターチケット",
         "category": "Material"
     },
     {
         "id": 3,
+        "rarity": "N",
+        "quality": 2,
         "name": "キーストーン",
         "category": "Material"
     },
     {
         "id": 7,
+        "rarity": "N",
+        "quality": 2,
         "name": "総力戦コイン",
         "category": "Coin"
     },
     {
         "id": 8,
+        "rarity": "N",
+        "quality": 2,
         "name": "戦術コイン",
         "category": "Coin"
     },
     {
         "id": 9,
+        "rarity": "N",
+        "quality": 2,
         "name": "総力戦レアコイン",
         "category": "Coin"
     },
     {
         "id": 10,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級レポート",
         "category": "CharacterExpGrowth"
     },
     {
         "id": 11,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級レポート",
         "category": "CharacterExpGrowth"
     },
     {
         "id": 12,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級レポート",
         "category": "CharacterExpGrowth"
     },
     {
         "id": 13,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級レポート",
         "category": "CharacterExpGrowth"
     },
     {
         "id": 23,
+        "rarity": "N",
+        "quality": 9,
         "name": "神名のカケラ",
         "category": "Coin"
     },
     {
         "id": 30,
+        "rarity": "N",
+        "quality": 1,
         "name": "カフェ設備コアLv1",
         "category": "Material"
     },
     {
         "id": 31,
+        "rarity": "R",
+        "quality": 2,
         "name": "カフェ設備コアLv2",
         "category": "Material"
     },
     {
         "id": 32,
+        "rarity": "SR",
+        "quality": 3,
         "name": "カフェ設備コアLv3",
         "category": "Material"
     },
     {
         "id": 33,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "カフェ設備コアLv4",
         "category": "Material"
     },
     {
         "id": 39,
+        "rarity": "SSR",
+        "quality": 9,
         "name": "カフェ設備コアLv10",
         "category": "Material"
     },
     {
         "id": 60,
+        "rarity": "N",
+        "quality": 2,
         "name": "火力演習コイン",
         "category": "Coin"
     },
     {
         "id": 61,
+        "rarity": "N",
+        "quality": 2,
         "name": "指名手配コイン",
         "category": "Coin"
     },
     {
         "id": 70,
+        "rarity": "N",
+        "quality": 2,
         "name": "大決戦コイン",
         "category": "Coin"
     },
     {
         "id": 71,
+        "rarity": "N",
+        "quality": 2,
         "name": "大決戦レアコイン",
         "category": "Coin"
     },
     {
         "id": 80,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級テイラーストーン",
         "category": "Material"
     },
     {
         "id": 81,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級テイラーストーン",
         "category": "Material"
     },
     {
         "id": 82,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級テイラーストーン",
         "category": "Material"
     },
     {
         "id": 83,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級テイラーストーン",
         "category": "Material"
     },
     {
         "id": 90,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級製造用マテリアル",
         "category": "Material"
     },
     {
         "id": 91,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級製造用マテリアル",
         "category": "Material"
     },
     {
         "id": 92,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級製造用マテリアル",
         "category": "Material"
     },
     {
         "id": 100,
+        "rarity": "N",
+        "quality": 1,
         "name": "ネブラディスクの欠片",
         "category": "Material"
     },
     {
         "id": 101,
+        "rarity": "R",
+        "quality": 2,
         "name": "壊れたネブラディスク",
         "category": "Material"
     },
     {
         "id": 102,
+        "rarity": "SR",
+        "quality": 3,
         "name": "摩耗したネブラディスク",
         "category": "Material"
     },
     {
         "id": 103,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全なネブラディスク",
         "category": "Material"
     },
     {
         "id": 110,
+        "rarity": "N",
+        "quality": 1,
         "name": "ファイストス円盤の欠片",
         "category": "Material"
     },
     {
         "id": 111,
+        "rarity": "R",
+        "quality": 2,
         "name": "壊れたファイストス円盤",
         "category": "Material"
     },
     {
         "id": 112,
+        "rarity": "SR",
+        "quality": 3,
         "name": "摩耗したファイストス円盤",
         "category": "Material"
     },
     {
         "id": 113,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全なファイストス円盤",
         "category": "Material"
     },
     {
         "id": 120,
+        "rarity": "N",
+        "quality": 1,
         "name": "ヴォルフスエックの鉄鉱石",
         "category": "Material"
     },
     {
         "id": 121,
+        "rarity": "R",
+        "quality": 2,
         "name": "ヴォルフスエック鋼鉄の欠片",
         "category": "Material"
     },
     {
         "id": 122,
+        "rarity": "SR",
+        "quality": 3,
         "name": "低純度のヴォルフスエック鋼鉄",
         "category": "Material"
     },
     {
         "id": 123,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "高純度のヴォルフスエック鋼鉄",
         "category": "Material"
     },
     {
         "id": 130,
+        "rarity": "N",
+        "quality": 1,
         "name": "ニムルドレンズの欠片",
         "category": "Material"
     },
     {
         "id": 131,
+        "rarity": "R",
+        "quality": 2,
         "name": "壊れたニムルドレンズ",
         "category": "Material"
     },
     {
         "id": 132,
+        "rarity": "SR",
+        "quality": 3,
         "name": "摩耗したニムルドレンズ",
         "category": "Material"
     },
     {
         "id": 133,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全なニムルドレンズ",
         "category": "Material"
     },
     {
         "id": 140,
+        "rarity": "N",
+        "quality": 1,
         "name": "マンドレイクの種",
         "category": "Material"
     },
     {
         "id": 141,
+        "rarity": "R",
+        "quality": 2,
         "name": "マンドレイクの芽",
         "category": "Material"
     },
     {
         "id": 142,
+        "rarity": "SR",
+        "quality": 3,
         "name": "マンドレイクジュース",
         "category": "Material"
     },
     {
         "id": 143,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "マンドレイク濃縮液",
         "category": "Material"
     },
     {
         "id": 150,
+        "rarity": "N",
+        "quality": 1,
         "name": "レヒニッツ写本のページ",
         "category": "Material"
     },
     {
         "id": 151,
+        "rarity": "R",
+        "quality": 2,
         "name": "傷んだレヒニッツ写本",
         "category": "Material"
     },
     {
         "id": 152,
+        "rarity": "SR",
+        "quality": 3,
         "name": "編集済みのレヒニッツ写本",
         "category": "Material"
     },
     {
         "id": 153,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全なレヒニッツ写本",
         "category": "Material"
     },
     {
         "id": 160,
+        "rarity": "N",
+        "quality": 1,
         "name": "エーテルの粉",
         "category": "Material"
     },
     {
         "id": 161,
+        "rarity": "R",
+        "quality": 2,
         "name": "エーテルの欠片",
         "category": "Material"
     },
     {
         "id": 162,
+        "rarity": "SR",
+        "quality": 3,
         "name": "エーテルの結晶",
         "category": "Material"
     },
     {
         "id": 163,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "エーテルのエッセンス",
         "category": "Material"
     },
     {
         "id": 170,
+        "rarity": "N",
+        "quality": 1,
         "name": "アンティキティラ装置の欠片",
         "category": "Material"
     },
     {
         "id": 171,
+        "rarity": "R",
+        "quality": 2,
         "name": "壊れたアンティキティラ装置",
         "category": "Material"
     },
     {
         "id": 172,
+        "rarity": "SR",
+        "quality": 3,
         "name": "摩耗したアンティキティラ装置",
         "category": "Material"
     },
     {
         "id": 173,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全なアンティキティラ装置",
         "category": "Material"
     },
     {
         "id": 180,
+        "rarity": "N",
+        "quality": 1,
         "name": "断片的なヴォイニッチ手稿のコピー",
         "category": "Material"
     },
     {
         "id": 181,
+        "rarity": "R",
+        "quality": 2,
         "name": "傷んだヴォイニッチ手稿のコピー",
         "category": "Material"
     },
     {
         "id": 182,
+        "rarity": "SR",
+        "quality": 3,
         "name": "編集済みのヴォイニッチ手稿のコピー",
         "category": "Material"
     },
     {
         "id": 183,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全なヴォイニッチ手稿のコピー",
         "category": "Material"
     },
     {
         "id": 190,
+        "rarity": "N",
+        "quality": 1,
         "name": "水晶埴輪の破片",
         "category": "Material"
     },
     {
         "id": 191,
+        "rarity": "R",
+        "quality": 2,
         "name": "壊れた水晶埴輪",
         "category": "Material"
     },
     {
         "id": 192,
+        "rarity": "SR",
+        "quality": 3,
         "name": "修復済みの水晶埴輪",
         "category": "Material"
     },
     {
         "id": 193,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全な水晶埴輪",
         "category": "Material"
     },
     {
         "id": 200,
+        "rarity": "N",
+        "quality": 1,
         "name": "トーテムポールの破片",
         "category": "Material"
     },
     {
         "id": 201,
+        "rarity": "R",
+        "quality": 2,
         "name": "破損したトーテムポール",
         "category": "Material"
     },
     {
         "id": 202,
+        "rarity": "SR",
+        "quality": 3,
         "name": "修復済みのトーテムポール",
         "category": "Material"
     },
     {
         "id": 203,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全なトーテムポール",
         "category": "Material"
     },
     {
         "id": 210,
+        "rarity": "N",
+        "quality": 1,
         "name": "古代の電池の破片",
         "category": "Material"
     },
     {
         "id": 211,
+        "rarity": "R",
+        "quality": 2,
         "name": "破損した古代の電池",
         "category": "Material"
     },
     {
         "id": 212,
+        "rarity": "SR",
+        "quality": 3,
         "name": "摩耗した古代の電池",
         "category": "Material"
     },
     {
         "id": 213,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全なる古代の電池",
         "category": "Material"
     },
     {
         "id": 220,
+        "rarity": "N",
+        "quality": 1,
         "name": "黄金の糸",
         "category": "Material"
     },
     {
         "id": 221,
+        "rarity": "R",
+        "quality": 2,
         "name": "黄金の巻糸",
         "category": "Material"
     },
     {
         "id": 222,
+        "rarity": "SR",
+        "quality": 3,
         "name": "大きな黄金の巻糸",
         "category": "Material"
     },
     {
         "id": 223,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "黄金の布",
         "category": "Material"
     },
     {
         "id": 230,
+        "rarity": "N",
+        "quality": 1,
         "name": "髪伸び人形の破片",
         "category": "Material"
     },
     {
         "id": 231,
+        "rarity": "R",
+        "quality": 2,
         "name": "破損した髪伸び人形",
         "category": "Material"
     },
     {
         "id": 232,
+        "rarity": "SR",
+        "quality": 3,
         "name": "修理済みの髪伸び人形",
         "category": "Material"
     },
     {
         "id": 233,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全な髪伸び人形",
         "category": "Material"
     },
     {
         "id": 240,
+        "rarity": "N",
+        "quality": 1,
         "name": "円盤型ペンダントの欠片",
         "category": "Material"
     },
     {
         "id": 241,
+        "rarity": "R",
+        "quality": 2,
         "name": "壊れた円盤型ペンダント",
         "category": "Material"
     },
     {
         "id": 242,
+        "rarity": "SR",
+        "quality": 3,
         "name": "修復途中の円盤型ペンダント",
         "category": "Material"
     },
     {
         "id": 243,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全な円盤型ペンダント",
         "category": "Material"
     },
     {
         "id": 250,
+        "rarity": "N",
+        "quality": 1,
         "name": "古代文明のメダルの欠片",
         "category": "Material"
     },
     {
         "id": 251,
+        "rarity": "R",
+        "quality": 2,
         "name": "破損した古代文明のメダル",
         "category": "Material"
     },
     {
         "id": 252,
+        "rarity": "SR",
+        "quality": 3,
         "name": "修復途中の古代文明のメダル",
         "category": "Material"
     },
     {
         "id": 253,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全な古代文明のメダル",
         "category": "Material"
     },
     {
         "id": 260,
+        "rarity": "N",
+        "quality": 1,
         "name": "中空十二面体の欠片",
         "category": "Material"
     },
     {
         "id": 261,
+        "rarity": "R",
+        "quality": 2,
         "name": "壊れた中空十二面体",
         "category": "Material"
     },
     {
         "id": 262,
+        "rarity": "SR",
+        "quality": 3,
         "name": "修復途中の中空十二面体",
         "category": "Material"
     },
     {
         "id": 263,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全な中空十二面体",
         "category": "Material"
     },
     {
         "id": 290,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミステリーストーンの欠片",
         "category": "Material"
     },
     {
         "id": 291,
+        "rarity": "R",
+        "quality": 2,
         "name": "壊れたミステリーストーン",
         "category": "Material"
     },
     {
         "id": 292,
+        "rarity": "SR",
+        "quality": 3,
         "name": "不完全なミステリーストーン",
         "category": "Material"
     },
     {
         "id": 293,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "完全なミステリーストーン",
         "category": "Material"
     },
     {
         "id": 3000,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD\n（百鬼夜行）",
         "category": "Material"
     },
     {
         "id": 3001,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD\n（百鬼夜行）",
         "category": "Material"
     },
     {
         "id": 3002,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD\n（百鬼夜行）",
         "category": "Material"
     },
     {
         "id": 3003,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD\n（百鬼夜行）",
         "category": "Material"
     },
     {
         "id": 3010,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD\n（レッドウィンター）",
         "category": "Material"
     },
     {
         "id": 3011,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD\n（レッドウィンター）",
         "category": "Material"
     },
     {
         "id": 3012,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD\n（レッドウィンター）",
         "category": "Material"
     },
     {
         "id": 3013,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD\n（レッドウィンター）",
         "category": "Material"
     },
     {
         "id": 3020,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD\n（トリニティ）",
         "category": "Material"
     },
     {
         "id": 3021,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD\n（トリニティ）",
         "category": "Material"
     },
     {
         "id": 3022,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD\n（トリニティ）",
         "category": "Material"
     },
     {
         "id": 3023,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD\n（トリニティ）",
         "category": "Material"
     },
     {
         "id": 3030,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD\n（ゲヘナ）",
         "category": "Material"
     },
     {
         "id": 3031,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD\n（ゲヘナ）",
         "category": "Material"
     },
     {
         "id": 3032,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD\n（ゲヘナ）",
         "category": "Material"
     },
     {
         "id": 3033,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD\n（ゲヘナ）",
         "category": "Material"
     },
     {
         "id": 3040,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD\n（アビドス）",
         "category": "Material"
     },
     {
         "id": 3041,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD\n（アビドス）",
         "category": "Material"
     },
     {
         "id": 3042,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD\n（アビドス）",
         "category": "Material"
     },
     {
         "id": 3043,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD\n（アビドス）",
         "category": "Material"
     },
     {
         "id": 3050,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD\n（ミレニアム）",
         "category": "Material"
     },
     {
         "id": 3051,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD\n（ミレニアム）",
         "category": "Material"
     },
     {
         "id": 3052,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD\n（ミレニアム）",
         "category": "Material"
     },
     {
         "id": 3053,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD\n（ミレニアム）",
         "category": "Material"
     },
     {
         "id": 3060,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD\n（アリウス）",
         "category": "Material"
     },
     {
         "id": 3061,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD\n（アリウス）",
         "category": "Material"
     },
     {
         "id": 3062,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD\n（アリウス）",
         "category": "Material"
     },
     {
         "id": 3063,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD\n（アリウス）",
         "category": "Material"
     },
     {
         "id": 3070,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD\n（山海経）",
         "category": "Material"
     },
     {
         "id": 3071,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD\n（山海経）",
         "category": "Material"
     },
     {
         "id": 3072,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD\n（山海経）",
         "category": "Material"
     },
     {
         "id": 3073,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD\n（山海経）",
         "category": "Material"
     },
     {
         "id": 3080,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD\n（ヴァルキューレ）",
         "category": "Material"
     },
     {
         "id": 3081,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD\n（ヴァルキューレ）",
         "category": "Material"
     },
     {
         "id": 3082,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD\n（ヴァルキューレ）",
         "category": "Material"
     },
     {
         "id": 3083,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD\n（ヴァルキューレ）",
         "category": "Material"
     },
     {
         "id": 4000,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（百鬼夜行）",
         "category": "Material"
     },
     {
         "id": 4001,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート\n（百鬼夜行）",
         "category": "Material"
     },
     {
         "id": 4002,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート\n（百鬼夜行）",
         "category": "Material"
     },
     {
         "id": 4003,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート\n（百鬼夜行）",
         "category": "Material"
     },
     {
         "id": 4010,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（レッドウィンター）",
         "category": "Material"
     },
     {
         "id": 4011,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート\n（レッドウィンター）",
         "category": "Material"
     },
     {
         "id": 4012,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート\n（レッドウィンター）",
         "category": "Material"
     },
     {
         "id": 4013,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート\n（レッドウィンター）",
         "category": "Material"
     },
     {
         "id": 4020,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（トリニティ）",
         "category": "Material"
     },
     {
         "id": 4021,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート\n（トリニティ）",
         "category": "Material"
     },
     {
         "id": 4022,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート\n（トリニティ）",
         "category": "Material"
     },
     {
         "id": 4023,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート\n（トリニティ）",
         "category": "Material"
     },
     {
         "id": 4030,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（ゲヘナ）",
         "category": "Material"
     },
     {
         "id": 4031,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート\n（ゲヘナ）",
         "category": "Material"
     },
     {
         "id": 4032,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート\n（ゲヘナ）",
         "category": "Material"
     },
     {
         "id": 4033,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート\n（ゲヘナ）",
         "category": "Material"
     },
     {
         "id": 4040,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（アビドス）",
         "category": "Material"
     },
     {
         "id": 4041,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート\n（アビドス）",
         "category": "Material"
     },
     {
         "id": 4042,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート\n（アビドス）",
         "category": "Material"
     },
     {
         "id": 4043,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート\n（アビドス）",
         "category": "Material"
     },
     {
         "id": 4050,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（ミレニアム）",
         "category": "Material"
     },
     {
         "id": 4051,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート\n（ミレニアム）",
         "category": "Material"
     },
     {
         "id": 4052,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート\n（ミレニアム）",
         "category": "Material"
     },
     {
         "id": 4053,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート\n（ミレニアム）",
         "category": "Material"
     },
     {
         "id": 4060,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（アリウス）",
         "category": "Material"
     },
     {
         "id": 4061,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート\n（アリウス）",
         "category": "Material"
     },
     {
         "id": 4062,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート\n（アリウス）",
         "category": "Material"
     },
     {
         "id": 4063,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート\n（アリウス）",
         "category": "Material"
     },
     {
         "id": 4070,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（山海経）",
         "category": "Material"
     },
     {
         "id": 4071,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート\n（山海経）",
         "category": "Material"
     },
     {
         "id": 4072,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート\n（山海経）",
         "category": "Material"
     },
     {
         "id": 4073,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート\n（山海経）",
         "category": "Material"
     },
     {
         "id": 4080,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（ヴァルキューレ）",
         "category": "Material"
     },
     {
         "id": 4081,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート\n（ヴァルキューレ）",
         "category": "Material"
     },
     {
         "id": 4082,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート\n（ヴァルキューレ）",
         "category": "Material"
     },
     {
         "id": 4083,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート\n（ヴァルキューレ）",
         "category": "Material"
     },
     {
         "id": 5000,
+        "rarity": "SR",
+        "quality": 3,
         "name": "ウェーブキャットの枕",
         "category": "Favor"
     },
     {
         "id": 5001,
+        "rarity": "SR",
+        "quality": 3,
         "name": "ペロロの腹筋ローラー",
         "category": "Favor"
     },
     {
         "id": 5002,
+        "rarity": "SR",
+        "quality": 3,
         "name": "エーポッドプロ",
         "category": "Favor"
     },
     {
         "id": 5003,
+        "rarity": "SR",
+        "quality": 3,
         "name": "禁断の愛\n〜許されないからこそ美しく〜",
         "category": "Favor"
     },
     {
         "id": 5004,
+        "rarity": "SR",
+        "quality": 3,
         "name": "ゲームマガジン\n「ヒットガールズ」",
         "category": "Favor"
     },
     {
         "id": 5005,
+        "rarity": "SR",
+        "quality": 3,
         "name": "チェリーローズカラーのグロス",
         "category": "Favor"
     },
     {
         "id": 5006,
+        "rarity": "SR",
+        "quality": 3,
         "name": "お肌を透明にするBBクリーム",
         "category": "Favor"
     },
     {
         "id": 5007,
+        "rarity": "SR",
+        "quality": 3,
         "name": "ミリタリー用カモフラージュクリーム3種セット",
         "category": "Favor"
     },
     {
         "id": 5008,
+        "rarity": "SR",
+        "quality": 3,
         "name": "高級なクッキーセット",
         "category": "Favor"
     },
     {
         "id": 5009,
+        "rarity": "SR",
+        "quality": 3,
         "name": "『銃 可愛い 青春』",
         "category": "Favor"
     },
     {
         "id": 5010,
+        "rarity": "SR",
+        "quality": 3,
         "name": "天体望遠鏡",
         "category": "Favor"
     },
     {
         "id": 5011,
+        "rarity": "SR",
+        "quality": 3,
         "name": "ゲームガールカラー復刻版",
         "category": "Favor"
     },
     {
         "id": 5012,
+        "rarity": "SR",
+        "quality": 3,
         "name": "MX-レーションC型デザート風味",
         "category": "Favor"
     },
     {
         "id": 5013,
+        "rarity": "SR",
+        "quality": 3,
         "name": "抹茶味の瓶ラムネ",
         "category": "Favor"
     },
     {
         "id": 5014,
+        "rarity": "SR",
+        "quality": 3,
         "name": "ゼリーズの枕",
         "category": "Favor"
     },
     {
         "id": 5015,
+        "rarity": "SR",
+        "quality": 3,
         "name": "跳躍探偵ウサギ\n〜霧に包まれた温泉での滑落〜",
         "category": "Favor"
     },
     {
         "id": 5016,
+        "rarity": "SR",
+        "quality": 3,
         "name": "O-フィット",
         "category": "Favor"
     },
     {
         "id": 5017,
+        "rarity": "SR",
+        "quality": 3,
         "name": "埋蔵金の地図",
         "category": "Favor"
     },
     {
         "id": 5018,
+        "rarity": "SR",
+        "quality": 3,
         "name": "コスプレ用ぐるぐるメガネ",
         "category": "Favor"
     },
     {
         "id": 5019,
+        "rarity": "SR",
+        "quality": 3,
         "name": "世界で最も無駄な絡繰りボックス",
         "category": "Favor"
     },
     {
         "id": 5020,
+        "rarity": "SR",
+        "quality": 3,
         "name": "リボンのついた熊のぬいぐるみ",
         "category": "Favor"
     },
     {
         "id": 5021,
+        "rarity": "SR",
+        "quality": 3,
         "name": "映画の前売りペアチケット",
         "category": "Favor"
     },
     {
         "id": 5022,
+        "rarity": "SR",
+        "quality": 3,
         "name": "30色の絵の具セット",
         "category": "Favor"
     },
     {
         "id": 5023,
+        "rarity": "SR",
+        "quality": 3,
         "name": "古典の詩集",
         "category": "Favor"
     },
     {
         "id": 5024,
+        "rarity": "SR",
+        "quality": 3,
         "name": "可愛い食器セット",
         "category": "Favor"
     },
     {
         "id": 5025,
+        "rarity": "SR",
+        "quality": 3,
         "name": "頭脳開発キューブパズル",
         "category": "Favor"
     },
     {
         "id": 5026,
+        "rarity": "SR",
+        "quality": 3,
         "name": "大きなホールケーキ",
         "category": "Favor"
     },
     {
         "id": 5027,
+        "rarity": "SR",
+        "quality": 3,
         "name": "ハイクラスビュッフェ招待券",
         "category": "Favor"
     },
     {
         "id": 5028,
+        "rarity": "SR",
+        "quality": 3,
         "name": "食虫植物の植木鉢",
         "category": "Favor"
     },
     {
         "id": 5029,
+        "rarity": "SR",
+        "quality": 3,
         "name": "高級そうな欲望のつぼ",
         "category": "Favor"
     },
     {
         "id": 5030,
+        "rarity": "SR",
+        "quality": 3,
         "name": "ぜんまい式オルゴール",
         "category": "Favor"
     },
     {
         "id": 5031,
+        "rarity": "SR",
+        "quality": 3,
         "name": "刺繍付きのハンカチ",
         "category": "Favor"
     },
     {
         "id": 5032,
+        "rarity": "SR",
+        "quality": 3,
         "name": "百科事典",
         "category": "Favor"
     },
     {
         "id": 5033,
+        "rarity": "SR",
+        "quality": 3,
         "name": "ザ・サプリメント",
         "category": "Favor"
     },
     {
         "id": 5034,
+        "rarity": "SR",
+        "quality": 3,
         "name": "夏模様の浮き輪",
         "category": "Favor"
     },
     {
         "id": 5100,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "レースの枕",
         "category": "Favor"
     },
     {
         "id": 5101,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ストリートオブヤンキー1巻",
         "category": "Favor"
     },
     {
         "id": 5102,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "サミュエラ「ザ・ビヨンド」",
         "category": "Favor"
     },
     {
         "id": 5103,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "レトロな卵の工芸品",
         "category": "Favor"
     },
     {
         "id": 5104,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ミルフィーユの正統派パフェ",
         "category": "Favor"
     },
     {
         "id": 5105,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "エイ～ブックレア",
         "category": "Favor"
     },
     {
         "id": 5106,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "おしゃれなくし",
         "category": "Favor"
     },
     {
         "id": 5107,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "栄養満載の総合ビタミンゼリー",
         "category": "Favor"
     },
     {
         "id": 5108,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最高級の楓の盆栽",
         "category": "Favor"
     },
     {
         "id": 5109,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "裁縫キット",
         "category": "Favor"
     },
     {
         "id": 5110,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "音楽演奏会入場券",
         "category": "Favor"
     },
     {
         "id": 5111,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "1日3回ダンベルセット",
         "category": "Favor"
     },
     {
         "id": 5112,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ボードゲーム「ザ・人生」",
         "category": "Favor"
     },
     {
         "id": 5997,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "美しい花束",
         "category": "Favor"
     },
     {
         "id": 5998,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "初音ミクのフォトカード",
         "category": "Favor"
     },
     {
         "id": 5999,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "きらめきの花束",
         "category": "Favor"
     },
     {
         "id": 6000,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6001,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6002,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★2生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6003,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6004,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6005,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★2生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6100,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6101,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6102,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6103,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6200,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6201,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6300,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★2生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6301,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★2生徒確定募集チケット",
         "category": "Material"
     },
     {
         "id": 6400,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "1回募集チケット",
         "category": "Material"
     },
     {
         "id": 6401,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "1回募集チケット",
         "category": "Material"
     },
     {
         "id": 6500,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "10回募集チケット",
         "category": "Material"
     },
     {
         "id": 6501,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "10回募集チケット",
         "category": "Material"
     },
     {
         "id": 6502,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "10回募集チケット",
         "category": "Material"
     },
     {
         "id": 6503,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "10回募集チケット",
         "category": "Material"
     },
     {
         "id": 6504,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "10回募集チケット",
         "category": "Material"
     },
     {
         "id": 6505,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "10回募集チケット",
         "category": "Material"
     },
     {
         "id": 6600,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット（攻撃タイプ別）",
         "category": "Material"
     },
     {
         "id": 6601,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット（攻撃タイプ別）",
         "category": "Material"
     },
     {
         "id": 6602,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット（攻撃タイプ別）",
         "category": "Material"
     },
     {
         "id": 6603,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "★3生徒確定募集チケット（攻撃タイプ別）",
         "category": "Material"
     },
     {
         "id": 6998,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "1回募集チケット",
         "category": "Material"
     },
     {
         "id": 6999,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "10回募集チケット",
         "category": "Material"
     },
     {
         "id": 7000,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ1：TypeD ",
         "category": "Coin"
     },
     {
         "id": 7001,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ1：TypeD ",
         "category": "Coin"
     },
     {
         "id": 9998,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "秘伝ノートの断片",
         "category": "Material"
     },
     {
         "id": 9999,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "秘伝ノート",
         "category": "Material"
     },
     {
         "id": 10000,
+        "rarity": "N",
+        "quality": 9,
         "name": "アルの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10001,
+        "rarity": "N",
+        "quality": 9,
         "name": "エイミの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10002,
+        "rarity": "N",
+        "quality": 9,
         "name": "ハルナの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10003,
+        "rarity": "N",
+        "quality": 9,
         "name": "ヒフミの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10004,
+        "rarity": "N",
+        "quality": 9,
         "name": "ヒナの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10005,
+        "rarity": "N",
+        "quality": 9,
         "name": "ホシノの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10006,
+        "rarity": "N",
+        "quality": 9,
         "name": "イオリの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10007,
+        "rarity": "N",
+        "quality": 9,
         "name": "マキの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10008,
+        "rarity": "N",
+        "quality": 9,
         "name": "ネルの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10009,
+        "rarity": "N",
+        "quality": 9,
         "name": "イズミの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10010,
+        "rarity": "N",
+        "quality": 9,
         "name": "シロコの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10011,
+        "rarity": "N",
+        "quality": 9,
         "name": "シュンの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10012,
+        "rarity": "N",
+        "quality": 9,
         "name": "スミレの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10013,
+        "rarity": "N",
+        "quality": 9,
         "name": "ツルギの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10014,
+        "rarity": "N",
+        "quality": 9,
         "name": "イズナの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10015,
+        "rarity": "N",
+        "quality": 9,
         "name": "アリスの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10016,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミドリの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10017,
+        "rarity": "N",
+        "quality": 9,
         "name": "チェリノの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10018,
+        "rarity": "N",
+        "quality": 9,
         "name": "ユズの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10019,
+        "rarity": "N",
+        "quality": 9,
         "name": "アズサの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10020,
+        "rarity": "N",
+        "quality": 9,
         "name": "コハルの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10021,
+        "rarity": "N",
+        "quality": 9,
         "name": "アズサ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10022,
+        "rarity": "N",
+        "quality": 9,
         "name": "ヒナ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10023,
+        "rarity": "N",
+        "quality": 9,
         "name": "イオリ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10024,
+        "rarity": "N",
+        "quality": 9,
         "name": "シロコ（ライディング）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10025,
+        "rarity": "N",
+        "quality": 9,
         "name": "シュン（幼女）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10026,
+        "rarity": "N",
+        "quality": 9,
         "name": "ネル（バニーガール）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10027,
+        "rarity": "N",
+        "quality": 9,
         "name": "カリン（バニーガール）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10028,
+        "rarity": "N",
+        "quality": 9,
         "name": "アスナ（バニーガール）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10029,
+        "rarity": "N",
+        "quality": 9,
         "name": "ナツの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10030,
+        "rarity": "N",
+        "quality": 9,
         "name": "チナツ（温泉）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10031,
+        "rarity": "N",
+        "quality": 9,
         "name": "アル（正月）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10032,
+        "rarity": "N",
+        "quality": 9,
         "name": "ムツキ（正月）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10033,
+        "rarity": "N",
+        "quality": 9,
         "name": "ワカモの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10034,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミモリの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10035,
+        "rarity": "N",
+        "quality": 9,
         "name": "ウイの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10036,
+        "rarity": "N",
+        "quality": 9,
         "name": "ヒナタの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10037,
+        "rarity": "N",
+        "quality": 9,
         "name": "マリナの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10038,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミヤコの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10039,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミユの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10040,
+        "rarity": "N",
+        "quality": 9,
         "name": "ツクヨの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10041,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミサキの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10042,
+        "rarity": "N",
+        "quality": 9,
         "name": "アツコの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10043,
+        "rarity": "N",
+        "quality": 9,
         "name": "ワカモ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10044,
+        "rarity": "N",
+        "quality": 9,
         "name": "ノノミ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10045,
+        "rarity": "N",
+        "quality": 9,
         "name": "ホシノ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10046,
+        "rarity": "N",
+        "quality": 9,
         "name": "イズナ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10047,
+        "rarity": "N",
+        "quality": 9,
         "name": "チセ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10048,
+        "rarity": "N",
+        "quality": 9,
         "name": "サオリの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10049,
+        "rarity": "N",
+        "quality": 9,
         "name": "カズサの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10050,
+        "rarity": "N",
+        "quality": 9,
         "name": "ココナの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10051,
+        "rarity": "N",
+        "quality": 9,
         "name": "ウタハ（応援団）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10052,
+        "rarity": "N",
+        "quality": 9,
         "name": "ノアの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10053,
+        "rarity": "N",
+        "quality": 9,
         "name": "ユウカ（体操服）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10054,
+        "rarity": "N",
+        "quality": 9,
         "name": "マリー（体操服）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10055,
+        "rarity": "N",
+        "quality": 9,
         "name": "シグレの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10056,
+        "rarity": "N",
+        "quality": 9,
         "name": "セリナ（クリスマス）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10057,
+        "rarity": "N",
+        "quality": 9,
         "name": "ハルナ（正月）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10058,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミネの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10059,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミカの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10060,
+        "rarity": "N",
+        "quality": 9,
         "name": "メグの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10061,
+        "rarity": "N",
+        "quality": 9,
         "name": "サクラコの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10062,
+        "rarity": "N",
+        "quality": 9,
         "name": "トキの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10063,
+        "rarity": "N",
+        "quality": 9,
         "name": "コユキの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10064,
+        "rarity": "N",
+        "quality": 9,
         "name": "カヨコ（正月）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10065,
+        "rarity": "N",
+        "quality": 9,
         "name": "カホの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10066,
+        "rarity": "N",
+        "quality": 9,
         "name": "アリス（メイド）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10067,
+        "rarity": "N",
+        "quality": 9,
         "name": "トキ（バニーガール）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10068,
+        "rarity": "N",
+        "quality": 9,
         "name": "レイサの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10069,
+        "rarity": "N",
+        "quality": 9,
         "name": "ルミの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10070,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミナの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10071,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミヤコ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10072,
+        "rarity": "N",
+        "quality": 9,
         "name": "サキ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10073,
+        "rarity": "N",
+        "quality": 9,
         "name": "ウイ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10074,
+        "rarity": "N",
+        "quality": 9,
         "name": "ハナコ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10075,
+        "rarity": "N",
+        "quality": 9,
         "name": "メルの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 10076,
+        "rarity": "N",
+        "quality": 9,
         "name": "",
         "category": "SecretStone"
     },
     {
         "id": 13000,
+        "rarity": "N",
+        "quality": 9,
         "name": "アカネの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13001,
+        "rarity": "N",
+        "quality": 9,
         "name": "チセの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13002,
+        "rarity": "N",
+        "quality": 9,
         "name": "アカリの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13003,
+        "rarity": "N",
+        "quality": 9,
         "name": "ハスミの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13004,
+        "rarity": "N",
+        "quality": 9,
         "name": "ノノミの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13005,
+        "rarity": "N",
+        "quality": 9,
         "name": "カヨコの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13006,
+        "rarity": "N",
+        "quality": 9,
         "name": "ムツキの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13007,
+        "rarity": "N",
+        "quality": 9,
         "name": "ジュンコの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13008,
+        "rarity": "N",
+        "quality": 9,
         "name": "セリカの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13009,
+        "rarity": "N",
+        "quality": 9,
         "name": "ツバキの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13010,
+        "rarity": "N",
+        "quality": 9,
         "name": "ユウカの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13011,
+        "rarity": "N",
+        "quality": 9,
         "name": "モモイの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13012,
+        "rarity": "N",
+        "quality": 9,
         "name": "キリノの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 13013,
+        "rarity": "N",
+        "quality": 9,
         "name": "モミジの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16000,
+        "rarity": "N",
+        "quality": 9,
         "name": "ハルカの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16001,
+        "rarity": "N",
+        "quality": 9,
         "name": "アスナの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16002,
+        "rarity": "N",
+        "quality": 9,
         "name": "コトリの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16003,
+        "rarity": "N",
+        "quality": 9,
         "name": "スズミの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16004,
+        "rarity": "N",
+        "quality": 9,
         "name": "フィーナの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16005,
+        "rarity": "N",
+        "quality": 9,
         "name": "ツルギ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16006,
+        "rarity": "N",
+        "quality": 9,
         "name": "イズミ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16007,
+        "rarity": "N",
+        "quality": 9,
         "name": "トモエの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16008,
+        "rarity": "N",
+        "quality": 9,
         "name": "フブキの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16009,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミチルの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16010,
+        "rarity": "N",
+        "quality": 9,
         "name": "ヒビキ（応援団）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16011,
+        "rarity": "N",
+        "quality": 9,
         "name": "ハスミ（体操服）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16012,
+        "rarity": "N",
+        "quality": 9,
         "name": "ジュンコ（正月）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 16013,
+        "rarity": "N",
+        "quality": 9,
         "name": "コハル（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20000,
+        "rarity": "N",
+        "quality": 9,
         "name": "ヒビキの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20001,
+        "rarity": "N",
+        "quality": 9,
         "name": "カリンの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20002,
+        "rarity": "N",
+        "quality": 9,
         "name": "サヤの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20003,
+        "rarity": "N",
+        "quality": 9,
         "name": "マシロの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20004,
+        "rarity": "N",
+        "quality": 9,
         "name": "マシロ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20005,
+        "rarity": "N",
+        "quality": 9,
         "name": "ヒフミ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20006,
+        "rarity": "N",
+        "quality": 9,
         "name": "サヤ（私服）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20007,
+        "rarity": "N",
+        "quality": 9,
         "name": "初音ミクの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20008,
+        "rarity": "N",
+        "quality": 9,
         "name": "アコの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20009,
+        "rarity": "N",
+        "quality": 9,
         "name": "チェリノ（温泉）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20010,
+        "rarity": "N",
+        "quality": 9,
         "name": "ノドカ（温泉）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20011,
+        "rarity": "N",
+        "quality": 9,
         "name": "セリカ（正月）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20012,
+        "rarity": "N",
+        "quality": 9,
         "name": "セナの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20013,
+        "rarity": "N",
+        "quality": 9,
         "name": "チヒロの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20014,
+        "rarity": "N",
+        "quality": 9,
         "name": "サキの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20015,
+        "rarity": "N",
+        "quality": 9,
         "name": "カエデの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20016,
+        "rarity": "N",
+        "quality": 9,
         "name": "イロハの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20017,
+        "rarity": "N",
+        "quality": 9,
         "name": "ヒヨリの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20018,
+        "rarity": "N",
+        "quality": 9,
         "name": "モエの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20019,
+        "rarity": "N",
+        "quality": 9,
         "name": "アカネ（バニーガール）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20020,
+        "rarity": "N",
+        "quality": 9,
         "name": "ヒマリの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20021,
+        "rarity": "N",
+        "quality": 9,
         "name": "ハナエ（クリスマス）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20022,
+        "rarity": "N",
+        "quality": 9,
         "name": "フウカ（正月）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20023,
+        "rarity": "N",
+        "quality": 9,
         "name": "カンナの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20024,
+        "rarity": "N",
+        "quality": 9,
         "name": "ナギサの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20025,
+        "rarity": "N",
+        "quality": 9,
         "name": "ハルカ（正月）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20026,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミノリの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20027,
+        "rarity": "N",
+        "quality": 9,
         "name": "シロコ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20028,
+        "rarity": "N",
+        "quality": 9,
         "name": "ヒナタ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20029,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミモリ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 20030,
+        "rarity": "N",
+        "quality": 9,
         "name": "",
         "category": "SecretStone"
     },
     {
         "id": 23000,
+        "rarity": "N",
+        "quality": 9,
         "name": "アイリの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 23001,
+        "rarity": "N",
+        "quality": 9,
         "name": "フウカの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 23002,
+        "rarity": "N",
+        "quality": 9,
         "name": "ハナエの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 23003,
+        "rarity": "N",
+        "quality": 9,
         "name": "ハレの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 23004,
+        "rarity": "N",
+        "quality": 9,
         "name": "ウタハの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 23005,
+        "rarity": "N",
+        "quality": 9,
         "name": "アヤネの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 23006,
+        "rarity": "N",
+        "quality": 9,
         "name": "シズコの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 23007,
+        "rarity": "N",
+        "quality": 9,
         "name": "ハナコの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 23008,
+        "rarity": "N",
+        "quality": 9,
         "name": "マリーの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 26000,
+        "rarity": "N",
+        "quality": 9,
         "name": "チナツの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 26001,
+        "rarity": "N",
+        "quality": 9,
         "name": "コタマの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 26002,
+        "rarity": "N",
+        "quality": 9,
         "name": "ジュリの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 26003,
+        "rarity": "N",
+        "quality": 9,
         "name": "セリナの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 26004,
+        "rarity": "N",
+        "quality": 9,
         "name": "シミコの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 26005,
+        "rarity": "N",
+        "quality": 9,
         "name": "ヨシミの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 26006,
+        "rarity": "N",
+        "quality": 9,
         "name": "ノドカの神名文字",
         "category": "SecretStone"
     },
     {
         "id": 26007,
+        "rarity": "N",
+        "quality": 9,
         "name": "アヤネ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 26008,
+        "rarity": "N",
+        "quality": 9,
         "name": "シズコ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 26009,
+        "rarity": "N",
+        "quality": 9,
         "name": "ユズ（メイド）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 26010,
+        "rarity": "N",
+        "quality": 9,
         "name": "ミユ（水着）の神名文字",
         "category": "SecretStone"
     },
     {
         "id": 30000,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30001,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30002,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30003,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30010,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30011,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30012,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30013,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30014,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30015,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30016,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30017,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30018,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30019,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30020,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 30021,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 40000,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40001,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40002,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40003,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40010,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40011,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40012,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40013,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40014,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40015,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40016,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40017,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40018,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40019,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40020,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 40021,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 50000,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 50001,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 50002,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 50003,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 50004,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 50005,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 50006,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 50007,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 60000,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 60001,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 60002,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 60003,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 60004,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 60005,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 60006,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 60007,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 60008,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（ゲヘナ）",
         "category": "Consumable"
     },
     {
         "id": 60009,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（ゲヘナ）",
         "category": "Consumable"
     },
     {
         "id": 60010,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（アビドス）",
         "category": "Consumable"
     },
     {
         "id": 60011,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（アビドス）",
         "category": "Consumable"
     },
     {
         "id": 60012,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（ミレニアム）",
         "category": "Consumable"
     },
     {
         "id": 60013,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（ミレニアム）",
         "category": "Consumable"
     },
     {
         "id": 60014,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（トリニティ）",
         "category": "Consumable"
     },
     {
         "id": 60015,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（トリニティ）",
         "category": "Consumable"
     },
     {
         "id": 60016,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（レッドウィンター）",
         "category": "Consumable"
     },
     {
         "id": 60017,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート\n（レッドウィンター）",
         "category": "Consumable"
     },
     {
         "id": 60018,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 70000,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70001,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70002,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70003,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70004,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70005,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70006,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70007,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70008,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70009,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70010,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70011,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70012,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70013,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70014,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70015,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70016,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70017,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70018,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70019,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70020,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70021,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70022,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70023,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70024,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70025,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70026,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70027,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70028,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70029,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70030,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70031,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70032,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70033,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70034,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70035,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70036,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70037,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70038,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70039,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70040,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70041,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70042,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70043,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70044,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70045,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70046,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70047,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70048,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70049,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70050,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70051,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70052,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70053,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70054,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70055,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70056,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70057,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70058,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70059,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70060,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70061,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70062,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70063,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70064,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70065,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70066,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70067,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70068,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70069,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70070,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70071,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70072,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70073,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70074,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70075,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70076,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70077,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70078,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70079,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70080,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70081,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70082,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70083,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70084,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70085,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70086,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70087,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70088,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70089,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70090,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70091,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70092,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70093,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70094,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70095,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 70096,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 79999,
+        "rarity": "N",
+        "quality": 2,
         "name": "呼び出しポイント",
         "category": "RecruitCoin"
     },
     {
         "id": 80000,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 80001,
+        "rarity": "N",
+        "quality": 2,
         "name": "キツネせんべい",
         "category": "Coin"
     },
     {
         "id": 80002,
+        "rarity": "N",
+        "quality": 3,
         "name": "タヌキ印のお好み焼き",
         "category": "Coin"
     },
     {
         "id": 80003,
+        "rarity": "N",
+        "quality": 4,
         "name": "サクラ大福",
         "category": "Coin"
     },
     {
         "id": 80010,
+        "rarity": "N",
+        "quality": 1,
         "name": "チェリノマトリョーシカ",
         "category": "Coin"
     },
     {
         "id": 80011,
+        "rarity": "N",
+        "quality": 2,
         "name": "チェリノ印のチョコレート",
         "category": "Coin"
     },
     {
         "id": 80012,
+        "rarity": "N",
+        "quality": 3,
         "name": "おひげクレープ",
         "category": "Coin"
     },
     {
         "id": 80013,
+        "rarity": "N",
+        "quality": 4,
         "name": "勇猛髭勲章",
         "category": "Coin"
     },
     {
         "id": 80020,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 80021,
+        "rarity": "N",
+        "quality": 1,
         "name": "ビーチボール",
         "category": "Coin"
     },
     {
         "id": 80022,
+        "rarity": "N",
+        "quality": 2,
         "name": "海の家の食券",
         "category": "Coin"
     },
     {
         "id": 80023,
+        "rarity": "N",
+        "quality": 3,
         "name": "ミニロケット花火",
         "category": "Coin"
     },
     {
         "id": 80024,
+        "rarity": "N",
+        "quality": 1,
         "name": "クーラーボックス",
         "category": "Collectible"
     },
     {
         "id": 80025,
+        "rarity": "N",
+        "quality": 1,
         "name": "砂遊びセット",
         "category": "Collectible"
     },
     {
         "id": 80026,
+        "rarity": "N",
+        "quality": 1,
         "name": "ビーチチェア",
         "category": "Collectible"
     },
     {
         "id": 80027,
+        "rarity": "N",
+        "quality": 1,
         "name": "パラソルテーブル",
         "category": "Collectible"
     },
     {
         "id": 80028,
+        "rarity": "N",
+        "quality": 1,
         "name": "ビーチグッズ",
         "category": "Collectible"
     },
     {
         "id": 80029,
+        "rarity": "N",
+        "quality": 1,
         "name": "セーリングボート",
         "category": "Collectible"
     },
     {
         "id": 80030,
+        "rarity": "N",
+        "quality": 4,
         "name": "ゲヘナ印の補給ボックス",
         "category": "Coin"
     },
     {
         "id": 80031,
+        "rarity": "N",
+        "quality": 1,
         "name": "美食研究会の焼きトウモロコシ",
         "category": "Coin"
     },
     {
         "id": 80032,
+        "rarity": "N",
+        "quality": 2,
         "name": "夏のスケバンサングラス",
         "category": "Coin"
     },
     {
         "id": 80033,
+        "rarity": "N",
+        "quality": 3,
         "name": "びしょびしょヘルメット",
         "category": "Coin"
     },
     {
         "id": 80040,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 80041,
+        "rarity": "N",
+        "quality": 2,
         "name": "コウラ茸",
         "category": "Coin"
     },
     {
         "id": 80042,
+        "rarity": "N",
+        "quality": 3,
         "name": "クロ筍",
         "category": "Coin"
     },
     {
         "id": 80043,
+        "rarity": "N",
+        "quality": 4,
         "name": "ヒトガタ人蔘",
         "category": "Coin"
     },
     {
         "id": 80050,
+        "rarity": "N",
+        "quality": 1,
         "name": "チョコレートコイン",
         "category": "Coin"
     },
     {
         "id": 80051,
+        "rarity": "N",
+        "quality": 2,
         "name": "ウサギのステッカー",
         "category": "Coin"
     },
     {
         "id": 80052,
+        "rarity": "N",
+        "quality": 3,
         "name": "乗船チケット",
         "category": "Coin"
     },
     {
         "id": 80053,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ",
         "category": "Coin"
     },
     {
         "id": 80060,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 80061,
+        "rarity": "N",
+        "quality": 2,
         "name": "温泉タオル",
         "category": "Coin"
     },
     {
         "id": 80062,
+        "rarity": "N",
+        "quality": 3,
         "name": "おひげシャンプー",
         "category": "Coin"
     },
     {
         "id": 80063,
+        "rarity": "N",
+        "quality": 4,
         "name": "カピバラ型の入浴剤",
         "category": "Coin"
     },
     {
         "id": 80070,
+        "rarity": "N",
+        "quality": 3,
         "name": "福袋",
         "category": "Coin"
     },
     {
         "id": 80071,
+        "rarity": "N",
+        "quality": 1,
         "name": "ペロロ餅",
         "category": "Coin"
     },
     {
         "id": 80072,
+        "rarity": "N",
+        "quality": 2,
         "name": "黒亀組の絵馬",
         "category": "Coin"
     },
     {
         "id": 80073,
+        "rarity": "N",
+        "quality": 4,
         "name": "おみくじ引換券",
         "category": "Coin"
     },
     {
         "id": 80080,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 80081,
+        "rarity": "N",
+        "quality": 2,
         "name": "問題児の反省文",
         "category": "Coin"
     },
     {
         "id": 80082,
+        "rarity": "N",
+        "quality": 3,
         "name": "押収された違法駄菓子",
         "category": "Coin"
     },
     {
         "id": 80083,
+        "rarity": "N",
+        "quality": 4,
         "name": "環境美化活動用ゴミ袋",
         "category": "Coin"
     },
     {
         "id": 80084,
+        "rarity": "N",
+        "quality": 4,
         "name": "バレンタインデーのお誘い",
         "category": "Coin"
     },
     {
         "id": 80090,
+        "rarity": "N",
+        "quality": 1,
         "name": "ワカモの逮捕状",
         "category": "Coin"
     },
     {
         "id": 80100,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 80101,
+        "rarity": "N",
+        "quality": 2,
         "name": "シスターフッドのヴェール",
         "category": "Coin"
     },
     {
         "id": 80102,
+        "rarity": "N",
+        "quality": 3,
         "name": "トリニティの聖歌集",
         "category": "Coin"
     },
     {
         "id": 80103,
+        "rarity": "N",
+        "quality": 4,
         "name": "トリニティの燭台",
         "category": "Coin"
     },
     {
         "id": 80110,
+        "rarity": "N",
+        "quality": 1,
         "name": "ムシクイーンのカードパック",
         "category": "Coin"
     },
     {
         "id": 80111,
+        "rarity": "N",
+        "quality": 2,
         "name": "交流会のチラシ",
         "category": "Coin"
     },
     {
         "id": 80112,
+        "rarity": "N",
+        "quality": 3,
         "name": "和楽姫のうちわ",
         "category": "Coin"
     },
     {
         "id": 80113,
+        "rarity": "N",
+        "quality": 4,
         "name": "ニンペロさんグッズ",
         "category": "Coin"
     },
     {
         "id": 80120,
+        "rarity": "N",
+        "quality": 4,
         "name": "資材ボックス",
         "category": "Coin"
     },
     {
         "id": 80130,
+        "rarity": "N",
+        "quality": 1,
         "name": "地域通貨",
         "category": "Coin"
     },
     {
         "id": 80131,
+        "rarity": "N",
+        "quality": 2,
         "name": "百夜堂キラキラコイン",
         "category": "Coin"
     },
     {
         "id": 80132,
+        "rarity": "N",
+        "quality": 3,
         "name": "ツルツルサザエ",
         "category": "Coin"
     },
     {
         "id": 80133,
+        "rarity": "N",
+        "quality": 4,
         "name": "夏用忍法図鑑巻物",
         "category": "Coin"
     },
     {
         "id": 80134,
+        "rarity": "N",
+        "quality": 2,
         "name": "深海温泉島リゾート使用権",
         "category": "Coin"
     },
     {
         "id": 80135,
+        "rarity": "N",
+        "quality": 3,
         "name": "ムシクイーンクルーズリゾート使用権",
         "category": "Coin"
     },
     {
         "id": 80136,
+        "rarity": "N",
+        "quality": 4,
         "name": "超豪華リゾート使用権",
         "category": "Coin"
     },
     {
         "id": 80140,
+        "rarity": "N",
+        "quality": 1,
         "name": "スイーツクーポン",
         "category": "Coin"
     },
     {
         "id": 80141,
+        "rarity": "N",
+        "quality": 2,
         "name": "ミントチョコパフェ",
         "category": "Coin"
     },
     {
         "id": 80142,
+        "rarity": "N",
+        "quality": 3,
         "name": "マカロン",
         "category": "Coin"
     },
     {
         "id": 80143,
+        "rarity": "N",
+        "quality": 4,
         "name": "ロールウエハース",
         "category": "Coin"
     },
     {
         "id": 80150,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 80151,
+        "rarity": "N",
+        "quality": 2,
         "name": "お手玉",
         "category": "Coin"
     },
     {
         "id": 80152,
+        "rarity": "N",
+        "quality": 3,
         "name": "ミレニアムの旗",
         "category": "Coin"
     },
     {
         "id": 80153,
+        "rarity": "N",
+        "quality": 4,
         "name": "ホイッスル",
         "category": "Coin"
     },
     {
         "id": 80160,
+        "rarity": "N",
+        "quality": 1,
         "name": "スポーツドリンク",
         "category": "Coin"
     },
     {
         "id": 80161,
+        "rarity": "N",
+        "quality": 2,
         "name": "リレー用バトン",
         "category": "Coin"
     },
     {
         "id": 80162,
+        "rarity": "N",
+        "quality": 3,
         "name": "あんぱん",
         "category": "Coin"
     },
     {
         "id": 80163,
+        "rarity": "N",
+        "quality": 4,
         "name": "案内パンフレット",
         "category": "Coin"
     },
     {
         "id": 80170,
+        "rarity": "N",
+        "quality": 1,
         "name": "クリスマスプレゼント",
         "category": "Coin"
     },
     {
         "id": 80171,
+        "rarity": "N",
+        "quality": 2,
         "name": "クリスマスソックス",
         "category": "Coin"
     },
     {
         "id": 80172,
+        "rarity": "N",
+        "quality": 3,
         "name": "キャンディケイン",
         "category": "Coin"
     },
     {
         "id": 80173,
+        "rarity": "N",
+        "quality": 4,
         "name": "エッグノッグ",
         "category": "Coin"
     },
     {
         "id": 80180,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 80181,
+        "rarity": "N",
+        "quality": 1,
         "name": "紅白かまぼこ",
         "category": "Coin"
     },
     {
         "id": 80182,
+        "rarity": "N",
+        "quality": 2,
         "name": "おめでタイ",
         "category": "Coin"
     },
     {
         "id": 80183,
+        "rarity": "N",
+        "quality": 4,
         "name": "おみくじ引換券",
         "category": "Coin"
     },
     {
         "id": 80200,
+        "rarity": "N",
+        "quality": 1,
         "name": "多次元演算回路",
         "category": "Coin"
     },
     {
         "id": 80201,
+        "rarity": "N",
+        "quality": 2,
         "name": "次元エンジン付属品",
         "category": "Coin"
     },
     {
         "id": 80202,
+        "rarity": "N",
+        "quality": 3,
         "name": "宇宙チョコバーガー",
         "category": "Coin"
     },
     {
         "id": 80203,
+        "rarity": "N",
+        "quality": 1,
         "name": "ゲートアンロックコード - 外郭2区",
         "category": "Coin"
     },
     {
         "id": 80204,
+        "rarity": "N",
+        "quality": 2,
         "name": "ゲートアンロックコード - 外郭3区",
         "category": "Coin"
     },
     {
         "id": 80205,
+        "rarity": "N",
+        "quality": 3,
         "name": "ゲートアンロックコード - 中央区",
         "category": "Coin"
     },
     {
         "id": 80220,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 80221,
+        "rarity": "N",
+        "quality": 2,
         "name": "連邦生徒会の安全帽",
         "category": "Coin"
     },
     {
         "id": 80222,
+        "rarity": "N",
+        "quality": 3,
         "name": "財務諸表",
         "category": "Coin"
     },
     {
         "id": 80223,
+        "rarity": "N",
+        "quality": 4,
         "name": "めんたいポテチ",
         "category": "Coin"
     },
     {
         "id": 80230,
+        "rarity": "N",
+        "quality": 1,
         "name": "きれいなカチューシャ",
         "category": "Coin"
     },
     {
         "id": 80231,
+        "rarity": "N",
+        "quality": 2,
         "name": "メイクアップセット",
         "category": "Coin"
     },
     {
         "id": 80232,
+        "rarity": "N",
+        "quality": 3,
         "name": "屋敷への招待状",
         "category": "Coin"
     },
     {
         "id": 80240,
+        "rarity": "N",
+        "quality": 1,
         "name": "カードセット",
         "category": "Coin"
     },
     {
         "id": 80241,
+        "rarity": "N",
+        "quality": 2,
         "name": "玄武商会の食券",
         "category": "Coin"
     },
     {
         "id": 80242,
+        "rarity": "N",
+        "quality": 3,
         "name": "玄龍門バッジ",
         "category": "Coin"
     },
     {
         "id": 80243,
+        "rarity": "N",
+        "quality": 4,
         "name": "溶媒抽出セット",
         "category": "Coin"
     },
     {
         "id": 80250,
+        "rarity": "N",
+        "quality": 1,
         "name": "高級万年筆",
         "category": "Coin"
     },
     {
         "id": 80260,
+        "rarity": "N",
+        "quality": 1,
         "name": "冷凍エビ",
         "category": "Coin"
     },
     {
         "id": 80261,
+        "rarity": "N",
+        "quality": 2,
         "name": "小石",
         "category": "Coin"
     },
     {
         "id": 80262,
+        "rarity": "N",
+        "quality": 3,
         "name": "貝殻",
         "category": "Coin"
     },
     {
         "id": 80263,
+        "rarity": "N",
+        "quality": 4,
         "name": "乾いたヒトデ",
         "category": "Coin"
     },
     {
         "id": 80264,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ確定券",
         "category": "Consumable"
     },
     {
         "id": 80265,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ1確定券",
         "category": "Coin"
     },
     {
         "id": 80266,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ2確定券",
         "category": "Coin"
     },
     {
         "id": 80267,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ3確定券",
         "category": "Coin"
     },
     {
         "id": 80268,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ4確定券",
         "category": "Coin"
     },
     {
         "id": 80269,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ5確定券",
         "category": "Coin"
     },
     {
         "id": 80270,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ6確定券",
         "category": "Coin"
     },
     {
         "id": 80280,
+        "rarity": "N",
+        "quality": 1,
         "name": "高級万年筆",
         "category": "Coin"
     },
     {
         "id": 80290,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 80291,
+        "rarity": "N",
+        "quality": 2,
         "name": "羊皮紙の欠片",
         "category": "Coin"
     },
     {
         "id": 80292,
+        "rarity": "N",
+        "quality": 3,
         "name": "レモン",
         "category": "Coin"
     },
     {
         "id": 80293,
+        "rarity": "N",
+        "quality": 4,
         "name": "古びた鍵",
         "category": "Coin"
     },
     {
         "id": 80300,
+        "rarity": "N",
+        "quality": 1,
         "name": "タロット·デラ·ルナ",
         "category": "Coin"
     },
     {
         "id": 80301,
+        "rarity": "N",
+        "quality": 2,
         "name": "インクカートリッジ",
         "category": "Coin"
     },
     {
         "id": 80302,
+        "rarity": "N",
+        "quality": 3,
         "name": "スタイラスペン",
         "category": "Coin"
     },
     {
         "id": 80303,
+        "rarity": "N",
+        "quality": 4,
         "name": "プチオンリーチケット",
         "category": "Coin"
     },
     {
         "id": 85000,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 85001,
+        "rarity": "N",
+        "quality": 2,
         "name": "キツネせんべい",
         "category": "Coin"
     },
     {
         "id": 85002,
+        "rarity": "N",
+        "quality": 3,
         "name": "タヌキ印のお好み焼き",
         "category": "Coin"
     },
     {
         "id": 85003,
+        "rarity": "N",
+        "quality": 4,
         "name": "サクラ大福",
         "category": "Coin"
     },
     {
         "id": 85010,
+        "rarity": "N",
+        "quality": 1,
         "name": "チェリノマトリョーシカ",
         "category": "Coin"
     },
     {
         "id": 85011,
+        "rarity": "N",
+        "quality": 2,
         "name": "チェリノ印のチョコレート",
         "category": "Coin"
     },
     {
         "id": 85012,
+        "rarity": "N",
+        "quality": 3,
         "name": "おひげクレープ",
         "category": "Coin"
     },
     {
         "id": 85013,
+        "rarity": "N",
+        "quality": 4,
         "name": "勇猛髭勲章",
         "category": "Coin"
     },
     {
         "id": 85020,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 85021,
+        "rarity": "N",
+        "quality": 1,
         "name": "ビーチボール",
         "category": "Coin"
     },
     {
         "id": 85022,
+        "rarity": "N",
+        "quality": 2,
         "name": "海の家の食券",
         "category": "Coin"
     },
     {
         "id": 85023,
+        "rarity": "N",
+        "quality": 3,
         "name": "ミニロケット花火",
         "category": "Coin"
     },
     {
         "id": 85024,
+        "rarity": "N",
+        "quality": 1,
         "name": "クーラーボックス",
         "category": "Collectible"
     },
     {
         "id": 85025,
+        "rarity": "N",
+        "quality": 1,
         "name": "砂遊びセット",
         "category": "Collectible"
     },
     {
         "id": 85026,
+        "rarity": "N",
+        "quality": 1,
         "name": "ビーチチェア",
         "category": "Collectible"
     },
     {
         "id": 85027,
+        "rarity": "N",
+        "quality": 1,
         "name": "パラソルテーブル",
         "category": "Collectible"
     },
     {
         "id": 85028,
+        "rarity": "N",
+        "quality": 1,
         "name": "ビーチグッズ",
         "category": "Collectible"
     },
     {
         "id": 85029,
+        "rarity": "N",
+        "quality": 1,
         "name": "セーリングボート",
         "category": "Collectible"
     },
     {
         "id": 85030,
+        "rarity": "N",
+        "quality": 4,
         "name": "ゲヘナ印の補給ボックス",
         "category": "Coin"
     },
     {
         "id": 85031,
+        "rarity": "N",
+        "quality": 1,
         "name": "美食研究会の焼きトウモロコシ",
         "category": "Coin"
     },
     {
         "id": 85032,
+        "rarity": "N",
+        "quality": 2,
         "name": "夏のスケバンサングラス",
         "category": "Coin"
     },
     {
         "id": 85033,
+        "rarity": "N",
+        "quality": 3,
         "name": "びしょびしょヘルメット",
         "category": "Coin"
     },
     {
         "id": 85040,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 85041,
+        "rarity": "N",
+        "quality": 2,
         "name": "コウラ茸",
         "category": "Coin"
     },
     {
         "id": 85042,
+        "rarity": "N",
+        "quality": 3,
         "name": "クロ筍",
         "category": "Coin"
     },
     {
         "id": 85043,
+        "rarity": "N",
+        "quality": 4,
         "name": "ヒトガタ人蔘",
         "category": "Coin"
     },
     {
         "id": 85050,
+        "rarity": "N",
+        "quality": 1,
         "name": "チョコレートコイン",
         "category": "Coin"
     },
     {
         "id": 85051,
+        "rarity": "N",
+        "quality": 2,
         "name": "ウサギのステッカー",
         "category": "Coin"
     },
     {
         "id": 85052,
+        "rarity": "N",
+        "quality": 3,
         "name": "乗船チケット",
         "category": "Coin"
     },
     {
         "id": 85053,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ",
         "category": "Coin"
     },
     {
         "id": 85060,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 85061,
+        "rarity": "N",
+        "quality": 2,
         "name": "温泉タオル",
         "category": "Coin"
     },
     {
         "id": 85062,
+        "rarity": "N",
+        "quality": 3,
         "name": "おひげシャンプー",
         "category": "Coin"
     },
     {
         "id": 85063,
+        "rarity": "N",
+        "quality": 4,
         "name": "カピバラ型の入浴剤",
         "category": "Coin"
     },
     {
         "id": 85070,
+        "rarity": "N",
+        "quality": 3,
         "name": "福袋",
         "category": "Coin"
     },
     {
         "id": 85071,
+        "rarity": "N",
+        "quality": 1,
         "name": "ペロロ餅",
         "category": "Coin"
     },
     {
         "id": 85072,
+        "rarity": "N",
+        "quality": 2,
         "name": "黒亀組の絵馬",
         "category": "Coin"
     },
     {
         "id": 85073,
+        "rarity": "N",
+        "quality": 4,
         "name": "おみくじ引換券",
         "category": "Coin"
     },
     {
         "id": 85080,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 85081,
+        "rarity": "N",
+        "quality": 2,
         "name": "問題児の反省文",
         "category": "Coin"
     },
     {
         "id": 85082,
+        "rarity": "N",
+        "quality": 3,
         "name": "押収された違法駄菓子",
         "category": "Coin"
     },
     {
         "id": 85083,
+        "rarity": "N",
+        "quality": 4,
         "name": "環境美化活動用ゴミ袋",
         "category": "Coin"
     },
     {
         "id": 85084,
+        "rarity": "N",
+        "quality": 4,
         "name": "バレンタインデーのお誘い",
         "category": "Coin"
     },
     {
         "id": 85090,
+        "rarity": "N",
+        "quality": 1,
         "name": "ワカモの逮捕状",
         "category": "Coin"
     },
     {
         "id": 85100,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 85101,
+        "rarity": "N",
+        "quality": 2,
         "name": "シスターフッドのヴェール",
         "category": "Coin"
     },
     {
         "id": 85102,
+        "rarity": "N",
+        "quality": 3,
         "name": "トリニティの聖歌集",
         "category": "Coin"
     },
     {
         "id": 85103,
+        "rarity": "N",
+        "quality": 4,
         "name": "トリニティの燭台",
         "category": "Coin"
     },
     {
         "id": 85110,
+        "rarity": "N",
+        "quality": 1,
         "name": "ムシクイーンのカードパック",
         "category": "Coin"
     },
     {
         "id": 85111,
+        "rarity": "N",
+        "quality": 2,
         "name": "交流会のチラシ",
         "category": "Coin"
     },
     {
         "id": 85112,
+        "rarity": "N",
+        "quality": 3,
         "name": "和楽姫のうちわ",
         "category": "Coin"
     },
     {
         "id": 85113,
+        "rarity": "N",
+        "quality": 4,
         "name": "ニンペロさんグッズ",
         "category": "Coin"
     },
     {
         "id": 85120,
+        "rarity": "N",
+        "quality": 4,
         "name": "資材ボックス",
         "category": "Coin"
     },
     {
         "id": 85130,
+        "rarity": "N",
+        "quality": 1,
         "name": "地域通貨",
         "category": "Coin"
     },
     {
         "id": 85131,
+        "rarity": "N",
+        "quality": 2,
         "name": "百夜堂キラキラコイン",
         "category": "Coin"
     },
     {
         "id": 85132,
+        "rarity": "N",
+        "quality": 3,
         "name": "ツルツルサザエ",
         "category": "Coin"
     },
     {
         "id": 85133,
+        "rarity": "N",
+        "quality": 4,
         "name": "夏用忍法図鑑巻物",
         "category": "Coin"
     },
     {
         "id": 85134,
+        "rarity": "N",
+        "quality": 2,
         "name": "深海温泉島リゾート使用権",
         "category": "Coin"
     },
     {
         "id": 85135,
+        "rarity": "N",
+        "quality": 3,
         "name": "ムシクイーンクルーズリゾート使用権",
         "category": "Coin"
     },
     {
         "id": 85136,
+        "rarity": "N",
+        "quality": 4,
         "name": "超豪華リゾート使用権",
         "category": "Coin"
     },
     {
         "id": 85140,
+        "rarity": "N",
+        "quality": 1,
         "name": "スイーツクーポン",
         "category": "Coin"
     },
     {
         "id": 85141,
+        "rarity": "N",
+        "quality": 2,
         "name": "ミントチョコパフェ",
         "category": "Coin"
     },
     {
         "id": 85142,
+        "rarity": "N",
+        "quality": 3,
         "name": "マカロン",
         "category": "Coin"
     },
     {
         "id": 85143,
+        "rarity": "N",
+        "quality": 4,
         "name": "ロールウエハース",
         "category": "Coin"
     },
     {
         "id": 85150,
+        "rarity": "N",
+        "quality": 1,
         "name": "イベントPt",
         "category": "Coin"
     },
     {
         "id": 85151,
+        "rarity": "N",
+        "quality": 2,
         "name": "お手玉",
         "category": "Coin"
     },
     {
         "id": 85152,
+        "rarity": "N",
+        "quality": 3,
         "name": "ミレニアムの旗",
         "category": "Coin"
     },
     {
         "id": 85153,
+        "rarity": "N",
+        "quality": 4,
         "name": "ホイッスル",
         "category": "Coin"
     },
     {
         "id": 85160,
+        "rarity": "N",
+        "quality": 1,
         "name": "スポーツドリンク",
         "category": "Coin"
     },
     {
         "id": 85161,
+        "rarity": "N",
+        "quality": 2,
         "name": "リレー用バトン",
         "category": "Coin"
     },
     {
         "id": 85162,
+        "rarity": "N",
+        "quality": 3,
         "name": "あんぱん",
         "category": "Coin"
     },
     {
         "id": 85163,
+        "rarity": "N",
+        "quality": 4,
         "name": "案内パンフレット",
         "category": "Coin"
     },
     {
         "id": 85164,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ確定券",
         "category": "Consumable"
     },
     {
         "id": 85165,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ1確定券",
         "category": "Coin"
     },
     {
         "id": 85166,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ2確定券",
         "category": "Coin"
     },
     {
         "id": 85167,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ3確定券",
         "category": "Coin"
     },
     {
         "id": 85168,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ4確定券",
         "category": "Coin"
     },
     {
         "id": 85169,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ5確定券",
         "category": "Coin"
     },
     {
         "id": 85170,
+        "rarity": "N",
+        "quality": 4,
         "name": "サイコロ6確定券",
         "category": "Coin"
     },
     {
         "id": 90000,
+        "rarity": "N",
+        "quality": 3,
         "name": "エリア固有スペシャルボックス",
         "category": "Consumable"
     },
     {
         "id": 99999,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "秘密報酬",
         "category": "Consumable"
     },
     {
         "id": 100000,
+        "rarity": "SR",
+        "quality": 3,
         "name": "贈り物ボックス",
         "category": "Consumable"
     },
     {
         "id": 100001,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "家具ボックス（☆3）",
         "category": "Consumable"
     },
     {
         "id": 100002,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100003,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100004,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100005,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100006,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100007,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100008,
+        "rarity": "SR",
+        "quality": 3,
         "name": "贈り物選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 100009,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "高級贈り物ボックス",
         "category": "Consumable"
     },
     {
         "id": 100010,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100011,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100012,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100013,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100014,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100015,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 100016,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 100017,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 100018,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BDボックス",
         "category": "Consumable"
     },
     {
         "id": 100019,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 100020,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 100021,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 100022,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノートボックス",
         "category": "Consumable"
     },
     {
         "id": 100023,
+        "rarity": "N",
+        "quality": 1,
         "name": "オーパーツ（1）抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 100024,
+        "rarity": "R",
+        "quality": 2,
         "name": "オーパーツ（2）抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 100025,
+        "rarity": "SR",
+        "quality": 3,
         "name": "オーパーツ（3）抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 100026,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "オーパーツ（4）抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 100027,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100028,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 100029,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 110000,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 110001,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 110002,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 110003,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 110004,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 110005,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 110006,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 110007,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 120000,
+        "rarity": "N",
+        "quality": 1,
         "name": "装備ボックス",
         "category": "Consumable"
     },
     {
         "id": 150000,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150001,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150002,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150003,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150004,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150005,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150006,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150007,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150008,
+        "rarity": "N",
+        "quality": 1,
         "name": "オーパーツ（１）選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150009,
+        "rarity": "R",
+        "quality": 2,
         "name": "オーパーツ（２）選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150010,
+        "rarity": "SR",
+        "quality": 3,
         "name": "オーパーツ（３）選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150011,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "オーパーツ（４）選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150012,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150013,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150014,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150015,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150016,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150017,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150018,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150019,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150020,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150021,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150022,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150023,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150024,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150025,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150026,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150027,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150028,
+        "rarity": "N",
+        "quality": 1,
         "name": "T2装備設計図選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150029,
+        "rarity": "N",
+        "quality": 1,
         "name": "T3装備設計図選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150030,
+        "rarity": "N",
+        "quality": 1,
         "name": "T4装備設計図選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150031,
+        "rarity": "N",
+        "quality": 1,
         "name": "T5装備設計図選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150032,
+        "rarity": "N",
+        "quality": 1,
         "name": "T6装備設計図選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150033,
+        "rarity": "N",
+        "quality": 1,
         "name": "T7装備設計図選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150034,
+        "rarity": "N",
+        "quality": 1,
         "name": "オーパーツ（１）選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150035,
+        "rarity": "R",
+        "quality": 2,
         "name": "オーパーツ（２）選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150036,
+        "rarity": "SR",
+        "quality": 3,
         "name": "オーパーツ（３）選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150037,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "オーパーツ（４）選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 150038,
+        "rarity": "R",
+        "quality": 2,
         "name": "家具選択ボックス（青）",
         "category": "Consumable"
     },
     {
         "id": 150039,
+        "rarity": "SR",
+        "quality": 3,
         "name": "家具選択ボックス（橙）",
         "category": "Consumable"
     },
     {
         "id": 150040,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "家具選択ボックス（紫）",
         "category": "Consumable"
     },
     {
         "id": 151000,
+        "rarity": "N",
+        "quality": 1,
         "name": "ノーマル家具シリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151001,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "モモフレンズカフェシリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151002,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ゼリーズゲーセンシリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151003,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "バレンタインシリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151004,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "サマーリゾートシリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151005,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ハロウィーンカフェシリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151006,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "伝統的な温泉郷シリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151007,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "お正月シリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151008,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ミリタリーアウトドアシリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151009,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ビーチサイドシリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151010,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "大運動会シリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151011,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "アビドス教室シリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151012,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ゲーム開発部シリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151013,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "サンシャインリゾートシリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 151991,
+        "rarity": "R",
+        "quality": 2,
         "name": "家具選択ボックス（青）",
         "category": "Consumable"
     },
     {
         "id": 151992,
+        "rarity": "SR",
+        "quality": 3,
         "name": "家具選択ボックス（橙）",
         "category": "Consumable"
     },
     {
         "id": 151993,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "家具選択ボックス（紫）",
         "category": "Consumable"
     },
     {
         "id": 151999,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "その他シリーズ選択ボックス",
         "category": "Consumable"
     },
     {
         "id": 160000,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160001,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160002,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160003,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160004,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160005,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160006,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160007,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160008,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160009,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160010,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160011,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160012,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160013,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160014,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160015,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 160016,
+        "rarity": "N",
+        "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",
         "category": "Coin"
     },
     {
         "id": 180000,
+        "rarity": "N",
+        "quality": 4,
         "name": "スイートチョコポテトチップス",
         "category": "Collectible"
     },
     {
         "id": 180001,
+        "rarity": "N",
+        "quality": 4,
         "name": "エンジェルチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180002,
+        "rarity": "N",
+        "quality": 4,
         "name": "お徳用チョコレートパック",
         "category": "Collectible"
     },
     {
         "id": 180003,
+        "rarity": "N",
+        "quality": 4,
         "name": "アロナのチョコジンジャークッキー",
         "category": "Collectible"
     },
     {
         "id": 180004,
+        "rarity": "N",
+        "quality": 4,
         "name": "バレンタインペロロ",
         "category": "Collectible"
     },
     {
         "id": 180005,
+        "rarity": "N",
+        "quality": 4,
         "name": "レーションD型",
         "category": "Collectible"
     },
     {
         "id": 180006,
+        "rarity": "N",
+        "quality": 4,
         "name": "ハッピーホットチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180007,
+        "rarity": "N",
+        "quality": 4,
         "name": "ショコラ・デ・ゲヘナ",
         "category": "Collectible"
     },
     {
         "id": 180008,
+        "rarity": "N",
+        "quality": 4,
         "name": "大量の板チョコレート",
         "category": "Collectible"
     },
     {
         "id": 180009,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコ団子",
         "category": "Collectible"
     },
     {
         "id": 180010,
+        "rarity": "N",
+        "quality": 4,
         "name": "デス·ラブ",
         "category": "Collectible"
     },
     {
         "id": 180011,
+        "rarity": "N",
+        "quality": 4,
         "name": "ライダーの間食",
         "category": "Collectible"
     },
     {
         "id": 180012,
+        "rarity": "N",
+        "quality": 4,
         "name": "海のお友達",
         "category": "Collectible"
     },
     {
         "id": 180013,
+        "rarity": "N",
+        "quality": 4,
         "name": "砂漠のバラ",
         "category": "Collectible"
     },
     {
         "id": 180014,
+        "rarity": "N",
+        "quality": 4,
         "name": "ヴィーナスのチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180015,
+        "rarity": "N",
+        "quality": 4,
         "name": "盗聴装置14号",
         "category": "Collectible"
     },
     {
         "id": 180016,
+        "rarity": "N",
+        "quality": 4,
         "name": "缶のホットココア",
         "category": "Collectible"
     },
     {
         "id": 180017,
+        "rarity": "N",
+        "quality": 4,
         "name": "パヴェ・チョコレート（領収書付き）",
         "category": "Collectible"
     },
     {
         "id": 180018,
+        "rarity": "N",
+        "quality": 4,
         "name": "勇者のチョコレート（アイテム）",
         "category": "Collectible"
     },
     {
         "id": 180019,
+        "rarity": "N",
+        "quality": 4,
         "name": "手作りチョコスネイル",
         "category": "Collectible"
     },
     {
         "id": 180020,
+        "rarity": "N",
+        "quality": 4,
         "name": "妖怪MAXチョコレート味",
         "category": "Collectible"
     },
     {
         "id": 180021,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコ味のスプレー",
         "category": "Collectible"
     },
     {
         "id": 180022,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコレート砲弾Mk.2",
         "category": "Collectible"
     },
     {
         "id": 180023,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコレートネジ",
         "category": "Collectible"
     },
     {
         "id": 180024,
+        "rarity": "N",
+        "quality": 4,
         "name": "チェリョンカ",
         "category": "Collectible"
     },
     {
         "id": 180025,
+        "rarity": "N",
+        "quality": 4,
         "name": "改良型チェリョンカ",
         "category": "Collectible"
     },
     {
         "id": 180026,
+        "rarity": "N",
+        "quality": 4,
         "name": "カカオの実",
         "category": "Collectible"
     },
     {
         "id": 180027,
+        "rarity": "N",
+        "quality": 4,
         "name": "不老不死の霊薬(失敗作)",
         "category": "Collectible"
     },
     {
         "id": 180028,
+        "rarity": "N",
+        "quality": 4,
         "name": "大人のラムボンボン",
         "category": "Collectible"
     },
     {
         "id": 180029,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコレート手錠",
         "category": "Collectible"
     },
     {
         "id": 180030,
+        "rarity": "N",
+        "quality": 4,
         "name": "特製チョコクルーラー",
         "category": "Collectible"
     },
     {
         "id": 180031,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコ埴輪",
         "category": "Collectible"
     },
     {
         "id": 180032,
+        "rarity": "N",
+        "quality": 4,
         "name": "リトル·ブレット",
         "category": "Collectible"
     },
     {
         "id": 180033,
+        "rarity": "N",
+        "quality": 4,
         "name": "ヒナの手作りチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180034,
+        "rarity": "N",
+        "quality": 4,
         "name": "あなたのための一口の休息",
         "category": "Collectible"
     },
     {
         "id": 180035,
+        "rarity": "N",
+        "quality": 4,
         "name": "すごく！おいしい！！チョコレート！！！",
         "category": "Collectible"
     },
     {
         "id": 180036,
+        "rarity": "N",
+        "quality": 4,
         "name": "社長の最高級チョコレート",
         "category": "Collectible"
     },
     {
         "id": 180037,
+        "rarity": "N",
+        "quality": 4,
         "name": "地獄のロシアンルーレット",
         "category": "Collectible"
     },
     {
         "id": 180038,
+        "rarity": "N",
+        "quality": 4,
         "name": "ココアが入ったマグカップ",
         "category": "Collectible"
     },
     {
         "id": 180039,
+        "rarity": "N",
+        "quality": 4,
         "name": "ジュリの手作りチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180040,
+        "rarity": "N",
+        "quality": 4,
         "name": "共にする時間",
         "category": "Collectible"
     },
     {
         "id": 180041,
+        "rarity": "N",
+        "quality": 4,
         "name": "おやつ担当のお仕事",
         "category": "Collectible"
     },
     {
         "id": 180042,
+        "rarity": "N",
+        "quality": 4,
         "name": "選りすぐりの一品",
         "category": "Collectible"
     },
     {
         "id": 180043,
+        "rarity": "N",
+        "quality": 4,
         "name": "カシオペアの拳～ウーパールーパー大列伝～",
         "category": "Collectible"
     },
     {
         "id": 180044,
+        "rarity": "N",
+        "quality": 4,
         "name": "ミドリの手作りチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180045,
+        "rarity": "N",
+        "quality": 4,
         "name": "四字熟語チョコ煎餅",
         "category": "Collectible"
     },
     {
         "id": 180046,
+        "rarity": "N",
+        "quality": 4,
         "name": "百夜堂の限定スイーツ",
         "category": "Collectible"
     },
     {
         "id": 180047,
+        "rarity": "N",
+        "quality": 4,
         "name": "特製忍者グッズ49番「チョコレートセット」",
         "category": "Collectible"
     },
     {
         "id": 180048,
+        "rarity": "N",
+        "quality": 4,
         "name": "安眠チョコレートと安眠グッズセット",
         "category": "Collectible"
     },
     {
         "id": 180049,
+        "rarity": "N",
+        "quality": 4,
         "name": "ワカモの愛がこもったチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180050,
+        "rarity": "N",
+        "quality": 4,
         "name": "美食の証明（抹茶味）",
         "category": "Collectible"
     },
     {
         "id": 180051,
+        "rarity": "N",
+        "quality": 4,
         "name": "バレンタインの聖者スカルマン",
         "category": "Collectible"
     },
     {
         "id": 180052,
+        "rarity": "N",
+        "quality": 4,
         "name": "ラブリー·クロスライン",
         "category": "Collectible"
     },
     {
         "id": 180053,
+        "rarity": "N",
+        "quality": 4,
         "name": "トゥインクルスター",
         "category": "Collectible"
     },
     {
         "id": 180054,
+        "rarity": "N",
+        "quality": 4,
         "name": "ホーリー・チョコレート",
         "category": "Collectible"
     },
     {
         "id": 180055,
+        "rarity": "N",
+        "quality": 4,
         "name": "本のお友",
         "category": "Collectible"
     },
     {
         "id": 180056,
+        "rarity": "N",
+        "quality": 4,
         "name": "ビー·ウィズ·ユー",
         "category": "Collectible"
     },
     {
         "id": 180057,
+        "rarity": "N",
+        "quality": 4,
         "name": "ペニーロイヤルチョコミント",
         "category": "Collectible"
     },
     {
         "id": 180058,
+        "rarity": "N",
+        "quality": 4,
         "name": "ヨシミの限定チョコレート",
         "category": "Collectible"
     },
     {
         "id": 180059,
+        "rarity": "N",
+        "quality": 4,
         "name": "言葉よりチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180060,
+        "rarity": "N",
+        "quality": 4,
         "name": "フォーチュンチョコレート（自作）",
         "category": "Collectible"
     },
     {
         "id": 180061,
+        "rarity": "N",
+        "quality": 4,
         "name": "バンデージチョコ",
         "category": "Collectible"
     },
     {
         "id": 180062,
+        "rarity": "N",
+        "quality": 4,
         "name": "カカオ99.99%",
         "category": "Collectible"
     },
     {
         "id": 180063,
+        "rarity": "N",
+        "quality": 4,
         "name": "ツイステッドバレンタイン",
         "category": "Collectible"
     },
     {
         "id": 180064,
+        "rarity": "N",
+        "quality": 4,
         "name": "メイド·バイ",
         "category": "Collectible"
     },
     {
         "id": 180065,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコオムライス",
         "category": "Collectible"
     },
     {
         "id": 180066,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコレート版画：竜",
         "category": "Collectible"
     },
     {
         "id": 180067,
+        "rarity": "N",
+        "quality": 4,
         "name": "バレンタイン·ビギニング",
         "category": "Collectible"
     },
     {
         "id": 180068,
+        "rarity": "N",
+        "quality": 4,
         "name": "甘い杯",
         "category": "Collectible"
     },
     {
         "id": 180069,
+        "rarity": "N",
+        "quality": 4,
         "name": "アマンド·クリムゾン",
         "category": "Collectible"
     },
     {
         "id": 180070,
+        "rarity": "N",
+        "quality": 4,
         "name": "不器用な手作りチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180071,
+        "rarity": "N",
+        "quality": 4,
         "name": "小さなショコラ",
         "category": "Collectible"
     },
     {
         "id": 180072,
+        "rarity": "N",
+        "quality": 4,
         "name": "しっとりめのチョコクッキー",
         "category": "Collectible"
     },
     {
         "id": 180073,
+        "rarity": "N",
+        "quality": 4,
         "name": "苺のチョコケーキ",
         "category": "Collectible"
     },
     {
         "id": 180074,
+        "rarity": "N",
+        "quality": 4,
         "name": "オール・トゥ・ユー",
         "category": "Collectible"
     },
     {
         "id": 180075,
+        "rarity": "N",
+        "quality": 4,
         "name": "丁寧なラッピング済みチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180076,
+        "rarity": "N",
+        "quality": 4,
         "name": "青いバラとチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180077,
+        "rarity": "N",
+        "quality": 4,
         "name": "ギディバのチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180078,
+        "rarity": "N",
+        "quality": 4,
         "name": "桜チョコレート",
         "category": "Collectible"
     },
     {
         "id": 180079,
+        "rarity": "N",
+        "quality": 4,
         "name": "最強のチョコサウルス",
         "category": "Collectible"
     },
     {
         "id": 180080,
+        "rarity": "N",
+        "quality": 4,
         "name": "とろけるロップイヤーチョコ",
         "category": "Collectible"
     },
     {
         "id": 180081,
+        "rarity": "N",
+        "quality": 4,
         "name": "超天才清楚系病弱美少女ハッカー'sチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180082,
+        "rarity": "N",
+        "quality": 4,
         "name": "イロハの手作りスティックチョコ",
         "category": "Collectible"
     },
     {
         "id": 180083,
+        "rarity": "N",
+        "quality": 4,
         "name": "忍術研究部のバッジ型チョコレート",
         "category": "Collectible"
     },
     {
         "id": 180084,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコを用いたキャロットケーキ",
         "category": "Collectible"
     },
     {
         "id": 180085,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコレートスモア",
         "category": "Collectible"
     },
     {
         "id": 180086,
+        "rarity": "N",
+        "quality": 4,
         "name": "補給品のチョコレートキャラメル",
         "category": "Collectible"
     },
     {
         "id": 180087,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコレートバーク",
         "category": "Collectible"
     },
     {
         "id": 180088,
+        "rarity": "N",
+        "quality": 4,
         "name": "チョコレートインク",
         "category": "Collectible"
     },
     {
         "id": 180089,
+        "rarity": "N",
+        "quality": 4,
         "name": "特別功労勲章チョコレート",
         "category": "Collectible"
     },
     {
         "id": 180090,
+        "rarity": "N",
+        "quality": 4,
         "name": "シグレ・ビタースペシャル",
         "category": "Collectible"
     },
     {
         "id": 180091,
+        "rarity": "N",
+        "quality": 4,
         "name": "ヒヨコ型のチョコレート",
         "category": "Collectible"
     },
     {
         "id": 180092,
+        "rarity": "N",
+        "quality": 4,
         "name": "ドライグレープフルーツのチョコがけ",
         "category": "Collectible"
     },
     {
         "id": 190000,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級技術ノート抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 190001,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級技術ノート抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 190002,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級技術ノート抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 190003,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級技術ノート抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 190010,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級戦術教育BD抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 190011,
+        "rarity": "R",
+        "quality": 2,
         "name": "中級戦術教育BD抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 190012,
+        "rarity": "SR",
+        "quality": 3,
         "name": "上級戦術教育BD抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 190013,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "最上級戦術教育BD抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 190020,
+        "rarity": "N",
+        "quality": 1,
         "name": "オーパーツ（1）抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 190021,
+        "rarity": "R",
+        "quality": 2,
         "name": "オーパーツ（2）抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 190022,
+        "rarity": "SR",
+        "quality": 3,
         "name": "オーパーツ（3）抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 190023,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "オーパーツ（4）抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191000,
+        "rarity": "N",
+        "quality": 1,
         "name": "ノーマル家具シリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191001,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "モモフレンズカフェシリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191002,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ゼリーズゲーセンシリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191003,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "バレンタインシリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191004,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "サマーリゾートシリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191005,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ハロウィーンカフェシリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191006,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "伝統的な温泉郷シリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191007,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "お正月シリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191008,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ミリタリーアウトドアシリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191009,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ビーチサイドシリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191010,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "大運動会シリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191011,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "アビドス教室シリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191012,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "ゲーム開発部シリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191013,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "サンシャインリゾートシリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 191991,
+        "rarity": "R",
+        "quality": 2,
         "name": "家具抽選ボックス（青）",
         "category": "Consumable"
     },
     {
         "id": 191992,
+        "rarity": "SR",
+        "quality": 3,
         "name": "家具抽選ボックス（橙）",
         "category": "Consumable"
     },
     {
         "id": 191993,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "家具抽選ボックス（紫）",
         "category": "Consumable"
     },
     {
         "id": 191999,
+        "rarity": "SSR",
+        "quality": 4,
         "name": "その他シリーズ抽選ボックス",
         "category": "Consumable"
     },
     {
         "id": 200000,
+        "rarity": "SSR",
+        "quality": 1,
         "name": "プレナパテスの大人のカード",
         "category": "Consumable"
     },
     {
         "id": 200001,
+        "rarity": "SSR",
+        "quality": 1,
         "name": "粉々になった大人のカード",
         "category": "Material"
     },
     {
         "id": 10000000,
+        "rarity": "N",
+        "quality": 1,
         "name": "初級栄養ドリンク（AP30）",
         "category": "Consumable"
     },
     {
         "id": 10000001,
+        "rarity": "N",
+        "quality": 2,
         "name": "中級栄養ドリンク（AP60）",
         "category": "Consumable"
     },
     {
         "id": 10000002,
+        "rarity": "N",
+        "quality": 3,
         "name": "上級栄養ドリンク（AP120）",
         "category": "Consumable"
     },
     {
         "id": 10000003,
+        "rarity": "N",
+        "quality": 4,
         "name": "最上級栄養ドリンク（AP180）",
         "category": "Consumable"
     },
     {
         "id": 12000000,
+        "rarity": "N",
+        "quality": 4,
         "name": "★3生徒セレクトチケット",
         "category": "Consumable"
     },
     {
         "id": 12000001,
+        "rarity": "N",
+        "quality": 4,
         "name": "★3生徒セレクトチケット",
         "category": "Consumable"
     },
     {
         "id": 20000000,
+        "rarity": "N",
+        "quality": 2,
         "name": "アロナのスタンプ",
         "category": "Collectible"
     },
     {
         "id": 20000001,
+        "rarity": "N",
+        "quality": 2,
         "name": "ゲーム雑誌",
         "category": "Collectible"
     },
     {
         "id": 20000002,
+        "rarity": "N",
+        "quality": 2,
         "name": "満点の答案用紙",
         "category": "Collectible"
     },
     {
         "id": 20000003,
+        "rarity": "N",
+        "quality": 2,
         "name": "任務レポート",
         "category": "Collectible"
     },
     {
         "id": 20000004,
+        "rarity": "N",
+        "quality": 2,
         "name": "マシュマロ串",
         "category": "Collectible"
     },
     {
         "id": 20000005,
+        "rarity": "N",
+        "quality": 2,
         "name": "古ぼけたアリウスのバッジ",
         "category": "Collectible"
     },
     {
         "id": 20000006,
+        "rarity": "N",
+        "quality": 2,
         "name": "手作りの花輪",
         "category": "Collectible"
     },
     {
         "id": 20000007,
+        "rarity": "N",
+        "quality": 2,
         "name": "AMASの残骸",
         "category": "Collectible"
     },
     {
         "id": 20000008,
+        "rarity": "N",
+        "quality": 2,
         "name": "思い出のフィルム",
         "category": "Collectible"
     },
     {
         "id": 20000009,
+        "rarity": "N",
+        "quality": 2,
         "name": "工務部のチラシ",
         "category": "Collectible"
     },
     {
         "id": 20001000,
+        "rarity": "N",
+        "quality": 2,
         "name": "アロナのスタンプ",
         "category": "Collectible"
     },
     {
         "id": 29999998,
+        "rarity": "N",
+        "quality": 2,
         "name": "アロナのスタンプ",
         "category": "Collectible"
     },
     {
         "id": 29999999,
+        "rarity": "N",
+        "quality": 2,
         "name": "アロナのスタンプ",
         "category": "Collectible"
     }

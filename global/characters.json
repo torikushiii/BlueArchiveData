@@ -1389,6 +1389,29 @@
         ]
     },
     {
+        "id": 10063,
+        "name": "Koyuki",
+        "devname": "CH0198",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar",
+        "favoriteGift": [
+            "Toy",
+            "Smart",
+            "Mystery"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",

@@ -1693,7 +1693,7 @@
     },
     {
         "id": 10076,
-        "name": "",
+        "name": "コトリ（応援団）",
         "devname": "CH0185",
         "rarity": "SSR",
         "role": "DamageDealer",
@@ -1707,7 +1707,12 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "Engineer"
+        "club": "Engineer",
+        "favoriteGift": [
+            "Specialized",
+            "Sports",
+            "Smart"
+        ]
     },
     {
         "id": 13000,

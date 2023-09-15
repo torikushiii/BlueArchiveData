@@ -2997,7 +2997,7 @@
     },
     {
         "id": 20030,
-        "name": "",
+        "name": "ハルナ（体操服）",
         "devname": "CH0193",
         "rarity": "SSR",
         "role": "Healer",
@@ -3011,7 +3011,12 @@
             "Necklace"
         ],
         "school": "Gehenna",
-        "club": "GourmetClub"
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "Dessert",
+            "Sports",
+            "Delicious"
+        ]
     },
     {
         "id": 23000,

@@ -158,6 +158,22 @@
         "tags": []
     },
     {
+        "id": 70,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Grand Assault Coin",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 71,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Advanced Grand Assault Coin",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 80,
         "rarity": "N",
         "quality": 1,
@@ -796,6 +812,54 @@
         ]
     },
     {
+        "id": 230,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Okiku Doll Piece",
+        "category": "Material",
+        "tags": [
+            "MaterialItem",
+            "ExpendableItem",
+            "MaterialItemN"
+        ]
+    },
+    {
+        "id": 231,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Broken Okiku Doll",
+        "category": "Material",
+        "tags": [
+            "MaterialItem",
+            "ExpendableItem",
+            "MaterialItemR"
+        ]
+    },
+    {
+        "id": 232,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Repaired Okiku Doll",
+        "category": "Material",
+        "tags": [
+            "MaterialItem",
+            "ExpendableItem",
+            "MaterialItemSR"
+        ]
+    },
+    {
+        "id": 233,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Intact Okiku Doll",
+        "category": "Material",
+        "tags": [
+            "MaterialItem",
+            "ExpendableItem",
+            "MaterialItemSSR"
+        ]
+    },
+    {
         "id": 240,
         "rarity": "N",
         "quality": 1,
@@ -836,6 +900,54 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "Intact Disco Colgante",
+        "category": "Material",
+        "tags": [
+            "MaterialItem",
+            "ExpendableItem",
+            "MaterialItemSSR"
+        ]
+    },
+    {
+        "id": 250,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Atlantis Medal Piece",
+        "category": "Material",
+        "tags": [
+            "MaterialItem",
+            "ExpendableItem",
+            "MaterialItemN"
+        ]
+    },
+    {
+        "id": 251,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Broken Atlantis Medal",
+        "category": "Material",
+        "tags": [
+            "MaterialItem",
+            "ExpendableItem",
+            "MaterialItemR"
+        ]
+    },
+    {
+        "id": 252,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Damaged Atlantis Medal",
+        "category": "Material",
+        "tags": [
+            "MaterialItem",
+            "ExpendableItem",
+            "MaterialItemSR"
+        ]
+    },
+    {
+        "id": 253,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Intact Atlantis Medal",
         "category": "Material",
         "tags": [
             "MaterialItem",
@@ -1284,7 +1396,8 @@
         "tags": [
             "CDItem",
             "ExpendableItem",
-            "CDItemN"
+            "CDItemN",
+            "ValkyrieCD"
         ]
     },
     {
@@ -1296,7 +1409,8 @@
         "tags": [
             "CDItem",
             "ExpendableItem",
-            "CDItemR"
+            "CDItemR",
+            "ValkyrieCD"
         ]
     },
     {
@@ -1308,7 +1422,8 @@
         "tags": [
             "CDItem",
             "ExpendableItem",
-            "CDItemSR"
+            "CDItemSR",
+            "ValkyrieCD"
         ]
     },
     {
@@ -1320,7 +1435,8 @@
         "tags": [
             "CDItem",
             "ExpendableItem",
-            "CDItemSSR"
+            "CDItemSSR",
+            "ValkyrieCD"
         ]
     },
     {
@@ -1716,7 +1832,8 @@
         "tags": [
             "BookItem",
             "ExpendableItem",
-            "BookItemN"
+            "BookItemN",
+            "ValkyrieBook"
         ]
     },
     {
@@ -1728,7 +1845,8 @@
         "tags": [
             "BookItem",
             "ExpendableItem",
-            "BookItemR"
+            "BookItemR",
+            "ValkyrieBook"
         ]
     },
     {
@@ -1740,7 +1858,8 @@
         "tags": [
             "BookItem",
             "ExpendableItem",
-            "BookItemSR"
+            "BookItemSR",
+            "ValkyrieBook"
         ]
     },
     {
@@ -1752,7 +1871,8 @@
         "tags": [
             "BookItem",
             "ExpendableItem",
-            "BookItemSSR"
+            "BookItemSSR",
+            "ValkyrieBook"
         ]
     },
     {
@@ -2417,6 +2537,17 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "Dalkomm Coffee Commemorative Card",
+        "category": "Favor",
+        "tags": [
+            "Gift1",
+            "Gift2"
+        ]
+    },
+    {
+        "id": 91000035,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Celebration Card: Hyundai Mall PEER",
         "category": "Favor",
         "tags": [
             "Gift1",
@@ -3172,6 +3303,96 @@
         ]
     },
     {
+        "id": 10064,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Kayoko (New Year)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 10065,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Kaho's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 10066,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Aris (Maid)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 10067,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Toki (Bunny)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 10068,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Reisa's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 10069,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Rumi's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 10070,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Mina's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 10071,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Miyako (Swimsuit)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 10072,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Saki (Swimsuit)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -3682,6 +3903,36 @@
         ]
     },
     {
+        "id": 20025,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Haruka (New Year)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 20026,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Minori's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 20027,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Shiroko (Swimsuit)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
         "id": 23000,
         "rarity": "N",
         "quality": 9,
@@ -3862,6 +4113,26 @@
         ]
     },
     {
+        "id": 26009,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Yuzu (Maid)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 26010,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Miyu (Swimsuit)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
         "id": 30000,
         "rarity": "N",
         "quality": 1,
@@ -3894,6 +4165,102 @@
         "tags": []
     },
     {
+        "id": 30010,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30011,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30012,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30013,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30014,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30015,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30016,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30017,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30018,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30019,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30020,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30021,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 40000,
         "rarity": "N",
         "quality": 1,
@@ -3919,6 +4286,102 @@
     },
     {
         "id": 40003,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40010,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40011,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40012,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40013,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40014,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40015,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40016,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40017,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40018,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40019,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40020,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 40021,
         "rarity": "SSR",
         "quality": 4,
         "name": "Superior Tech Notes Chest",
@@ -4130,6 +4593,14 @@
         "rarity": "N",
         "quality": 1,
         "name": "Beginner Tech Notes (Red Winter)",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 60018,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tech Notes Chest",
         "category": "Consumable",
         "tags": []
     },
@@ -4782,6 +5253,46 @@
         "tags": []
     },
     {
+        "id": 70081,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70082,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70083,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70084,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70085,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 79999,
         "rarity": "N",
         "quality": 2,
@@ -5255,6 +5766,22 @@
     },
     {
         "id": 90070058,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070059,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070060,
         "rarity": "N",
         "quality": 2,
         "name": "Recruitment Points",
@@ -6144,6 +6671,166 @@
         "tags": []
     },
     {
+        "id": 80230,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Immaculate Maid Hairband",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80231,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Makeup Palette",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80232,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Old Mansion Invitation",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80240,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Game Card Bundle",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80241,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Black Tortoise Promenade Meal Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80242,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Genryumon Badge",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80243,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Solvent Extraction Set",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80250,
+        "rarity": "N",
+        "quality": 1,
+        "name": "High-Quality Fountain Pen",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80260,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Frozen Shrimp",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80261,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Pebble",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80262,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Seashell",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80263,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Dried Starfish",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80264,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Guarantee Ticket",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 80265,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Dice 1 Guarantee Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80266,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Dice 2 Guarantee Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80267,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Dice 3 Guarantee Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80268,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Dice 4 Guarantee Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80269,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Dice 5 Guarantee Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80270,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Dice 6 Guarantee Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80280,
+        "rarity": "N",
+        "quality": 1,
+        "name": "High-Quality Fountain Pen",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 80135,
         "rarity": "N",
         "quality": 3,
@@ -6416,6 +7103,38 @@
         "tags": []
     },
     {
+        "id": 85070,
+        "rarity": "N",
+        "quality": 3,
+        "name": "New Year's Lucky Pouch",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85071,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Peroro Kagami Mochi",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85072,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Kurokame Gang Ema",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85073,
+        "rarity": "N",
+        "quality": 4,
+        "name": "New Year Omikuji Token",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85002,
         "rarity": "N",
         "quality": 3,
@@ -6500,6 +7219,134 @@
         "tags": [
             "Token_S6"
         ]
+    },
+    {
+        "id": 85110,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Mushiqueen Card Pack",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85111,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Scrimmage Flyer",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85112,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Princess Waraku Fan",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85113,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Ninpero Plush Merch",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85120,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Materials Box",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85130,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Local Currency",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85131,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Momoyodou Shiny Coin",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85132,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Shiny Conch",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85133,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Summer Ninjutsu Codex Scroll",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85134,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Deep Sea Hot Springs Island Resort Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85135,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Mushiqueen Cruise Resort Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85136,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Ultra Luxury Resort Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85140,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Dessert Coupon",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85141,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Mint Chocolate Parfait",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85142,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Macaron",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85143,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Rolled Wafer",
+        "category": "Coin",
+        "tags": []
     },
     {
         "id": 85024,
@@ -6734,6 +7581,22 @@
         "tags": []
     },
     {
+        "id": 100027,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100028,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 85101,
         "rarity": "N",
         "quality": 2,
@@ -6762,6 +7625,46 @@
         "tags": [
             "Token_S14"
         ]
+    },
+    {
+        "id": 110003,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110004,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110005,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110006,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 120000,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
     },
     {
         "id": 90000,
@@ -7082,6 +7985,30 @@
         ]
     },
     {
+        "id": 150038,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Furniture Choice Box",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 150039,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Furniture Choice Box",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 150040,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Furniture Choice Box",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 150006,
         "rarity": "SR",
         "quality": 3,
@@ -7188,6 +8115,36 @@
         "name": "Normal Tech Notes Choice Ticket",
         "category": "Consumable",
         "tags": []
+    },
+    {
+        "id": 151991,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Furniture Choice Box",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
+    },
+    {
+        "id": 151992,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Furniture Choice Box",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
+    },
+    {
+        "id": 151993,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Furniture Choice Box",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
     },
     {
         "id": 150018,
@@ -8286,6 +9243,36 @@
         "tags": []
     },
     {
+        "id": 191991,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Furniture Raffle Box",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
+    },
+    {
+        "id": 191992,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Furniture Raffle Box",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
+    },
+    {
+        "id": 191993,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Furniture Raffle Box",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
+    },
+    {
         "id": 180085,
         "rarity": "N",
         "quality": 4,
@@ -8440,6 +9427,22 @@
         ]
     },
     {
+        "id": 20000009,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Labor Party Flyer",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20001000,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Arona's Stamp",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
         "id": 190021,
         "rarity": "R",
         "quality": 2,
@@ -8572,7 +9575,7 @@
     {
         "id": 191010,
         "rarity": "SSR",
-        "quality": 1,
+        "quality": 4,
         "name": "Field Day Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
@@ -8582,7 +9585,7 @@
     {
         "id": 191011,
         "rarity": "SSR",
-        "quality": 1,
+        "quality": 4,
         "name": "Abydos Classroom Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
@@ -8710,14 +9713,6 @@
         "tags": []
     },
     {
-        "id": 20005001,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Video Game Magazine",
-        "category": "Collectible",
-        "tags": []
-    },
-    {
         "id": 29999998,
         "rarity": "N",
         "quality": 2,
@@ -8745,7 +9740,7 @@
         "id": 90000101,
         "rarity": "N",
         "quality": 1,
-        "name": "Bimonthly Pyroxene Pack",
+        "name": "Half Monthly Pyroxene Pack",
         "category": "MonthlyBonus",
         "tags": []
     },
@@ -8785,7 +9780,7 @@
         "id": 90000501,
         "rarity": "N",
         "quality": 1,
-        "name": "Bimonthly Pyroxene Pack",
+        "name": "Half Monthly Pyroxene Pack",
         "category": "MonthlyBonus",
         "tags": []
     },
@@ -8825,7 +9820,7 @@
         "id": 90000801,
         "rarity": "N",
         "quality": 1,
-        "name": "Bimonthly Pyroxene Pack",
+        "name": "Half Monthly Pyroxene Pack",
         "category": "MonthlyBonus",
         "tags": []
     },
@@ -8922,6 +9917,14 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "3★ Student Guaranteed Recruitment Ticket (Attack Type)",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006102,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "3★ Student Guaranteed (10x) Ticket",
         "category": "Material",
         "tags": []
     }

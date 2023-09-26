@@ -1685,6 +1685,46 @@
         "comfortBonus": 50
     },
     {
+        "id": 100610,
+        "name": "Hod Bronze Trophy - Indoor Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100611,
+        "name": "Hod Silver Trophy - Indoor Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100612,
+        "name": "Hod Gold Trophy - Indoor Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100613,
+        "name": "Hod Platinum Trophy - Indoor Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100810,
+        "name": "Gregorius Bronze Trophy - Indoor Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100811,
+        "name": "Gregorius Silver Trophy - Indoor Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100812,
+        "name": "Gregorius Gold Trophy - Indoor Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100813,
+        "name": "Gregorius Platinum Trophy - Indoor Warfare",
+        "comfortBonus": 50
+    },
+    {
         "id": 200301,
         "name": "Trinity-Style Fountain",
         "comfortBonus": 350
@@ -1807,6 +1847,11 @@
     {
         "id": 208301,
         "name": "D.U. Shiratori City Diorama Table",
+        "comfortBonus": 350
+    },
+    {
+        "id": 209301,
+        "name": "Weedy Garden",
         "comfortBonus": 350
     },
     {

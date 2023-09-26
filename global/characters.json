@@ -1412,6 +1412,30 @@
         ]
     },
     {
+        "id": 10064,
+        "name": "Kayoko (New Year)",
+        "devname": "CH0086",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "Electronic",
+            "Music",
+            "Fashion",
+            "Simplicity"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -2525,6 +2549,28 @@
         "favoriteGift": [
             "Curios",
             "Delicious"
+        ]
+    },
+    {
+        "id": 20025,
+        "name": "Haruka (New Year)",
+        "devname": "CH0087",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "Horticulture",
+            "CuriousFellow"
         ]
     },
     {

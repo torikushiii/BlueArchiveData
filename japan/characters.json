@@ -1715,6 +1715,52 @@
         ]
     },
     {
+        "id": 10077,
+        "name": "イチカ",
+        "devname": "CH0071",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Sonic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "Justice",
+        "favoriteGift": [
+            "Electronic",
+            "Fashion",
+            "Cosmetics"
+        ]
+    },
+    {
+        "id": 10078,
+        "name": "カスミ",
+        "devname": "CH0089",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "HotSpringsDepartment",
+        "favoriteGift": [
+            "Observational",
+            "Mystery",
+            "Roman"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -3017,6 +3063,24 @@
             "Sports",
             "Delicious"
         ]
+    },
+    {
+        "id": 20031,
+        "name": "",
+        "devname": "CH0123",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "GL",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "RedWinter",
+        "club": "Class227"
     },
     {
         "id": 23000,

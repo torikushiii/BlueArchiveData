@@ -2182,5 +2182,17 @@
         "startTime": "2023-10-10 11:00:00",
         "endTime": "2099-12-31 23:59:59",
         "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900802,
+        "subId": 802,
+        "rerun": true,
+        "name": "Event_Name_802",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2023-10-17 11:00:00",
+        "startTime": "2023-10-17 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
     }
 ]

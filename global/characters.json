@@ -1436,6 +1436,28 @@
         ]
     },
     {
+        "id": 10065,
+        "name": "Kaho",
+        "devname": "CH0107",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Onmyobu",
+        "favoriteGift": [
+            "Books",
+            "PureLiterature"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",

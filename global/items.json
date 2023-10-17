@@ -2555,6 +2555,14 @@
         ]
     },
     {
+        "id": 91000036,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Favor",
+        "tags": []
+    },
+    {
         "id": 6000,
         "rarity": "SSR",
         "quality": 4,
@@ -5782,6 +5790,22 @@
     },
     {
         "id": 90070060,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070061,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070062,
         "rarity": "N",
         "quality": 2,
         "name": "Recruitment Points",

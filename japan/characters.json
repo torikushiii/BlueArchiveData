@@ -1761,6 +1761,62 @@
         ]
     },
     {
+        "id": 10079,
+        "name": "御坂美琴",
+        "devname": "CH9998",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Tokiwadai",
+        "club": "EmptyClub",
+        "favoriteGift": []
+    },
+    {
+        "id": 10080,
+        "name": "食蜂操祈",
+        "devname": "CH9997",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Tokiwadai",
+        "club": "EmptyClub",
+        "favoriteGift": []
+    },
+    {
+        "id": 10081,
+        "name": "",
+        "devname": "CH0161",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -3520,5 +3576,24 @@
             "Army",
             "Simplicity"
         ]
+    },
+    {
+        "id": 26011,
+        "name": "佐天涙子",
+        "devname": "CH9996",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Sakugawa",
+        "club": "EmptyClub",
+        "favoriteGift": []
     }
 ]

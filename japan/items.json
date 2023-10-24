@@ -142,6 +142,46 @@
         "tags": []
     },
     {
+        "id": 40,
+        "rarity": "N",
+        "quality": 1,
+        "name": "カフェ2号設備コアLV1",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 41,
+        "rarity": "R",
+        "quality": 2,
+        "name": "カフェ2号設備コアLV2",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 42,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "カフェ2号設備コアLV3",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 43,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "カフェ2号設備コアLV4",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 49,
+        "rarity": "SSR",
+        "quality": 9,
+        "name": "カフェ2号設備コアLV10",
+        "category": "Material",
+        "tags": []
+    },
+    {
         "id": 60,
         "rarity": "N",
         "quality": 2,
@@ -2596,6 +2636,18 @@
         ]
     },
     {
+        "id": 5996,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "さわやかな花束",
+        "category": "Favor",
+        "tags": [
+            "Gift1",
+            "Gift2",
+            "Gift3"
+        ]
+    },
+    {
         "id": 5997,
         "rarity": "SSR",
         "quality": 4,
@@ -2807,6 +2859,14 @@
     },
     {
         "id": 6506,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6507,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -3688,6 +3748,36 @@
         ]
     },
     {
+        "id": 10079,
+        "rarity": "N",
+        "quality": 9,
+        "name": "御坂美琴の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 10080,
+        "rarity": "N",
+        "quality": 9,
+        "name": "食蜂操祈の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 10081,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -4482,6 +4572,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "ミユ（水着）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "SecretStone"
+        ]
+    },
+    {
+        "id": 26011,
+        "rarity": "N",
+        "quality": 9,
+        "name": "佐天涙子の神名文字",
         "category": "SecretStone",
         "tags": [
             "SecretStone"
@@ -5736,6 +5836,38 @@
         "tags": []
     },
     {
+        "id": 70097,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70098,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70099,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70100,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 79999,
         "rarity": "N",
         "quality": 2,
@@ -6746,6 +6878,46 @@
         "tags": []
     },
     {
+        "id": 80330,
+        "rarity": "N",
+        "quality": 1,
+        "name": "設備部品",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80331,
+        "rarity": "N",
+        "quality": 2,
+        "name": "変わった形のネジ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80332,
+        "rarity": "N",
+        "quality": 3,
+        "name": "珍しいケーブル",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80333,
+        "rarity": "N",
+        "quality": 4,
+        "name": "未確認データチップ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80340,
+        "rarity": "N",
+        "quality": 1,
+        "name": "高級万年筆",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -7648,6 +7820,38 @@
         "tags": []
     },
     {
+        "id": 100030,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100031,
+        "rarity": "N",
+        "quality": 1,
+        "name": "初級技術ノートボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100032,
+        "rarity": "R",
+        "quality": 2,
+        "name": "中級技術ノートボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100033,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "上級技術ノートボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 110000,
         "rarity": "N",
         "quality": 1,
@@ -8206,6 +8410,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "サンシャインリゾートシリーズ選択ボックス",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
+    },
+    {
+        "id": 151014,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "デパートシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
             "ShiftingCraftCategory_Furniture"
@@ -9386,6 +9600,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "サンシャインリゾートシリーズ抽選ボックス",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
+    },
+    {
+        "id": 191014,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "デパートシリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
             "ShiftingCraftCategory_Furniture"

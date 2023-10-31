@@ -2558,9 +2558,12 @@
         "id": 91000036,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "Commemorative Orchestra Ticket",
         "category": "Favor",
-        "tags": []
+        "tags": [
+            "Gift1",
+            "Gift2"
+        ]
     },
     {
         "id": 6000,
@@ -5813,6 +5816,14 @@
         "tags": []
     },
     {
+        "id": 90070063,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -8141,6 +8152,16 @@
         "tags": []
     },
     {
+        "id": 151012,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Game Development Department Furniture Choice Ticket",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
+    },
+    {
         "id": 151991,
         "rarity": "R",
         "quality": 2,
@@ -8165,6 +8186,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "Superior Furniture Choice Box",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
+    },
+    {
+        "id": 151999,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Mixed Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
             "ShiftingCraftCategory_Furniture"
@@ -9267,6 +9298,16 @@
         "tags": []
     },
     {
+        "id": 191012,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Game Development Department Furniture Raffle Ticket",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
+    },
+    {
         "id": 191991,
         "rarity": "R",
         "quality": 2,
@@ -9291,6 +9332,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "Superior Furniture Raffle Box",
+        "category": "Consumable",
+        "tags": [
+            "ShiftingCraftCategory_Furniture"
+        ]
+    },
+    {
+        "id": 191999,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Mixed Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
             "ShiftingCraftCategory_Furniture"
@@ -9866,6 +9917,46 @@
     },
     {
         "id": 90000804,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Half Monthly Pyroxene Pack",
+        "category": "MonthlyBonus",
+        "tags": []
+    },
+    {
+        "id": 90000300,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Monthly Pyroxene Pack",
+        "category": "MonthlyBonus",
+        "tags": []
+    },
+    {
+        "id": 90000301,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Half Monthly Pyroxene Pack",
+        "category": "MonthlyBonus",
+        "tags": []
+    },
+    {
+        "id": 90000302,
+        "rarity": "N",
+        "quality": 1,
+        "name": "2-Week AP Pack",
+        "category": "MonthlyBonus",
+        "tags": []
+    },
+    {
+        "id": 90000303,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Monthly Pyroxene Pack",
+        "category": "MonthlyBonus",
+        "tags": []
+    },
+    {
+        "id": 90000304,
         "rarity": "N",
         "quality": 1,
         "name": "Half Monthly Pyroxene Pack",

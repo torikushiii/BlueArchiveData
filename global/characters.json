@@ -1458,6 +1458,51 @@
         ]
     },
     {
+        "id": 10066,
+        "name": "Aris (Maid)",
+        "devname": "CH0200",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "RG",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev",
+        "favoriteGift": [
+            "Game",
+            "Fashion",
+            "Toy"
+        ]
+    },
+    {
+        "id": 10067,
+        "name": "Toki (Bunny)",
+        "devname": "CH0211",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Sports",
+            "Specialized"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -2982,6 +3027,28 @@
             "Swimsuit",
             "WaterPlay",
             "Functional"
+        ]
+    },
+    {
+        "id": 26009,
+        "name": "Yuzu (Maid)",
+        "devname": "CH0203",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "GL",
+        "bulletType": "Explosion",
+        "armorType": "ElasticArmor",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev",
+        "favoriteGift": [
+            "Electronic",
+            "Game"
         ]
     }
 ]

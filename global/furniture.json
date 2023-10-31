@@ -1345,6 +1345,201 @@
         "comfortBonus": 350
     },
     {
+        "id": 12100,
+        "name": "Game Development Department Bedding",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12101,
+        "name": "Millennium Parcel",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12102,
+        "name": "Round Blue Rug",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12103,
+        "name": "Game Development Department Ottoman",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12104,
+        "name": "Blue Game Development Department Floor Chair",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12105,
+        "name": "Red Game Development Department Cushion",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12106,
+        "name": "Game Development Department Club Room Door",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12107,
+        "name": "Millennium Partition",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12108,
+        "name": "Polished Silver Floor Panel",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12109,
+        "name": "Blue Game Development Department Cabinet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12110,
+        "name": "Game Development Department Metal Partition",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12111,
+        "name": "Snake Plant Set",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12112,
+        "name": "Game Development Department Schedule Board",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12113,
+        "name": "Messy Refreshments Table",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12114,
+        "name": "Vintage Blue Pillar",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12115,
+        "name": "Game Development Department Name Plate",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12116,
+        "name": "White Mini Fan",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12117,
+        "name": "Game Development Department LED Sign",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12118,
+        "name": "Vintage Wall-Mounted Fan",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12119,
+        "name": "Game Development Department Framed Art",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12120,
+        "name": "Game Development Department Modern AC",
+        "comfortBonus": 50
+    },
+    {
+        "id": 12200,
+        "name": "Retro Entertainment Center",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12201,
+        "name": "Laptop Storage Table",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12202,
+        "name": "Game Development Books Storage Table",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12203,
+        "name": "Old Gaming Monitor",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12204,
+        "name": "Board Game Bookcase",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12205,
+        "name": "Messy Game Storage Bookcase",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12206,
+        "name": "Gaming Console Bookcase",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12207,
+        "name": "Game Development Department Oversized Sofa",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12208,
+        "name": "Game Development Department Pink Teddy Bear",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12209,
+        "name": "Monochromatic Floor",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12210,
+        "name": "Blue Striped Vintage Wall",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12211,
+        "name": "Game Development Department Background",
+        "comfortBonus": 120
+    },
+    {
+        "id": 12300,
+        "name": "Game Development Department Personal Storage",
+        "comfortBonus": 350
+    },
+    {
+        "id": 12301,
+        "name": "Vintage Gaming TV",
+        "comfortBonus": 350
+    },
+    {
+        "id": 12302,
+        "name": "Game Development Department Rug",
+        "comfortBonus": 350
+    },
+    {
+        "id": 12303,
+        "name": "Game Development Department Doll Set Display",
+        "comfortBonus": 350
+    },
+    {
+        "id": 12304,
+        "name": "Game Development Department Whiteboard",
+        "comfortBonus": 350
+    },
+    {
+        "id": 12305,
+        "name": "Game Development Department Cute Curtained Window",
+        "comfortBonus": 350
+    },
+    {
         "id": 100000,
         "name": "Binah Bronze Trophy - Field Warfare",
         "comfortBonus": 50
@@ -1860,6 +2055,26 @@
         "comfortBonus": 350
     },
     {
+        "id": 210301,
+        "name": "Game Development Department Locker",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210302,
+        "name": "Deep Blue Silver Stool",
+        "comfortBonus": 50
+    },
+    {
+        "id": 210303,
+        "name": "Sky Blue Sofa Chair",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210304,
+        "name": "Steel Sliding Cabinet",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "Total Assault Bronze Trophy Display Cabinet 01",
         "comfortBonus": 50
@@ -1917,6 +2132,11 @@
     {
         "id": 302304,
         "name": "Recollection Player 4",
+        "comfortBonus": 350
+    },
+    {
+        "id": 302305,
+        "name": "Recollection Player 4.5",
         "comfortBonus": 350
     }
 ]

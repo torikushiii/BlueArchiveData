@@ -1800,7 +1800,7 @@
     },
     {
         "id": 10081,
-        "name": "",
+        "name": "ユカリ",
         "devname": "CH0161",
         "rarity": "SSR",
         "role": "DamageDealer",
@@ -1814,7 +1814,12 @@
             "Watch"
         ],
         "school": "Hyakkiyako",
-        "club": "Hyakkayouran"
+        "club": "Hyakkayouran",
+        "favoriteGift": [
+            "Dessert",
+            "Fashion",
+            "Simplicity"
+        ]
     },
     {
         "id": 13000,

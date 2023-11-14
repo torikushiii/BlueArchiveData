@@ -1503,6 +1503,29 @@
         ]
     },
     {
+        "id": 10068,
+        "name": "Reisa",
+        "devname": "CH0167",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "TrinityVigilance",
+        "favoriteGift": [
+            "Electronic",
+            "Music",
+            "Dessert"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",

@@ -2194,5 +2194,29 @@
         "startTime": "2023-10-17 11:00:00",
         "endTime": "2099-12-31 23:59:59",
         "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900803,
+        "subId": 803,
+        "rerun": true,
+        "name": "Event_Name_803",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2023-11-21 11:00:00",
+        "startTime": "2023-11-21 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900803,
+        "subId": 803,
+        "rerun": true,
+        "name": "Event_Name_803",
+        "eventContentType": "Recollection",
+        "subEvent": false,
+        "exposedTime": "2023-11-21 11:00:00",
+        "startTime": "2023-11-21 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
     }
 ]

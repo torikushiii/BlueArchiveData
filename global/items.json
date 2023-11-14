@@ -2566,6 +2566,17 @@
         ]
     },
     {
+        "id": 91000037,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Mom's Touch Commemorative Card",
+        "category": "Favor",
+        "tags": [
+            "Gift1",
+            "Gift2"
+        ]
+    },
+    {
         "id": 6000,
         "rarity": "SSR",
         "quality": 4,
@@ -5817,6 +5828,22 @@
     },
     {
         "id": 90070063,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070064,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070065,
         "rarity": "N",
         "quality": 2,
         "name": "Recruitment Points",

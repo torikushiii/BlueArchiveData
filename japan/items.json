@@ -6,7 +6,7 @@
         "name": "キーストーンのカケラ",
         "category": "Material",
         "tags": [
-            "CraftCommitment"
+            "l"
         ]
     },
     {
@@ -24,7 +24,7 @@
         "name": "キーストーン",
         "category": "Material",
         "tags": [
-            "CraftCommitment"
+            "l"
         ]
     },
     {
@@ -58,7 +58,7 @@
         "name": "初級レポート",
         "category": "CharacterExpGrowth",
         "tags": [
-            "ExpItem"
+            "i"
         ]
     },
     {
@@ -68,7 +68,7 @@
         "name": "中級レポート",
         "category": "CharacterExpGrowth",
         "tags": [
-            "ExpItem"
+            "i"
         ]
     },
     {
@@ -78,7 +78,7 @@
         "name": "上級レポート",
         "category": "CharacterExpGrowth",
         "tags": [
-            "ExpItem"
+            "i"
         ]
     },
     {
@@ -88,7 +88,7 @@
         "name": "最上級レポート",
         "category": "CharacterExpGrowth",
         "tags": [
-            "ExpItem"
+            "i"
         ]
     },
     {
@@ -98,7 +98,7 @@
         "name": "神名のカケラ",
         "category": "Coin",
         "tags": [
-            "CraftMaterial_SecretStone"
+            "Dl"
         ]
     },
     {
@@ -252,7 +252,7 @@
         "name": "初級製造用マテリアル",
         "category": "Material",
         "tags": [
-            "CraftItem"
+            "h"
         ]
     },
     {
@@ -262,7 +262,7 @@
         "name": "中級製造用マテリアル",
         "category": "Material",
         "tags": [
-            "CraftItem"
+            "h"
         ]
     },
     {
@@ -272,7 +272,7 @@
         "name": "上級製造用マテリアル",
         "category": "Material",
         "tags": [
-            "CraftItem"
+            "h"
         ]
     },
     {
@@ -282,9 +282,9 @@
         "name": "ネブラディスクの欠片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -294,9 +294,9 @@
         "name": "壊れたネブラディスク",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -306,9 +306,9 @@
         "name": "摩耗したネブラディスク",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -318,9 +318,9 @@
         "name": "完全なネブラディスク",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -330,9 +330,9 @@
         "name": "ファイストス円盤の欠片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -342,9 +342,9 @@
         "name": "壊れたファイストス円盤",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -354,9 +354,9 @@
         "name": "摩耗したファイストス円盤",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -366,9 +366,9 @@
         "name": "完全なファイストス円盤",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -378,9 +378,9 @@
         "name": "ヴォルフスエックの鉄鉱石",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -390,9 +390,9 @@
         "name": "ヴォルフスエック鋼鉄の欠片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -402,9 +402,9 @@
         "name": "低純度のヴォルフスエック鋼鉄",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -414,9 +414,9 @@
         "name": "高純度のヴォルフスエック鋼鉄",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -426,9 +426,9 @@
         "name": "ニムルドレンズの欠片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -438,9 +438,9 @@
         "name": "壊れたニムルドレンズ",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -450,9 +450,9 @@
         "name": "摩耗したニムルドレンズ",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -462,9 +462,9 @@
         "name": "完全なニムルドレンズ",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -474,9 +474,9 @@
         "name": "マンドレイクの種",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -486,9 +486,9 @@
         "name": "マンドレイクの芽",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -498,9 +498,9 @@
         "name": "マンドレイクジュース",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -510,9 +510,9 @@
         "name": "マンドレイク濃縮液",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -522,9 +522,9 @@
         "name": "レヒニッツ写本のページ",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -534,9 +534,9 @@
         "name": "傷んだレヒニッツ写本",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -546,9 +546,9 @@
         "name": "編集済みのレヒニッツ写本",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -558,9 +558,9 @@
         "name": "完全なレヒニッツ写本",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -570,9 +570,9 @@
         "name": "エーテルの粉",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -582,9 +582,9 @@
         "name": "エーテルの欠片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -594,9 +594,9 @@
         "name": "エーテルの結晶",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -606,9 +606,9 @@
         "name": "エーテルのエッセンス",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -618,9 +618,9 @@
         "name": "アンティキティラ装置の欠片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -630,9 +630,9 @@
         "name": "壊れたアンティキティラ装置",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -642,9 +642,9 @@
         "name": "摩耗したアンティキティラ装置",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -654,9 +654,9 @@
         "name": "完全なアンティキティラ装置",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -666,9 +666,9 @@
         "name": "断片的なヴォイニッチ手稿のコピー",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -678,9 +678,9 @@
         "name": "傷んだヴォイニッチ手稿のコピー",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -690,9 +690,9 @@
         "name": "編集済みのヴォイニッチ手稿のコピー",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -702,9 +702,9 @@
         "name": "完全なヴォイニッチ手稿のコピー",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -714,9 +714,9 @@
         "name": "水晶埴輪の破片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -726,9 +726,9 @@
         "name": "壊れた水晶埴輪",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -738,9 +738,9 @@
         "name": "修復済みの水晶埴輪",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -750,9 +750,9 @@
         "name": "完全な水晶埴輪",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -762,9 +762,9 @@
         "name": "トーテムポールの破片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -774,9 +774,9 @@
         "name": "破損したトーテムポール",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -786,9 +786,9 @@
         "name": "修復済みのトーテムポール",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -798,9 +798,9 @@
         "name": "完全なトーテムポール",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -810,9 +810,9 @@
         "name": "古代の電池の破片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -822,9 +822,9 @@
         "name": "破損した古代の電池",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -834,9 +834,9 @@
         "name": "摩耗した古代の電池",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -846,9 +846,9 @@
         "name": "完全なる古代の電池",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -858,9 +858,9 @@
         "name": "黄金の糸",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -870,9 +870,9 @@
         "name": "黄金の巻糸",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -882,9 +882,9 @@
         "name": "大きな黄金の巻糸",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -894,9 +894,9 @@
         "name": "黄金の布",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -906,9 +906,9 @@
         "name": "髪伸び人形の破片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -918,9 +918,9 @@
         "name": "破損した髪伸び人形",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -930,9 +930,9 @@
         "name": "修理済みの髪伸び人形",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -942,9 +942,9 @@
         "name": "完全な髪伸び人形",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -954,9 +954,9 @@
         "name": "円盤型ペンダントの欠片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -966,9 +966,9 @@
         "name": "壊れた円盤型ペンダント",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -978,9 +978,9 @@
         "name": "修復途中の円盤型ペンダント",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -990,9 +990,9 @@
         "name": "完全な円盤型ペンダント",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -1002,9 +1002,9 @@
         "name": "古代文明のメダルの欠片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -1014,9 +1014,9 @@
         "name": "破損した古代文明のメダル",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -1026,9 +1026,9 @@
         "name": "修復途中の古代文明のメダル",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -1038,9 +1038,9 @@
         "name": "完全な古代文明のメダル",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -1050,9 +1050,9 @@
         "name": "中空十二面体の欠片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -1062,9 +1062,9 @@
         "name": "壊れた中空十二面体",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -1074,9 +1074,9 @@
         "name": "修復途中の中空十二面体",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -1086,9 +1086,105 @@
         "name": "完全な中空十二面体",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
+        ]
+    },
+    {
+        "id": 270,
+        "rarity": "N",
+        "quality": 1,
+        "name": "黄金シャトルの欠片",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cr"
+        ]
+    },
+    {
+        "id": 271,
+        "rarity": "R",
+        "quality": 2,
+        "name": "壊れた黄金シャトル",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cS"
+        ]
+    },
+    {
+        "id": 272,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "修復途中の黄金シャトル",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cs"
+        ]
+    },
+    {
+        "id": 273,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "完全な黄金シャトル",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cT"
+        ]
+    },
+    {
+        "id": 280,
+        "rarity": "N",
+        "quality": 1,
+        "name": "古代ロケットの欠片",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cr"
+        ]
+    },
+    {
+        "id": 281,
+        "rarity": "R",
+        "quality": 2,
+        "name": "壊れた古代ロケット",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cS"
+        ]
+    },
+    {
+        "id": 282,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "修復途中の古代ロケット",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cs"
+        ]
+    },
+    {
+        "id": 283,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "完全な古代ロケット",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -1098,9 +1194,9 @@
         "name": "ミステリーストーンの欠片",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -1110,9 +1206,9 @@
         "name": "壊れたミステリーストーン",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -1122,9 +1218,9 @@
         "name": "不完全なミステリーストーン",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -1134,9 +1230,9 @@
         "name": "完全なミステリーストーン",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -1146,9 +1242,9 @@
         "name": "初級戦術教育BD\n（百鬼夜行）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1158,9 +1254,9 @@
         "name": "中級戦術教育BD\n（百鬼夜行）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1170,9 +1266,9 @@
         "name": "上級戦術教育BD\n（百鬼夜行）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1182,9 +1278,9 @@
         "name": "最上級戦術教育BD\n（百鬼夜行）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1194,9 +1290,9 @@
         "name": "初級戦術教育BD\n（レッドウィンター）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1206,9 +1302,9 @@
         "name": "中級戦術教育BD\n（レッドウィンター）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1218,9 +1314,9 @@
         "name": "上級戦術教育BD\n（レッドウィンター）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1230,9 +1326,9 @@
         "name": "最上級戦術教育BD\n（レッドウィンター）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1242,9 +1338,9 @@
         "name": "初級戦術教育BD\n（トリニティ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1254,9 +1350,9 @@
         "name": "中級戦術教育BD\n（トリニティ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1266,9 +1362,9 @@
         "name": "上級戦術教育BD\n（トリニティ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1278,9 +1374,9 @@
         "name": "最上級戦術教育BD\n（トリニティ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1290,9 +1386,9 @@
         "name": "初級戦術教育BD\n（ゲヘナ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1302,9 +1398,9 @@
         "name": "中級戦術教育BD\n（ゲヘナ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1314,9 +1410,9 @@
         "name": "上級戦術教育BD\n（ゲヘナ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1326,9 +1422,9 @@
         "name": "最上級戦術教育BD\n（ゲヘナ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1338,9 +1434,9 @@
         "name": "初級戦術教育BD\n（アビドス）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1350,9 +1446,9 @@
         "name": "中級戦術教育BD\n（アビドス）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1362,9 +1458,9 @@
         "name": "上級戦術教育BD\n（アビドス）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1374,9 +1470,9 @@
         "name": "最上級戦術教育BD\n（アビドス）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1386,9 +1482,9 @@
         "name": "初級戦術教育BD\n（ミレニアム）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1398,9 +1494,9 @@
         "name": "中級戦術教育BD\n（ミレニアム）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1410,9 +1506,9 @@
         "name": "上級戦術教育BD\n（ミレニアム）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1422,9 +1518,9 @@
         "name": "最上級戦術教育BD\n（ミレニアム）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1434,9 +1530,9 @@
         "name": "初級戦術教育BD\n（アリウス）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1446,9 +1542,9 @@
         "name": "中級戦術教育BD\n（アリウス）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1458,9 +1554,9 @@
         "name": "上級戦術教育BD\n（アリウス）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1470,9 +1566,9 @@
         "name": "最上級戦術教育BD\n（アリウス）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1482,9 +1578,9 @@
         "name": "初級戦術教育BD\n（山海経）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1494,9 +1590,9 @@
         "name": "中級戦術教育BD\n（山海経）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1506,9 +1602,9 @@
         "name": "上級戦術教育BD\n（山海経）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1518,9 +1614,9 @@
         "name": "最上級戦術教育BD\n（山海経）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1530,10 +1626,10 @@
         "name": "初級戦術教育BD\n（ヴァルキューレ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN",
-            "ValkyrieCD"
+            "I",
+            "M",
+            "ct",
+            "ej"
         ]
     },
     {
@@ -1543,10 +1639,10 @@
         "name": "中級戦術教育BD\n（ヴァルキューレ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR",
-            "ValkyrieCD"
+            "I",
+            "M",
+            "cU",
+            "ej"
         ]
     },
     {
@@ -1556,10 +1652,10 @@
         "name": "上級戦術教育BD\n（ヴァルキューレ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR",
-            "ValkyrieCD"
+            "I",
+            "M",
+            "cu",
+            "ej"
         ]
     },
     {
@@ -1569,10 +1665,10 @@
         "name": "最上級戦術教育BD\n（ヴァルキューレ）",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR",
-            "ValkyrieCD"
+            "I",
+            "M",
+            "cV",
+            "ej"
         ]
     },
     {
@@ -1582,9 +1678,9 @@
         "name": "初級技術ノート\n（百鬼夜行）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1594,9 +1690,9 @@
         "name": "中級技術ノート\n（百鬼夜行）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1606,9 +1702,9 @@
         "name": "上級技術ノート\n（百鬼夜行）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1618,9 +1714,9 @@
         "name": "最上級技術ノート\n（百鬼夜行）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1630,9 +1726,9 @@
         "name": "初級技術ノート\n（レッドウィンター）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1642,9 +1738,9 @@
         "name": "中級技術ノート\n（レッドウィンター）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1654,9 +1750,9 @@
         "name": "上級技術ノート\n（レッドウィンター）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1666,9 +1762,9 @@
         "name": "最上級技術ノート\n（レッドウィンター）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1678,9 +1774,9 @@
         "name": "初級技術ノート\n（トリニティ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1690,9 +1786,9 @@
         "name": "中級技術ノート\n（トリニティ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1702,9 +1798,9 @@
         "name": "上級技術ノート\n（トリニティ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1714,9 +1810,9 @@
         "name": "最上級技術ノート\n（トリニティ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1726,9 +1822,9 @@
         "name": "初級技術ノート\n（ゲヘナ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1738,9 +1834,9 @@
         "name": "中級技術ノート\n（ゲヘナ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1750,9 +1846,9 @@
         "name": "上級技術ノート\n（ゲヘナ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1762,9 +1858,9 @@
         "name": "最上級技術ノート\n（ゲヘナ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1774,9 +1870,9 @@
         "name": "初級技術ノート\n（アビドス）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1786,9 +1882,9 @@
         "name": "中級技術ノート\n（アビドス）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1798,9 +1894,9 @@
         "name": "上級技術ノート\n（アビドス）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1810,9 +1906,9 @@
         "name": "最上級技術ノート\n（アビドス）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1822,9 +1918,9 @@
         "name": "初級技術ノート\n（ミレニアム）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1834,9 +1930,9 @@
         "name": "中級技術ノート\n（ミレニアム）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1846,9 +1942,9 @@
         "name": "上級技術ノート\n（ミレニアム）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1858,9 +1954,9 @@
         "name": "最上級技術ノート\n（ミレニアム）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1870,9 +1966,9 @@
         "name": "初級技術ノート\n（アリウス）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1882,9 +1978,9 @@
         "name": "中級技術ノート\n（アリウス）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1894,9 +1990,9 @@
         "name": "上級技術ノート\n（アリウス）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1906,9 +2002,9 @@
         "name": "最上級技術ノート\n（アリウス）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1918,9 +2014,9 @@
         "name": "初級技術ノート\n（山海経）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1930,9 +2026,9 @@
         "name": "中級技術ノート\n（山海経）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1942,9 +2038,9 @@
         "name": "上級技術ノート\n（山海経）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1954,9 +2050,9 @@
         "name": "最上級技術ノート\n（山海経）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1966,10 +2062,10 @@
         "name": "初級技術ノート\n（ヴァルキューレ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN",
-            "ValkyrieBook"
+            "j",
+            "M",
+            "cv",
+            "eK"
         ]
     },
     {
@@ -1979,10 +2075,10 @@
         "name": "中級技術ノート\n（ヴァルキューレ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR",
-            "ValkyrieBook"
+            "j",
+            "M",
+            "cW",
+            "eK"
         ]
     },
     {
@@ -1992,10 +2088,10 @@
         "name": "上級技術ノート\n（ヴァルキューレ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR",
-            "ValkyrieBook"
+            "j",
+            "M",
+            "cw",
+            "eK"
         ]
     },
     {
@@ -2005,10 +2101,10 @@
         "name": "最上級技術ノート\n（ヴァルキューレ）",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR",
-            "ValkyrieBook"
+            "j",
+            "M",
+            "cX",
+            "eK"
         ]
     },
     {
@@ -2018,10 +2114,12 @@
         "name": "ウェーブキャットの枕",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Bedding",
-            "MomoFriends"
+            "K",
+            "DV",
+            "aK",
+            "ap",
+            "Bo",
+            "cP"
         ]
     },
     {
@@ -2031,10 +2129,16 @@
         "name": "ペロロの腹筋ローラー",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Sports",
-            "MomoFriends"
+            "K",
+            "DV",
+            "aj",
+            "ap",
+            "Be",
+            "BI",
+            "CY",
+            "Eu",
+            "eD",
+            "en"
         ]
     },
     {
@@ -2044,10 +2148,12 @@
         "name": "エーポッドプロ",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Electronic",
-            "Music"
+            "K",
+            "DV",
+            "aL",
+            "aQ",
+            "Bw",
+            "dw"
         ]
     },
     {
@@ -2057,10 +2163,15 @@
         "name": "禁断の愛\n〜許されないからこそ美しく〜",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "LoveStory"
+            "K",
+            "DV",
+            "BB",
+            "aq",
+            "Bj",
+            "Bu",
+            "CZ",
+            "eP",
+            "FS"
         ]
     },
     {
@@ -2070,10 +2181,13 @@
         "name": "ゲームマガジン\n「ヒットガールズ」",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "Game"
+            "K",
+            "DV",
+            "BB",
+            "aR",
+            "bA",
+            "BS",
+            "eB"
         ]
     },
     {
@@ -2083,10 +2197,12 @@
         "name": "チェリーローズカラーのグロス",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Cosmetics",
-            "Girlish"
+            "K",
+            "DV",
+            "Bb",
+            "ar",
+            "BQ",
+            "FG"
         ]
     },
     {
@@ -2096,10 +2212,13 @@
         "name": "お肌を透明にするBBクリーム",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Cosmetics",
-            "Beauty"
+            "K",
+            "DV",
+            "Bb",
+            "aS",
+            "Bz",
+            "Du",
+            "eR"
         ]
     },
     {
@@ -2109,10 +2228,13 @@
         "name": "ミリタリー用カモフラージュクリーム3種セット",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Cosmetics",
-            "Army"
+            "K",
+            "DV",
+            "Bb",
+            "as",
+            "BY",
+            "Df",
+            "el"
         ]
     },
     {
@@ -2122,10 +2244,14 @@
         "name": "高級なクッキーセット",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Dessert",
-            "Delicious"
+            "K",
+            "DV",
+            "aJ",
+            "ao",
+            "By",
+            "bE",
+            "ce",
+            "EM"
         ]
     },
     {
@@ -2135,10 +2261,14 @@
         "name": "『銃 可愛い 青春』",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "Humanities"
+            "K",
+            "DV",
+            "BB",
+            "aT",
+            "bB",
+            "De",
+            "DL",
+            "ek"
         ]
     },
     {
@@ -2148,10 +2278,13 @@
         "name": "天体望遠鏡",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Toy",
-            "Observational"
+            "K",
+            "DV",
+            "al",
+            "at",
+            "ba",
+            "bG",
+            "dZ"
         ]
     },
     {
@@ -2161,10 +2294,12 @@
         "name": "ゲームガールカラー復刻版",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Electronic",
-            "Game"
+            "K",
+            "DV",
+            "aL",
+            "aR",
+            "BW",
+            "cG"
         ]
     },
     {
@@ -2174,10 +2309,11 @@
         "name": "MX-レーションC型デザート風味",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Dessert",
-            "Army"
+            "K",
+            "DV",
+            "aJ",
+            "as",
+            "Cz"
         ]
     },
     {
@@ -2187,10 +2323,10 @@
         "name": "抹茶味の瓶ラムネ",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Dessert",
-            "Freakish"
+            "K",
+            "DV",
+            "aJ",
+            "aP"
         ]
     },
     {
@@ -2200,10 +2336,12 @@
         "name": "ゼリーズの枕",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Bedding",
-            "Jellyz"
+            "K",
+            "DV",
+            "aK",
+            "aU",
+            "bD",
+            "Bv"
         ]
     },
     {
@@ -2213,10 +2351,12 @@
         "name": "跳躍探偵ウサギ\n〜霧に包まれた温泉での滑落〜",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "Detective"
+            "K",
+            "DV",
+            "BB",
+            "au",
+            "bd",
+            "Bu"
         ]
     },
     {
@@ -2226,10 +2366,12 @@
         "name": "O-フィット",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Sports",
-            "Game"
+            "K",
+            "DV",
+            "aj",
+            "aR",
+            "BJ",
+            "Ei"
         ]
     },
     {
@@ -2239,10 +2381,18 @@
         "name": "埋蔵金の地図",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Curios",
-            "Roman"
+            "K",
+            "DV",
+            "ak",
+            "aV",
+            "Bf",
+            "cb",
+            "ci",
+            "cl",
+            "Ds",
+            "eQ",
+            "eq",
+            "FH"
         ]
     },
     {
@@ -2252,10 +2402,13 @@
         "name": "コスプレ用ぐるぐるメガネ",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Toy",
-            "CuriousFellow"
+            "K",
+            "DV",
+            "al",
+            "av",
+            "BH",
+            "BN",
+            "cf"
         ]
     },
     {
@@ -2265,10 +2418,14 @@
         "name": "世界で最も無駄な絡繰りボックス",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Curios",
-            "Mystery"
+            "K",
+            "DV",
+            "ak",
+            "aW",
+            "BF",
+            "BV",
+            "cA",
+            "Ev"
         ]
     },
     {
@@ -2278,10 +2435,18 @@
         "name": "リボンのついた熊のぬいぐるみ",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Toy",
-            "Doll"
+            "K",
+            "DV",
+            "al",
+            "aw",
+            "BR",
+            "Bs",
+            "Cy",
+            "cg",
+            "co",
+            "Dd",
+            "Di",
+            "DK"
         ]
     },
     {
@@ -2291,10 +2456,11 @@
         "name": "映画の前売りペアチケット",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Reservation",
-            "Movie"
+            "K",
+            "DV",
+            "aM",
+            "aX",
+            "Br"
         ]
     },
     {
@@ -2304,10 +2470,11 @@
         "name": "30色の絵の具セット",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Toy",
-            "Art"
+            "K",
+            "DV",
+            "al",
+            "ax",
+            "bc"
         ]
     },
     {
@@ -2317,10 +2484,12 @@
         "name": "古典の詩集",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "PureLiterature"
+            "K",
+            "DV",
+            "BB",
+            "aY",
+            "cL",
+            "eT"
         ]
     },
     {
@@ -2330,10 +2499,13 @@
         "name": "可愛い食器セット",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Household",
-            "Food"
+            "K",
+            "DV",
+            "am",
+            "ay",
+            "BK",
+            "Dj",
+            "eg"
         ]
     },
     {
@@ -2343,10 +2515,14 @@
         "name": "頭脳開発キューブパズル",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Toy",
-            "Smart"
+            "K",
+            "DV",
+            "al",
+            "aZ",
+            "BP",
+            "BX",
+            "Ec",
+            "eB"
         ]
     },
     {
@@ -2356,10 +2532,13 @@
         "name": "大きなホールケーキ",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Dessert",
-            "BigMeal"
+            "K",
+            "DV",
+            "aJ",
+            "az",
+            "BT",
+            "cH",
+            "ER"
         ]
     },
     {
@@ -2369,10 +2548,12 @@
         "name": "ハイクラスビュッフェ招待券",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Reservation",
-            "BigMeal"
+            "K",
+            "DV",
+            "aM",
+            "az",
+            "BL",
+            "cM"
         ]
     },
     {
@@ -2382,10 +2563,11 @@
         "name": "食虫植物の植木鉢",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Horticulture",
-            "CuriousFellow"
+            "K",
+            "DV",
+            "aN",
+            "av",
+            "DD"
         ]
     },
     {
@@ -2395,10 +2577,12 @@
         "name": "高級そうな欲望のつぼ",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Curios",
-            "CuriousFellow"
+            "K",
+            "DV",
+            "ak",
+            "av",
+            "BO",
+            "cn"
         ]
     },
     {
@@ -2408,10 +2592,13 @@
         "name": "ぜんまい式オルゴール",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Curios",
-            "Music"
+            "K",
+            "DV",
+            "ak",
+            "aQ",
+            "ck",
+            "Ew",
+            "eh"
         ]
     },
     {
@@ -2421,10 +2608,19 @@
         "name": "刺繍付きのハンカチ",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Fashion",
-            "Simplicity"
+            "K",
+            "DV",
+            "an",
+            "BA",
+            "BE",
+            "bf",
+            "cF",
+            "cK",
+            "DF",
+            "DT",
+            "EM",
+            "eg",
+            "em"
         ]
     },
     {
@@ -2434,10 +2630,12 @@
         "name": "百科事典",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "Specialized"
+            "K",
+            "DV",
+            "BB",
+            "Ba",
+            "DJ",
+            "FE"
         ]
     },
     {
@@ -2447,10 +2645,14 @@
         "name": "ザ・サプリメント",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Functional",
-            "Specialized"
+            "K",
+            "DV",
+            "aO",
+            "Ba",
+            "bF",
+            "cj",
+            "DU",
+            "EP"
         ]
     },
     {
@@ -2460,10 +2662,10 @@
         "name": "夏模様の浮き輪",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Swimsuit",
-            "WaterPlay"
+            "K",
+            "DV",
+            "CX",
+            "Cx"
         ]
     },
     {
@@ -2473,10 +2675,20 @@
         "name": "レースの枕",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Bedding"
+            "K",
+            "Dv",
+            "BC",
+            "aK",
+            "Bf",
+            "de",
+            "Di",
+            "dj",
+            "Ds",
+            "dF",
+            "EI",
+            "Ej",
+            "ek",
+            "eL"
         ]
     },
     {
@@ -2486,10 +2698,18 @@
         "name": "ストリートオブヤンキー1巻",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Books"
+            "K",
+            "Dv",
+            "BC",
+            "BB",
+            "Ez",
+            "eA",
+            "eQ",
+            "eq",
+            "FC",
+            "Fc",
+            "FT",
+            "Ft"
         ]
     },
     {
@@ -2499,10 +2719,26 @@
         "name": "サミュエラ「ザ・ビヨンド」",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Cosmetics"
+            "K",
+            "Dv",
+            "BC",
+            "Bb",
+            "Be",
+            "dC",
+            "BF",
+            "dD",
+            "cA",
+            "dd",
+            "cH",
+            "DY",
+            "bD",
+            "dn",
+            "EN",
+            "En",
+            "eP",
+            "ep",
+            "FG",
+            "Fg"
         ]
     },
     {
@@ -2512,10 +2748,30 @@
         "name": "レトロな卵の工芸品",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Curios"
+            "K",
+            "Dv",
+            "BC",
+            "ak",
+            "Bf",
+            "de",
+            "Dc",
+            "dq",
+            "cL",
+            "do",
+            "CY",
+            "dc",
+            "cl",
+            "dA",
+            "bb",
+            "da",
+            "Ds",
+            "dF",
+            "EE",
+            "Ef",
+            "Ew",
+            "EX",
+            "eh",
+            "eI"
         ]
     },
     {
@@ -2525,10 +2781,30 @@
         "name": "ミルフィーユの正統派パフェ",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Dessert"
+            "K",
+            "Dv",
+            "BC",
+            "aJ",
+            "BL",
+            "Dw",
+            "cF",
+            "dH",
+            "BQ",
+            "Dx",
+            "dW",
+            "dX",
+            "Ed",
+            "EF",
+            "EO",
+            "Eo",
+            "ET",
+            "Et",
+            "ER",
+            "Er",
+            "eE",
+            "ee",
+            "FF",
+            "Ff"
         ]
     },
     {
@@ -2538,10 +2814,28 @@
         "name": "エイ～ブックレア",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Electronic"
+            "K",
+            "Dv",
+            "BC",
+            "aL",
+            "De",
+            "dK",
+            "BP",
+            "ds",
+            "Bq",
+            "dh",
+            "bA",
+            "dB",
+            "ba",
+            "dR",
+            "DL",
+            "DZ",
+            "dZ",
+            "EB",
+            "eC",
+            "ec",
+            "FH",
+            "Fh"
         ]
     },
     {
@@ -2551,10 +2845,34 @@
         "name": "おしゃれなくし",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Fashion"
+            "K",
+            "Dv",
+            "BC",
+            "an",
+            "Bj",
+            "dp",
+            "Cy",
+            "Dz",
+            "co",
+            "dr",
+            "DF",
+            "dk",
+            "CZ",
+            "dQ",
+            "DK",
+            "dS",
+            "ED",
+            "Ee",
+            "eB",
+            "eb",
+            "eg",
+            "eH",
+            "em",
+            "eN",
+            "eR",
+            "er",
+            "FP",
+            "FR"
         ]
     },
     {
@@ -2564,10 +2882,36 @@
         "name": "栄養満載の総合ビタミンゼリー",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Functional"
+            "K",
+            "Dv",
+            "BC",
+            "aO",
+            "BP",
+            "ds",
+            "BY",
+            "dI",
+            "Cz",
+            "di",
+            "cf",
+            "dm",
+            "cP",
+            "dN",
+            "bc",
+            "df",
+            "bD",
+            "dn",
+            "Eh",
+            "EJ",
+            "EP",
+            "Ep",
+            "ES",
+            "Es",
+            "ei",
+            "eJ",
+            "el",
+            "eM",
+            "FI",
+            "Fi"
         ]
     },
     {
@@ -2577,10 +2921,14 @@
         "name": "最高級の楓の盆栽",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Horticulture"
+            "K",
+            "Dv",
+            "BC",
+            "aN",
+            "Bo",
+            "dP",
+            "Ey",
+            "EZ"
         ]
     },
     {
@@ -2590,10 +2938,30 @@
         "name": "裁縫キット",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Household"
+            "K",
+            "Dv",
+            "BC",
+            "am",
+            "cg",
+            "dg",
+            "DD",
+            "dE",
+            "Br",
+            "dM",
+            "BX",
+            "dG",
+            "dz",
+            "Eb",
+            "EA",
+            "EC",
+            "eD",
+            "ed",
+            "eS",
+            "es",
+            "eT",
+            "et",
+            "FS",
+            "Fs"
         ]
     },
     {
@@ -2603,10 +2971,18 @@
         "name": "音楽演奏会入場券",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Reservation"
+            "K",
+            "Dv",
+            "BC",
+            "aM",
+            "BE",
+            "db",
+            "BR",
+            "dO",
+            "EM",
+            "Em",
+            "Ex",
+            "EY"
         ]
     },
     {
@@ -2616,10 +2992,20 @@
         "name": "1日3回ダンベルセット",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Sports"
+            "K",
+            "Dv",
+            "BC",
+            "aj",
+            "Ei",
+            "EK",
+            "Eu",
+            "EV",
+            "eD",
+            "ed",
+            "en",
+            "eO",
+            "FE",
+            "Fe"
         ]
     },
     {
@@ -2629,10 +3015,28 @@
         "name": "ボードゲーム「ザ・人生」",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Toy"
+            "K",
+            "Dv",
+            "BC",
+            "al",
+            "BS",
+            "DX",
+            "Bv",
+            "dJ",
+            "cG",
+            "dl",
+            "DJ",
+            "Dy",
+            "BW",
+            "dL",
+            "EQ",
+            "Eq",
+            "Ev",
+            "EW",
+            "eB",
+            "eb",
+            "FD",
+            "Fd"
         ]
     },
     {
@@ -2642,9 +3046,9 @@
         "name": "さわやかな花束",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2",
-            "Gift3"
+            "BC",
+            "Bc",
+            "ew"
         ]
     },
     {
@@ -2654,9 +3058,9 @@
         "name": "美しい花束",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2",
-            "Gift3"
+            "BC",
+            "Bc",
+            "ew"
         ]
     },
     {
@@ -2666,8 +3070,8 @@
         "name": "初音ミクのフォトカード",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2"
+            "BC",
+            "Bc"
         ]
     },
     {
@@ -2677,8 +3081,8 @@
         "name": "きらめきの花束",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2"
+            "BC",
+            "Bc"
         ]
     },
     {
@@ -2874,6 +3278,14 @@
         "tags": []
     },
     {
+        "id": 6508,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
         "id": 6600,
         "rarity": "SSR",
         "quality": 4,
@@ -2944,7 +3356,7 @@
         "name": "秘伝ノートの断片",
         "category": "Material",
         "tags": [
-            "SkillBookUltimatePieace"
+            "cR"
         ]
     },
     {
@@ -2954,7 +3366,7 @@
         "name": "秘伝ノート",
         "category": "Material",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -2964,7 +3376,7 @@
         "name": "アルの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2974,7 +3386,7 @@
         "name": "エイミの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2984,7 +3396,7 @@
         "name": "ハルナの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2994,7 +3406,7 @@
         "name": "ヒフミの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3004,7 +3416,7 @@
         "name": "ヒナの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3014,7 +3426,7 @@
         "name": "ホシノの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3024,7 +3436,7 @@
         "name": "イオリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3034,7 +3446,7 @@
         "name": "マキの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3044,7 +3456,7 @@
         "name": "ネルの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3054,7 +3466,7 @@
         "name": "イズミの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3064,7 +3476,7 @@
         "name": "シロコの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3074,7 +3486,7 @@
         "name": "シュンの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3084,7 +3496,7 @@
         "name": "スミレの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3094,7 +3506,7 @@
         "name": "ツルギの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3104,7 +3516,7 @@
         "name": "イズナの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3114,7 +3526,7 @@
         "name": "アリスの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3124,7 +3536,7 @@
         "name": "ミドリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3134,7 +3546,7 @@
         "name": "チェリノの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3144,7 +3556,7 @@
         "name": "ユズの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3154,7 +3566,7 @@
         "name": "アズサの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3164,7 +3576,7 @@
         "name": "コハルの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3174,7 +3586,7 @@
         "name": "アズサ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3184,7 +3596,7 @@
         "name": "ヒナ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3194,7 +3606,7 @@
         "name": "イオリ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3204,7 +3616,7 @@
         "name": "シロコ（ライディング）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3214,7 +3626,7 @@
         "name": "シュン（幼女）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3224,7 +3636,7 @@
         "name": "ネル（バニーガール）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3234,7 +3646,7 @@
         "name": "カリン（バニーガール）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3244,7 +3656,7 @@
         "name": "アスナ（バニーガール）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3254,7 +3666,7 @@
         "name": "ナツの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3264,7 +3676,7 @@
         "name": "チナツ（温泉）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3274,7 +3686,7 @@
         "name": "アル（正月）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3284,7 +3696,7 @@
         "name": "ムツキ（正月）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3294,7 +3706,7 @@
         "name": "ワカモの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3304,7 +3716,7 @@
         "name": "ミモリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3314,7 +3726,7 @@
         "name": "ウイの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3324,7 +3736,7 @@
         "name": "ヒナタの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3334,7 +3746,7 @@
         "name": "マリナの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3344,7 +3756,7 @@
         "name": "ミヤコの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3354,7 +3766,7 @@
         "name": "ミユの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3364,7 +3776,7 @@
         "name": "ツクヨの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3374,7 +3786,7 @@
         "name": "ミサキの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3384,7 +3796,7 @@
         "name": "アツコの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3394,7 +3806,7 @@
         "name": "ワカモ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3404,7 +3816,7 @@
         "name": "ノノミ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3414,7 +3826,7 @@
         "name": "ホシノ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3424,7 +3836,7 @@
         "name": "イズナ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3434,7 +3846,7 @@
         "name": "チセ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3444,7 +3856,7 @@
         "name": "サオリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3454,7 +3866,7 @@
         "name": "カズサの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3464,7 +3876,7 @@
         "name": "ココナの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3474,7 +3886,7 @@
         "name": "ウタハ（応援団）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3484,7 +3896,7 @@
         "name": "ノアの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3494,7 +3906,7 @@
         "name": "ユウカ（体操服）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3504,7 +3916,7 @@
         "name": "マリー（体操服）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3514,7 +3926,7 @@
         "name": "シグレの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3524,7 +3936,7 @@
         "name": "セリナ（クリスマス）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3534,7 +3946,7 @@
         "name": "ハルナ（正月）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3544,7 +3956,7 @@
         "name": "ミネの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3554,7 +3966,7 @@
         "name": "ミカの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3564,7 +3976,7 @@
         "name": "メグの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3574,7 +3986,7 @@
         "name": "サクラコの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3584,7 +3996,7 @@
         "name": "トキの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3594,7 +4006,7 @@
         "name": "コユキの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3604,7 +4016,7 @@
         "name": "カヨコ（正月）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3614,7 +4026,7 @@
         "name": "カホの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3624,7 +4036,7 @@
         "name": "アリス（メイド）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3634,7 +4046,7 @@
         "name": "トキ（バニーガール）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3644,7 +4056,7 @@
         "name": "レイサの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3654,7 +4066,7 @@
         "name": "ルミの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3664,7 +4076,7 @@
         "name": "ミナの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3674,7 +4086,7 @@
         "name": "ミヤコ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3684,7 +4096,7 @@
         "name": "サキ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3694,7 +4106,7 @@
         "name": "ウイ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3704,7 +4116,7 @@
         "name": "ハナコ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3714,7 +4126,7 @@
         "name": "メルの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3724,7 +4136,7 @@
         "name": "コトリ（応援団）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3734,7 +4146,7 @@
         "name": "イチカの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3744,7 +4156,7 @@
         "name": "カスミの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3754,7 +4166,7 @@
         "name": "御坂美琴の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3764,7 +4176,7 @@
         "name": "食蜂操祈の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3774,7 +4186,27 @@
         "name": "ユカリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
+        ]
+    },
+    {
+        "id": 10082,
+        "rarity": "N",
+        "quality": 9,
+        "name": "レンゲの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10083,
+        "rarity": "N",
+        "quality": 9,
+        "name": "キキョウの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
         ]
     },
     {
@@ -3784,7 +4216,7 @@
         "name": "アカネの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3794,7 +4226,7 @@
         "name": "チセの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3804,7 +4236,7 @@
         "name": "アカリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3814,7 +4246,7 @@
         "name": "ハスミの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3824,7 +4256,7 @@
         "name": "ノノミの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3834,7 +4266,7 @@
         "name": "カヨコの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3844,7 +4276,7 @@
         "name": "ムツキの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3854,7 +4286,7 @@
         "name": "ジュンコの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3864,7 +4296,7 @@
         "name": "セリカの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3874,7 +4306,7 @@
         "name": "ツバキの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3884,7 +4316,7 @@
         "name": "ユウカの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3894,7 +4326,7 @@
         "name": "モモイの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3904,7 +4336,7 @@
         "name": "キリノの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3914,7 +4346,7 @@
         "name": "モミジの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3924,7 +4356,7 @@
         "name": "ハルカの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3934,7 +4366,7 @@
         "name": "アスナの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3944,7 +4376,7 @@
         "name": "コトリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3954,7 +4386,7 @@
         "name": "スズミの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3964,7 +4396,7 @@
         "name": "フィーナの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3974,7 +4406,7 @@
         "name": "ツルギ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3984,7 +4416,7 @@
         "name": "イズミ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3994,7 +4426,7 @@
         "name": "トモエの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4004,7 +4436,7 @@
         "name": "フブキの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4014,7 +4446,7 @@
         "name": "ミチルの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4024,7 +4456,7 @@
         "name": "ヒビキ（応援団）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4034,7 +4466,7 @@
         "name": "ハスミ（体操服）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4044,7 +4476,7 @@
         "name": "ジュンコ（正月）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4054,7 +4486,7 @@
         "name": "コハル（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4064,7 +4496,7 @@
         "name": "ヒビキの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4074,7 +4506,7 @@
         "name": "カリンの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4084,7 +4516,7 @@
         "name": "サヤの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4094,7 +4526,7 @@
         "name": "マシロの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4104,7 +4536,7 @@
         "name": "マシロ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4114,7 +4546,7 @@
         "name": "ヒフミ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4124,7 +4556,7 @@
         "name": "サヤ（私服）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4134,7 +4566,7 @@
         "name": "初音ミクの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4144,7 +4576,7 @@
         "name": "アコの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4154,7 +4586,7 @@
         "name": "チェリノ（温泉）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4164,7 +4596,7 @@
         "name": "ノドカ（温泉）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4174,7 +4606,7 @@
         "name": "セリカ（正月）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4184,7 +4616,7 @@
         "name": "セナの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4194,7 +4626,7 @@
         "name": "チヒロの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4204,7 +4636,7 @@
         "name": "サキの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4214,7 +4646,7 @@
         "name": "カエデの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4224,7 +4656,7 @@
         "name": "イロハの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4234,7 +4666,7 @@
         "name": "ヒヨリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4244,7 +4676,7 @@
         "name": "モエの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4254,7 +4686,7 @@
         "name": "アカネ（バニーガール）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4264,7 +4696,7 @@
         "name": "ヒマリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4274,7 +4706,7 @@
         "name": "ハナエ（クリスマス）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4284,7 +4716,7 @@
         "name": "フウカ（正月）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4294,7 +4726,7 @@
         "name": "カンナの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4304,7 +4736,7 @@
         "name": "ナギサの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4314,7 +4746,7 @@
         "name": "ハルカ（正月）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4324,7 +4756,7 @@
         "name": "ミノリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4334,7 +4766,7 @@
         "name": "シロコ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4344,7 +4776,7 @@
         "name": "ヒナタ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4354,7 +4786,7 @@
         "name": "ミモリ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4364,7 +4796,7 @@
         "name": "ハルナ（体操服）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4374,7 +4806,17 @@
         "name": "シグレ（温泉）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
+        ]
+    },
+    {
+        "id": 20032,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
         ]
     },
     {
@@ -4384,7 +4826,7 @@
         "name": "アイリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4394,7 +4836,7 @@
         "name": "フウカの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4404,7 +4846,7 @@
         "name": "ハナエの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4414,7 +4856,7 @@
         "name": "ハレの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4424,7 +4866,7 @@
         "name": "ウタハの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4434,7 +4876,7 @@
         "name": "アヤネの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4444,7 +4886,7 @@
         "name": "シズコの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4454,7 +4896,7 @@
         "name": "ハナコの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4464,7 +4906,7 @@
         "name": "マリーの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4474,7 +4916,7 @@
         "name": "チナツの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4484,7 +4926,7 @@
         "name": "コタマの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4494,7 +4936,7 @@
         "name": "ジュリの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4504,7 +4946,7 @@
         "name": "セリナの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4514,7 +4956,7 @@
         "name": "シミコの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4524,7 +4966,7 @@
         "name": "ヨシミの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4534,7 +4976,7 @@
         "name": "ノドカの神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4544,7 +4986,7 @@
         "name": "アヤネ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4554,7 +4996,7 @@
         "name": "シズコ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4564,7 +5006,7 @@
         "name": "ユズ（メイド）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4574,7 +5016,7 @@
         "name": "ミユ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4584,7 +5026,7 @@
         "name": "佐天涙子の神名文字",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -5868,6 +6310,110 @@
         "tags": []
     },
     {
+        "id": 70101,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70102,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70103,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70104,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70105,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70106,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70107,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70108,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70109,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70110,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70111,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70112,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70113,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 79999,
         "rarity": "N",
         "quality": 2,
@@ -5954,7 +6500,7 @@
         "name": "ビーチボール",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
         ]
     },
     {
@@ -5964,7 +6510,7 @@
         "name": "海の家の食券",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
         ]
     },
     {
@@ -5974,7 +6520,7 @@
         "name": "ミニロケット花火",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
         ]
     },
     {
@@ -6248,7 +6794,7 @@
         "name": "シスターフッドのヴェール",
         "category": "Coin",
         "tags": [
-            "Token_S14"
+            "DC"
         ]
     },
     {
@@ -6258,7 +6804,7 @@
         "name": "トリニティの聖歌集",
         "category": "Coin",
         "tags": [
-            "Token_S14"
+            "DC"
         ]
     },
     {
@@ -6268,7 +6814,7 @@
         "name": "トリニティの燭台",
         "category": "Coin",
         "tags": [
-            "Token_S14"
+            "DC"
         ]
     },
     {
@@ -6846,7 +7392,7 @@
         "name": "切符",
         "category": "Coin",
         "tags": [
-            "Token_S32"
+            "FK"
         ]
     },
     {
@@ -6856,7 +7402,7 @@
         "name": "アタッシュケース",
         "category": "Coin",
         "tags": [
-            "Token_S32"
+            "FK"
         ]
     },
     {
@@ -6866,7 +7412,7 @@
         "name": "乗務員ホイッスル",
         "category": "Coin",
         "tags": [
-            "Token_S32"
+            "FK"
         ]
     },
     {
@@ -6914,6 +7460,14 @@
         "rarity": "N",
         "quality": 1,
         "name": "高級万年筆",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80350,
+        "rarity": "N",
+        "quality": 1,
+        "name": "財務用電卓",
         "category": "Coin",
         "tags": []
     },
@@ -6996,7 +7550,7 @@
         "name": "ビーチボール",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
         ]
     },
     {
@@ -7006,7 +7560,7 @@
         "name": "海の家の食券",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
         ]
     },
     {
@@ -7016,7 +7570,7 @@
         "name": "ミニロケット花火",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
         ]
     },
     {
@@ -7290,7 +7844,7 @@
         "name": "シスターフッドのヴェール",
         "category": "Coin",
         "tags": [
-            "Token_S14"
+            "DC"
         ]
     },
     {
@@ -7300,7 +7854,7 @@
         "name": "トリニティの聖歌集",
         "category": "Coin",
         "tags": [
-            "Token_S14"
+            "DC"
         ]
     },
     {
@@ -7310,7 +7864,7 @@
         "name": "トリニティの燭台",
         "category": "Coin",
         "tags": [
-            "Token_S14"
+            "DC"
         ]
     },
     {
@@ -7648,7 +8202,7 @@
         "name": "贈り物選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_FavorItem"
+            "DW"
         ]
     },
     {
@@ -7924,13 +8478,21 @@
         "tags": []
     },
     {
+        "id": 120001,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 150000,
         "rarity": "N",
         "quality": 1,
         "name": "初級技術ノート選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -7940,7 +8502,7 @@
         "name": "中級技術ノート選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -7950,7 +8512,7 @@
         "name": "上級技術ノート選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -7960,7 +8522,7 @@
         "name": "最上級技術ノート選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -7970,7 +8532,7 @@
         "name": "初級戦術教育BD選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -7980,7 +8542,7 @@
         "name": "中級戦術教育BD選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -7990,7 +8552,7 @@
         "name": "上級戦術教育BD選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -8000,7 +8562,7 @@
         "name": "最上級戦術教育BD選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -8010,7 +8572,7 @@
         "name": "オーパーツ（１）選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -8020,7 +8582,7 @@
         "name": "オーパーツ（２）選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -8030,7 +8592,7 @@
         "name": "オーパーツ（３）選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -8040,7 +8602,7 @@
         "name": "オーパーツ（４）選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -8282,7 +8844,7 @@
         "name": "ノーマル家具シリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8292,7 +8854,7 @@
         "name": "モモフレンズカフェシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8302,7 +8864,7 @@
         "name": "ゼリーズゲーセンシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8312,7 +8874,7 @@
         "name": "バレンタインシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8322,7 +8884,7 @@
         "name": "サマーリゾートシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8332,7 +8894,7 @@
         "name": "ハロウィーンカフェシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8342,7 +8904,7 @@
         "name": "伝統的な温泉郷シリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8352,7 +8914,7 @@
         "name": "お正月シリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8362,7 +8924,7 @@
         "name": "ミリタリーアウトドアシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8372,7 +8934,7 @@
         "name": "ビーチサイドシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8382,7 +8944,7 @@
         "name": "大運動会シリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8392,7 +8954,7 @@
         "name": "アビドス教室シリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8402,7 +8964,7 @@
         "name": "ゲーム開発部シリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8412,7 +8974,7 @@
         "name": "サンシャインリゾートシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8422,7 +8984,7 @@
         "name": "デパートシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8432,7 +8994,7 @@
         "name": "家具選択ボックス（青）",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8442,7 +9004,7 @@
         "name": "家具選択ボックス（橙）",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8452,7 +9014,7 @@
         "name": "家具選択ボックス（紫）",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -8462,7 +9024,7 @@
         "name": "その他シリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9352,7 +9914,7 @@
         "name": "初級技術ノート抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -9362,7 +9924,7 @@
         "name": "中級技術ノート抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -9372,7 +9934,7 @@
         "name": "上級技術ノート抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -9382,7 +9944,7 @@
         "name": "最上級技術ノート抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -9392,7 +9954,7 @@
         "name": "初級戦術教育BD抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -9402,7 +9964,7 @@
         "name": "中級戦術教育BD抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -9412,7 +9974,7 @@
         "name": "上級戦術教育BD抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -9422,7 +9984,7 @@
         "name": "最上級戦術教育BD抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -9432,7 +9994,7 @@
         "name": "オーパーツ（1）抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -9442,7 +10004,7 @@
         "name": "オーパーツ（2）抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -9452,7 +10014,7 @@
         "name": "オーパーツ（3）抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -9462,7 +10024,7 @@
         "name": "オーパーツ（4）抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -9472,7 +10034,7 @@
         "name": "ノーマル家具シリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9482,7 +10044,7 @@
         "name": "モモフレンズカフェシリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9492,7 +10054,7 @@
         "name": "ゼリーズゲーセンシリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9502,7 +10064,7 @@
         "name": "バレンタインシリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9512,7 +10074,7 @@
         "name": "サマーリゾートシリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9522,7 +10084,7 @@
         "name": "ハロウィーンカフェシリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9532,7 +10094,7 @@
         "name": "伝統的な温泉郷シリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9542,7 +10104,7 @@
         "name": "お正月シリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9552,7 +10114,7 @@
         "name": "ミリタリーアウトドアシリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9562,7 +10124,7 @@
         "name": "ビーチサイドシリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9572,7 +10134,7 @@
         "name": "大運動会シリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9582,7 +10144,7 @@
         "name": "アビドス教室シリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9592,7 +10154,7 @@
         "name": "ゲーム開発部シリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9602,7 +10164,7 @@
         "name": "サンシャインリゾートシリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9612,7 +10174,7 @@
         "name": "デパートシリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9622,7 +10184,7 @@
         "name": "家具抽選ボックス（青）",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9632,7 +10194,7 @@
         "name": "家具抽選ボックス（橙）",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9642,7 +10204,7 @@
         "name": "家具抽選ボックス（紫）",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9652,7 +10214,7 @@
         "name": "その他シリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9796,6 +10358,14 @@
         "rarity": "N",
         "quality": 2,
         "name": "工務部のチラシ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20000010,
+        "rarity": "N",
+        "quality": 2,
+        "name": "炭火焼き鳥",
         "category": "Collectible",
         "tags": []
     },

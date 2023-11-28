@@ -1526,6 +1526,50 @@
         ]
     },
     {
+        "id": 10069,
+        "name": "Rumi",
+        "devname": "CH0135",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Shanhaijing",
+        "club": "BlackTortoisePromenade",
+        "favoriteGift": [
+            "Fashion",
+            "Food"
+        ]
+    },
+    {
+        "id": 10070,
+        "name": "Mina",
+        "devname": "CH0138",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Shanhaijing",
+        "club": "Genryumon",
+        "favoriteGift": [
+            "Curios",
+            "CuriousFellow"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -2661,6 +2705,29 @@
         "favoriteGift": [
             "Horticulture",
             "CuriousFellow"
+        ]
+    },
+    {
+        "id": 20026,
+        "name": "Minori",
+        "devname": "CH0214",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "LaborParty",
+        "favoriteGift": [
+            "Functional",
+            "Books",
+            "Humanities"
         ]
     },
     {

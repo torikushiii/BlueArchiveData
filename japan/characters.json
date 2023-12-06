@@ -3199,7 +3199,7 @@
     },
     {
         "id": 20032,
-        "name": "",
+        "name": "エイミ（水着）",
         "devname": "CH0219",
         "rarity": "SSR",
         "role": "Supporter",
@@ -3213,7 +3213,13 @@
             "Necklace"
         ],
         "school": "Millennium",
-        "club": "SPTF"
+        "club": "SPTF",
+        "favoriteGift": [
+            "CX",
+            "Cx",
+            "ak",
+            "aQ"
+        ]
     },
     {
         "id": 23000,

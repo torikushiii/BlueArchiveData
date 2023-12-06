@@ -2635,7 +2635,8 @@
             "BB",
             "Ba",
             "DJ",
-            "FE"
+            "FE",
+            "ei"
         ]
     },
     {
@@ -4813,7 +4814,7 @@
         "id": 20032,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "エイミ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"

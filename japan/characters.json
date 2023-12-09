@@ -2574,7 +2574,7 @@
     {
         "id": 20004,
         "name": "マシロ（水着）",
-        "devname": "CH0061",
+        "devname": "mashiro_swimsuit",
         "rarity": "SSR",
         "role": "DamageDealer",
         "range": "Back",

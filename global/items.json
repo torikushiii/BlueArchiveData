@@ -5867,6 +5867,22 @@
         "tags": []
     },
     {
+        "id": 90070068,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070069,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -6848,7 +6864,7 @@
         "id": 80264,
         "rarity": "N",
         "quality": 4,
-        "name": "Guarantee Ticket",
+        "name": "Guaranteed Roll Ticket",
         "category": "Consumable",
         "tags": []
     },
@@ -6856,7 +6872,7 @@
         "id": 80265,
         "rarity": "N",
         "quality": 4,
-        "name": "Dice 1 Guarantee Ticket",
+        "name": "Guaranteed Roll (1) Ticket",
         "category": "Coin",
         "tags": []
     },
@@ -6864,7 +6880,7 @@
         "id": 80266,
         "rarity": "N",
         "quality": 4,
-        "name": "Dice 2 Guarantee Ticket",
+        "name": "Guaranteed Roll (2) Ticket",
         "category": "Coin",
         "tags": []
     },
@@ -6872,7 +6888,7 @@
         "id": 80267,
         "rarity": "N",
         "quality": 4,
-        "name": "Dice 3 Guarantee Ticket",
+        "name": "Guaranteed Roll (3) Ticket",
         "category": "Coin",
         "tags": []
     },
@@ -6880,7 +6896,7 @@
         "id": 80268,
         "rarity": "N",
         "quality": 4,
-        "name": "Dice 4 Guarantee Ticket",
+        "name": "Guaranteed Roll (4) Ticket",
         "category": "Coin",
         "tags": []
     },
@@ -6888,7 +6904,7 @@
         "id": 80269,
         "rarity": "N",
         "quality": 4,
-        "name": "Dice 5 Guarantee Ticket",
+        "name": "Guaranteed Roll (5) Ticket",
         "category": "Coin",
         "tags": []
     },
@@ -6896,7 +6912,7 @@
         "id": 80270,
         "rarity": "N",
         "quality": 4,
-        "name": "Dice 6 Guarantee Ticket",
+        "name": "Guaranteed Roll (6) Ticket",
         "category": "Coin",
         "tags": []
     },
@@ -10075,6 +10091,22 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "3★ Student Guaranteed Recruitment Ticket (Attack Type)",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006501,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006502,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
         "category": "Material",
         "tags": []
     },

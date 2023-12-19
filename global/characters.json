@@ -1570,6 +1570,55 @@
         ]
     },
     {
+        "id": 10071,
+        "name": "Miyako (Swimsuit)",
+        "devname": "CH0215",
+        "rarity": "SSR",
+        "role": "Tanker",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Charm"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Army",
+            "Humanities"
+        ]
+    },
+    {
+        "id": 10072,
+        "name": "Saki (Swimsuit)",
+        "devname": "CH0217",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosion",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Army",
+            "Specialized",
+            "Curios"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -3139,6 +3188,30 @@
         "favoriteGift": [
             "Electronic",
             "Game"
+        ]
+    },
+    {
+        "id": 26010,
+        "name": "Miyu (Swimsuit)",
+        "devname": "CH0218",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Army",
+            "Simplicity"
         ]
     }
 ]

@@ -2090,6 +2090,21 @@
         "comfortBonus": 350
     },
     {
+        "id": 210308,
+        "name": "Fresh Fish Coolers",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210309,
+        "name": "Scuba Diving Gear Rack",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210310,
+        "name": "Portable Shower Stand",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "Total Assault Bronze Trophy Display Cabinet 01",
         "comfortBonus": 50

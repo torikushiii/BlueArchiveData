@@ -2675,6 +2675,16 @@
         "comfortBonus": 350
     },
     {
+        "id": 210328,
+        "name": "アウトドアパーテーション",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210329,
+        "name": "アウトドアコーヒーテーブル",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "総力戦ブロンズトロフィースタンド01",
         "comfortBonus": 50

@@ -1452,6 +1452,54 @@
         "extensionTime": "2023-11-15 10:59:59"
     },
     {
+        "id": 832,
+        "subId": 832,
+        "rerun": false,
+        "name": "Event_Name_832",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2023-12-27 11:00:00",
+        "startTime": "2023-12-27 11:00:00",
+        "endTime": "2024-01-10 10:59:59",
+        "extensionTime": "2024-01-17 10:59:59"
+    },
+    {
+        "id": 832,
+        "subId": 832,
+        "rerun": false,
+        "name": "Event_Name_832",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2023-12-27 11:00:00",
+        "startTime": "2023-12-27 11:00:00",
+        "endTime": "2024-01-10 10:59:59",
+        "extensionTime": "2024-01-17 10:59:59"
+    },
+    {
+        "id": 832,
+        "subId": 832,
+        "rerun": false,
+        "name": "Event_Name_832",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2023-12-27 11:00:00",
+        "startTime": "2023-12-27 11:00:00",
+        "endTime": "2024-01-10 10:59:59",
+        "extensionTime": "2024-01-17 10:59:59"
+    },
+    {
+        "id": 832,
+        "subId": 832,
+        "rerun": false,
+        "name": "Event_Name_832",
+        "eventContentType": "FortuneGachaShop",
+        "subEvent": false,
+        "exposedTime": "2023-12-27 11:00:00",
+        "startTime": "2023-12-27 11:00:00",
+        "endTime": "2024-01-10 10:59:59",
+        "extensionTime": "2024-01-17 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -2508,6 +2556,30 @@
         "extensionTime": "2023-12-13 10:59:59"
     },
     {
+        "id": 60006,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "MiniEvent",
+        "subEvent": false,
+        "exposedTime": "2024-01-10 11:00:00",
+        "startTime": "2024-01-10 11:00:00",
+        "endTime": "2024-01-24 10:59:59",
+        "extensionTime": "2024-01-31 10:59:59"
+    },
+    {
+        "id": 60006,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-01-10 11:00:00",
+        "startTime": "2024-01-10 11:00:00",
+        "endTime": "2024-01-24 10:59:59",
+        "extensionTime": "2024-01-31 10:59:59"
+    },
+    {
         "id": 900801,
         "subId": 801,
         "rerun": true,
@@ -2600,6 +2672,18 @@
         "subEvent": false,
         "exposedTime": "2023-10-11 11:00:00",
         "startTime": "2023-10-11 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900809,
+        "subId": 809,
+        "rerun": true,
+        "name": "Event_Name_809",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-01-10 11:00:00",
+        "startTime": "2024-01-10 11:00:00",
         "endTime": "2099-12-31 23:59:59",
         "extensionTime": "2099-12-31 23:59:59"
     }

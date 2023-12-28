@@ -1872,6 +1872,49 @@
         ]
     },
     {
+        "id": 10084,
+        "name": "コタマ（キャンプ）",
+        "devname": "CH0232",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "Veritas",
+        "favoriteGift": [
+            "al",
+            "aw"
+        ]
+    },
+    {
+        "id": 10085,
+        "name": "ハレ（キャンプ）",
+        "devname": "CH0233",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "Veritas",
+        "favoriteGift": [
+            "aR"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",

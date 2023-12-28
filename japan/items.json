@@ -2187,7 +2187,8 @@
             "aR",
             "bA",
             "BS",
-            "eB"
+            "eB",
+            "Fz"
         ]
     },
     {
@@ -2635,8 +2636,8 @@
             "BB",
             "Ba",
             "DJ",
-            "FE",
-            "ei"
+            "ei",
+            "FE"
         ]
     },
     {
@@ -2836,7 +2837,11 @@
             "eC",
             "ec",
             "FH",
-            "Fh"
+            "Fh",
+            "Fy",
+            "FZ",
+            "Fz",
+            "fA"
         ]
     },
     {
@@ -3167,6 +3172,14 @@
         "tags": []
     },
     {
+        "id": 6104,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
         "id": 6200,
         "rarity": "SSR",
         "quality": 4,
@@ -3280,6 +3293,14 @@
     },
     {
         "id": 6508,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6509,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4205,6 +4226,26 @@
         "rarity": "N",
         "quality": 9,
         "name": "キキョウの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10084,
+        "rarity": "N",
+        "quality": 9,
+        "name": "コタマ（キャンプ）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10085,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ハレ（キャンプ）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -7469,6 +7510,46 @@
         "rarity": "N",
         "quality": 1,
         "name": "財務用電卓",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80360,
+        "rarity": "N",
+        "quality": 1,
+        "name": "イベントPt",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80361,
+        "rarity": "N",
+        "quality": 2,
+        "name": "超合金ペグ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80362,
+        "rarity": "N",
+        "quality": 3,
+        "name": "多目的ロープ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80363,
+        "rarity": "N",
+        "quality": 4,
+        "name": "S&Dカレーパウダー",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80370,
+        "rarity": "N",
+        "quality": 1,
+        "name": "高級万年筆",
         "category": "Coin",
         "tags": []
     },

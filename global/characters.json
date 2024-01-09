@@ -2780,6 +2780,29 @@
         ]
     },
     {
+        "id": 20027,
+        "name": "Shiroko (Swimsuit)",
+        "devname": "CH0188",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Sports"
+        ]
+    },
+    {
         "id": 23000,
         "name": "Airi",
         "devname": "airi",

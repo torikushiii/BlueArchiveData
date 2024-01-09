@@ -2218,5 +2218,29 @@
         "startTime": "2023-11-21 11:00:00",
         "endTime": "2099-12-31 23:59:59",
         "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900804,
+        "subId": 804,
+        "rerun": true,
+        "name": "Event_Name_804",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-01-09 11:00:00",
+        "startTime": "2024-01-09 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900805,
+        "subId": 805,
+        "rerun": true,
+        "name": "Event_Name_805",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-01-16 11:00:00",
+        "startTime": "2024-01-16 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
     }
 ]

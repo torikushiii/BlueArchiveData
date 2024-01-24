@@ -1965,6 +1965,176 @@
         "comfortBonus": 350
     },
     {
+        "id": 15100,
+        "name": "エレガントキャンドルセット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15101,
+        "name": "荘厳な高級カーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15102,
+        "name": "豪奢な高級カーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15103,
+        "name": "書家デスク",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15104,
+        "name": "ゲヘナ式石造りのフェンス",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15105,
+        "name": "ゲヘナ式フラッグ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15106,
+        "name": "ゲヘナ式グランドフラッグ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15107,
+        "name": "ゲヘナ式木造パーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15108,
+        "name": "ホワイト石造植木鉢",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15109,
+        "name": "クラシックライトテーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15110,
+        "name": "グランド壁飾り",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15111,
+        "name": "ゲヘナ式アルバム",
+        "comfortBonus": 50
+    },
+    {
+        "id": 15200,
+        "name": "名作本棚",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15201,
+        "name": "バロック式カーペット",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15202,
+        "name": "クラシック2段カート",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15203,
+        "name": "グランドシャンデリア",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15204,
+        "name": "フローラ噴水台",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15205,
+        "name": "クラシックソファ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15206,
+        "name": "バイオレット多人数用ソファ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15207,
+        "name": "フローラ午餐セット",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15208,
+        "name": "バイオレットガーデン花瓶",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15209,
+        "name": "ホワイトガーデン花瓶",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15210,
+        "name": "壁掛けクラシックキャンドル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15211,
+        "name": "クラシックウィンドウ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15212,
+        "name": "グランドタイル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15213,
+        "name": "グランド壁紙",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15214,
+        "name": "クラシック背景",
+        "comfortBonus": 120
+    },
+    {
+        "id": 15300,
+        "name": "グランドバルコニー",
+        "comfortBonus": 350
+    },
+    {
+        "id": 15301,
+        "name": "グランドデスク",
+        "comfortBonus": 350
+    },
+    {
+        "id": 15302,
+        "name": "グランド噴水台",
+        "comfortBonus": 350
+    },
+    {
+        "id": 15303,
+        "name": "バイオレットパーティーテーブルセット",
+        "comfortBonus": 350
+    },
+    {
+        "id": 15304,
+        "name": "グランドパーティーテーブル",
+        "comfortBonus": 350
+    },
+    {
+        "id": 15305,
+        "name": "グランドピアノ",
+        "comfortBonus": 350
+    },
+    {
+        "id": 15306,
+        "name": "クラシックソファテーブルセット",
+        "comfortBonus": 350
+    },
+    {
         "id": 100000,
         "name": "ビナー戦（屋外戦）のブロンズトロフィー",
         "comfortBonus": 50
@@ -2685,6 +2855,21 @@
         "comfortBonus": 350
     },
     {
+        "id": 210330,
+        "name": "イブキのお勉強セット",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210331,
+        "name": "威厳の役員用デスク",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210332,
+        "name": "伝統的な演奏舞台",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "総力戦ブロンズトロフィースタンド01",
         "comfortBonus": 50
@@ -2747,6 +2932,11 @@
     {
         "id": 302305,
         "name": "リコレクト・メモリー4.5th",
+        "comfortBonus": 350
+    },
+    {
+        "id": 302306,
+        "name": "リコレクト・メモリー5th",
         "comfortBonus": 350
     }
 ]

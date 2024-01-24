@@ -1915,6 +1915,51 @@
         ]
     },
     {
+        "id": 10086,
+        "name": "ヒナ（ドレス）",
+        "devname": "CH0230",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosion",
+        "armorType": "ElasticArmor",
+        "equipment": [
+            "Hat",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Fuuki",
+        "favoriteGift": [
+            "aW",
+            "aM"
+        ]
+    },
+    {
+        "id": 10087,
+        "name": "アコ（ドレス）",
+        "devname": "CH0231",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Fuuki",
+        "favoriteGift": [
+            "ak",
+            "Ba",
+            "au"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -2527,6 +2572,31 @@
             "Cx",
             "aq",
             "aT"
+        ]
+    },
+    {
+        "id": 16014,
+        "name": "イブキ",
+        "devname": "CH0077",
+        "rarity": "R",
+        "role": "Supporter",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety",
+        "favoriteGift": [
+            "al",
+            "aw",
+            "ax",
+            "aJ",
+            "ao"
         ]
     },
     {
@@ -3262,6 +3332,30 @@
             "Cx",
             "ak",
             "aQ"
+        ]
+    },
+    {
+        "id": 20033,
+        "name": "マコト",
+        "devname": "CH0079",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety",
+        "favoriteGift": [
+            "ak",
+            "aV",
+            "aW",
+            "av"
         ]
     },
     {

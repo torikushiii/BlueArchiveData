@@ -2357,7 +2357,8 @@
             "BB",
             "au",
             "bd",
-            "Bu"
+            "Bu",
+            "fC"
         ]
     },
     {
@@ -2426,7 +2427,8 @@
             "BF",
             "BV",
             "cA",
-            "Ev"
+            "Ev",
+            "fB"
         ]
     },
     {
@@ -2461,7 +2463,8 @@
             "DV",
             "aM",
             "aX",
-            "Br"
+            "Br",
+            "fB"
         ]
     },
     {
@@ -2654,7 +2657,8 @@
             "bF",
             "cj",
             "DU",
-            "EP"
+            "EP",
+            "fC"
         ]
     },
     {
@@ -2773,7 +2777,9 @@
             "Ew",
             "EX",
             "eh",
-            "eI"
+            "eI",
+            "fE",
+            "fe"
         ]
     },
     {
@@ -2806,7 +2812,9 @@
             "eE",
             "ee",
             "FF",
-            "Ff"
+            "Ff",
+            "fD",
+            "fd"
         ]
     },
     {
@@ -2917,7 +2925,9 @@
             "el",
             "eM",
             "FI",
-            "Fi"
+            "Fi",
+            "fC",
+            "fc"
         ]
     },
     {
@@ -2988,7 +2998,9 @@
             "EM",
             "Em",
             "Ex",
-            "EY"
+            "EY",
+            "fB",
+            "fb"
         ]
     },
     {
@@ -3042,7 +3054,9 @@
             "eB",
             "eb",
             "FD",
-            "Fd"
+            "Fd",
+            "fD",
+            "fd"
         ]
     },
     {
@@ -3308,6 +3322,14 @@
         "tags": []
     },
     {
+        "id": 6510,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
         "id": 6600,
         "rarity": "SSR",
         "quality": 4,
@@ -3336,6 +3358,38 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "★3生徒確定募集チケット（攻撃タイプ別）",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6700,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "★3生徒確定募集チケット（学園グループ別）",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6701,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "★3生徒確定募集チケット（学園グループ別）",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6702,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "★3生徒確定募集チケット（学園グループ別）",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6703,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "★3生徒確定募集チケット（学園グループ別）",
         "category": "Material",
         "tags": []
     },
@@ -4252,6 +4306,26 @@
         ]
     },
     {
+        "id": 10086,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ヒナ（ドレス）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10087,
+        "rarity": "N",
+        "quality": 9,
+        "name": "アコ（ドレス）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -4526,6 +4600,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "コハル（水着）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 16014,
+        "rarity": "N",
+        "quality": 9,
+        "name": "イブキの神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -4856,6 +4940,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "エイミ（水着）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20033,
+        "rarity": "N",
+        "quality": 9,
+        "name": "マコトの神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -7554,6 +7648,30 @@
         "tags": []
     },
     {
+        "id": 80380,
+        "rarity": "N",
+        "quality": 1,
+        "name": "イベントPt",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80381,
+        "rarity": "N",
+        "quality": 2,
+        "name": "高級カクテルグラス",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80382,
+        "rarity": "N",
+        "quality": 3,
+        "name": "テーブルナプキン",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -8198,6 +8316,38 @@
         "tags": []
     },
     {
+        "id": 85180,
+        "rarity": "N",
+        "quality": 1,
+        "name": "クリスマスプレゼント",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85181,
+        "rarity": "N",
+        "quality": 2,
+        "name": "クリスマスソックス",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85182,
+        "rarity": "N",
+        "quality": 3,
+        "name": "キャンディケイン",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85183,
+        "rarity": "N",
+        "quality": 4,
+        "name": "エッグノッグ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -8488,6 +8638,14 @@
         "tags": []
     },
     {
+        "id": 100034,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 110000,
         "rarity": "N",
         "quality": 1,
@@ -8545,6 +8703,14 @@
     },
     {
         "id": 110007,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110008,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",
@@ -8920,6 +9086,14 @@
         "tags": []
     },
     {
+        "id": 150041,
+        "rarity": "N",
+        "quality": 1,
+        "name": "T8装備設計図選択ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 151000,
         "rarity": "N",
         "quality": 1,
@@ -9064,6 +9238,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "デパートシリーズ選択ボックス",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151015,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "ゲヘナパーティーシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10260,6 +10444,16 @@
         ]
     },
     {
+        "id": 191015,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "ゲヘナパーティーシリーズ抽選ボックス",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
         "id": 191991,
         "rarity": "R",
         "quality": 2,
@@ -10456,6 +10650,14 @@
         "rarity": "N",
         "quality": 2,
         "name": "アロナのスタンプ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20001001,
+        "rarity": "N",
+        "quality": 2,
+        "name": "コーヒーが入ったマグカップ",
         "category": "Collectible",
         "tags": []
     },

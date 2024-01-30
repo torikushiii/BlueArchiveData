@@ -1619,6 +1619,56 @@
         ]
     },
     {
+        "id": 10073,
+        "name": "Ui (Swimsuit)",
+        "devname": "CH0204",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "ElasticArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "BookClub",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Books",
+            "Humanities",
+            "PureLiterature"
+        ]
+    },
+    {
+        "id": 10074,
+        "name": "Hanako (Swimsuit)",
+        "devname": "CH0209",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Sonic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Cosmetics",
+            "Simplicity",
+            "Beauty"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -2184,6 +2234,30 @@
         "favoriteGift": [
             "Dessert",
             "Delicious"
+        ]
+    },
+    {
+        "id": 16013,
+        "name": "Koharu (Swimsuit)",
+        "devname": "CH0205",
+        "rarity": "R",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Mystic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "LoveStory",
+            "Humanities"
         ]
     },
     {
@@ -2800,6 +2874,31 @@
             "Swimsuit",
             "WaterPlay",
             "Sports"
+        ]
+    },
+    {
+        "id": 20028,
+        "name": "Hinata (Swimsuit)",
+        "devname": "CH0210",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosion",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "SisterHood",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Household",
+            "Food",
+            "Simplicity"
         ]
     },
     {

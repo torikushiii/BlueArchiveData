@@ -1540,6 +1540,201 @@
         "comfortBonus": 350
     },
     {
+        "id": 13100,
+        "name": "Sunshine Ensemble Planter",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13101,
+        "name": "Sunshine Sign",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13102,
+        "name": "Sunshine Planter Display",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13103,
+        "name": "Sunshine Aloha Planter",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13104,
+        "name": "Sunshine Rattan Light Set",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13105,
+        "name": "Sunshine Tropical Basket",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13106,
+        "name": "Sunshine Partition",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13107,
+        "name": "Sunshine Tropical Planter",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13108,
+        "name": "Sunshine Mini Window",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13109,
+        "name": "Sunshine Tropical Painting",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13110,
+        "name": "Sunshine Aloha Wall Hanging",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13111,
+        "name": "Sunshine Aloha Lights",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13112,
+        "name": "Sunshine Aloha Wall-Mounted Light",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13113,
+        "name": "Sunshine Pattern Mat",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13114,
+        "name": "Sunshine Diamond Pattern Mat",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13115,
+        "name": "Sunshine Natural Mat",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13116,
+        "name": "Sunshine Rattan Mat",
+        "comfortBonus": 50
+    },
+    {
+        "id": 13200,
+        "name": "Sunshine Brunch Sofa",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13201,
+        "name": "Sunshine Sofa",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13202,
+        "name": "Sunshine Tropical Table",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13203,
+        "name": "Sunshine Juice Table",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13204,
+        "name": "Sunshine Flower Fountain",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13205,
+        "name": "Sunshine Striped Sofa",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13206,
+        "name": "White Sunshine Sun Bed",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13207,
+        "name": "Lemon Sunshine Sun Bed",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13208,
+        "name": "Sunshine Display Rack",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13209,
+        "name": "Sunshine Palm Tree",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13210,
+        "name": "Sunshine White Flower Pot",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13211,
+        "name": "Sunshine Ocean View Window",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13212,
+        "name": "Sunshine Beach Mat",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13213,
+        "name": "Lovely Sunshine Wallpaper",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13214,
+        "name": "Sunshine Natural Floor",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13215,
+        "name": "Sunshine Resort Background",
+        "comfortBonus": 120
+    },
+    {
+        "id": 13300,
+        "name": "Sunshine Canopy Sofa",
+        "comfortBonus": 350
+    },
+    {
+        "id": 13301,
+        "name": "Sunshine Drink Bar",
+        "comfortBonus": 350
+    },
+    {
+        "id": 13302,
+        "name": "Sunshine Flower Pool",
+        "comfortBonus": 350
+    },
+    {
+        "id": 13303,
+        "name": "Sunshine Tropical Pool",
+        "comfortBonus": 350
+    },
+    {
+        "id": 13304,
+        "name": "Sunshine Lace Table",
+        "comfortBonus": 350
+    },
+    {
+        "id": 13305,
+        "name": "Sunshine Aloha Window",
+        "comfortBonus": 350
+    },
+    {
         "id": 100000,
         "name": "Binah Bronze Trophy - Field Warfare",
         "comfortBonus": 50
@@ -1920,6 +2115,46 @@
         "comfortBonus": 50
     },
     {
+        "id": 100700,
+        "name": "Goz Bronze Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100701,
+        "name": "Goz Silver Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100702,
+        "name": "Goz Gold Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100703,
+        "name": "Goz Platinum Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100900,
+        "name": "Hovercraft Bronze Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100901,
+        "name": "Hovercraft Silver Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100902,
+        "name": "Hovercraft Gold Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 100903,
+        "name": "Hovercraft Platinum Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
         "id": 200301,
         "name": "Trinity-Style Fountain",
         "comfortBonus": 350
@@ -2107,6 +2342,36 @@
     {
         "id": 210311,
         "name": "Mechanical Marlin Decor",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210312,
+        "name": "Problem Solver 68 Band Stage",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210313,
+        "name": "Classic Pattern Travel Bag",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210314,
+        "name": "Mini Stool and Sun Bed",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210315,
+        "name": "Ice Cream Table",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210316,
+        "name": "Sunshine Lemon Tree",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210317,
+        "name": "Board Game Table",
         "comfortBonus": 350
     },
     {

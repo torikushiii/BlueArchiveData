@@ -1669,6 +1669,29 @@
         ]
     },
     {
+        "id": 10075,
+        "name": "Meru",
+        "devname": "CH0124",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "KnowledgeLiberationFront",
+        "favoriteGift": [
+            "Books",
+            "Toy",
+            "Art"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -1946,6 +1969,29 @@
         "favoriteGift": [
             "Delicious",
             "Simplicity"
+        ]
+    },
+    {
+        "id": 13013,
+        "name": "Momiji",
+        "devname": "momiji",
+        "rarity": "SR",
+        "role": "DamageDealer",
+        "range": "Back",
+        "weaponType": "RL",
+        "bulletType": "Sonic",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "KnowledgeLiberationFront",
+        "favoriteGift": [
+            "Books",
+            "LoveStory",
+            "Girlish"
         ]
     },
     {
@@ -2899,6 +2945,31 @@
             "Household",
             "Food",
             "Simplicity"
+        ]
+    },
+    {
+        "id": 20029,
+        "name": "Mimori (Swimsuit)",
+        "devname": "CH0183",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Shugyobu",
+        "favoriteGift": [
+            "Swimsuit",
+            "WaterPlay",
+            "Household",
+            "Cosmetics",
+            "Books"
         ]
     },
     {

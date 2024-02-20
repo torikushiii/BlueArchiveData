@@ -6258,6 +6258,22 @@
         "tags": []
     },
     {
+        "id": 90070076,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070077,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -10771,7 +10787,7 @@
         "id": 90006102,
         "rarity": "SSR",
         "quality": 4,
-        "name": "3★ Student Guaranteed (10x) Ticket",
+        "name": "3★ Student Guaranteed (x10) Ticket",
         "category": "Material",
         "tags": []
     },
@@ -10779,7 +10795,7 @@
         "id": 90006103,
         "rarity": "SSR",
         "quality": 4,
-        "name": " 3★ Student Guaranteed (10x) Ticket ",
+        "name": " 3★ Student Guaranteed (x10) Ticket ",
         "category": "Material",
         "tags": []
     },

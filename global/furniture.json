@@ -1011,7 +1011,7 @@
     },
     {
         "id": 10107,
-        "name": "Sports Field Day Mat",
+        "name": "Field Day Sports Mat",
         "comfortBonus": 50
     },
     {
@@ -2372,6 +2372,16 @@
     {
         "id": 210317,
         "name": "Board Game Table",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210318,
+        "name": "Classic Library Chair",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210319,
+        "name": "Manuscript Work Desk",
         "comfortBonus": 350
     },
     {

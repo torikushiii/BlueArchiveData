@@ -2765,6 +2765,31 @@
         "endAt": "2024-02-21 10:59:59"
     },
     {
+        "id": 50510,
+        "type": "NormalGacha",
+        "rateup": [],
+        "startAt": "2024-02-21 11:00:00",
+        "endAt": "2024-03-06 10:59:59"
+    },
+    {
+        "id": 50511,
+        "type": "PickupGacha",
+        "rateup": [
+            10089
+        ],
+        "startAt": "2024-02-21 11:00:00",
+        "endAt": "2024-03-06 10:59:59"
+    },
+    {
+        "id": 50512,
+        "type": "PickupGacha",
+        "rateup": [
+            10088
+        ],
+        "startAt": "2024-02-21 11:00:00",
+        "endAt": "2024-03-06 10:59:59"
+    },
+    {
         "id": 69999,
         "type": "TicketGacha",
         "rateup": [],
@@ -2798,89 +2823,5 @@
         "rateup": [],
         "startAt": "2023-07-24 11:00:00",
         "endAt": "2024-06-26 10:59:59"
-    },
-    {
-        "id": 90000,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-01-24 11:00:00",
-        "endAt": "2024-01-31 10:59:59"
-    },
-    {
-        "id": 90001,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-01-31 11:00:00",
-        "endAt": "2024-02-07 10:59:59"
-    },
-    {
-        "id": 90002,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-02-07 11:00:00",
-        "endAt": "2024-02-14 10:59:59"
-    },
-    {
-        "id": 90003,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-02-14 11:00:00",
-        "endAt": "2024-02-21 10:59:59"
-    },
-    {
-        "id": 90100,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-01-24 11:00:00",
-        "endAt": "2024-01-31 10:59:59"
-    },
-    {
-        "id": 90101,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-01-31 11:00:00",
-        "endAt": "2024-02-07 10:59:59"
-    },
-    {
-        "id": 90102,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-02-07 11:00:00",
-        "endAt": "2024-02-14 10:59:59"
-    },
-    {
-        "id": 90103,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-02-14 11:00:00",
-        "endAt": "2024-02-21 10:59:59"
-    },
-    {
-        "id": 90200,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-01-24 11:00:00",
-        "endAt": "2024-01-31 10:59:59"
-    },
-    {
-        "id": 90201,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-01-31 11:00:00",
-        "endAt": "2024-02-07 10:59:59"
-    },
-    {
-        "id": 90202,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-02-07 11:00:00",
-        "endAt": "2024-02-14 10:59:59"
-    },
-    {
-        "id": 90203,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-02-14 11:00:00",
-        "endAt": "2024-02-21 10:59:59"
     }
 ]

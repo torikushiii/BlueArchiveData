@@ -1960,6 +1960,50 @@
         ]
     },
     {
+        "id": 10088,
+        "name": "カヨコ（ドレス）",
+        "devname": "CH0239",
+        "rarity": "SSR",
+        "role": "DamageDealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "LightArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "aL",
+            "aQ"
+        ]
+    },
+    {
+        "id": 10089,
+        "name": "アル（ドレス）",
+        "devname": "CH0240",
+        "rarity": "SSR",
+        "role": "Supporter",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "HeavyArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "ak",
+            "aV"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -3357,6 +3401,24 @@
             "aW",
             "av"
         ]
+    },
+    {
+        "id": 20034,
+        "name": "",
+        "devname": "CH0196",
+        "rarity": "SSR",
+        "role": "Vehicle",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Unarmed",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub"
     },
     {
         "id": 23000,

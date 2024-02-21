@@ -2428,7 +2428,8 @@
             "BV",
             "cA",
             "Ev",
-            "fB"
+            "fB",
+            "fg"
         ]
     },
     {
@@ -2586,7 +2587,8 @@
             "ak",
             "av",
             "BO",
-            "cn"
+            "cn",
+            "fg"
         ]
     },
     {
@@ -2602,7 +2604,8 @@
             "aQ",
             "ck",
             "Ew",
-            "eh"
+            "eh",
+            "ff"
         ]
     },
     {
@@ -2779,7 +2782,9 @@
             "eh",
             "eI",
             "fE",
-            "fe"
+            "fe",
+            "fg",
+            "fH"
         ]
     },
     {
@@ -2849,7 +2854,9 @@
             "Fy",
             "FZ",
             "Fz",
-            "fA"
+            "fA",
+            "ff",
+            "fG"
         ]
     },
     {
@@ -3323,6 +3330,14 @@
     },
     {
         "id": 6510,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6511,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4326,6 +4341,26 @@
         ]
     },
     {
+        "id": 10088,
+        "rarity": "N",
+        "quality": 9,
+        "name": "カヨコ（ドレス）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10089,
+        "rarity": "N",
+        "quality": 9,
+        "name": "アル（ドレス）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -4950,6 +4985,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "マコトの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20034,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -7188,7 +7233,7 @@
     {
         "id": 80181,
         "rarity": "N",
-        "quality": 1,
+        "quality": 2,
         "name": "紅白かまぼこ",
         "category": "Coin",
         "tags": []
@@ -7196,7 +7241,7 @@
     {
         "id": 80182,
         "rarity": "N",
-        "quality": 2,
+        "quality": 3,
         "name": "おめでタイ",
         "category": "Coin",
         "tags": []
@@ -7668,6 +7713,46 @@
         "rarity": "N",
         "quality": 3,
         "name": "テーブルナプキン",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80390,
+        "rarity": "N",
+        "quality": 1,
+        "name": "ターゲットの手がかり",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80391,
+        "rarity": "N",
+        "quality": 2,
+        "name": "公演のパンフレット",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80392,
+        "rarity": "N",
+        "quality": 3,
+        "name": "蝶ネクタイ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80393,
+        "rarity": "N",
+        "quality": 4,
+        "name": "オペラグラス",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80394,
+        "rarity": "N",
+        "quality": 5,
+        "name": "バレンタインデーのお誘い",
         "category": "Coin",
         "tags": []
     },
@@ -8348,6 +8433,38 @@
         "tags": []
     },
     {
+        "id": 85190,
+        "rarity": "N",
+        "quality": 1,
+        "name": "イベントPt",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85191,
+        "rarity": "N",
+        "quality": 2,
+        "name": "紅白かまぼこ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85192,
+        "rarity": "N",
+        "quality": 3,
+        "name": "おめでタイ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85193,
+        "rarity": "N",
+        "quality": 4,
+        "name": "おみくじ引換券",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -8639,6 +8756,14 @@
     },
     {
         "id": 100034,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100035,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",
@@ -10170,6 +10295,190 @@
         "rarity": "N",
         "quality": 4,
         "name": "ドライグレープフルーツのチョコがけ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180093,
+        "rarity": "N",
+        "quality": 4,
+        "name": "手作りチョコスティック",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180094,
+        "rarity": "N",
+        "quality": 4,
+        "name": "チョコサンダル",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180095,
+        "rarity": "N",
+        "quality": 4,
+        "name": "シークレットメッセージ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180096,
+        "rarity": "N",
+        "quality": 4,
+        "name": "自らの選択",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180097,
+        "rarity": "N",
+        "quality": 4,
+        "name": "バレンタイン挑戦状",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180098,
+        "rarity": "N",
+        "quality": 4,
+        "name": "温泉卵チョコレート",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180099,
+        "rarity": "N",
+        "quality": 4,
+        "name": "チョコレート月餅",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180100,
+        "rarity": "N",
+        "quality": 4,
+        "name": "玄龍門の文様をしたチョコレート",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180101,
+        "rarity": "N",
+        "quality": 4,
+        "name": "チョコレートキーホルダーグッズ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180102,
+        "rarity": "N",
+        "quality": 4,
+        "name": "ナギサの平凡なチョコレート",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180103,
+        "rarity": "N",
+        "quality": 4,
+        "name": "ハイカロリーチョコ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180104,
+        "rarity": "N",
+        "quality": 4,
+        "name": "認識の差",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180105,
+        "rarity": "N",
+        "quality": 4,
+        "name": "プラナのプラナたっぷりチョコレート",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180106,
+        "rarity": "N",
+        "quality": 4,
+        "name": "自画像チョコレート",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180107,
+        "rarity": "N",
+        "quality": 4,
+        "name": "至高にして究極の手作りチョコレートケーキ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180108,
+        "rarity": "N",
+        "quality": 4,
+        "name": "戦略リーダーの手作りチョコレート",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180109,
+        "rarity": "N",
+        "quality": 4,
+        "name": "「いつもの」コーヒー",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180110,
+        "rarity": "N",
+        "quality": 4,
+        "name": "二人で一緒に作った生チョコレート",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180111,
+        "rarity": "N",
+        "quality": 4,
+        "name": "作戦参謀のチョコレート",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180112,
+        "rarity": "N",
+        "quality": 4,
+        "name": "勘解由小路のお守りとチョコ味の駄菓子",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180113,
+        "rarity": "N",
+        "quality": 4,
+        "name": "イブキが作ったチョコプリン",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180114,
+        "rarity": "N",
+        "quality": 4,
+        "name": "ミカ特製☆チョコロールケーキ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180115,
+        "rarity": "N",
+        "quality": 4,
+        "name": "議長が用意した最高級チョコレートファウンテン",
         "category": "Collectible",
         "tags": []
     },

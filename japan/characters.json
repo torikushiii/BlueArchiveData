@@ -3404,7 +3404,7 @@
     },
     {
         "id": 20034,
-        "name": "",
+        "name": "アカリ（正月）",
         "devname": "CH0196",
         "rarity": "SSR",
         "role": "T.S.",
@@ -3418,7 +3418,10 @@
             "Watch"
         ],
         "school": "Gehenna",
-        "club": "GourmetClub"
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "az"
+        ]
     },
     {
         "id": 23000,

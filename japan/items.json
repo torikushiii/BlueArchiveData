@@ -2558,7 +2558,8 @@
             "aM",
             "az",
             "BL",
-            "cM"
+            "cM",
+            "fh"
         ]
     },
     {
@@ -2819,7 +2820,9 @@
             "FF",
             "Ff",
             "fD",
-            "fd"
+            "fd",
+            "fh",
+            "fI"
         ]
     },
     {
@@ -4994,7 +4997,7 @@
         "id": 20034,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "アカリ（正月）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"

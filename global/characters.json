@@ -1692,6 +1692,29 @@
         ]
     },
     {
+        "id": 10076,
+        "name": "Kotori (Cheer Squad)",
+        "devname": "CH0185",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "Engineer",
+        "favoriteGift": [
+            "Specialized",
+            "Sports",
+            "Smart"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -2970,6 +2993,29 @@
             "Household",
             "Cosmetics",
             "Books"
+        ]
+    },
+    {
+        "id": 20030,
+        "name": "Haruna (Track)",
+        "devname": "CH0193",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "Dessert",
+            "Sports",
+            "Delicious"
         ]
     },
     {

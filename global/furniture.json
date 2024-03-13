@@ -926,7 +926,7 @@
     },
     {
         "id": 9203,
-        "name": "White-Lemon Parasol Table",
+        "name": "White Lemon Parasol Table",
         "comfortBonus": 120
     },
     {
@@ -2382,6 +2382,11 @@
     {
         "id": 210319,
         "name": "Manuscript Work Desk",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210320,
+        "name": "Resting Bench Table",
         "comfortBonus": 350
     },
     {

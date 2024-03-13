@@ -6274,6 +6274,22 @@
         "tags": []
     },
     {
+        "id": 90070078,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070079,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -10387,7 +10403,7 @@
         "id": 200000,
         "rarity": "SSR",
         "quality": 1,
-        "name": "Phrenapates's Credit Card",
+        "name": "Phrenapates' Credit Card",
         "category": "Consumable",
         "tags": []
     },

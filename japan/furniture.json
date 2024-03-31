@@ -2880,6 +2880,11 @@
         "comfortBonus": 350
     },
     {
+        "id": 210335,
+        "name": "お祭りに行ったら展示台",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "総力戦ブロンズトロフィースタンド01",
         "comfortBonus": 50

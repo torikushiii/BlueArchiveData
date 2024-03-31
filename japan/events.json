@@ -1608,6 +1608,54 @@
         "extensionTime": "2024-03-13 10:59:59"
     },
     {
+        "id": 835,
+        "subId": 835,
+        "rerun": false,
+        "name": "Event_Name_835",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-03-27 11:00:00",
+        "startTime": "2024-03-27 11:00:00",
+        "endTime": "2024-04-11 10:59:59",
+        "extensionTime": "2024-04-18 10:59:59"
+    },
+    {
+        "id": 835,
+        "subId": 835,
+        "rerun": false,
+        "name": "Event_Name_835",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-03-27 11:00:00",
+        "startTime": "2024-03-27 11:00:00",
+        "endTime": "2024-04-11 10:59:59",
+        "extensionTime": "2024-04-18 10:59:59"
+    },
+    {
+        "id": 835,
+        "subId": 835,
+        "rerun": false,
+        "name": "Event_Name_835",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-03-27 11:00:00",
+        "startTime": "2024-03-27 11:00:00",
+        "endTime": "2024-04-11 10:59:59",
+        "extensionTime": "2024-04-18 10:59:59"
+    },
+    {
+        "id": 835,
+        "subId": 835,
+        "rerun": false,
+        "name": "Event_Name_835",
+        "eventContentType": "CardShop",
+        "subEvent": false,
+        "exposedTime": "2024-03-27 11:00:00",
+        "startTime": "2024-03-27 11:00:00",
+        "endTime": "2024-04-11 10:59:59",
+        "extensionTime": "2024-04-18 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -2784,6 +2832,30 @@
         "extensionTime": "2024-01-31 10:59:59"
     },
     {
+        "id": 60007,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "MiniEvent",
+        "subEvent": false,
+        "exposedTime": "2024-04-11 11:00:00",
+        "startTime": "2024-04-11 11:00:00",
+        "endTime": "2024-04-24 10:59:59",
+        "extensionTime": "2024-05-01 10:59:59"
+    },
+    {
+        "id": 60007,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "Treasure",
+        "subEvent": false,
+        "exposedTime": "2024-04-11 11:00:00",
+        "startTime": "2024-04-11 11:00:00",
+        "endTime": "2024-04-24 10:59:59",
+        "extensionTime": "2024-05-01 10:59:59"
+    },
+    {
         "id": 900801,
         "subId": 801,
         "rerun": true,
@@ -2936,6 +3008,18 @@
         "subEvent": false,
         "exposedTime": "2024-03-20 11:00:00",
         "startTime": "2024-03-20 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900816,
+        "subId": 816,
+        "rerun": true,
+        "name": "Event_Name_816",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-04-11 11:00:00",
+        "startTime": "2024-04-11 11:00:00",
         "endTime": "2099-12-31 23:59:59",
         "extensionTime": "2099-12-31 23:59:59"
     },

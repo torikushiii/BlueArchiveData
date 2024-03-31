@@ -2004,6 +2004,28 @@
         ]
     },
     {
+        "id": 10090,
+        "name": "ウミカ",
+        "devname": "CH0110",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "MatsuriOffice",
+        "favoriteGift": [
+            "al",
+            "av"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -3421,6 +3443,28 @@
         "club": "GourmetClub",
         "favoriteGift": [
             "az"
+        ]
+    },
+    {
+        "id": 20035,
+        "name": "ツバキ（ガイド）",
+        "devname": "CH0255",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Shugyobu",
+        "favoriteGift": [
+            "aK",
+            "BB"
         ]
     },
     {

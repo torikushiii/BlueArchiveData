@@ -1236,6 +1236,42 @@
         ]
     },
     {
+        "id": 2000,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cs"
+        ]
+    },
+    {
+        "id": 2001,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cs"
+        ]
+    },
+    {
+        "id": 2002,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cs"
+        ]
+    },
+    {
         "id": 3000,
         "rarity": "N",
         "quality": 1,
@@ -1436,7 +1472,8 @@
         "tags": [
             "I",
             "M",
-            "ct"
+            "ct",
+            "fV"
         ]
     },
     {
@@ -1448,7 +1485,8 @@
         "tags": [
             "I",
             "M",
-            "cU"
+            "cU",
+            "fV"
         ]
     },
     {
@@ -1460,7 +1498,8 @@
         "tags": [
             "I",
             "M",
-            "cu"
+            "cu",
+            "fV"
         ]
     },
     {
@@ -1472,7 +1511,8 @@
         "tags": [
             "I",
             "M",
-            "cV"
+            "cV",
+            "fV"
         ]
     },
     {
@@ -1872,7 +1912,8 @@
         "tags": [
             "j",
             "M",
-            "cv"
+            "cv",
+            "fv"
         ]
     },
     {
@@ -1884,7 +1925,8 @@
         "tags": [
             "j",
             "M",
-            "cW"
+            "cW",
+            "fv"
         ]
     },
     {
@@ -1896,7 +1938,8 @@
         "tags": [
             "j",
             "M",
-            "cw"
+            "cw",
+            "fv"
         ]
     },
     {
@@ -1908,7 +1951,8 @@
         "tags": [
             "j",
             "M",
-            "cX"
+            "cX",
+            "fv"
         ]
     },
     {
@@ -2119,7 +2163,8 @@
             "aK",
             "ap",
             "Bo",
-            "cP"
+            "cP",
+            "fT"
         ]
     },
     {
@@ -2698,7 +2743,9 @@
             "EI",
             "Ej",
             "ek",
-            "eL"
+            "eL",
+            "fT",
+            "ft"
         ]
     },
     {
@@ -3066,7 +3113,9 @@
             "FD",
             "Fd",
             "fD",
-            "fd"
+            "fd",
+            "fS",
+            "fs"
         ]
     },
     {
@@ -3344,6 +3393,14 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6512,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
         "category": "Material",
         "tags": []
     },
@@ -4364,6 +4421,16 @@
         ]
     },
     {
+        "id": 10090,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -4997,7 +5064,17 @@
         "id": 20034,
         "rarity": "N",
         "quality": 9,
-        "name": "アカリ（正月）の神名文字",
+        "name": "アカリの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20035,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -5682,6 +5759,38 @@
         "rarity": "N",
         "quality": 1,
         "name": "初級技術ノートボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 61000,
+        "rarity": "N",
+        "quality": 1,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 61001,
+        "rarity": "R",
+        "quality": 2,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 61002,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 61003,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
         "category": "Consumable",
         "tags": []
     },
@@ -6591,6 +6700,70 @@
     },
     {
         "id": 70113,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70114,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70115,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70116,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70117,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70118,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70119,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70120,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70121,
         "rarity": "N",
         "quality": 2,
         "name": "呼び出しポイント",
@@ -7760,6 +7933,46 @@
         "tags": []
     },
     {
+        "id": 80400,
+        "rarity": "N",
+        "quality": 1,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80401,
+        "rarity": "N",
+        "quality": 2,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80402,
+        "rarity": "N",
+        "quality": 3,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80403,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80410,
+        "rarity": "N",
+        "quality": 1,
+        "name": "財務用電卓",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -8767,6 +8980,14 @@
     },
     {
         "id": 100035,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100036,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",
@@ -10305,7 +10526,7 @@
         "id": 180093,
         "rarity": "N",
         "quality": 4,
-        "name": "手作りチョコスティック",
+        "name": "自家製チョコスティック",
         "category": "Collectible",
         "tags": []
     },
@@ -10313,7 +10534,7 @@
         "id": 180094,
         "rarity": "N",
         "quality": 4,
-        "name": "チョコサンダル",
+        "name": "チョコスリッパ",
         "category": "Collectible",
         "tags": []
     },
@@ -10329,7 +10550,7 @@
         "id": 180096,
         "rarity": "N",
         "quality": 4,
-        "name": "自らの選択",
+        "name": "自分で下した選択",
         "category": "Collectible",
         "tags": []
     },
@@ -10337,7 +10558,7 @@
         "id": 180097,
         "rarity": "N",
         "quality": 4,
-        "name": "バレンタイン挑戦状",
+        "name": "バレンタインチャレンジ",
         "category": "Collectible",
         "tags": []
     },
@@ -10353,7 +10574,7 @@
         "id": 180099,
         "rarity": "N",
         "quality": 4,
-        "name": "チョコレート月餅",
+        "name": "チョコレート月瓶",
         "category": "Collectible",
         "tags": []
     },
@@ -10361,7 +10582,7 @@
         "id": 180100,
         "rarity": "N",
         "quality": 4,
-        "name": "玄龍門の文様をしたチョコレート",
+        "name": "ヒョンリョンムーン ロゴチョコレート",
         "category": "Collectible",
         "tags": []
     },
@@ -10377,7 +10598,7 @@
         "id": 180102,
         "rarity": "N",
         "quality": 4,
-        "name": "ナギサの平凡なチョコレート",
+        "name": "なぎさの普通のチョコレート",
         "category": "Collectible",
         "tags": []
     },
@@ -10385,7 +10606,7 @@
         "id": 180103,
         "rarity": "N",
         "quality": 4,
-        "name": "ハイカロリーチョコ",
+        "name": "ないチャックチョコバ",
         "category": "Collectible",
         "tags": []
     },
@@ -10393,7 +10614,7 @@
         "id": 180104,
         "rarity": "N",
         "quality": 4,
-        "name": "認識の差",
+        "name": "認識の違い",
         "category": "Collectible",
         "tags": []
     },
@@ -10409,7 +10630,7 @@
         "id": 180106,
         "rarity": "N",
         "quality": 4,
-        "name": "自画像チョコレート",
+        "name": "図面チョコレート",
         "category": "Collectible",
         "tags": []
     },
@@ -10417,7 +10638,7 @@
         "id": 180107,
         "rarity": "N",
         "quality": 4,
-        "name": "至高にして究極の手作りチョコレートケーキ",
+        "name": "ベスト、ベスト、究極の手作りチョコレートケーキ",
         "category": "Collectible",
         "tags": []
     },
@@ -10425,7 +10646,7 @@
         "id": 180108,
         "rarity": "N",
         "quality": 4,
-        "name": "戦略リーダーの手作りチョコレート",
+        "name": "戦略広報チーム長の手作りチョコレート",
         "category": "Collectible",
         "tags": []
     },
@@ -10433,7 +10654,7 @@
         "id": 180109,
         "rarity": "N",
         "quality": 4,
-        "name": "「いつもの」コーヒー",
+        "name": "いつも飲んだコーヒー",
         "category": "Collectible",
         "tags": []
     },
@@ -10441,7 +10662,7 @@
         "id": 180110,
         "rarity": "N",
         "quality": 4,
-        "name": "二人で一緒に作った生チョコレート",
+        "name": "二人で一緒に作ったパベチョコレート",
         "category": "Collectible",
         "tags": []
     },
@@ -10457,7 +10678,7 @@
         "id": 180112,
         "rarity": "N",
         "quality": 4,
-        "name": "勘解由小路のお守りとチョコ味の駄菓子",
+        "name": "カデノコジお守りとチョコレートのお菓子",
         "category": "Collectible",
         "tags": []
     },
@@ -10465,7 +10686,7 @@
         "id": 180113,
         "rarity": "N",
         "quality": 4,
-        "name": "イブキが作ったチョコプリン",
+        "name": "いぶきが作ったチョコレートプリン",
         "category": "Collectible",
         "tags": []
     },
@@ -10481,7 +10702,7 @@
         "id": 180115,
         "rarity": "N",
         "quality": 4,
-        "name": "議長が用意した最高級チョコレートファウンテン",
+        "name": "議長が準備した最高級チョコレート噴水機",
         "category": "Collectible",
         "tags": []
     },
@@ -10954,6 +11175,14 @@
         "rarity": "N",
         "quality": 2,
         "name": "炭火焼き鳥",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20000011,
+        "rarity": "N",
+        "quality": 2,
+        "name": "",
         "category": "Collectible",
         "tags": []
     },

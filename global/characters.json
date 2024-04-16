@@ -3065,6 +3065,28 @@
         ]
     },
     {
+        "id": 20031,
+        "name": "Shigure (Hot Spring)",
+        "devname": "CH0123",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "GL",
+        "bulletType": "Pierce",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "RedWinter",
+        "club": "Class227",
+        "favoriteGift": [
+            "Functional",
+            "Specialized"
+        ]
+    },
+    {
         "id": 23000,
         "name": "Airi",
         "devname": "airi",

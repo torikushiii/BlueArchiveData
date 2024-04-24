@@ -1617,7 +1617,7 @@
         "exposedTime": "2024-03-27 11:00:00",
         "startTime": "2024-03-27 11:00:00",
         "endTime": "2024-04-11 10:59:59",
-        "extensionTime": "2024-04-18 10:59:59"
+        "extensionTime": "2024-04-24 10:59:59"
     },
     {
         "id": 835,
@@ -1629,7 +1629,7 @@
         "exposedTime": "2024-03-27 11:00:00",
         "startTime": "2024-03-27 11:00:00",
         "endTime": "2024-04-11 10:59:59",
-        "extensionTime": "2024-04-18 10:59:59"
+        "extensionTime": "2024-04-24 10:59:59"
     },
     {
         "id": 835,
@@ -1641,7 +1641,7 @@
         "exposedTime": "2024-03-27 11:00:00",
         "startTime": "2024-03-27 11:00:00",
         "endTime": "2024-04-11 10:59:59",
-        "extensionTime": "2024-04-18 10:59:59"
+        "extensionTime": "2024-04-24 10:59:59"
     },
     {
         "id": 835,
@@ -1653,7 +1653,67 @@
         "exposedTime": "2024-03-27 11:00:00",
         "startTime": "2024-03-27 11:00:00",
         "endTime": "2024-04-11 10:59:59",
-        "extensionTime": "2024-04-18 10:59:59"
+        "extensionTime": "2024-04-24 10:59:59"
+    },
+    {
+        "id": 836,
+        "subId": 836,
+        "rerun": false,
+        "name": "Event_Name_836",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-04-24 11:00:00",
+        "startTime": "2024-04-24 11:00:00",
+        "endTime": "2024-05-08 10:59:59",
+        "extensionTime": "2024-05-15 10:59:59"
+    },
+    {
+        "id": 836,
+        "subId": 836,
+        "rerun": false,
+        "name": "Event_Name_836",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-04-24 11:00:00",
+        "startTime": "2024-04-24 11:00:00",
+        "endTime": "2024-05-08 10:59:59",
+        "extensionTime": "2024-05-15 10:59:59"
+    },
+    {
+        "id": 836,
+        "subId": 836,
+        "rerun": false,
+        "name": "Event_Name_836",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-04-24 11:00:00",
+        "startTime": "2024-04-24 11:00:00",
+        "endTime": "2024-05-08 10:59:59",
+        "extensionTime": "2024-05-15 10:59:59"
+    },
+    {
+        "id": 836,
+        "subId": 836,
+        "rerun": false,
+        "name": "Event_Name_836",
+        "eventContentType": "MinigameDreamMaker",
+        "subEvent": false,
+        "exposedTime": "2024-04-24 11:00:00",
+        "startTime": "2024-04-24 11:00:00",
+        "endTime": "2024-05-08 10:59:59",
+        "extensionTime": "2024-05-15 10:59:59"
+    },
+    {
+        "id": 836,
+        "subId": 836,
+        "rerun": false,
+        "name": "Event_Name_836",
+        "eventContentType": "Collection",
+        "subEvent": false,
+        "exposedTime": "2024-04-24 11:00:00",
+        "startTime": "2024-04-24 11:00:00",
+        "endTime": "2024-05-08 10:59:59",
+        "extensionTime": "2024-05-15 10:59:59"
     },
     {
         "id": 10801,
@@ -2604,6 +2664,54 @@
         "extensionTime": "2024-03-27 10:59:59"
     },
     {
+        "id": 10826,
+        "subId": 826,
+        "rerun": true,
+        "name": "Event_Name_826",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-05-15 11:00:00",
+        "startTime": "2024-05-15 11:00:00",
+        "endTime": "2024-05-22 10:59:59",
+        "extensionTime": "2024-05-29 10:59:59"
+    },
+    {
+        "id": 10826,
+        "subId": 826,
+        "rerun": true,
+        "name": "Event_Name_826",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-05-15 11:00:00",
+        "startTime": "2024-05-15 11:00:00",
+        "endTime": "2024-05-22 10:59:59",
+        "extensionTime": "2024-05-29 10:59:59"
+    },
+    {
+        "id": 10826,
+        "subId": 826,
+        "rerun": true,
+        "name": "Event_Name_826",
+        "eventContentType": "CardShop",
+        "subEvent": false,
+        "exposedTime": "2024-05-15 11:00:00",
+        "startTime": "2024-05-15 11:00:00",
+        "endTime": "2024-05-22 10:59:59",
+        "extensionTime": "2024-05-29 10:59:59"
+    },
+    {
+        "id": 10826,
+        "subId": 826,
+        "rerun": true,
+        "name": "Event_Name_826",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-05-15 11:00:00",
+        "startTime": "2024-05-15 11:00:00",
+        "endTime": "2024-05-22 10:59:59",
+        "extensionTime": "2024-05-29 10:59:59"
+    },
+    {
         "id": 50822,
         "subId": 822,
         "rerun": false,
@@ -3008,6 +3116,18 @@
         "subEvent": false,
         "exposedTime": "2024-03-20 11:00:00",
         "startTime": "2024-03-20 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900813,
+        "subId": 813,
+        "rerun": true,
+        "name": "Event_Name_813",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-05-08 11:00:00",
+        "startTime": "2024-05-08 11:00:00",
         "endTime": "2099-12-31 23:59:59",
         "extensionTime": "2099-12-31 23:59:59"
     },

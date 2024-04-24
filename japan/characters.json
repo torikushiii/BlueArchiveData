@@ -2026,6 +2026,50 @@
         ]
     },
     {
+        "id": 10091,
+        "name": "カズサ（バンド）",
+        "devname": "CH0250",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert",
+        "favoriteGift": [
+            "aJ",
+            "aQ"
+        ]
+    },
+    {
+        "id": 10092,
+        "name": "ヨシミ（バンド）",
+        "devname": "CH0220",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert",
+        "favoriteGift": [
+            "aJ",
+            "ar"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -2663,6 +2707,28 @@
             "ax",
             "aJ",
             "ao"
+        ]
+    },
+    {
+        "id": 16015,
+        "name": "アイリ（バンド）",
+        "devname": "CH0251",
+        "rarity": "R",
+        "role": "Dealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert",
+        "favoriteGift": [
+            "aJ",
+            "BA"
         ]
     },
     {

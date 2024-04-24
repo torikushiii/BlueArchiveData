@@ -2135,6 +2135,166 @@
         "comfortBonus": 350
     },
     {
+        "id": 16100,
+        "name": "トリニティ原木の収納ケース",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16101,
+        "name": "飾られたトリニティ原木の収納ケース",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16102,
+        "name": "ベーシックパターンカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16103,
+        "name": "クラシックパターンカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16104,
+        "name": "トリニティ六角形カーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16105,
+        "name": "ブルーラインカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16106,
+        "name": "トリニティ教室の机",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16107,
+        "name": "トリニティ教室の柱",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16108,
+        "name": "トリニティ教室のパターン柱",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16109,
+        "name": "トリニティ教室のランプ付き柱",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16200,
+        "name": "トリニティ教室の黒板",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16201,
+        "name": "トリニティ教室の教卓",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16202,
+        "name": "ペロロ人形が置かれた机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16203,
+        "name": "バッグがかかった机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16204,
+        "name": "銃とバッグが置かれた机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16205,
+        "name": "ペロロ様のバッグがかかった机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16206,
+        "name": "トリニティ教室ウィンドウシングルパーテーション",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16207,
+        "name": "トリニティ教室ウィンドウダブルパーテーション",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16208,
+        "name": "トリニティ教室シングルパーテーション",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16209,
+        "name": "トリニティ教室ダブルパーテーション",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16210,
+        "name": "花のあるサイドテーブル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16211,
+        "name": "ランプ付きサイドテーブル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16212,
+        "name": "トリニティベンチ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16213,
+        "name": "トリニティ教室の背景",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16214,
+        "name": "トリニティ教室の壁",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16215,
+        "name": "トリニティ教室の床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16300,
+        "name": "トリニティ大型の本棚",
+        "comfortBonus": 350
+    },
+    {
+        "id": 16301,
+        "name": "掛け時計",
+        "comfortBonus": 350
+    },
+    {
+        "id": 16302,
+        "name": "トリニティ中型の本棚",
+        "comfortBonus": 350
+    },
+    {
+        "id": 16303,
+        "name": "トリニティ教室の扉",
+        "comfortBonus": 350
+    },
+    {
+        "id": 16304,
+        "name": "トリニティガンスタンド",
+        "comfortBonus": 350
+    },
+    {
+        "id": 16305,
+        "name": "トリニティ教室の窓",
+        "comfortBonus": 350
+    },
+    {
         "id": 100000,
         "name": "ビナー戦（屋外戦）のブロンズトロフィー",
         "comfortBonus": 50
@@ -2881,7 +3041,32 @@
     },
     {
         "id": 210335,
-        "name": "お祭りに行ったら展示台",
+        "name": "お祭りお面陳列台",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210336,
+        "name": "ディープブルーベース",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210337,
+        "name": "ピンク色のエレクトリックギター",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210338,
+        "name": "ベーシック・エレクトリックキーボード",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210339,
+        "name": "セルフィーブース",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210340,
+        "name": "伝説の記録板",
         "comfortBonus": 350
     },
     {
@@ -2952,6 +3137,11 @@
     {
         "id": 302306,
         "name": "リコレクト・メモリー5th",
+        "comfortBonus": 350
+    },
+    {
+        "id": 302307,
+        "name": "リコレクト・メモリー-ive aLIVE!",
         "comfortBonus": 350
     }
 ]

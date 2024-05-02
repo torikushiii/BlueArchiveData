@@ -1735,6 +1735,236 @@
         "comfortBonus": 350
     },
     {
+        "id": 14100,
+        "name": "Modern Shopping Mall Boutique Display",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14101,
+        "name": "Modern Shopping Mall Bag Display",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14102,
+        "name": "Shopping Mall Designer Sofa",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14103,
+        "name": "Shopping Mall Dual-Seater",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14104,
+        "name": "Shopping Mall Basket Stand",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14105,
+        "name": "Shopping Mall Magazine Display",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14106,
+        "name": "Shopping Mall Picture Book Display",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14107,
+        "name": "Modern Shopping Mall Marble Carpet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14108,
+        "name": "Long Modern Shopping Mall Marble Carpet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14109,
+        "name": "Comforting Shopping Mall Beige Carpet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14110,
+        "name": "Shopping Mall Checkered Kiddie Carpet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14111,
+        "name": "White Leather Cushioned Chair",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14112,
+        "name": "Momo Friends Picture Board",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14113,
+        "name": "Shopping Mall Railing",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14114,
+        "name": "Shopping Mall Mood Light",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14115,
+        "name": "Silver Shopping Mall Partition",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14116,
+        "name": "Gold Shopping Mall Partition",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14117,
+        "name": "Shopping Mall Nature Sofa",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14118,
+        "name": "Shopping Mall Spotlight",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14119,
+        "name": "Wide Shopping Mall Table",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14120,
+        "name": "Shopping Mall Momo Friends Neon Light",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14121,
+        "name": "Basic Shopping Mall Pillar",
+        "comfortBonus": 50
+    },
+    {
+        "id": 14200,
+        "name": "Shopping Mall Literary Bookshelf",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14201,
+        "name": "Shopping Mall Cutie Elegant Sofa",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14202,
+        "name": "Shopping Mall Momo Friends Clothing Rack",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14203,
+        "name": "Upscale Shopping Mall Dressing Room",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14204,
+        "name": "Shopping Mall Fruit Stand",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14205,
+        "name": "Shopping Mall Nature Garden",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14206,
+        "name": "Modern Shopping Mall Kiosk",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14207,
+        "name": "Shopping Mall Momo Friends Partition",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14208,
+        "name": "Elegant Shopping Mall Perfume Display",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14209,
+        "name": "Elegant Shopping Mall Shoe Display",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14210,
+        "name": "Elegant Shopping Mall Bag Display",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14211,
+        "name": "Elegant Shopping Mall Clothing Display",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14212,
+        "name": "Elegant Shopping Mall Luxury Display",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14213,
+        "name": "Shopping Mall Momo Friends Toy Display",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14214,
+        "name": "Fine Shopping Mall Marble Tile",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14215,
+        "name": "Shopping Mall Luxury Wallpaper",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14216,
+        "name": "Shopping Mall Luxury Background",
+        "comfortBonus": 120
+    },
+    {
+        "id": 14300,
+        "name": "Shopping Mall Momo Friends Pool",
+        "comfortBonus": 350
+    },
+    {
+        "id": 14301,
+        "name": "Shopping Mall Momo Friends Kiosk",
+        "comfortBonus": 350
+    },
+    {
+        "id": 14302,
+        "name": "Shopping Mall Momo Friends Cushion Display",
+        "comfortBonus": 350
+    },
+    {
+        "id": 14303,
+        "name": "Shopping Mall Luxury Special Display",
+        "comfortBonus": 350
+    },
+    {
+        "id": 14304,
+        "name": "Large Shopping Mall Display",
+        "comfortBonus": 350
+    },
+    {
+        "id": 14305,
+        "name": "Shopping Mall Wavecat Vending Machine",
+        "comfortBonus": 350
+    },
+    {
+        "id": 14306,
+        "name": "Wide Shopping Mall Window",
+        "comfortBonus": 350
+    },
+    {
         "id": 100000,
         "name": "Binah Bronze Trophy - Field Warfare",
         "comfortBonus": 50
@@ -2387,6 +2617,21 @@
     {
         "id": 210320,
         "name": "Resting Bench Table",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210322,
+        "name": "Momo Friends Merch Kiosk",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210323,
+        "name": "Fresh Shop Table",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210324,
+        "name": "Tarot Table",
         "comfortBonus": 350
     },
     {

@@ -6,10 +6,10 @@
         "name": "Event_Name_701",
         "eventContentType": "Stage",
         "subEvent": false,
-        "exposedTime": "2023-05-16 11:00:00",
-        "startTime": "2023-05-16 11:00:00",
-        "endTime": "2023-05-30 10:59:59",
-        "extensionTime": "2023-05-30 10:59:59"
+        "exposedTime": "2024-06-11 11:00:00",
+        "startTime": "2024-06-11 11:00:00",
+        "endTime": "2024-06-25 10:59:59",
+        "extensionTime": "2024-06-25 10:59:59"
     },
     {
         "id": 701,
@@ -18,10 +18,10 @@
         "name": "Event_Name_701",
         "eventContentType": "Mission",
         "subEvent": false,
-        "exposedTime": "2023-05-16 11:00:00",
-        "startTime": "2023-05-16 11:00:00",
-        "endTime": "2023-05-30 10:59:59",
-        "extensionTime": "2023-05-30 10:59:59"
+        "exposedTime": "2024-06-11 11:00:00",
+        "startTime": "2024-06-11 11:00:00",
+        "endTime": "2024-06-25 10:59:59",
+        "extensionTime": "2024-06-25 10:59:59"
     },
     {
         "id": 701,
@@ -30,10 +30,10 @@
         "name": "Event_Name_701",
         "eventContentType": "Collection",
         "subEvent": false,
-        "exposedTime": "2023-05-16 11:00:00",
-        "startTime": "2023-05-16 11:00:00",
-        "endTime": "2023-05-30 10:59:59",
-        "extensionTime": "2023-05-30 10:59:59"
+        "exposedTime": "2024-06-11 11:00:00",
+        "startTime": "2024-06-11 11:00:00",
+        "endTime": "2024-06-25 10:59:59",
+        "extensionTime": "2024-06-25 10:59:59"
     },
     {
         "id": 801,
@@ -1404,6 +1404,102 @@
         "extensionTime": "2024-04-23 10:59:59"
     },
     {
+        "id": 831,
+        "subId": 831,
+        "rerun": false,
+        "name": "Event_Name_831",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-04-30 11:00:00",
+        "startTime": "2024-04-30 11:00:00",
+        "endTime": "2024-05-14 10:59:59",
+        "extensionTime": "2024-05-21 10:59:59"
+    },
+    {
+        "id": 831,
+        "subId": 831,
+        "rerun": false,
+        "name": "Event_Name_831",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-04-30 11:00:00",
+        "startTime": "2024-04-30 11:00:00",
+        "endTime": "2024-05-14 10:59:59",
+        "extensionTime": "2024-05-21 10:59:59"
+    },
+    {
+        "id": 831,
+        "subId": 831,
+        "rerun": false,
+        "name": "Event_Name_831",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-04-30 11:00:00",
+        "startTime": "2024-04-30 11:00:00",
+        "endTime": "2024-05-14 10:59:59",
+        "extensionTime": "2024-05-21 10:59:59"
+    },
+    {
+        "id": 831,
+        "subId": 831,
+        "rerun": false,
+        "name": "Event_Name_831",
+        "eventContentType": "BoxGacha",
+        "subEvent": false,
+        "exposedTime": "2024-04-30 11:00:00",
+        "startTime": "2024-04-30 11:00:00",
+        "endTime": "2024-05-14 10:59:59",
+        "extensionTime": "2024-05-21 10:59:59"
+    },
+    {
+        "id": 832,
+        "subId": 832,
+        "rerun": false,
+        "name": "Event_Name_832",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-06-25 11:00:00",
+        "startTime": "2024-06-25 11:00:00",
+        "endTime": "2024-07-09 10:59:59",
+        "extensionTime": "2024-07-16 10:59:59"
+    },
+    {
+        "id": 832,
+        "subId": 832,
+        "rerun": false,
+        "name": "Event_Name_832",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-06-25 11:00:00",
+        "startTime": "2024-06-25 11:00:00",
+        "endTime": "2024-07-09 10:59:59",
+        "extensionTime": "2024-07-16 10:59:59"
+    },
+    {
+        "id": 832,
+        "subId": 832,
+        "rerun": false,
+        "name": "Event_Name_832",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-06-25 11:00:00",
+        "startTime": "2024-06-25 11:00:00",
+        "endTime": "2024-07-09 10:59:59",
+        "extensionTime": "2024-07-16 10:59:59"
+    },
+    {
+        "id": 832,
+        "subId": 832,
+        "rerun": false,
+        "name": "Event_Name_832",
+        "eventContentType": "FortuneGachaShop",
+        "subEvent": false,
+        "exposedTime": "2024-06-25 11:00:00",
+        "startTime": "2024-06-25 11:00:00",
+        "endTime": "2024-07-09 10:59:59",
+        "extensionTime": "2024-07-16 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -2032,6 +2128,18 @@
         "subId": 814,
         "rerun": true,
         "name": "Event_Name_814",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-01-23 11:00:00",
+        "startTime": "2024-01-23 11:00:00",
+        "endTime": "2024-01-30 10:59:59",
+        "extensionTime": "2024-01-30 10:59:59"
+    },
+    {
+        "id": 10814,
+        "subId": 814,
+        "rerun": true,
+        "name": "Event_Name_814",
         "eventContentType": "Mission",
         "subEvent": false,
         "exposedTime": "2024-01-23 11:00:00",
@@ -2400,6 +2508,78 @@
         "extensionTime": "2024-05-07 10:59:59"
     },
     {
+        "id": 60004,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "MiniEvent",
+        "subEvent": false,
+        "exposedTime": "2024-05-14 11:00:00",
+        "startTime": "2024-05-14 11:00:00",
+        "endTime": "2024-05-28 10:59:59",
+        "extensionTime": "2024-06-04 10:59:59"
+    },
+    {
+        "id": 60004,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-05-14 11:00:00",
+        "startTime": "2024-05-14 11:00:00",
+        "endTime": "2024-05-28 10:59:59",
+        "extensionTime": "2024-06-04 10:59:59"
+    },
+    {
+        "id": 60005,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "MiniEvent",
+        "subEvent": false,
+        "exposedTime": "2024-05-28 11:00:00",
+        "startTime": "2024-05-28 11:00:00",
+        "endTime": "2024-06-11 10:59:59",
+        "extensionTime": "2024-06-18 10:59:59"
+    },
+    {
+        "id": 60005,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "BoxGacha",
+        "subEvent": false,
+        "exposedTime": "2024-05-28 11:00:00",
+        "startTime": "2024-05-28 11:00:00",
+        "endTime": "2024-06-11 10:59:59",
+        "extensionTime": "2024-06-18 10:59:59"
+    },
+    {
+        "id": 60006,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "MiniEvent",
+        "subEvent": false,
+        "exposedTime": "2024-07-09 11:00:00",
+        "startTime": "2024-07-09 11:00:00",
+        "endTime": "2024-07-23 10:59:59",
+        "extensionTime": "2024-07-30 10:59:59"
+    },
+    {
+        "id": 60006,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-07-09 11:00:00",
+        "startTime": "2024-07-09 11:00:00",
+        "endTime": "2024-07-23 10:59:59",
+        "extensionTime": "2024-07-30 10:59:59"
+    },
+    {
         "id": 900801,
         "subId": 801,
         "rerun": true,
@@ -2472,6 +2652,18 @@
         "extensionTime": "2099-12-31 23:59:59"
     },
     {
+        "id": 900806,
+        "subId": 806,
+        "rerun": true,
+        "name": "Event_Name_806",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-06-18 11:00:00",
+        "startTime": "2024-06-18 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
         "id": 900808,
         "subId": 808,
         "rerun": true,
@@ -2480,6 +2672,18 @@
         "subEvent": false,
         "exposedTime": "2024-04-16 11:00:00",
         "startTime": "2024-04-16 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900809,
+        "subId": 809,
+        "rerun": true,
+        "name": "Event_Name_809",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-07-09 11:00:00",
+        "startTime": "2024-07-09 11:00:00",
         "endTime": "2099-12-31 23:59:59",
         "extensionTime": "2099-12-31 23:59:59"
     }

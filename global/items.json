@@ -6,7 +6,7 @@
         "name": "Keystone Piece",
         "category": "Material",
         "tags": [
-            "CraftCommitment"
+            "l"
         ]
     },
     {
@@ -24,7 +24,7 @@
         "name": "Keystone",
         "category": "Material",
         "tags": [
-            "CraftCommitment"
+            "l"
         ]
     },
     {
@@ -58,7 +58,7 @@
         "name": "Novice Activity Report",
         "category": "CharacterExpGrowth",
         "tags": [
-            "ExpItem"
+            "i"
         ]
     },
     {
@@ -68,7 +68,7 @@
         "name": "Normal Activity Report",
         "category": "CharacterExpGrowth",
         "tags": [
-            "ExpItem"
+            "i"
         ]
     },
     {
@@ -78,7 +78,7 @@
         "name": "Advanced Activity Report",
         "category": "CharacterExpGrowth",
         "tags": [
-            "ExpItem"
+            "i"
         ]
     },
     {
@@ -88,7 +88,7 @@
         "name": "Superior Activity Report",
         "category": "CharacterExpGrowth",
         "tags": [
-            "ExpItem"
+            "i"
         ]
     },
     {
@@ -98,7 +98,7 @@
         "name": "Eligma",
         "category": "Coin",
         "tags": [
-            "CraftMaterial_SecretStone"
+            "Dl"
         ]
     },
     {
@@ -138,6 +138,46 @@
         "rarity": "SSR",
         "quality": 9,
         "name": "Cafe Facilities Core Lv. 10",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 40,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Cafe No. 2 Facilities Core Lv. 1",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 41,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Cafe No. 2 Facilities Core Lv. 2",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 42,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Cafe No. 2 Facilities Core Lv. 3",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 43,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Cafe No. 2 Facilities Core Lv. 4",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 49,
+        "rarity": "SSR",
+        "quality": 9,
+        "name": "Cafe No. 2 Facilities Core Lv. 10",
         "category": "Material",
         "tags": []
     },
@@ -212,7 +252,7 @@
         "name": "Lesser Crafting Material",
         "category": "Material",
         "tags": [
-            "CraftItem"
+            "h"
         ]
     },
     {
@@ -222,7 +262,7 @@
         "name": "Normal Crafting Material",
         "category": "Material",
         "tags": [
-            "CraftItem"
+            "h"
         ]
     },
     {
@@ -232,7 +272,7 @@
         "name": "Advanced Crafting Material",
         "category": "Material",
         "tags": [
-            "CraftItem"
+            "h"
         ]
     },
     {
@@ -242,9 +282,9 @@
         "name": "Nebra Sky Disk Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -254,9 +294,9 @@
         "name": "Broken Nebra Sky Disk",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -266,9 +306,9 @@
         "name": "Damaged Nebra Sky Disk",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -278,9 +318,9 @@
         "name": "Intact Nebra Sky Disk",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -290,9 +330,9 @@
         "name": "Phaistos Disc Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -302,9 +342,9 @@
         "name": "Broken Phaistos Disc",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -314,9 +354,9 @@
         "name": "Damaged Phaistos Disc",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -326,9 +366,9 @@
         "name": "Intact Phaistos Disc",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -338,9 +378,9 @@
         "name": "Wolfsegg Iron Ore",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -350,9 +390,9 @@
         "name": "Wolfsegg Steel",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -362,9 +402,9 @@
         "name": "Low-Purity Wolfsegg Steel",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -374,9 +414,9 @@
         "name": "High-Purity Wolfsegg Steel",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -386,9 +426,9 @@
         "name": "Nimrud Lens Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -398,9 +438,9 @@
         "name": "Broken Nimrud Lens",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -410,9 +450,9 @@
         "name": "Damaged Nimrud Lens",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -422,9 +462,9 @@
         "name": "Intact Nimrud Lens",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -434,9 +474,9 @@
         "name": "Mandrake Seed",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -446,9 +486,9 @@
         "name": "Mandrake Sprout",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -458,9 +498,9 @@
         "name": "Mandrake Juice",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -470,9 +510,9 @@
         "name": "Mandrake Extract",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -482,9 +522,9 @@
         "name": "Rohonc Codex Page",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -494,9 +534,9 @@
         "name": "Damaged Rohonc Codex",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -506,9 +546,9 @@
         "name": "Annotated Rohonc Codex",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -518,9 +558,9 @@
         "name": "Intact Rohonc Codex",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -530,9 +570,9 @@
         "name": "Aether Dust",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -542,9 +582,9 @@
         "name": "Aether Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -554,9 +594,9 @@
         "name": "Aether Shard",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -566,9 +606,9 @@
         "name": "Aether Essence",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -578,9 +618,9 @@
         "name": "Antikythera Mechanism Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -590,9 +630,9 @@
         "name": "Broken Antikythera Mechanism",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -602,9 +642,9 @@
         "name": "Damaged Antikythera Mechanism",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -614,9 +654,9 @@
         "name": "Intact Antikythera Mechanism",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -626,9 +666,9 @@
         "name": "Voynich Manuscript Page",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -638,9 +678,9 @@
         "name": "Damaged Voynich Manuscript",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -650,9 +690,9 @@
         "name": "Annotated Voynich Manuscript",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -662,9 +702,9 @@
         "name": "Intact Voynich Manuscript",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -674,9 +714,9 @@
         "name": "Crystal Haniwa Fragment",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -686,9 +726,9 @@
         "name": "Broken Crystal Haniwa",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -698,9 +738,9 @@
         "name": "Repaired Crystal Haniwa",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -710,9 +750,9 @@
         "name": "Intact Crystal Haniwa",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -722,9 +762,9 @@
         "name": "Totem Pole Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -734,9 +774,9 @@
         "name": "Broken Totem Pole",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -746,9 +786,9 @@
         "name": "Repaired Totem Pole",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -758,9 +798,9 @@
         "name": "Intact Totem Pole",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -770,9 +810,9 @@
         "name": "Ancient Battery Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -782,9 +822,9 @@
         "name": "Broken Ancient Battery",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -794,9 +834,9 @@
         "name": "Damaged Ancient Battery",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -806,9 +846,9 @@
         "name": "Intact Ancient Battery",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -818,9 +858,9 @@
         "name": "Golden Fleece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -830,9 +870,9 @@
         "name": "Golden Yarn",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -842,9 +882,9 @@
         "name": "Golden Wool",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -854,9 +894,9 @@
         "name": "Golden Dress",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -866,9 +906,9 @@
         "name": "Okiku Doll Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -878,9 +918,9 @@
         "name": "Broken Okiku Doll",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -890,9 +930,9 @@
         "name": "Repaired Okiku Doll",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -902,9 +942,9 @@
         "name": "Intact Okiku Doll",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -914,9 +954,9 @@
         "name": "Disco Colgante Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -926,9 +966,9 @@
         "name": "Broken Disco Colgante",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -938,9 +978,9 @@
         "name": "Repaired Disco Colgante",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -950,9 +990,9 @@
         "name": "Intact Disco Colgante",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -962,9 +1002,9 @@
         "name": "Atlantis Medal Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -974,9 +1014,9 @@
         "name": "Broken Atlantis Medal",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -986,9 +1026,9 @@
         "name": "Damaged Atlantis Medal",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -998,9 +1038,9 @@
         "name": "Intact Atlantis Medal",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -1010,9 +1050,9 @@
         "name": "Roman Dodecahedron Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -1022,9 +1062,9 @@
         "name": "Broken Roman Dodecahedron",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -1034,9 +1074,9 @@
         "name": "Repaired Roman Dodecahedron",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -1046,9 +1086,105 @@
         "name": "Intact Roman Dodecahedron",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
+        ]
+    },
+    {
+        "id": 270,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Quimbaya Relic Piece",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cr"
+        ]
+    },
+    {
+        "id": 271,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Broken Quimbaya Relic",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cS"
+        ]
+    },
+    {
+        "id": 272,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Repaired Quimbaya Relic",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cs"
+        ]
+    },
+    {
+        "id": 273,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Intact Quimbaya Relic",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cT"
+        ]
+    },
+    {
+        "id": 280,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Istanbul Rocket Piece",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cr"
+        ]
+    },
+    {
+        "id": 281,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Broken Istanbul Rocket",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cS"
+        ]
+    },
+    {
+        "id": 282,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Repaired Istanbul Rocket",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cs"
+        ]
+    },
+    {
+        "id": 283,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Intact Istanbul Rocket",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -1058,9 +1194,9 @@
         "name": "Winnipesaukee Stone Piece",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemN"
+            "k",
+            "M",
+            "cr"
         ]
     },
     {
@@ -1070,9 +1206,9 @@
         "name": "Broken Winnipesaukee Stone",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemR"
+            "k",
+            "M",
+            "cS"
         ]
     },
     {
@@ -1082,9 +1218,9 @@
         "name": "Damaged Winnipesaukee Stone",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSR"
+            "k",
+            "M",
+            "cs"
         ]
     },
     {
@@ -1094,9 +1230,9 @@
         "name": "Intact Winnipesaukee Stone",
         "category": "Material",
         "tags": [
-            "MaterialItem",
-            "ExpendableItem",
-            "MaterialItemSSR"
+            "k",
+            "M",
+            "cT"
         ]
     },
     {
@@ -1106,9 +1242,9 @@
         "name": "Beginner Tactical Training Blu-ray (Hyakkiyako)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1118,9 +1254,9 @@
         "name": "Normal Tactical Training Blu-ray (Hyakkiyako)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1130,9 +1266,9 @@
         "name": "Advanced Tactical Training Blu-ray (Hyakkiyako)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1142,9 +1278,9 @@
         "name": "Superior Tactical Training Blu-ray (Hyakkiyako)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1154,9 +1290,9 @@
         "name": "Beginner Tactical Training Blu-ray (Red Winter)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1166,9 +1302,9 @@
         "name": "Normal Tactical Training Blu-ray (Red Winter)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1178,9 +1314,9 @@
         "name": "Advanced Tactical Training Blu-ray (Red Winter)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1190,9 +1326,9 @@
         "name": "Superior Tactical Training Blu-ray (Red Winter)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1202,9 +1338,9 @@
         "name": "Beginner Tactical Training Blu-ray (Trinity)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1214,9 +1350,9 @@
         "name": "Normal Tactical Training Blu-ray (Trinity)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1226,9 +1362,9 @@
         "name": "Advanced Tactical Training Blu-ray (Trinity)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1238,9 +1374,9 @@
         "name": "Superior Tactical Training Blu-ray (Trinity)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1250,9 +1386,9 @@
         "name": "Beginner Tactical Training Blu-ray (Gehenna)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1262,9 +1398,9 @@
         "name": "Normal Tactical Training Blu-ray (Gehenna)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1274,9 +1410,9 @@
         "name": "Advanced Tactical Training Blu-ray (Gehenna)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1286,9 +1422,9 @@
         "name": "Superior Tactical Training Blu-ray (Gehenna)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1298,9 +1434,9 @@
         "name": "Beginner Tactical Training Blu-ray (Abydos)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1310,9 +1446,9 @@
         "name": "Normal Tactical Training Blu-ray (Abydos)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1322,9 +1458,9 @@
         "name": "Advanced Tactical Training Blu-ray (Abydos)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1334,9 +1470,9 @@
         "name": "Superior Tactical Training Blu-ray (Abydos)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1346,9 +1482,9 @@
         "name": "Beginner Tactical Training Blu-ray (Millennium)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1358,9 +1494,9 @@
         "name": "Normal Tactical Training Blu-ray (Millennium)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1370,9 +1506,9 @@
         "name": "Advanced Tactical Training Blu-ray (Millennium)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1382,9 +1518,9 @@
         "name": "Superior Tactical Training Blu-ray (Millennium)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1394,9 +1530,9 @@
         "name": "Beginner Tactical Training Blu-ray (Arius)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1406,9 +1542,9 @@
         "name": "Normal Tactical Training Blu-ray (Arius)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1418,9 +1554,9 @@
         "name": "Advance Tactical Training Blu-ray (Arius)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1430,9 +1566,9 @@
         "name": "Superior Tactical Training Blu-ray (Arius)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1442,9 +1578,9 @@
         "name": "Beginner Tactical Training Blu-ray (Shanhaijing)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
+            "I",
+            "M",
+            "ct"
         ]
     },
     {
@@ -1454,9 +1590,9 @@
         "name": "Normal Tactical Training Blu-ray (Shanhaijing)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
+            "I",
+            "M",
+            "cU"
         ]
     },
     {
@@ -1466,9 +1602,9 @@
         "name": "Advanced Tactical Training Blu-ray (Shanhaijing)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
+            "I",
+            "M",
+            "cu"
         ]
     },
     {
@@ -1478,9 +1614,9 @@
         "name": "Superior Tactical Training Blu-ray (Shanhaijing)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
+            "I",
+            "M",
+            "cV"
         ]
     },
     {
@@ -1490,10 +1626,10 @@
         "name": "Beginner Tactical Training Blu-ray (Valkyrie)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN",
-            "ValkyrieCD"
+            "I",
+            "M",
+            "ct",
+            "ej"
         ]
     },
     {
@@ -1503,10 +1639,10 @@
         "name": "Normal Tactical Training Blu-ray (Valkyrie)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR",
-            "ValkyrieCD"
+            "I",
+            "M",
+            "cU",
+            "ej"
         ]
     },
     {
@@ -1516,10 +1652,10 @@
         "name": "Advanced Tactical Training Blu-ray (Valkyrie)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR",
-            "ValkyrieCD"
+            "I",
+            "M",
+            "cu",
+            "ej"
         ]
     },
     {
@@ -1529,10 +1665,10 @@
         "name": "Superior Tactical Training Blu-ray (Valkyrie)",
         "category": "Material",
         "tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR",
-            "ValkyrieCD"
+            "I",
+            "M",
+            "cV",
+            "ej"
         ]
     },
     {
@@ -1542,9 +1678,9 @@
         "name": "Beginner Tech Notes (Hyakkiyako)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1554,9 +1690,9 @@
         "name": "Normal Tech Notes (Hyakkiyako)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1566,9 +1702,9 @@
         "name": "Advanced Tech Notes (Hyakkiyako)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1578,9 +1714,9 @@
         "name": "Superior Tech Notes (Hyakkiyako)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1590,9 +1726,9 @@
         "name": "Beginner Tech Notes (Red Winter)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1602,9 +1738,9 @@
         "name": "Normal Tech Notes (Red Winter)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1614,9 +1750,9 @@
         "name": "Advanced Tech Notes (Red Winter)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1626,9 +1762,9 @@
         "name": "Superior Tech Notes (Red Winter)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1638,9 +1774,9 @@
         "name": "Beginner Tech Notes (Trinity)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1650,9 +1786,9 @@
         "name": "Normal Tech Notes (Trinity)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1662,9 +1798,9 @@
         "name": "Advanced Tech Notes (Trinity)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1674,9 +1810,9 @@
         "name": "Superior Tech Notes (Trinity)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1686,9 +1822,9 @@
         "name": "Beginner Tech Notes (Gehenna)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1698,9 +1834,9 @@
         "name": "Normal Tech Notes (Gehenna)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1710,9 +1846,9 @@
         "name": "Advanced Tech Notes (Gehenna)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1722,9 +1858,9 @@
         "name": "Superior Tech Notes (Gehenna)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1734,9 +1870,9 @@
         "name": "Beginner Tech Notes (Abydos)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1746,9 +1882,9 @@
         "name": "Normal Tech Notes (Abydos)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1758,9 +1894,9 @@
         "name": "Advanced Tech Notes (Abydos)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1770,9 +1906,9 @@
         "name": "Superior Tech Notes (Abydos)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1782,9 +1918,9 @@
         "name": "Beginner Tech Notes (Millennium)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1794,9 +1930,9 @@
         "name": "Normal Tech Notes (Millennium)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1806,9 +1942,9 @@
         "name": "Advanced Tech Notes (Millennium)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1818,9 +1954,9 @@
         "name": "Superior Tech Notes (Millennium)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1830,9 +1966,9 @@
         "name": "Beginner Tech Notes (Arius)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1842,9 +1978,9 @@
         "name": "Normal Tech Notes (Arius)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1854,9 +1990,9 @@
         "name": "Advanced Tech Notes (Arius)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1866,9 +2002,9 @@
         "name": "Superior Tech Notes (Arius)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1878,9 +2014,9 @@
         "name": "Beginner Tech Notes (Shanhaijing)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
+            "j",
+            "M",
+            "cv"
         ]
     },
     {
@@ -1890,9 +2026,9 @@
         "name": "Normal Tech Notes (Shanhaijing)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
+            "j",
+            "M",
+            "cW"
         ]
     },
     {
@@ -1902,9 +2038,9 @@
         "name": "Advanced Tech Notes (Shanhaijing)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
+            "j",
+            "M",
+            "cw"
         ]
     },
     {
@@ -1914,9 +2050,9 @@
         "name": "Superior Tech Notes (Shanhaijing)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
+            "j",
+            "M",
+            "cX"
         ]
     },
     {
@@ -1926,10 +2062,10 @@
         "name": "Beginner Tech Notes (Valkyrie)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN",
-            "ValkyrieBook"
+            "j",
+            "M",
+            "cv",
+            "eK"
         ]
     },
     {
@@ -1939,10 +2075,10 @@
         "name": "Normal Tech Notes (Valkyrie)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR",
-            "ValkyrieBook"
+            "j",
+            "M",
+            "cW",
+            "eK"
         ]
     },
     {
@@ -1952,10 +2088,10 @@
         "name": "Advanced Tech Notes (Valkyrie)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR",
-            "ValkyrieBook"
+            "j",
+            "M",
+            "cw",
+            "eK"
         ]
     },
     {
@@ -1965,10 +2101,10 @@
         "name": "Superior Tech Notes (Valkyrie)",
         "category": "Material",
         "tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR",
-            "ValkyrieBook"
+            "j",
+            "M",
+            "cX",
+            "eK"
         ]
     },
     {
@@ -1978,10 +2114,12 @@
         "name": "Wavecat Pillow",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Bedding",
-            "MomoFriends"
+            "K",
+            "DV",
+            "aK",
+            "ap",
+            "Bo",
+            "cP"
         ]
     },
     {
@@ -1991,10 +2129,16 @@
         "name": "Peroro Wheel",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Sports",
-            "MomoFriends"
+            "K",
+            "DV",
+            "aj",
+            "ap",
+            "Be",
+            "BI",
+            "CY",
+            "Eu",
+            "eD",
+            "en"
         ]
     },
     {
@@ -2004,10 +2148,12 @@
         "name": "A-Pods Pro",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Electronic",
-            "Music"
+            "K",
+            "DV",
+            "aL",
+            "aQ",
+            "Bw",
+            "dw"
         ]
     },
     {
@@ -2017,10 +2163,14 @@
         "name": "Forbidden Love: Its beauty lies in its illicitness",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "LoveStory"
+            "K",
+            "DV",
+            "BB",
+            "aq",
+            "Bj",
+            "Bu",
+            "CZ",
+            "eP"
         ]
     },
     {
@@ -2030,10 +2180,13 @@
         "name": "Hitgirls Gaming Magazine",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "Game"
+            "K",
+            "DV",
+            "BB",
+            "aR",
+            "bA",
+            "BS",
+            "eB"
         ]
     },
     {
@@ -2043,10 +2196,12 @@
         "name": "Cherry-Rose Lip Gloss",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Cosmetics",
-            "Girlish"
+            "K",
+            "DV",
+            "Bb",
+            "ar",
+            "BQ",
+            "FG"
         ]
     },
     {
@@ -2056,10 +2211,13 @@
         "name": "Glassy Glow BB Cream",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Cosmetics",
-            "Beauty"
+            "K",
+            "DV",
+            "Bb",
+            "aS",
+            "Bz",
+            "Du",
+            "eR"
         ]
     },
     {
@@ -2069,10 +2227,13 @@
         "name": "Military Camo Foundation Trio",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Cosmetics",
-            "Army"
+            "K",
+            "DV",
+            "Bb",
+            "as",
+            "BY",
+            "Df",
+            "el"
         ]
     },
     {
@@ -2082,10 +2243,14 @@
         "name": "Fine Cookie Set",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Dessert",
-            "Delicious"
+            "K",
+            "DV",
+            "aJ",
+            "ao",
+            "By",
+            "bE",
+            "ce",
+            "EM"
         ]
     },
     {
@@ -2095,10 +2260,14 @@
         "name": "Guns, Charm, and Zeal",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "Humanities"
+            "K",
+            "DV",
+            "BB",
+            "aT",
+            "bB",
+            "De",
+            "DL",
+            "ek"
         ]
     },
     {
@@ -2108,10 +2277,13 @@
         "name": "Astronomical Telescope",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Toy",
-            "Observational"
+            "K",
+            "DV",
+            "al",
+            "at",
+            "ba",
+            "bG",
+            "dZ"
         ]
     },
     {
@@ -2121,10 +2293,12 @@
         "name": "Gamegirl Color Replica",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Electronic",
-            "Game"
+            "K",
+            "DV",
+            "aL",
+            "aR",
+            "BW",
+            "cG"
         ]
     },
     {
@@ -2134,10 +2308,11 @@
         "name": "MX-Ration C-Type Dessert Flavor",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Dessert",
-            "Army"
+            "K",
+            "DV",
+            "aJ",
+            "as",
+            "Cz"
         ]
     },
     {
@@ -2147,10 +2322,10 @@
         "name": "Matcha Ramune",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Dessert",
-            "Freakish"
+            "K",
+            "DV",
+            "aJ",
+            "aP"
         ]
     },
     {
@@ -2160,10 +2335,12 @@
         "name": "Jellies Cushion",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Bedding",
-            "Jellyz"
+            "K",
+            "DV",
+            "aK",
+            "aU",
+            "bD",
+            "Bv"
         ]
     },
     {
@@ -2173,10 +2350,12 @@
         "name": "Extraordinary Cottontail Detective- Case of the Misty Hot Spring Slide -",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "Detective"
+            "K",
+            "DV",
+            "BB",
+            "au",
+            "bd",
+            "Bu"
         ]
     },
     {
@@ -2186,10 +2365,12 @@
         "name": "Ring Bit",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Sports",
-            "Game"
+            "K",
+            "DV",
+            "aj",
+            "aR",
+            "BJ",
+            "Ei"
         ]
     },
     {
@@ -2199,10 +2380,18 @@
         "name": "Buried Treasure Map",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Curios",
-            "Roman"
+            "K",
+            "DV",
+            "ak",
+            "aV",
+            "Bf",
+            "cb",
+            "ci",
+            "cl",
+            "Ds",
+            "eQ",
+            "eq",
+            "FH"
         ]
     },
     {
@@ -2212,10 +2401,13 @@
         "name": "Cosplayer Coke-Bottle Glasses",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Toy",
-            "CuriousFellow"
+            "K",
+            "DV",
+            "al",
+            "av",
+            "BH",
+            "BN",
+            "cf"
         ]
     },
     {
@@ -2225,10 +2417,14 @@
         "name": "World's Most Useless Gadget",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Curios",
-            "Mystery"
+            "K",
+            "DV",
+            "ak",
+            "aW",
+            "BF",
+            "BV",
+            "cA",
+            "Ev"
         ]
     },
     {
@@ -2238,10 +2434,18 @@
         "name": "Teddy Bear with Bow",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Toy",
-            "Doll"
+            "K",
+            "DV",
+            "al",
+            "aw",
+            "BR",
+            "Bs",
+            "Cy",
+            "cg",
+            "co",
+            "Dd",
+            "Di",
+            "DK"
         ]
     },
     {
@@ -2251,10 +2455,11 @@
         "name": "Movie Ticket",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Reservation",
-            "Movie"
+            "K",
+            "DV",
+            "aM",
+            "aX",
+            "Br"
         ]
     },
     {
@@ -2264,10 +2469,11 @@
         "name": "30-Color Paint Set",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Toy",
-            "Art"
+            "K",
+            "DV",
+            "al",
+            "ax",
+            "bc"
         ]
     },
     {
@@ -2277,10 +2483,12 @@
         "name": "Classical Poetry Anthology",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "PureLiterature"
+            "K",
+            "DV",
+            "BB",
+            "aY",
+            "cL",
+            "eT"
         ]
     },
     {
@@ -2290,10 +2498,13 @@
         "name": "Cute Dishware Set",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Household",
-            "Food"
+            "K",
+            "DV",
+            "am",
+            "ay",
+            "BK",
+            "Dj",
+            "eg"
         ]
     },
     {
@@ -2303,10 +2514,14 @@
         "name": "Brain Teaser Puzzle Cube",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Toy",
-            "Smart"
+            "K",
+            "DV",
+            "al",
+            "aZ",
+            "BP",
+            "BX",
+            "Ec",
+            "eB"
         ]
     },
     {
@@ -2316,10 +2531,13 @@
         "name": "Large Whole Cake",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Dessert",
-            "BigMeal"
+            "K",
+            "DV",
+            "aJ",
+            "az",
+            "BT",
+            "cH",
+            "ER"
         ]
     },
     {
@@ -2329,10 +2547,12 @@
         "name": "Luxury Buffet Ticket",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Reservation",
-            "BigMeal"
+            "K",
+            "DV",
+            "aM",
+            "az",
+            "BL",
+            "cM"
         ]
     },
     {
@@ -2342,10 +2562,11 @@
         "name": "Potted Bug-Eating Plant",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Horticulture",
-            "CuriousFellow"
+            "K",
+            "DV",
+            "aN",
+            "av",
+            "DD"
         ]
     },
     {
@@ -2355,10 +2576,12 @@
         "name": "Extravagant Gilded Jar of Greed",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Curios",
-            "CuriousFellow"
+            "K",
+            "DV",
+            "ak",
+            "av",
+            "BO",
+            "cn"
         ]
     },
     {
@@ -2368,10 +2591,13 @@
         "name": "Wind-Up Music Box",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Curios",
-            "Music"
+            "K",
+            "DV",
+            "ak",
+            "aQ",
+            "ck",
+            "Ew",
+            "eh"
         ]
     },
     {
@@ -2381,10 +2607,19 @@
         "name": "Embroidered Handkerchief",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Fashion",
-            "Simplicity"
+            "K",
+            "DV",
+            "an",
+            "BA",
+            "BE",
+            "bf",
+            "cF",
+            "cK",
+            "DF",
+            "DT",
+            "EM",
+            "eg",
+            "em"
         ]
     },
     {
@@ -2394,10 +2629,12 @@
         "name": "Encyclopedia",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Books",
-            "Specialized"
+            "K",
+            "DV",
+            "BB",
+            "Ba",
+            "DJ",
+            "FE"
         ]
     },
     {
@@ -2407,10 +2644,14 @@
         "name": "Health Food Supplement",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Functional",
-            "Specialized"
+            "K",
+            "DV",
+            "aO",
+            "Ba",
+            "bF",
+            "cj",
+            "DU",
+            "EP"
         ]
     },
     {
@@ -2420,10 +2661,10 @@
         "name": "Summer Floaty",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSR",
-            "Swimsuit",
-            "WaterPlay"
+            "K",
+            "DV",
+            "CX",
+            "Cx"
         ]
     },
     {
@@ -2433,10 +2674,20 @@
         "name": "Lace Pillow",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Bedding"
+            "K",
+            "Dv",
+            "BC",
+            "aK",
+            "Bf",
+            "de",
+            "Di",
+            "dj",
+            "Ds",
+            "dF",
+            "EI",
+            "Ej",
+            "ek",
+            "eL"
         ]
     },
     {
@@ -2446,10 +2697,16 @@
         "name": "Streets of Thugs Vol. 1",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Books"
+            "K",
+            "Dv",
+            "BC",
+            "BB",
+            "Ez",
+            "eA",
+            "eQ",
+            "eq",
+            "FC",
+            "Fc"
         ]
     },
     {
@@ -2459,10 +2716,26 @@
         "name": "Samuela \"The Beyond\"",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Cosmetics"
+            "K",
+            "Dv",
+            "BC",
+            "Bb",
+            "Be",
+            "dC",
+            "BF",
+            "dD",
+            "cA",
+            "dd",
+            "cH",
+            "DY",
+            "bD",
+            "dn",
+            "EN",
+            "En",
+            "eP",
+            "ep",
+            "FG",
+            "Fg"
         ]
     },
     {
@@ -2472,10 +2745,30 @@
         "name": "Antique Egg Handicraft",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Curios"
+            "K",
+            "Dv",
+            "BC",
+            "ak",
+            "Bf",
+            "de",
+            "Dc",
+            "dq",
+            "cL",
+            "do",
+            "CY",
+            "dc",
+            "cl",
+            "dA",
+            "bb",
+            "da",
+            "Ds",
+            "dF",
+            "EE",
+            "Ef",
+            "Ew",
+            "EX",
+            "eh",
+            "eI"
         ]
     },
     {
@@ -2485,10 +2778,30 @@
         "name": "Mille-Feuille Traditional Parfait",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Dessert"
+            "K",
+            "Dv",
+            "BC",
+            "aJ",
+            "BL",
+            "Dw",
+            "cF",
+            "dH",
+            "BQ",
+            "Dx",
+            "dW",
+            "dX",
+            "Ed",
+            "EF",
+            "EO",
+            "Eo",
+            "ET",
+            "Et",
+            "ER",
+            "Er",
+            "eE",
+            "ee",
+            "FF",
+            "Ff"
         ]
     },
     {
@@ -2498,10 +2811,28 @@
         "name": "Airbook Rare",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Electronic"
+            "K",
+            "Dv",
+            "BC",
+            "aL",
+            "De",
+            "dK",
+            "BP",
+            "ds",
+            "Bq",
+            "dh",
+            "bA",
+            "dB",
+            "ba",
+            "dR",
+            "DL",
+            "DZ",
+            "dZ",
+            "EB",
+            "eC",
+            "ec",
+            "FH",
+            "Fh"
         ]
     },
     {
@@ -2511,10 +2842,32 @@
         "name": "Sophisticated Hairbrush",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Fashion"
+            "K",
+            "Dv",
+            "BC",
+            "an",
+            "Bj",
+            "dp",
+            "Cy",
+            "Dz",
+            "co",
+            "dr",
+            "DF",
+            "dk",
+            "CZ",
+            "dQ",
+            "DK",
+            "dS",
+            "ED",
+            "Ee",
+            "eB",
+            "eb",
+            "eg",
+            "eH",
+            "em",
+            "eN",
+            "eR",
+            "er"
         ]
     },
     {
@@ -2524,10 +2877,36 @@
         "name": "Nutrient-Packed Multivitamin Gummies",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Functional"
+            "K",
+            "Dv",
+            "BC",
+            "aO",
+            "BP",
+            "ds",
+            "BY",
+            "dI",
+            "Cz",
+            "di",
+            "cf",
+            "dm",
+            "cP",
+            "dN",
+            "bc",
+            "df",
+            "bD",
+            "dn",
+            "Eh",
+            "EJ",
+            "EP",
+            "Ep",
+            "ES",
+            "Es",
+            "ei",
+            "eJ",
+            "el",
+            "eM",
+            "FI",
+            "Fi"
         ]
     },
     {
@@ -2537,10 +2916,14 @@
         "name": "Finest Maple Bonsai",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Horticulture"
+            "K",
+            "Dv",
+            "BC",
+            "aN",
+            "Bo",
+            "dP",
+            "Ey",
+            "EZ"
         ]
     },
     {
@@ -2550,10 +2933,28 @@
         "name": "Sewing Kit",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Household"
+            "K",
+            "Dv",
+            "BC",
+            "am",
+            "cg",
+            "dg",
+            "DD",
+            "dE",
+            "Br",
+            "dM",
+            "BX",
+            "dG",
+            "dz",
+            "Eb",
+            "EA",
+            "EC",
+            "eD",
+            "ed",
+            "eS",
+            "es",
+            "eT",
+            "et"
         ]
     },
     {
@@ -2563,10 +2964,18 @@
         "name": "Music Concert Ticket",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Reservation"
+            "K",
+            "Dv",
+            "BC",
+            "aM",
+            "BE",
+            "db",
+            "BR",
+            "dO",
+            "EM",
+            "Em",
+            "Ex",
+            "EY"
         ]
     },
     {
@@ -2576,10 +2985,20 @@
         "name": "Three Times a Day Dumbbell Set",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Sports"
+            "K",
+            "Dv",
+            "BC",
+            "aj",
+            "Ei",
+            "EK",
+            "Eu",
+            "EV",
+            "eD",
+            "ed",
+            "en",
+            "eO",
+            "FE",
+            "Fe"
         ]
     },
     {
@@ -2589,10 +3008,40 @@
         "name": "Board Game \"The Life\"",
         "category": "Favor",
         "tags": [
-            "FavorItem",
-            "CraftMaterial_FavorItemSSR",
-            "Gift1",
-            "Toy"
+            "K",
+            "Dv",
+            "BC",
+            "al",
+            "BS",
+            "DX",
+            "Bv",
+            "dJ",
+            "cG",
+            "dl",
+            "DJ",
+            "Dy",
+            "BW",
+            "dL",
+            "EQ",
+            "Eq",
+            "Ev",
+            "EW",
+            "eB",
+            "eb",
+            "FD",
+            "Fd"
+        ]
+    },
+    {
+        "id": 5996,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Refreshing Bouquet",
+        "category": "Favor",
+        "tags": [
+            "BC",
+            "Bc",
+            "ew"
         ]
     },
     {
@@ -2602,9 +3051,9 @@
         "name": "Beautiful Bouquet",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2",
-            "Gift3"
+            "BC",
+            "Bc",
+            "ew"
         ]
     },
     {
@@ -2614,8 +3063,8 @@
         "name": "Hatsune Miku Photo Card",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2"
+            "BC",
+            "Bc"
         ]
     },
     {
@@ -2625,8 +3074,8 @@
         "name": "Shiny Bouquet",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2"
+            "BC",
+            "Bc"
         ]
     },
     {
@@ -2636,8 +3085,8 @@
         "name": "Frank Burger Commemorative Card",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2"
+            "BC",
+            "Bc"
         ]
     },
     {
@@ -2647,8 +3096,8 @@
         "name": "Dalkomm Coffee Commemorative Card",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2"
+            "BC",
+            "Bc"
         ]
     },
     {
@@ -2658,8 +3107,8 @@
         "name": "Celebration Card: Hyundai Mall PEER",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2"
+            "BC",
+            "Bc"
         ]
     },
     {
@@ -2669,8 +3118,8 @@
         "name": "Commemorative Orchestra Ticket",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2"
+            "BC",
+            "Bc"
         ]
     },
     {
@@ -2680,8 +3129,8 @@
         "name": "Mom's Touch Commemorative Card",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2"
+            "BC",
+            "Bc"
         ]
     },
     {
@@ -2691,8 +3140,8 @@
         "name": "EDIYA COFFEE Commemorative Ticket",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2"
+            "BC",
+            "Bc"
         ]
     },
     {
@@ -2702,8 +3151,8 @@
         "name": "GS25 Commemorative Card",
         "category": "Favor",
         "tags": [
-            "Gift1",
-            "Gift2"
+            "BC",
+            "Bc"
         ]
     },
     {
@@ -2727,6 +3176,38 @@
         "rarity": "SSR",
         "quality": 4,
         "name": " 2★ Student Guaranteed (x10) Ticket ",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6104,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6507,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6508,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6509,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
         "category": "Material",
         "tags": []
     },
@@ -2801,7 +3282,7 @@
         "name": "Secret Tech Sheet",
         "category": "Material",
         "tags": [
-            "SkillBookUltimatePieace"
+            "cR"
         ]
     },
     {
@@ -2811,7 +3292,7 @@
         "name": "Secret Tech Notes",
         "category": "Material",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -2821,7 +3302,7 @@
         "name": "Aru's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2831,7 +3312,7 @@
         "name": "Eimi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2841,7 +3322,7 @@
         "name": "Haruna's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2851,7 +3332,7 @@
         "name": "Hifumi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2861,7 +3342,7 @@
         "name": "Hina's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2871,7 +3352,7 @@
         "name": "Hoshino's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2881,7 +3362,7 @@
         "name": "Iori's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2891,7 +3372,7 @@
         "name": "Maki's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2901,7 +3382,7 @@
         "name": "Neru's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2911,7 +3392,7 @@
         "name": "Izumi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2921,7 +3402,7 @@
         "name": "Shiroko's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2931,7 +3412,7 @@
         "name": "Shun's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2941,7 +3422,7 @@
         "name": "Sumire's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2951,7 +3432,7 @@
         "name": "Tsurugi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2961,7 +3442,7 @@
         "name": "Izuna's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2971,7 +3452,7 @@
         "name": "Aris' Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2981,7 +3462,7 @@
         "name": "Midori's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -2991,7 +3472,7 @@
         "name": "Cherino's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3001,7 +3482,7 @@
         "name": "Yuzu's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3011,7 +3492,7 @@
         "name": "Azusa's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3021,7 +3502,7 @@
         "name": "Koharu's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3031,7 +3512,7 @@
         "name": "Azusa (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3041,7 +3522,7 @@
         "name": "Hina (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3051,7 +3532,7 @@
         "name": "Iori (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3061,7 +3542,7 @@
         "name": "Shiroko (Cycling)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3071,7 +3552,7 @@
         "name": "Shun (Small)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3081,7 +3562,7 @@
         "name": "Neru (Bunny)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3091,7 +3572,7 @@
         "name": "Karin (Bunny)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3101,7 +3582,7 @@
         "name": "Asuna (Bunny)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3111,7 +3592,7 @@
         "name": "Natsu's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3121,7 +3602,7 @@
         "name": "Chinatsu (Hot Spring)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3131,7 +3612,7 @@
         "name": "Aru (New Year)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3141,7 +3622,7 @@
         "name": "Mutsuki (New Year)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3151,7 +3632,7 @@
         "name": "Wakamo's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3161,7 +3642,7 @@
         "name": "Mimori's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3171,7 +3652,7 @@
         "name": "Ui's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3181,7 +3662,7 @@
         "name": "Hinata's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3191,7 +3672,7 @@
         "name": "Marina's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3201,7 +3682,7 @@
         "name": "Miyako's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3211,7 +3692,7 @@
         "name": "Miyu's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3221,7 +3702,7 @@
         "name": "Tsukuyo's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3231,7 +3712,7 @@
         "name": "Misaki's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3241,7 +3722,7 @@
         "name": "Atsuko's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3251,7 +3732,7 @@
         "name": "Wakamo (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3261,7 +3742,7 @@
         "name": "Nonomi (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3271,7 +3752,7 @@
         "name": "Hoshino (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3281,7 +3762,7 @@
         "name": "Izuna (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3291,7 +3772,7 @@
         "name": "Chise (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3301,7 +3782,7 @@
         "name": "Saori's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3311,7 +3792,7 @@
         "name": "Kazusa's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3321,7 +3802,7 @@
         "name": "Kokona's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3331,7 +3812,7 @@
         "name": "Utaha (Cheer Squad)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3341,7 +3822,7 @@
         "name": "Noa's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3351,7 +3832,7 @@
         "name": "Yuuka (Track)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3361,7 +3842,7 @@
         "name": "Mari (Track)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3371,7 +3852,7 @@
         "name": "Shigure's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3381,7 +3862,7 @@
         "name": "Serina (Christmas)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3391,7 +3872,7 @@
         "name": "Haruna (New Year)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3401,7 +3882,7 @@
         "name": "Mine's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3411,7 +3892,7 @@
         "name": "Mika's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3421,7 +3902,7 @@
         "name": "Megu's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3431,7 +3912,7 @@
         "name": "Sakurako's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3441,7 +3922,7 @@
         "name": "Toki's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3451,7 +3932,7 @@
         "name": "Koyuki's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3461,7 +3942,7 @@
         "name": "Kayoko (New Year)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3471,7 +3952,7 @@
         "name": "Kaho's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3481,7 +3962,7 @@
         "name": "Aris (Maid)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3491,7 +3972,7 @@
         "name": "Toki (Bunny)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3501,7 +3982,7 @@
         "name": "Reisa's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3511,7 +3992,7 @@
         "name": "Rumi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3521,7 +4002,7 @@
         "name": "Mina's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3531,7 +4012,7 @@
         "name": "Miyako (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3541,7 +4022,7 @@
         "name": "Saki (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3551,7 +4032,7 @@
         "name": "Ui (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3561,7 +4042,7 @@
         "name": "Hanako (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3571,7 +4052,7 @@
         "name": "Meru's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3581,7 +4062,7 @@
         "name": "Kotori (Cheer Squad)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3591,7 +4072,7 @@
         "name": "Ichika's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3601,7 +4082,77 @@
         "name": "Kasumi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
+        ]
+    },
+    {
+        "id": 10079,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Misaka Mikoto's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10080,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Shokuhou Misaki's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10081,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Yukari's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10082,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Renge's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10083,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Kikyou's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10084,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Kotama (Camp)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10085,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Hare (Camp)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
         ]
     },
     {
@@ -3611,7 +4162,7 @@
         "name": "Akane's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3621,7 +4172,7 @@
         "name": "Chise's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3631,7 +4182,7 @@
         "name": "Akari's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3641,7 +4192,7 @@
         "name": "Hasumi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3651,7 +4202,7 @@
         "name": "Nonomi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3661,7 +4212,7 @@
         "name": "Kayoko's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3671,7 +4222,7 @@
         "name": "Mutsuki's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3681,7 +4232,7 @@
         "name": "Junko's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3691,7 +4242,7 @@
         "name": "Serika's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3701,7 +4252,7 @@
         "name": "Tsubaki's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3711,7 +4262,7 @@
         "name": "Yuuka's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3721,7 +4272,7 @@
         "name": "Momoi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3731,7 +4282,7 @@
         "name": "Kirino's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3741,7 +4292,7 @@
         "name": "Momiji's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3751,7 +4302,7 @@
         "name": "Haruka's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3761,7 +4312,7 @@
         "name": "Asuna's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3771,7 +4322,7 @@
         "name": "Kotori's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3781,7 +4332,7 @@
         "name": "Suzumi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3791,7 +4342,7 @@
         "name": "Pina's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3801,7 +4352,7 @@
         "name": "Tsurugi (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3811,7 +4362,7 @@
         "name": "Izumi (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3821,7 +4372,7 @@
         "name": "Tomoe's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3831,7 +4382,7 @@
         "name": "Fubuki's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3841,7 +4392,7 @@
         "name": "Michiru's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3851,7 +4402,7 @@
         "name": "Hibiki (Cheer Squad)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3861,7 +4412,7 @@
         "name": "Hasumi (Track)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3871,7 +4422,7 @@
         "name": "Junko (New Year)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3881,7 +4432,7 @@
         "name": "Koharu (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3891,7 +4442,7 @@
         "name": "Hibiki's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3901,7 +4452,7 @@
         "name": "Karin's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3911,7 +4462,7 @@
         "name": "Saya's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3921,7 +4472,7 @@
         "name": "Mashiro's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3931,7 +4482,7 @@
         "name": "Mashiro (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3941,7 +4492,7 @@
         "name": "Hifumi (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3951,7 +4502,7 @@
         "name": "Saya (Casual)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3961,7 +4512,7 @@
         "name": "Hatsune Miku's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3971,7 +4522,7 @@
         "name": "Ako's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3981,7 +4532,7 @@
         "name": "Cherino (Hot Spring)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -3991,7 +4542,7 @@
         "name": "Nodoka (Hot Spring)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4001,7 +4552,7 @@
         "name": "Serika (New Year)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4011,7 +4562,7 @@
         "name": "Sena's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4021,7 +4572,7 @@
         "name": "Chihiro's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4031,7 +4582,7 @@
         "name": "Saki's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4041,7 +4592,7 @@
         "name": "Kaede's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4051,7 +4602,7 @@
         "name": "Iroha's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4061,7 +4612,7 @@
         "name": "Hiyori's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4071,7 +4622,7 @@
         "name": "Moe's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4081,7 +4632,7 @@
         "name": "Akane (Bunny)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4091,7 +4642,7 @@
         "name": "Himari's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4101,7 +4652,7 @@
         "name": "Hanae (Christmas)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4111,7 +4662,7 @@
         "name": "Fuuka (New Year)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4121,7 +4672,7 @@
         "name": "Kanna's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4131,7 +4682,7 @@
         "name": "Nagisa's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4141,7 +4692,7 @@
         "name": "Haruka (New Year)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4151,7 +4702,7 @@
         "name": "Minori's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4161,7 +4712,7 @@
         "name": "Shiroko (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4171,7 +4722,7 @@
         "name": "Hinata (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4181,7 +4732,7 @@
         "name": "Mimori (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4191,7 +4742,7 @@
         "name": "Haruna (Track)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4201,7 +4752,17 @@
         "name": "Shigure (Hot Spring)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
+        ]
+    },
+    {
+        "id": 20032,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Eimi (Swimsuit)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
         ]
     },
     {
@@ -4211,7 +4772,7 @@
         "name": "Airi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4221,7 +4782,7 @@
         "name": "Fuuka's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4231,7 +4792,7 @@
         "name": "Hanae's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4241,7 +4802,7 @@
         "name": "Hare's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4251,7 +4812,7 @@
         "name": "Utaha's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4261,7 +4822,7 @@
         "name": "Ayane's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4271,7 +4832,7 @@
         "name": "Shizuko's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4281,7 +4842,7 @@
         "name": "Hanako's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4291,7 +4852,7 @@
         "name": "Mari's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4301,7 +4862,7 @@
         "name": "Chinatsu's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4311,7 +4872,7 @@
         "name": "Kotama's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4321,7 +4882,7 @@
         "name": "Juri's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4331,7 +4892,7 @@
         "name": "Serina's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4341,7 +4902,7 @@
         "name": "Shimiko's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4351,7 +4912,7 @@
         "name": "Yoshimi's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4361,7 +4922,7 @@
         "name": "Nodoka's Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4371,7 +4932,7 @@
         "name": "Ayane (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4381,7 +4942,7 @@
         "name": "Shizuko (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4391,7 +4952,7 @@
         "name": "Yuzu (Maid)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
         ]
     },
     {
@@ -4401,7 +4962,17 @@
         "name": "Miyu (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
-            "SecretStone"
+            "J"
+        ]
+    },
+    {
+        "id": 26011,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Saten Ruiko's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
         ]
     },
     {
@@ -4657,6 +5228,262 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "Superior Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000001,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000002,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000003,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000004,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000005,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000006,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000007,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000008,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000009,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000010,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000011,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000012,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000013,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000014,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000015,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000016,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000017,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000018,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000019,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000020,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000021,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000022,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000023,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000024,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000025,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000026,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000027,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000028,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000029,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000030,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tactical Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000031,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Training Blu-ray Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 91000032,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Tactical Training Blu-ray Chest",
         "category": "Consumable",
         "tags": []
     },
@@ -5653,6 +6480,142 @@
         "tags": []
     },
     {
+        "id": 70097,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70098,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70099,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70100,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70101,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70102,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70103,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70104,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70105,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70106,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70107,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70108,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70109,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70110,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70111,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70112,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70113,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 79999,
         "rarity": "N",
         "quality": 2,
@@ -6325,6 +7288,14 @@
         "tags": []
     },
     {
+        "id": 90070083,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -6403,7 +7374,7 @@
         "name": "Beach Volleyball",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
         ]
     },
     {
@@ -6413,7 +7384,7 @@
         "name": "Beach Shack Meal Ticket",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
         ]
     },
     {
@@ -6423,7 +7394,7 @@
         "name": "Weird Fireworks",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
         ]
     },
     {
@@ -6472,6 +7443,156 @@
         "quality": 1,
         "name": "Sailing Board",
         "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 90080000,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Event Points",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080001,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Kitsune Senbei",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080002,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Tanuki Okonomiyaki",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080003,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Sakura Daifuku",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080010,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Cherino Matryoshka",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080011,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Cherenka Chocolate",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080012,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Mustache Crepe",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080013,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Red Mustache Medal",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080020,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Event Points",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080021,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beach Volleyball",
+        "category": "Coin",
+        "tags": [
+            "Cw"
+        ]
+    },
+    {
+        "id": 90080022,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Beach Shack Meal Ticket",
+        "category": "Coin",
+        "tags": [
+            "Cw"
+        ]
+    },
+    {
+        "id": 90080023,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Weird Fireworks",
+        "category": "Coin",
+        "tags": [
+            "Cw"
+        ]
+    },
+    {
+        "id": 90080024,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Ice Cooler",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080025,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Sand Play Set",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080026,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beach Chair",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080027,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Parasol Table",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080028,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Water Play Equipment",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 90080029,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Sailing Board",
+        "category": "Coin",
         "tags": []
     },
     {
@@ -6567,156 +7688,6 @@
         "rarity": "N",
         "quality": 4,
         "name": "Dice",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080000,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Event Points",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080001,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Kitsune Senbei",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080002,
-        "rarity": "N",
-        "quality": 3,
-        "name": "Tanuki Okonomiyaki",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080003,
-        "rarity": "N",
-        "quality": 4,
-        "name": "Sakura Daifuku",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080010,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Cherino Matryoshka",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080011,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Cherenka Chocolate",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080012,
-        "rarity": "N",
-        "quality": 3,
-        "name": "Mustache Crepe",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080013,
-        "rarity": "N",
-        "quality": 4,
-        "name": "Red Mustache Medal",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080020,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Event Points",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080021,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Beach Volleyball",
-        "category": "Coin",
-        "tags": [
-            "Token_S6"
-        ]
-    },
-    {
-        "id": 90080022,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Beach Shack Meal Ticket",
-        "category": "Coin",
-        "tags": [
-            "Token_S6"
-        ]
-    },
-    {
-        "id": 90080023,
-        "rarity": "N",
-        "quality": 3,
-        "name": "Weird Fireworks",
-        "category": "Coin",
-        "tags": [
-            "Token_S6"
-        ]
-    },
-    {
-        "id": 90080024,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Ice Cooler",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080025,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Sand Play Set",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080026,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Beach Chair",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080027,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Parasol Table",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080028,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Water Play Equipment",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 90080029,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Sailing Board",
         "category": "Coin",
         "tags": []
     },
@@ -6847,7 +7818,7 @@
         "name": "Missal Veil",
         "category": "Coin",
         "tags": [
-            "Token_S14"
+            "DC"
         ]
     },
     {
@@ -6857,7 +7828,7 @@
         "name": "Hymn Book",
         "category": "Coin",
         "tags": [
-            "Token_S14"
+            "DC"
         ]
     },
     {
@@ -6867,7 +7838,7 @@
         "name": "Cathedral Candle",
         "category": "Coin",
         "tags": [
-            "Token_S14"
+            "DC"
         ]
     },
     {
@@ -6908,262 +7879,6 @@
         "quality": 4,
         "name": "Materials Box",
         "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 91000001,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Beginner Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000002,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Normal Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000003,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Advanced Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000004,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Superior Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000005,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Beginner Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000006,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Normal Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000007,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Advanced Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000008,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Superior Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000009,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Beginner Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000010,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Normal Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000011,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Advanced Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000012,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Superior Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000013,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Beginner Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000014,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Normal Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000015,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Advanced Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000016,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Superior Tech Notes Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000017,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Beginner Tactical Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000018,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Normal Tactical Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000019,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Advanced Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000020,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Superior Tactical Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000021,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Beginner Tactical Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000022,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Normal Tactical Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000023,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Advanced Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000024,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Superior Tactical Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000025,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Beginner Tactical Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000026,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Normal Tactical Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000027,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Advanced Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000028,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Superior Tactical Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000029,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Beginner Tactical Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000030,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Normal Tactical Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000031,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Advanced Training Blu-ray Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 91000032,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Superior Tactical Training Blu-ray Chest",
-        "category": "Consumable",
         "tags": []
     },
     {
@@ -7701,7 +8416,7 @@
         "name": "Train Ticket",
         "category": "Coin",
         "tags": [
-            "Token_S32"
+            "FK"
         ]
     },
     {
@@ -7711,7 +8426,7 @@
         "name": "Document Bag",
         "category": "Coin",
         "tags": [
-            "Token_S32"
+            "FK"
         ]
     },
     {
@@ -7721,11 +8436,99 @@
         "name": "Train Crew Whistle",
         "category": "Coin",
         "tags": [
-            "Token_S32"
+            "FK"
         ]
     },
     {
         "id": 80320,
+        "rarity": "N",
+        "quality": 1,
+        "name": "High-Quality Fountain Pen",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80330,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Machine Part",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80331,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Unusual Screw",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80332,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Weird Wire",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80333,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Unverified Data Chip",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80340,
+        "rarity": "N",
+        "quality": 1,
+        "name": "High-Quality Fountain Pen",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80350,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Financial Calculator",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80360,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Event Points",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80361,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Superalloy Camping Pack",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80362,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Multipurpose Rope",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80363,
+        "rarity": "N",
+        "quality": 4,
+        "name": "S&D Curry Powder",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80370,
         "rarity": "N",
         "quality": 1,
         "name": "High-Quality Fountain Pen",
@@ -7745,38 +8548,6 @@
         "rarity": "N",
         "quality": 2,
         "name": "Kitsune Senbei",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85070,
-        "rarity": "N",
-        "quality": 3,
-        "name": "New Year's Lucky Pouch",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85071,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Peroro Kagami Mochi",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85072,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Kurokame Gang Ema",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85073,
-        "rarity": "N",
-        "quality": 4,
-        "name": "New Year Omikuji Token",
         "category": "Coin",
         "tags": []
     },
@@ -7843,7 +8614,7 @@
         "name": "Beach Volleyball",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
         ]
     },
     {
@@ -7853,7 +8624,7 @@
         "name": "Beach Shack Meal Ticket",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
         ]
     },
     {
@@ -7863,7 +8634,301 @@
         "name": "Weird Fireworks",
         "category": "Coin",
         "tags": [
-            "Token_S6"
+            "Cw"
+        ]
+    },
+    {
+        "id": 85024,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Ice Cooler",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 85025,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Sand Play Set",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 85026,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beach Chair",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 85027,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Parasol Table",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 85028,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Water Play Equipment",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 85029,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Sailing Board",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 85030,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Gehenna Supply Box",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85031,
+        "rarity": "N",
+        "quality": 1,
+        "name": "GRS Grilled Corn",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85032,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Thug Summer Shades",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85033,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Splashy Helmet",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85040,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Event Points",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85041,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Turtle Mushroom",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85042,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Black Bamboo Shoot",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85043,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Ginseng Doll",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85050,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Chocolate Coin",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85051,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Rabbit Sticker",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85052,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Boarding Pass",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85053,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Dice",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85060,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Event Points",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85061,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Hot Spring Towel",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85062,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Mustache Shampoo",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85063,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Capybara Bath Bomb",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85070,
+        "rarity": "N",
+        "quality": 3,
+        "name": "New Year's Lucky Pouch",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85071,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Peroro Kagami Mochi",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85072,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Kurokame Gang Ema",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85073,
+        "rarity": "N",
+        "quality": 4,
+        "name": "New Year Omikuji Token",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85080,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Event Points",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85081,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Baddie's Apology Letter",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85082,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Confiscated Junk Food",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85083,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Eco-Friendly Trash Bags",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85084,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Valentine's Day Outing Pass",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85090,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Wakamo Arrest Warrant",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85100,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Event Points",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85101,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Missal Veil",
+        "category": "Coin",
+        "tags": [
+            "DC"
+        ]
+    },
+    {
+        "id": 85102,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Hymn Book",
+        "category": "Coin",
+        "tags": [
+            "DC"
+        ]
+    },
+    {
+        "id": 85103,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Cathedral Candle",
+        "category": "Coin",
+        "tags": [
+            "DC"
         ]
     },
     {
@@ -8115,340 +9180,6 @@
         "tags": []
     },
     {
-        "id": 85024,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Ice Cooler",
-        "category": "Collectible",
-        "tags": []
-    },
-    {
-        "id": 85025,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Sand Play Set",
-        "category": "Collectible",
-        "tags": []
-    },
-    {
-        "id": 85026,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Beach Chair",
-        "category": "Collectible",
-        "tags": []
-    },
-    {
-        "id": 85027,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Parasol Table",
-        "category": "Collectible",
-        "tags": []
-    },
-    {
-        "id": 85028,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Water Play Equipment",
-        "category": "Collectible",
-        "tags": []
-    },
-    {
-        "id": 85029,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Sailing Board",
-        "category": "Collectible",
-        "tags": []
-    },
-    {
-        "id": 85030,
-        "rarity": "N",
-        "quality": 4,
-        "name": "Gehenna Supply Box",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85031,
-        "rarity": "N",
-        "quality": 1,
-        "name": "GRS Grilled Corn",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85032,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Thug Summer Shades",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85033,
-        "rarity": "N",
-        "quality": 3,
-        "name": "Splashy Helmet",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85040,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Event Points",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85041,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Turtle Mushroom",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85042,
-        "rarity": "N",
-        "quality": 3,
-        "name": "Black Bamboo Shoot",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85043,
-        "rarity": "N",
-        "quality": 4,
-        "name": "Ginseng Doll",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85050,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Chocolate Coin",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85051,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Rabbit Sticker",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85052,
-        "rarity": "N",
-        "quality": 3,
-        "name": "Boarding Pass",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85053,
-        "rarity": "N",
-        "quality": 4,
-        "name": "Dice",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85060,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Event Points",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85061,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Hot Spring Towel",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85062,
-        "rarity": "N",
-        "quality": 3,
-        "name": "Mustache Shampoo",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85063,
-        "rarity": "N",
-        "quality": 4,
-        "name": "Capybara Bath Bomb",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85080,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Event Points",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85081,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Baddie's Apology Letter",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85082,
-        "rarity": "N",
-        "quality": 3,
-        "name": "Confiscated Junk Food",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85083,
-        "rarity": "N",
-        "quality": 4,
-        "name": "Eco-Friendly Trash Bags",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85084,
-        "rarity": "N",
-        "quality": 4,
-        "name": "Valentine's Day Outing Pass",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85090,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Wakamo Arrest Warrant",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 85100,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Event Points",
-        "category": "Coin",
-        "tags": []
-    },
-    {
-        "id": 100027,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Equipment Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 100028,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Equipment Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 100029,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Equipment Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 85101,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Missal Veil",
-        "category": "Coin",
-        "tags": [
-            "Token_S14"
-        ]
-    },
-    {
-        "id": 85102,
-        "rarity": "N",
-        "quality": 3,
-        "name": "Hymn Book",
-        "category": "Coin",
-        "tags": [
-            "Token_S14"
-        ]
-    },
-    {
-        "id": 85103,
-        "rarity": "N",
-        "quality": 4,
-        "name": "Cathedral Candle",
-        "category": "Coin",
-        "tags": [
-            "Token_S14"
-        ]
-    },
-    {
-        "id": 110003,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Equipment Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 110004,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Equipment Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 110005,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Equipment Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 110006,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Equipment Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 110007,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Equipment Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 120000,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Equipment Chest",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -8535,7 +9266,7 @@
         "name": "Gift Choice Box",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_FavorItem"
+            "DW"
         ]
     },
     {
@@ -8683,6 +9414,62 @@
         "tags": []
     },
     {
+        "id": 100027,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100028,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100029,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100030,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100031,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Beginner Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100032,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100033,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Tech Notes Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 110000,
         "rarity": "N",
         "quality": 1,
@@ -8707,13 +9494,69 @@
         "tags": []
     },
     {
+        "id": 110003,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110004,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110005,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110006,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110007,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 120000,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 120001,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 150000,
         "rarity": "N",
         "quality": 1,
         "name": "Beginner Tech Notes Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -8723,7 +9566,7 @@
         "name": "Normal Tech Notes Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -8733,7 +9576,7 @@
         "name": "Advanced Tech Notes Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -8743,7 +9586,7 @@
         "name": "Superior Tech Notes Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -8753,7 +9596,7 @@
         "name": "Beginner Tactical Training Blu-ray Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -8763,32 +9606,8 @@
         "name": "Normal Tactical Training Blu-ray Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
-    },
-    {
-        "id": 150038,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Normal Furniture Choice Box",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 150039,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Advanced Furniture Choice Box",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 150040,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Superior Furniture Choice Box",
-        "category": "Consumable",
-        "tags": []
     },
     {
         "id": 150006,
@@ -8797,7 +9616,7 @@
         "name": "Advanced Tactical Training Blu-ray Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -8807,7 +9626,7 @@
         "name": "Superior Tactical Training Blu-ray Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -8817,7 +9636,7 @@
         "name": "Artifact Choice Ticket 1",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -8827,7 +9646,7 @@
         "name": "Artifact Choice Ticket 2",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -8837,7 +9656,7 @@
         "name": "Artifact Choice Ticket 3",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -8847,7 +9666,7 @@
         "name": "Artifact Choice Ticket 4",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -8897,66 +9716,6 @@
         "name": "Normal Tech Notes Choice Ticket",
         "category": "Consumable",
         "tags": []
-    },
-    {
-        "id": 151012,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Game Development Department Furniture Choice Ticket",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
-    },
-    {
-        "id": 151013,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Sunshine Resort Furniture Choice Ticket",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
-    },
-    {
-        "id": 151991,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Normal Furniture Choice Box",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
-    },
-    {
-        "id": 151992,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Advanced Furniture Choice Box",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
-    },
-    {
-        "id": 151993,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Superior Furniture Choice Box",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
-    },
-    {
-        "id": 151999,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Mixed Furniture Choice Ticket",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
     },
     {
         "id": 150018,
@@ -9119,13 +9878,37 @@
         "tags": []
     },
     {
+        "id": 150038,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Furniture Choice Box",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 150039,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Furniture Choice Box",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 150040,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Furniture Choice Box",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 151000,
         "rarity": "N",
         "quality": 1,
         "name": "Beginner Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9135,7 +9918,7 @@
         "name": "Momo Friends Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9145,7 +9928,7 @@
         "name": "Jellies Arcade Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9155,7 +9938,7 @@
         "name": "Valentine's Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9165,7 +9948,7 @@
         "name": "Summer Resort Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9175,7 +9958,7 @@
         "name": "Halloween Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9185,7 +9968,7 @@
         "name": "Hot Springs Resort Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9195,7 +9978,7 @@
         "name": "New Year's Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9205,7 +9988,7 @@
         "name": "Military Campground Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9215,7 +9998,7 @@
         "name": "Beachside Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9225,7 +10008,7 @@
         "name": "Field Day Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -9235,7 +10018,77 @@
         "name": "Abydos Classroom Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
+        ]
+    },
+    {
+        "id": 151012,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Game Development Department Furniture Choice Ticket",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151013,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Sunshine Resort Furniture Choice Ticket",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151014,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Shopping Mall Furniture Choice Ticket",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151991,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Furniture Choice Box",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151992,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Furniture Choice Box",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151993,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Furniture Choice Box",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151999,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Mixed Furniture Choice Ticket",
+        "category": "Consumable",
+        "tags": [
+            "Db"
         ]
     },
     {
@@ -10055,66 +10908,6 @@
         "tags": []
     },
     {
-        "id": 191012,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Game Development Department Furniture Raffle Ticket",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
-    },
-    {
-        "id": 191013,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Sunshine Resort Furniture Raffle Ticket",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
-    },
-    {
-        "id": 191991,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Normal Furniture Raffle Box",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
-    },
-    {
-        "id": 191992,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Advanced Furniture Raffle Box",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
-    },
-    {
-        "id": 191993,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Superior Furniture Raffle Box",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
-    },
-    {
-        "id": 191999,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Mixed Furniture Raffle Ticket",
-        "category": "Consumable",
-        "tags": [
-            "ShiftingCraftCategory_Furniture"
-        ]
-    },
-    {
         "id": 180085,
         "rarity": "N",
         "quality": 4,
@@ -10185,7 +10978,7 @@
         "name": "Beginner Tech Notes Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -10195,7 +10988,7 @@
         "name": "Normal Tech Notes Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -10205,7 +10998,7 @@
         "name": "Advanced Tech Notes Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -10215,7 +11008,7 @@
         "name": "Superior Tech Notes Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_BookItem"
+            "DB"
         ]
     },
     {
@@ -10225,7 +11018,7 @@
         "name": "Beginner Tactical Training Blu-ray Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -10235,7 +11028,7 @@
         "name": "Normal Tactical Training Blu-ray Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -10245,7 +11038,7 @@
         "name": "Advanced Tactical Training Blu-ray Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -10255,7 +11048,7 @@
         "name": "Superior Tactical Training Blu-ray Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CDItem"
+            "Da"
         ]
     },
     {
@@ -10265,24 +11058,8 @@
         "name": "Artifact Raffle Ticket 1",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
-    },
-    {
-        "id": 20000009,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Labor Party Flyer",
-        "category": "Collectible",
-        "tags": []
-    },
-    {
-        "id": 20001000,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Arona's Stamp",
-        "category": "Collectible",
-        "tags": []
     },
     {
         "id": 190021,
@@ -10291,7 +11068,7 @@
         "name": "Artifact Raffle Ticket 2",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -10301,7 +11078,7 @@
         "name": "Artifact Raffle Ticket 3",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -10311,7 +11088,7 @@
         "name": "Artifact Raffle Ticket 4",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_CommonMaterial"
+            "DA"
         ]
     },
     {
@@ -10321,7 +11098,7 @@
         "name": "Beginner Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -10331,7 +11108,7 @@
         "name": "Momo Friends Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -10341,7 +11118,7 @@
         "name": "Jellies Arcade Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -10351,7 +11128,7 @@
         "name": "Valentine's Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -10361,7 +11138,7 @@
         "name": "Summer Resort Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -10371,7 +11148,7 @@
         "name": "Halloween Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -10381,7 +11158,7 @@
         "name": "Hot Springs Resort Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -10391,7 +11168,7 @@
         "name": "New Year Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -10401,7 +11178,7 @@
         "name": "Military Campground Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -10411,7 +11188,7 @@
         "name": "Beachside Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -10421,7 +11198,7 @@
         "name": "Field Day Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
         ]
     },
     {
@@ -10431,7 +11208,77 @@
         "name": "Abydos Classroom Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
-            "ShiftingCraftCategory_Furniture"
+            "Db"
+        ]
+    },
+    {
+        "id": 191012,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Game Development Department Furniture Raffle Ticket",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 191013,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Sunshine Resort Furniture Raffle Ticket",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 191014,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Shopping Mall Furniture Raffle Ticket",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 191991,
+        "rarity": "R",
+        "quality": 2,
+        "name": "Normal Furniture Raffle Box",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 191992,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "Advanced Furniture Raffle Box",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 191993,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Superior Furniture Raffle Box",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 191999,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Mixed Furniture Raffle Ticket",
+        "category": "Consumable",
+        "tags": [
+            "Db"
         ]
     },
     {
@@ -10448,6 +11295,30 @@
         "quality": 1,
         "name": "Credit Card Shards",
         "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 20000009,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Labor Party Flyer",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20000010,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Charcoal Chicken Skewers",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20001000,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Arona's Stamp",
+        "category": "Collectible",
         "tags": []
     },
     {
@@ -10872,6 +11743,70 @@
         "quality": 4,
         "name": "10-Recruitment Ticket",
         "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006507,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006508,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006509,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 30000000,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000001,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000002,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000003,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000004,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
         "tags": []
     }
 ]

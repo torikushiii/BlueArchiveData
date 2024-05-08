@@ -2070,6 +2070,29 @@
         ]
     },
     {
+        "id": 10093,
+        "name": "キララ",
+        "devname": "kirara",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "ShinySparkleSociety",
+        "favoriteGift": [
+            "Bb",
+            "aS",
+            "an"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",

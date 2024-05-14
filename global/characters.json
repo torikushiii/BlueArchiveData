@@ -1799,6 +1799,29 @@
         "favoriteGift": []
     },
     {
+        "id": 10081,
+        "name": "Yukari",
+        "devname": "CH0161",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran",
+        "favoriteGift": [
+            "aJ",
+            "an",
+            "BA"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",

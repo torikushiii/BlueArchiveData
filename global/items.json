@@ -1092,102 +1092,6 @@
         ]
     },
     {
-        "id": 270,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Quimbaya Relic Piece",
-        "category": "Material",
-        "tags": [
-            "k",
-            "M",
-            "cr"
-        ]
-    },
-    {
-        "id": 271,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Broken Quimbaya Relic",
-        "category": "Material",
-        "tags": [
-            "k",
-            "M",
-            "cS"
-        ]
-    },
-    {
-        "id": 272,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Repaired Quimbaya Relic",
-        "category": "Material",
-        "tags": [
-            "k",
-            "M",
-            "cs"
-        ]
-    },
-    {
-        "id": 273,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Intact Quimbaya Relic",
-        "category": "Material",
-        "tags": [
-            "k",
-            "M",
-            "cT"
-        ]
-    },
-    {
-        "id": 280,
-        "rarity": "N",
-        "quality": 1,
-        "name": "Istanbul Rocket Piece",
-        "category": "Material",
-        "tags": [
-            "k",
-            "M",
-            "cr"
-        ]
-    },
-    {
-        "id": 281,
-        "rarity": "R",
-        "quality": 2,
-        "name": "Broken Istanbul Rocket",
-        "category": "Material",
-        "tags": [
-            "k",
-            "M",
-            "cS"
-        ]
-    },
-    {
-        "id": 282,
-        "rarity": "SR",
-        "quality": 3,
-        "name": "Repaired Istanbul Rocket",
-        "category": "Material",
-        "tags": [
-            "k",
-            "M",
-            "cs"
-        ]
-    },
-    {
-        "id": 283,
-        "rarity": "SSR",
-        "quality": 4,
-        "name": "Intact Istanbul Rocket",
-        "category": "Material",
-        "tags": [
-            "k",
-            "M",
-            "cT"
-        ]
-    },
-    {
         "id": 290,
         "rarity": "N",
         "quality": 1,
@@ -2867,7 +2771,9 @@
             "em",
             "eN",
             "eR",
-            "er"
+            "er",
+            "FP",
+            "FR"
         ]
     },
     {
@@ -7296,6 +7202,22 @@
         "tags": []
     },
     {
+        "id": 90070084,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070085,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -10391,7 +10313,7 @@
         "id": 180020,
         "rarity": "N",
         "quality": 4,
-        "name": "Chocolate Monster MAX",
+        "name": "Chocolate Frenzy MAX",
         "category": "Collectible",
         "tags": []
     },

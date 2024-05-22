@@ -2712,6 +2712,54 @@
         "extensionTime": "2024-05-29 10:59:59"
     },
     {
+        "id": 10825,
+        "subId": 825,
+        "rerun": true,
+        "name": "Event_Name_825",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-05-22 11:00:00",
+        "startTime": "2024-05-22 11:00:00",
+        "endTime": "2024-06-05 10:59:59",
+        "extensionTime": "2024-06-12 10:59:59"
+    },
+    {
+        "id": 10825,
+        "subId": 825,
+        "rerun": true,
+        "name": "Event_Name_825",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-05-22 11:00:00",
+        "startTime": "2024-05-22 11:00:00",
+        "endTime": "2024-06-05 10:59:59",
+        "extensionTime": "2024-06-12 10:59:59"
+    },
+    {
+        "id": 10825,
+        "subId": 825,
+        "rerun": true,
+        "name": "Event_Name_825",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-05-22 11:00:00",
+        "startTime": "2024-05-22 11:00:00",
+        "endTime": "2024-06-05 10:59:59",
+        "extensionTime": "2024-06-12 10:59:59"
+    },
+    {
+        "id": 10825,
+        "subId": 825,
+        "rerun": true,
+        "name": "Event_Name_825",
+        "eventContentType": "MiniGameShooting",
+        "subEvent": false,
+        "exposedTime": "2024-05-22 11:00:00",
+        "startTime": "2024-05-22 11:00:00",
+        "endTime": "2024-06-05 10:59:59",
+        "extensionTime": "2024-06-12 10:59:59"
+    },
+    {
         "id": 50822,
         "subId": 822,
         "rerun": false,
@@ -2964,6 +3012,30 @@
         "extensionTime": "2024-05-01 10:59:59"
     },
     {
+        "id": 60008,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "MiniEvent",
+        "subEvent": false,
+        "exposedTime": "2024-06-05 11:00:00",
+        "startTime": "2024-06-05 11:00:00",
+        "endTime": "2024-06-19 10:59:59",
+        "extensionTime": "2024-06-26 10:59:59"
+    },
+    {
+        "id": 60008,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "Treasure",
+        "subEvent": false,
+        "exposedTime": "2024-06-05 11:00:00",
+        "startTime": "2024-06-05 11:00:00",
+        "endTime": "2024-06-19 10:59:59",
+        "extensionTime": "2024-06-26 10:59:59"
+    },
+    {
         "id": 900801,
         "subId": 801,
         "rerun": true,
@@ -3128,6 +3200,54 @@
         "subEvent": false,
         "exposedTime": "2024-05-08 11:00:00",
         "startTime": "2024-05-08 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900814,
+        "subId": 814,
+        "rerun": true,
+        "name": "Event_Name_814",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-06-05 11:00:00",
+        "startTime": "2024-06-05 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900814,
+        "subId": 814,
+        "rerun": true,
+        "name": "Event_Name_814",
+        "eventContentType": "WorldRaid",
+        "subEvent": false,
+        "exposedTime": "2024-06-05 11:00:00",
+        "startTime": "2024-06-05 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900815,
+        "subId": 815,
+        "rerun": true,
+        "name": "Event_Name_815",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-06-16 11:00:00",
+        "startTime": "2024-06-16 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900815,
+        "subId": 815,
+        "rerun": true,
+        "name": "Event_Name_815",
+        "eventContentType": "Conquest",
+        "subEvent": false,
+        "exposedTime": "2024-06-16 11:00:00",
+        "startTime": "2024-06-16 11:00:00",
         "endTime": "2099-12-31 23:59:59",
         "extensionTime": "2099-12-31 23:59:59"
     },

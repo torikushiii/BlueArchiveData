@@ -3091,46 +3091,47 @@
         "endAt": "2024-05-22 10:59:59"
     },
     {
-        "id": 60000,
-        "type": "TicketGacha",
+        "id": 50570,
+        "type": "NormalGacha",
         "rateup": [],
-        "startAt": "2024-04-24 11:00:00",
-        "endAt": "2024-05-08 10:59:59"
+        "startAt": "2024-05-22 11:00:00",
+        "endAt": "2024-06-05 10:59:59"
     },
     {
-        "id": 60001,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-04-24 11:00:00",
-        "endAt": "2024-05-08 10:59:59"
+        "id": 50571,
+        "type": "PickupGacha",
+        "rateup": [
+            10094
+        ],
+        "startAt": "2024-05-22 11:00:00",
+        "endAt": "2024-06-05 10:59:59"
     },
     {
-        "id": 60002,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-05-08 11:00:00",
-        "endAt": "2024-05-15 10:59:59"
+        "id": 50572,
+        "type": "PickupGacha",
+        "rateup": [
+            10095
+        ],
+        "startAt": "2024-05-22 11:00:00",
+        "endAt": "2024-06-05 10:59:59"
     },
     {
-        "id": 60003,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-05-08 11:00:00",
-        "endAt": "2024-05-15 10:59:59"
+        "id": 50573,
+        "type": "PickupGacha",
+        "rateup": [
+            10066
+        ],
+        "startAt": "2024-05-22 11:00:00",
+        "endAt": "2024-06-05 10:59:59"
     },
     {
-        "id": 60004,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-05-15 11:00:00",
-        "endAt": "2024-05-22 10:59:59"
-    },
-    {
-        "id": 60005,
-        "type": "TicketGacha",
-        "rateup": [],
-        "startAt": "2024-05-15 11:00:00",
-        "endAt": "2024-05-22 10:59:59"
+        "id": 50574,
+        "type": "PickupGacha",
+        "rateup": [
+            10067
+        ],
+        "startAt": "2024-05-22 11:00:00",
+        "endAt": "2024-06-05 10:59:59"
     },
     {
         "id": 69999,

@@ -2093,6 +2093,50 @@
         ]
     },
     {
+        "id": 10094,
+        "name": "モモイ（メイド）",
+        "devname": "CH0201",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev",
+        "favoriteGift": [
+            "aR",
+            "aK"
+        ]
+    },
+    {
+        "id": 10095,
+        "name": "ミドリ（メイド）",
+        "devname": "CH0202",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev",
+        "favoriteGift": [
+            "am",
+            "aR"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -2753,6 +2797,60 @@
             "aJ",
             "BA"
         ]
+    },
+    {
+        "id": 19018,
+        "name": "ヒビキ",
+        "devname": "Hibiki",
+        "rarity": "R",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "SMG",
+        "bulletType": "Mystic",
+        "armorType": "Light",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 19019,
+        "name": "カリン",
+        "devname": "karin",
+        "rarity": "R",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "Shugyobu"
+    },
+    {
+        "id": 19020,
+        "name": "サヤ",
+        "devname": "saya",
+        "rarity": "R",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SR",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "GameDev"
     },
     {
         "id": 20000,
@@ -3555,6 +3653,24 @@
             "aK",
             "BB"
         ]
+    },
+    {
+        "id": 20036,
+        "name": "",
+        "devname": "CH0189",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
     },
     {
         "id": 23000,

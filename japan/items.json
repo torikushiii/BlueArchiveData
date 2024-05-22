@@ -2349,7 +2349,8 @@
             "aL",
             "aR",
             "BW",
-            "cG"
+            "cG",
+            "Gb"
         ]
     },
     {
@@ -2559,7 +2560,8 @@
             "ay",
             "BK",
             "Dj",
-            "eg"
+            "eg",
+            "Gc"
         ]
     },
     {
@@ -3051,7 +3053,9 @@
             "eT",
             "et",
             "FS",
-            "Fs"
+            "Fs",
+            "Gc",
+            "GD"
         ]
     },
     {
@@ -3132,7 +3136,9 @@
             "fD",
             "fd",
             "fS",
-            "fs"
+            "fs",
+            "Gb",
+            "GC"
         ]
     },
     {
@@ -3431,6 +3437,14 @@
     },
     {
         "id": 6513,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6514,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4494,6 +4508,26 @@
         ]
     },
     {
+        "id": 10094,
+        "rarity": "N",
+        "quality": 9,
+        "name": "モモイ（メイド）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10095,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ミドリ（メイド）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -5148,6 +5182,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "ツバキ（ガイド）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20036,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -8078,6 +8122,14 @@
         "tags": []
     },
     {
+        "id": 80430,
+        "rarity": "N",
+        "quality": 1,
+        "name": "財務用電卓",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -8818,6 +8870,30 @@
         "tags": []
     },
     {
+        "id": 85210,
+        "rarity": "N",
+        "quality": 1,
+        "name": "きれいなカチューシャ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85211,
+        "rarity": "N",
+        "quality": 2,
+        "name": "メイクアップセット",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85212,
+        "rarity": "N",
+        "quality": 3,
+        "name": "屋敷への招待状",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -9213,6 +9289,14 @@
     },
     {
         "id": 110009,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110010,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",
@@ -11356,6 +11440,14 @@
         "rarity": "N",
         "quality": 2,
         "name": "柴関ジャンボラーメン",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20000012,
+        "rarity": "N",
+        "quality": 2,
+        "name": "アビドス学生証（1年生）",
         "category": "Collectible",
         "tags": []
     },

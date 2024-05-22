@@ -3070,6 +3070,16 @@
         "comfortBonus": 350
     },
     {
+        "id": 210341,
+        "name": "カフェ用ベッド",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210342,
+        "name": "バーベキューグリル",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "総力戦ブロンズトロフィースタンド01",
         "comfortBonus": 50

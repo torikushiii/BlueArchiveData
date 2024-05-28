@@ -2385,6 +2385,26 @@
         "comfortBonus": 50
     },
     {
+        "id": 101020,
+        "name": "Kurokage Bronze Trophy - Urban Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 101021,
+        "name": "Kurokage Silver Trophy - Urban Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 101022,
+        "name": "Kurokage Gold Trophy - Urban Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 101023,
+        "name": "Kurokage Platinum Trophy - Urban Warfare",
+        "comfortBonus": 50
+    },
+    {
         "id": 200301,
         "name": "Trinity-Style Fountain",
         "comfortBonus": 350
@@ -2637,6 +2657,16 @@
     {
         "id": 210324,
         "name": "Tarot Table",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210325,
+        "name": "Antique Countertop",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210326,
+        "name": "Relaxation Chair",
         "comfortBonus": 350
     },
     {

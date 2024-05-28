@@ -1822,6 +1822,56 @@
         ]
     },
     {
+        "id": 10082,
+        "name": "Renge",
+        "devname": "CH0224",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran",
+        "favoriteGift": [
+            "am",
+            "ay",
+            "aM",
+            "aX",
+            "aq"
+        ]
+    },
+    {
+        "id": 10083,
+        "name": "Kikyou",
+        "devname": "CH0225",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran",
+        "favoriteGift": [
+            "BB",
+            "aT",
+            "au",
+            "aY",
+            "Ba"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",

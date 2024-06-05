@@ -3656,7 +3656,7 @@
     },
     {
         "id": 20036,
-        "name": "",
+        "name": "セリカ（水着）",
         "devname": "CH0189",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3670,7 +3670,13 @@
             "Watch"
         ],
         "school": "Abydos",
-        "club": "Countermeasure"
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "ak",
+            "BA",
+            "CX",
+            "Cx"
+        ]
     },
     {
         "id": 23000,

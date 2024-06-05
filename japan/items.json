@@ -145,7 +145,7 @@
         "id": 40,
         "rarity": "N",
         "quality": 1,
-        "name": "カフェ2号設備コアLV1",
+        "name": "カフェ2号設備コアLv1",
         "category": "Material",
         "tags": []
     },
@@ -153,7 +153,7 @@
         "id": 41,
         "rarity": "R",
         "quality": 2,
-        "name": "カフェ2号設備コアLV2",
+        "name": "カフェ2号設備コアLv2",
         "category": "Material",
         "tags": []
     },
@@ -161,7 +161,7 @@
         "id": 42,
         "rarity": "SR",
         "quality": 3,
-        "name": "カフェ2号設備コアLV3",
+        "name": "カフェ2号設備コアLv3",
         "category": "Material",
         "tags": []
     },
@@ -169,7 +169,7 @@
         "id": 43,
         "rarity": "SSR",
         "quality": 4,
-        "name": "カフェ2号設備コアLV4",
+        "name": "カフェ2号設備コアLv4",
         "category": "Material",
         "tags": []
     },
@@ -177,7 +177,7 @@
         "id": 49,
         "rarity": "SSR",
         "quality": 9,
-        "name": "カフェ2号設備コアLV10",
+        "name": "カフェ2号設備コアLv10",
         "category": "Material",
         "tags": []
     },
@@ -2643,7 +2643,8 @@
             "av",
             "BO",
             "cn",
-            "fg"
+            "fg",
+            "Gd"
         ]
     },
     {
@@ -2843,7 +2844,9 @@
             "fE",
             "fe",
             "fg",
-            "fH"
+            "fH",
+            "Gd",
+            "GE"
         ]
     },
     {
@@ -5191,7 +5194,7 @@
         "id": 20036,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "セリカ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"

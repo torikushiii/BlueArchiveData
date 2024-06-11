@@ -3198,6 +3198,30 @@
         ]
     },
     {
+        "id": 20032,
+        "name": "Eimi (Swimsuit)",
+        "devname": "CH0219",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "SPTF",
+        "favoriteGift": [
+            "CX",
+            "Cx",
+            "ak",
+            "aQ"
+        ]
+    },
+    {
         "id": 23000,
         "name": "Airi",
         "devname": "airi",

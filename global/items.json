@@ -2187,7 +2187,8 @@
             "aR",
             "bA",
             "BS",
-            "eB"
+            "eB",
+            "Fz"
         ]
     },
     {
@@ -2836,7 +2837,11 @@
             "eC",
             "ec",
             "FH",
-            "Fh"
+            "Fh",
+            "Fy",
+            "FZ",
+            "Fz",
+            "fA"
         ]
     },
     {
@@ -3191,7 +3196,7 @@
         "id": 6104,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": " 3★ Student Guaranteed (x10) Ticket ",
         "category": "Material",
         "tags": []
     },
@@ -7337,6 +7342,14 @@
     },
     {
         "id": 90070088,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070089,
         "rarity": "N",
         "quality": 2,
         "name": "Recruitment Points",
@@ -11490,6 +11503,46 @@
         "tags": []
     },
     {
+        "id": 30000000,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000001,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000002,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000003,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000004,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 90000100,
         "rarity": "N",
         "quality": 1,
@@ -11770,6 +11823,14 @@
         "tags": []
     },
     {
+        "id": 90006104,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": " 3★ Student Guaranteed (x10) Ticket ",
+        "category": "Material",
+        "tags": []
+    },
+    {
         "id": 90006504,
         "rarity": "SSR",
         "quality": 4,
@@ -11815,46 +11876,6 @@
         "quality": 4,
         "name": "10-Recruitment Ticket",
         "category": "Material",
-        "tags": []
-    },
-    {
-        "id": 30000000,
-        "rarity": "N",
-        "quality": 4,
-        "name": "",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 30000001,
-        "rarity": "N",
-        "quality": 4,
-        "name": "",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 30000002,
-        "rarity": "N",
-        "quality": 4,
-        "name": "",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 30000003,
-        "rarity": "N",
-        "quality": 4,
-        "name": "",
-        "category": "Consumable",
-        "tags": []
-    },
-    {
-        "id": 30000004,
-        "rarity": "N",
-        "quality": 4,
-        "name": "",
-        "category": "Consumable",
         "tags": []
     }
 ]

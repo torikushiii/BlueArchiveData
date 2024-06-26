@@ -3080,6 +3080,26 @@
         "comfortBonus": 350
     },
     {
+        "id": 210343,
+        "name": "水難救命ボックス",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210344,
+        "name": "ジャイアントプールフロート",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210345,
+        "name": "ライフセーバー用椅子",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210346,
+        "name": "メッシュハンモック",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "総力戦ブロンズトロフィースタンド01",
         "comfortBonus": 50

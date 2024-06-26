@@ -1716,6 +1716,66 @@
         "extensionTime": "2024-05-15 10:59:59"
     },
     {
+        "id": 837,
+        "subId": 837,
+        "rerun": false,
+        "name": "Event_Name_837",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-06-26 11:00:00",
+        "startTime": "2024-06-26 11:00:00",
+        "endTime": "2024-07-10 10:59:59",
+        "extensionTime": "2024-07-17 10:59:59"
+    },
+    {
+        "id": 837,
+        "subId": 837,
+        "rerun": false,
+        "name": "Event_Name_837",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-06-26 11:00:00",
+        "startTime": "2024-06-26 11:00:00",
+        "endTime": "2024-07-10 10:59:59",
+        "extensionTime": "2024-07-17 10:59:59"
+    },
+    {
+        "id": 837,
+        "subId": 837,
+        "rerun": false,
+        "name": "Event_Name_837",
+        "eventContentType": "BoxGacha",
+        "subEvent": false,
+        "exposedTime": "2024-06-26 11:00:00",
+        "startTime": "2024-06-26 11:00:00",
+        "endTime": "2024-07-10 10:59:59",
+        "extensionTime": "2024-07-17 10:59:59"
+    },
+    {
+        "id": 837,
+        "subId": 837,
+        "rerun": false,
+        "name": "Event_Name_837",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-06-26 11:00:00",
+        "startTime": "2024-06-26 11:00:00",
+        "endTime": "2024-07-10 10:59:59",
+        "extensionTime": "2024-07-17 10:59:59"
+    },
+    {
+        "id": 837,
+        "subId": 837,
+        "rerun": false,
+        "name": "Event_Name_837",
+        "eventContentType": "Recollection",
+        "subEvent": false,
+        "exposedTime": "2024-06-26 11:00:00",
+        "startTime": "2024-06-26 11:00:00",
+        "endTime": "2024-07-10 10:59:59",
+        "extensionTime": "2024-07-17 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -2758,6 +2818,54 @@
         "startTime": "2024-05-22 11:00:00",
         "endTime": "2024-06-05 10:59:59",
         "extensionTime": "2024-06-12 10:59:59"
+    },
+    {
+        "id": 10827,
+        "subId": 827,
+        "rerun": true,
+        "name": "Event_Name_827",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-07-10 11:00:00",
+        "startTime": "2024-07-10 11:00:00",
+        "endTime": "2024-07-17 10:59:59",
+        "extensionTime": "2024-07-24 10:59:59"
+    },
+    {
+        "id": 10827,
+        "subId": 827,
+        "rerun": true,
+        "name": "Event_Name_827",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-07-10 11:00:00",
+        "startTime": "2024-07-10 11:00:00",
+        "endTime": "2024-07-17 10:59:59",
+        "extensionTime": "2024-07-24 10:59:59"
+    },
+    {
+        "id": 10827,
+        "subId": 827,
+        "rerun": true,
+        "name": "Event_Name_827",
+        "eventContentType": "DiceRace",
+        "subEvent": false,
+        "exposedTime": "2024-07-10 11:00:00",
+        "startTime": "2024-07-10 11:00:00",
+        "endTime": "2024-07-17 10:59:59",
+        "extensionTime": "2024-07-24 10:59:59"
+    },
+    {
+        "id": 10827,
+        "subId": 827,
+        "rerun": true,
+        "name": "Event_Name_827",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-07-10 11:00:00",
+        "startTime": "2024-07-10 11:00:00",
+        "endTime": "2024-07-17 10:59:59",
+        "extensionTime": "2024-07-24 10:59:59"
     },
     {
         "id": 50822,

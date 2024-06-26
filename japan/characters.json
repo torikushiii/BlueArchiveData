@@ -2137,6 +2137,48 @@
         ]
     },
     {
+        "id": 10096,
+        "name": "カンナ（水着）",
+        "devname": "CH0260",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Valkyrie",
+        "club": "PublicPeaceBureau",
+        "favoriteGift": [
+            "BB",
+            "au",
+            "CX",
+            "Cx"
+        ]
+    },
+    {
+        "id": 10097,
+        "name": "",
+        "devname": "CH0216",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -3679,6 +3721,31 @@
         ]
     },
     {
+        "id": 20037,
+        "name": "フブキ（水着）",
+        "devname": "CH0261",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Valkyrie",
+        "club": "anzenkyoku",
+        "favoriteGift": [
+            "aJ",
+            "aR",
+            "aP",
+            "CX",
+            "Cx"
+        ]
+    },
+    {
         "id": 23000,
         "name": "アイリ",
         "devname": "airi",
@@ -4131,5 +4198,29 @@
         "school": "Sakugawa",
         "club": "EmptyClub",
         "favoriteGift": []
+    },
+    {
+        "id": 26012,
+        "name": "キリノ（水着）",
+        "devname": "CH0262",
+        "rarity": "R",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Valkyrie",
+        "club": "anzenkyoku",
+        "favoriteGift": [
+            "aj",
+            "ao",
+            "CX",
+            "Cx"
+        ]
     }
 ]

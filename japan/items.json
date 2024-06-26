@@ -2301,7 +2301,8 @@
             "EM",
             "fX",
             "fY",
-            "fZ"
+            "fZ",
+            "Gg"
         ]
     },
     {
@@ -2423,7 +2424,8 @@
             "aj",
             "aR",
             "BJ",
-            "Ei"
+            "Ei",
+            "Gh"
         ]
     },
     {
@@ -2776,7 +2778,9 @@
             "FC",
             "Fc",
             "FT",
-            "Ft"
+            "Ft",
+            "Ge",
+            "GF"
         ]
     },
     {
@@ -2889,7 +2893,9 @@
             "fY",
             "fy",
             "fZ",
-            "fz"
+            "fz",
+            "Gg",
+            "GH"
         ]
     },
     {
@@ -3104,7 +3110,9 @@
             "en",
             "eO",
             "FE",
-            "Fe"
+            "Fe",
+            "Gh",
+            "GI"
         ]
     },
     {
@@ -3448,6 +3456,14 @@
     },
     {
         "id": 6514,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6515,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4531,6 +4547,26 @@
         ]
     },
     {
+        "id": 10096,
+        "rarity": "N",
+        "quality": 9,
+        "name": "カンナ（水着）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10097,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -5201,6 +5237,16 @@
         ]
     },
     {
+        "id": 20037,
+        "rarity": "N",
+        "quality": 9,
+        "name": "フブキ（水着）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 23000,
         "rarity": "N",
         "quality": 9,
@@ -5405,6 +5451,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "佐天涙子の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 26012,
+        "rarity": "N",
+        "quality": 9,
+        "name": "キリノ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -6891,6 +6947,86 @@
         "tags": []
     },
     {
+        "id": 70122,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70123,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70124,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70125,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70126,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70127,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70128,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70129,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70130,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70131,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 79999,
         "rarity": "N",
         "quality": 2,
@@ -8133,6 +8269,38 @@
         "tags": []
     },
     {
+        "id": 80440,
+        "rarity": "N",
+        "quality": 1,
+        "name": "ウォーターパークのリストバンド",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80441,
+        "rarity": "N",
+        "quality": 2,
+        "name": "安全ホイッスル",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80442,
+        "rarity": "N",
+        "quality": 3,
+        "name": "救命浮き輪",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80443,
+        "rarity": "N",
+        "quality": 4,
+        "name": "ライフジャケット",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -8897,6 +9065,94 @@
         "tags": []
     },
     {
+        "id": 85220,
+        "rarity": "N",
+        "quality": 1,
+        "name": "冷凍エビ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85221,
+        "rarity": "N",
+        "quality": 2,
+        "name": "小石",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85222,
+        "rarity": "N",
+        "quality": 3,
+        "name": "貝殻",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85223,
+        "rarity": "N",
+        "quality": 4,
+        "name": "乾いたヒトデ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85224,
+        "rarity": "N",
+        "quality": 4,
+        "name": "サイコロ確定券",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 85225,
+        "rarity": "N",
+        "quality": 4,
+        "name": "サイコロ1確定券",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85226,
+        "rarity": "N",
+        "quality": 4,
+        "name": "サイコロ2確定券",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85227,
+        "rarity": "N",
+        "quality": 4,
+        "name": "サイコロ3確定券",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85228,
+        "rarity": "N",
+        "quality": 4,
+        "name": "サイコロ4確定券",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85229,
+        "rarity": "N",
+        "quality": 4,
+        "name": "サイコロ5確定券",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85230,
+        "rarity": "N",
+        "quality": 4,
+        "name": "サイコロ6確定券",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -9212,6 +9468,14 @@
     },
     {
         "id": 100037,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100038,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",
@@ -11484,6 +11748,46 @@
         "quality": 2,
         "name": "アロナのスタンプ",
         "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 30000000,
+        "rarity": "N",
+        "quality": 4,
+        "name": "シロコ募集チケット",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000001,
+        "rarity": "N",
+        "quality": 4,
+        "name": "セリカ募集チケット",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000002,
+        "rarity": "N",
+        "quality": 4,
+        "name": "ノノミ募集チケット",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000003,
+        "rarity": "N",
+        "quality": 4,
+        "name": "アヤネ募集チケット",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 30000004,
+        "rarity": "N",
+        "quality": 4,
+        "name": "ホシノ募集チケット",
+        "category": "Consumable",
         "tags": []
     }
 ]

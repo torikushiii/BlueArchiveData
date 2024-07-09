@@ -1551,7 +1551,7 @@
         "id": 3062,
         "rarity": "SR",
         "quality": 3,
-        "name": "Advance Tactical Training Blu-ray (Arius)",
+        "name": "Advanced Tactical Training Blu-ray (Arius)",
         "category": "Material",
         "tags": [
             "I",
@@ -7350,6 +7350,22 @@
     },
     {
         "id": 90070089,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070090,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070091,
         "rarity": "N",
         "quality": 2,
         "name": "Recruitment Points",

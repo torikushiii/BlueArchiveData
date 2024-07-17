@@ -2162,7 +2162,7 @@
     },
     {
         "id": 10097,
-        "name": "",
+        "name": "モエ（水着）",
         "devname": "CH0216",
         "rarity": "SSR",
         "role": "Dealer",
@@ -2176,7 +2176,14 @@
             "Watch"
         ],
         "school": "SRT",
-        "club": "RabbitPlatoon"
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "as",
+            "av",
+            "aL",
+            "CX",
+            "Cx"
+        ]
     },
     {
         "id": 13000,

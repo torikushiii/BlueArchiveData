@@ -1236,6 +1236,42 @@
         ]
     },
     {
+        "id": 2000,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cs"
+        ]
+    },
+    {
+        "id": 2001,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cs"
+        ]
+    },
+    {
+        "id": 2002,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "",
+        "category": "Material",
+        "tags": [
+            "k",
+            "M",
+            "cs"
+        ]
+    },
+    {
         "id": 3000,
         "rarity": "N",
         "quality": 1,
@@ -1436,7 +1472,8 @@
         "tags": [
             "I",
             "M",
-            "ct"
+            "ct",
+            "fV"
         ]
     },
     {
@@ -1448,7 +1485,8 @@
         "tags": [
             "I",
             "M",
-            "cU"
+            "cU",
+            "fV"
         ]
     },
     {
@@ -1460,7 +1498,8 @@
         "tags": [
             "I",
             "M",
-            "cu"
+            "cu",
+            "fV"
         ]
     },
     {
@@ -1472,7 +1511,8 @@
         "tags": [
             "I",
             "M",
-            "cV"
+            "cV",
+            "fV"
         ]
     },
     {
@@ -1872,7 +1912,8 @@
         "tags": [
             "j",
             "M",
-            "cv"
+            "cv",
+            "fv"
         ]
     },
     {
@@ -1884,7 +1925,8 @@
         "tags": [
             "j",
             "M",
-            "cW"
+            "cW",
+            "fv"
         ]
     },
     {
@@ -1896,7 +1938,8 @@
         "tags": [
             "j",
             "M",
-            "cw"
+            "cw",
+            "fv"
         ]
     },
     {
@@ -1908,7 +1951,8 @@
         "tags": [
             "j",
             "M",
-            "cX"
+            "cX",
+            "fv"
         ]
     },
     {
@@ -2119,7 +2163,8 @@
             "aK",
             "ap",
             "Bo",
-            "cP"
+            "cP",
+            "fT"
         ]
     },
     {
@@ -2357,7 +2402,8 @@
             "BB",
             "au",
             "bd",
-            "Bu"
+            "Bu",
+            "fC"
         ]
     },
     {
@@ -2426,7 +2472,9 @@
             "BF",
             "BV",
             "cA",
-            "Ev"
+            "Ev",
+            "fB",
+            "fg"
         ]
     },
     {
@@ -2461,7 +2509,8 @@
             "DV",
             "aM",
             "aX",
-            "Br"
+            "Br",
+            "fB"
         ]
     },
     {
@@ -2554,7 +2603,8 @@
             "aM",
             "az",
             "BL",
-            "cM"
+            "cM",
+            "fh"
         ]
     },
     {
@@ -2583,7 +2633,8 @@
             "ak",
             "av",
             "BO",
-            "cn"
+            "cn",
+            "fg"
         ]
     },
     {
@@ -2599,7 +2650,8 @@
             "aQ",
             "ck",
             "Ew",
-            "eh"
+            "eh",
+            "ff"
         ]
     },
     {
@@ -2654,7 +2706,8 @@
             "bF",
             "cj",
             "DU",
-            "EP"
+            "EP",
+            "fC"
         ]
     },
     {
@@ -2690,7 +2743,9 @@
             "EI",
             "Ej",
             "ek",
-            "eL"
+            "eL",
+            "fT",
+            "ft"
         ]
     },
     {
@@ -2773,7 +2828,11 @@
             "Ew",
             "EX",
             "eh",
-            "eI"
+            "eI",
+            "fE",
+            "fe",
+            "fg",
+            "fH"
         ]
     },
     {
@@ -2806,7 +2865,11 @@
             "eE",
             "ee",
             "FF",
-            "Ff"
+            "Ff",
+            "fD",
+            "fd",
+            "fh",
+            "fI"
         ]
     },
     {
@@ -2841,7 +2904,9 @@
             "Fy",
             "FZ",
             "Fz",
-            "fA"
+            "fA",
+            "ff",
+            "fG"
         ]
     },
     {
@@ -2917,7 +2982,9 @@
             "el",
             "eM",
             "FI",
-            "Fi"
+            "Fi",
+            "fC",
+            "fc"
         ]
     },
     {
@@ -2988,7 +3055,9 @@
             "EM",
             "Em",
             "Ex",
-            "EY"
+            "EY",
+            "fB",
+            "fb"
         ]
     },
     {
@@ -3042,7 +3111,11 @@
             "eB",
             "eb",
             "FD",
-            "Fd"
+            "Fd",
+            "fD",
+            "fd",
+            "fS",
+            "fs"
         ]
     },
     {
@@ -3225,6 +3298,30 @@
         "tags": []
     },
     {
+        "id": 6510,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6511,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6512,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
         "id": 6600,
         "rarity": "SSR",
         "quality": 4,
@@ -3253,6 +3350,38 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "3★ Student Guaranteed Recruitment Ticket (Attack Type)",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6700,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6701,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6702,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6703,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
         "category": "Material",
         "tags": []
     },
@@ -4169,6 +4298,56 @@
         ]
     },
     {
+        "id": 10086,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10087,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10088,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10089,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10090,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -4443,6 +4622,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "Koharu (Swimsuit)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 16014,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -4773,6 +4962,36 @@
         "rarity": "N",
         "quality": 9,
         "name": "Eimi (Swimsuit)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20033,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20034,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20035,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -5717,6 +5936,38 @@
         "tags": []
     },
     {
+        "id": 61000,
+        "rarity": "N",
+        "quality": 1,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 61001,
+        "rarity": "R",
+        "quality": 2,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 61002,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 61003,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 70000,
         "rarity": "N",
         "quality": 2,
@@ -6629,6 +6880,70 @@
         "tags": []
     },
     {
+        "id": 70114,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70115,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70116,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70117,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70118,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70119,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70120,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70121,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 79999,
         "rarity": "N",
         "quality": 2,
@@ -7366,6 +7681,22 @@
     },
     {
         "id": 90070091,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070092,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070093,
         "rarity": "N",
         "quality": 2,
         "name": "Recruitment Points",
@@ -8153,7 +8484,7 @@
     {
         "id": 80181,
         "rarity": "N",
-        "quality": 1,
+        "quality": 2,
         "name": "Red and White Fish Cakes",
         "category": "Coin",
         "tags": []
@@ -8161,7 +8492,7 @@
     {
         "id": 80182,
         "rarity": "N",
-        "quality": 2,
+        "quality": 3,
         "name": "Snapper",
         "category": "Coin",
         "tags": []
@@ -8609,6 +8940,110 @@
         "rarity": "N",
         "quality": 1,
         "name": "High-Quality Fountain Pen",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80380,
+        "rarity": "N",
+        "quality": 1,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80381,
+        "rarity": "N",
+        "quality": 2,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80382,
+        "rarity": "N",
+        "quality": 3,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80390,
+        "rarity": "N",
+        "quality": 1,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80391,
+        "rarity": "N",
+        "quality": 2,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80392,
+        "rarity": "N",
+        "quality": 3,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80393,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80394,
+        "rarity": "N",
+        "quality": 5,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80400,
+        "rarity": "N",
+        "quality": 1,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80401,
+        "rarity": "N",
+        "quality": 2,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80402,
+        "rarity": "N",
+        "quality": 3,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80403,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80410,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Financial Calculator",
         "category": "Coin",
         "tags": []
     },
@@ -9257,6 +9692,70 @@
         "tags": []
     },
     {
+        "id": 85180,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Christmas Gift",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85181,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Christmas Stocking",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85182,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Candy Cane",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85183,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Eggnog",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85190,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Event Points",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85191,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Red and White Fish Cakes",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85192,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Snapper",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85193,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Omikuji Exchange Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -9547,6 +10046,30 @@
         "tags": []
     },
     {
+        "id": 100034,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100035,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100036,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 110000,
         "rarity": "N",
         "quality": 1,
@@ -9604,6 +10127,14 @@
     },
     {
         "id": 110007,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110008,
         "rarity": "N",
         "quality": 1,
         "name": "Equipment Chest",
@@ -9979,6 +10510,14 @@
         "tags": []
     },
     {
+        "id": 150041,
+        "rarity": "N",
+        "quality": 1,
+        "name": "",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 151000,
         "rarity": "N",
         "quality": 1,
@@ -10123,6 +10662,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "Shopping Mall Furniture Choice Ticket",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151015,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11049,6 +11598,190 @@
         "tags": []
     },
     {
+        "id": 180093,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180094,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180095,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180096,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180097,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180098,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180099,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180100,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180101,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180102,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180103,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180104,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180105,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180106,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180107,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180108,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180109,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180110,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180111,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180112,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180113,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180114,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180115,
+        "rarity": "N",
+        "quality": 4,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
         "id": 190000,
         "rarity": "N",
         "quality": 1,
@@ -11319,6 +12052,16 @@
         ]
     },
     {
+        "id": 191015,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
         "id": 191991,
         "rarity": "R",
         "quality": 2,
@@ -11372,30 +12115,6 @@
         "quality": 1,
         "name": "Credit Card Shards",
         "category": "Material",
-        "tags": []
-    },
-    {
-        "id": 20000009,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Labor Party Flyer",
-        "category": "Collectible",
-        "tags": []
-    },
-    {
-        "id": 20000010,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Charcoal Chicken Skewers",
-        "category": "Collectible",
-        "tags": []
-    },
-    {
-        "id": 20001000,
-        "rarity": "N",
-        "quality": 2,
-        "name": "Arona's Stamp",
-        "category": "Collectible",
         "tags": []
     },
     {
@@ -11503,6 +12222,46 @@
         "tags": []
     },
     {
+        "id": 20000009,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Labor Party Flyer",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20000010,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Charcoal Chicken Skewers",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20000011,
+        "rarity": "N",
+        "quality": 2,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20001000,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Arona's Stamp",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20001001,
+        "rarity": "N",
+        "quality": 2,
+        "name": "",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
         "id": 29999998,
         "rarity": "N",
         "quality": 2,
@@ -11599,6 +12358,14 @@
         "tags": []
     },
     {
+        "id": 90000105,
+        "rarity": "N",
+        "quality": 1,
+        "name": "",
+        "category": "MonthlyBonus",
+        "tags": []
+    },
+    {
         "id": 90000500,
         "rarity": "N",
         "quality": 1,
@@ -11635,6 +12402,14 @@
         "rarity": "N",
         "quality": 1,
         "name": "Half Monthly Pyroxene Pack",
+        "category": "MonthlyBonus",
+        "tags": []
+    },
+    {
+        "id": 90000505,
+        "rarity": "N",
+        "quality": 1,
+        "name": "",
         "category": "MonthlyBonus",
         "tags": []
     },
@@ -11679,6 +12454,14 @@
         "tags": []
     },
     {
+        "id": 90000805,
+        "rarity": "N",
+        "quality": 1,
+        "name": "",
+        "category": "MonthlyBonus",
+        "tags": []
+    },
+    {
         "id": 90000300,
         "rarity": "N",
         "quality": 1,
@@ -11715,6 +12498,14 @@
         "rarity": "N",
         "quality": 1,
         "name": "Half Monthly Pyroxene Pack",
+        "category": "MonthlyBonus",
+        "tags": []
+    },
+    {
+        "id": 90000305,
+        "rarity": "N",
+        "quality": 1,
+        "name": "",
         "category": "MonthlyBonus",
         "tags": []
     },
@@ -11763,6 +12554,14 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "StartDash 3★ Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 911000001,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
         "category": "Material",
         "tags": []
     },
@@ -11891,6 +12690,62 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006510,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006511,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006512,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006700,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006701,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006702,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006703,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "",
         "category": "Material",
         "tags": []
     }

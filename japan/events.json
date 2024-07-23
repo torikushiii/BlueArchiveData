@@ -1776,6 +1776,54 @@
         "extensionTime": "2024-07-17 10:59:59"
     },
     {
+        "id": 838,
+        "subId": 838,
+        "rerun": false,
+        "name": "Event_Name_838",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-07-22 11:00:00",
+        "startTime": "2024-07-22 11:00:00",
+        "endTime": "2024-08-07 10:59:59",
+        "extensionTime": "2024-08-14 10:59:59"
+    },
+    {
+        "id": 838,
+        "subId": 838,
+        "rerun": false,
+        "name": "Event_Name_838",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-07-22 11:00:00",
+        "startTime": "2024-07-22 11:00:00",
+        "endTime": "2024-08-07 10:59:59",
+        "extensionTime": "2024-08-14 10:59:59"
+    },
+    {
+        "id": 838,
+        "subId": 838,
+        "rerun": false,
+        "name": "Event_Name_838",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-07-22 11:00:00",
+        "startTime": "2024-07-22 11:00:00",
+        "endTime": "2024-08-07 10:59:59",
+        "extensionTime": "2024-08-14 10:59:59"
+    },
+    {
+        "id": 838,
+        "subId": 838,
+        "rerun": false,
+        "name": "Event_Name_838",
+        "eventContentType": "MiniGameDefense",
+        "subEvent": false,
+        "exposedTime": "2024-07-22 11:00:00",
+        "startTime": "2024-07-22 11:00:00",
+        "endTime": "2024-08-07 10:59:59",
+        "extensionTime": "2024-08-14 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -2866,6 +2914,54 @@
         "startTime": "2024-07-10 11:00:00",
         "endTime": "2024-07-17 10:59:59",
         "extensionTime": "2024-07-24 10:59:59"
+    },
+    {
+        "id": 10829,
+        "subId": 829,
+        "rerun": true,
+        "name": "Event_Name_829",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-08-07 11:00:00",
+        "startTime": "2024-08-07 11:00:00",
+        "endTime": "2024-08-14 10:59:59",
+        "extensionTime": "2024-08-21 10:59:59"
+    },
+    {
+        "id": 10829,
+        "subId": 829,
+        "rerun": true,
+        "name": "Event_Name_829",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-08-07 11:00:00",
+        "startTime": "2024-08-07 11:00:00",
+        "endTime": "2024-08-14 10:59:59",
+        "extensionTime": "2024-08-21 10:59:59"
+    },
+    {
+        "id": 10829,
+        "subId": 829,
+        "rerun": true,
+        "name": "Event_Name_829",
+        "eventContentType": "CardShop",
+        "subEvent": false,
+        "exposedTime": "2024-08-07 11:00:00",
+        "startTime": "2024-08-07 11:00:00",
+        "endTime": "2024-08-14 10:59:59",
+        "extensionTime": "2024-08-21 10:59:59"
+    },
+    {
+        "id": 10829,
+        "subId": 829,
+        "rerun": true,
+        "name": "Event_Name_829",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-08-07 11:00:00",
+        "startTime": "2024-08-07 11:00:00",
+        "endTime": "2024-08-14 10:59:59",
+        "extensionTime": "2024-08-21 10:59:59"
     },
     {
         "id": 50822,

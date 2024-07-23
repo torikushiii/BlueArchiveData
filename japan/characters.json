@@ -2186,6 +2186,117 @@
         ]
     },
     {
+        "id": 10098,
+        "name": "ホシノ（臨戦）",
+        "devname": "CH0258_02",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "ak",
+            "as"
+        ]
+    },
+    {
+        "id": 10099,
+        "name": "ホシノ（臨戦）",
+        "devname": "CH0258_01",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 10100,
+        "name": "シロコ＊テラー",
+        "devname": "CH0263",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "AbydosStudentCouncil",
+        "favoriteGift": [
+            "aj"
+        ]
+    },
+    {
+        "id": 10101,
+        "name": "サオリ（水着）",
+        "devname": "CH0266",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "Bb",
+            "aS",
+            "as",
+            "Cx",
+            "CX"
+        ]
+    },
+    {
+        "id": 10102,
+        "name": "ヒヨリ（水着）",
+        "devname": "CH0269",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "aJ",
+            "az",
+            "aq",
+            "Cx",
+            "CX"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -4228,6 +4339,31 @@
             "ao",
             "CX",
             "Cx"
+        ]
+    },
+    {
+        "id": 26013,
+        "name": "アツコ（水着）",
+        "devname": "CH0267",
+        "rarity": "R",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "BB",
+            "Ba",
+            "av",
+            "Cx",
+            "CX"
         ]
     }
 ]

@@ -2183,7 +2183,8 @@
             "CY",
             "Eu",
             "eD",
-            "en"
+            "en",
+            "Gj"
         ]
     },
     {
@@ -2216,7 +2217,8 @@
             "Bu",
             "CZ",
             "eP",
-            "FS"
+            "FS",
+            "Gl"
         ]
     },
     {
@@ -2249,7 +2251,8 @@
             "ar",
             "BQ",
             "FG",
-            "GA"
+            "GA",
+            "Gk"
         ]
     },
     {
@@ -2281,7 +2284,8 @@
             "as",
             "BY",
             "Df",
-            "el"
+            "el",
+            "Gi"
         ]
     },
     {
@@ -2365,7 +2369,8 @@
             "DV",
             "aJ",
             "as",
-            "Cz"
+            "Cz",
+            "Gi"
         ]
     },
     {
@@ -2446,7 +2451,8 @@
             "Ds",
             "eQ",
             "eq",
-            "FH"
+            "FH",
+            "Gi"
         ]
     },
     {
@@ -2546,7 +2552,8 @@
             "BB",
             "aY",
             "cL",
-            "eT"
+            "eT",
+            "Gm"
         ]
     },
     {
@@ -2757,7 +2764,9 @@
             "ek",
             "eL",
             "fT",
-            "ft"
+            "ft",
+            "Gi",
+            "GJ"
         ]
     },
     {
@@ -2895,7 +2904,9 @@
             "fZ",
             "fz",
             "Gg",
-            "GH"
+            "GH",
+            "Gl",
+            "GM"
         ]
     },
     {
@@ -2973,7 +2984,9 @@
             "FP",
             "FR",
             "GA",
-            "Ga"
+            "Ga",
+            "Gk",
+            "GL"
         ]
     },
     {
@@ -3151,7 +3164,9 @@
             "fS",
             "fs",
             "Gb",
-            "GC"
+            "GC",
+            "Gm",
+            "GN"
         ]
     },
     {
@@ -3290,6 +3305,14 @@
     },
     {
         "id": 6105,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6106,
         "rarity": "SSR",
         "quality": 4,
         "name": "★3生徒確定募集チケット",
@@ -3473,6 +3496,14 @@
         "tags": []
     },
     {
+        "id": 6516,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
         "id": 6600,
         "rarity": "SSR",
         "quality": 4,
@@ -3533,6 +3564,14 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "★3生徒確定募集チケット（学園グループ別）",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6800,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
         "category": "Material",
         "tags": []
     },
@@ -4569,6 +4608,46 @@
         ]
     },
     {
+        "id": 10098,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ホシノ（臨戦）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10100,
+        "rarity": "N",
+        "quality": 9,
+        "name": "シロコ＊テラーの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10101,
+        "rarity": "N",
+        "quality": 9,
+        "name": "サオリ（水着）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10102,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ヒヨリ（水着）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -5463,6 +5542,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "キリノ（水着）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 26013,
+        "rarity": "N",
+        "quality": 9,
+        "name": "アツコ（水着）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -8303,6 +8392,38 @@
         "tags": []
     },
     {
+        "id": 80450,
+        "rarity": "N",
+        "quality": 1,
+        "name": "ゲームコーナー利用券",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80451,
+        "rarity": "N",
+        "quality": 2,
+        "name": "ヘルメット団総連合会記念コイン",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80452,
+        "rarity": "N",
+        "quality": 3,
+        "name": "屋台メニュー表",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80453,
+        "rarity": "N",
+        "quality": 4,
+        "name": "大会用水鉄砲",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -9155,6 +9276,38 @@
         "tags": []
     },
     {
+        "id": 85240,
+        "rarity": "N",
+        "quality": 1,
+        "name": "タロット·デラ·ルナ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85241,
+        "rarity": "N",
+        "quality": 2,
+        "name": "インクカートリッジ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85242,
+        "rarity": "N",
+        "quality": 3,
+        "name": "スタイラスペン",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85243,
+        "rarity": "N",
+        "quality": 4,
+        "name": "プチオンリーチケット",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -9485,6 +9638,14 @@
         "tags": []
     },
     {
+        "id": 100039,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 110000,
         "rarity": "N",
         "quality": 1,
@@ -9566,6 +9727,14 @@
     },
     {
         "id": 110010,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110011,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",
@@ -9949,6 +10118,30 @@
         "tags": []
     },
     {
+        "id": 150042,
+        "rarity": "R",
+        "quality": 2,
+        "name": "家具抽選ボックス（青）",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 150043,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "家具抽選ボックス（橙）",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 150044,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "家具抽選ボックス（紫）",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 151000,
         "rarity": "N",
         "quality": 1,
@@ -10113,6 +10306,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "トリニティ教室シリーズ選択ボックス",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151017,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "DJパーティー会場シリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11513,6 +11716,16 @@
         ]
     },
     {
+        "id": 191017,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "DJパーティー会場シリーズ抽選ボックス",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
         "id": 191991,
         "rarity": "R",
         "quality": 2,
@@ -11610,6 +11823,14 @@
     },
     {
         "id": 12000001,
+        "rarity": "N",
+        "quality": 4,
+        "name": "★3生徒セレクトチケット",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 12000002,
         "rarity": "N",
         "quality": 4,
         "name": "★3生徒セレクトチケット",

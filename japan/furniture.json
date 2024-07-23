@@ -2295,6 +2295,141 @@
         "comfortBonus": 350
     },
     {
+        "id": 17100,
+        "name": "ブルーストライプビーチマット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17101,
+        "name": "ヤシの木",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17102,
+        "name": "2段パーティーパラソル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17103,
+        "name": "海辺の砂の城",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17104,
+        "name": "ビーチサンベッドホワイト",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17105,
+        "name": "ビーチサンベッドとミニテーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17106,
+        "name": "海辺のサーフボード",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17107,
+        "name": "太陽型の照明",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17108,
+        "name": "三日月型の照明",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17109,
+        "name": "波型のネオン照明",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17200,
+        "name": "夏祭りのバナー",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17201,
+        "name": "ステージ用サーチライト",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17202,
+        "name": "ビーチピクニックセット",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17203,
+        "name": "観客用椅子A",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17204,
+        "name": "観客用椅子B",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17205,
+        "name": "観客用椅子C",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17206,
+        "name": "ライブ用スピーカーセット",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17207,
+        "name": "サマービーチテーブルセット",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17208,
+        "name": "設置型照明",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17209,
+        "name": "夜の海の飾り壁",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17210,
+        "name": "海辺の砂浜の床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17211,
+        "name": "ビーチの背景",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17300,
+        "name": "インフォメーションブース",
+        "comfortBonus": 350
+    },
+    {
+        "id": 17301,
+        "name": "アイスクリームトラック",
+        "comfortBonus": 350
+    },
+    {
+        "id": 17302,
+        "name": "ライブスクリーン",
+        "comfortBonus": 500
+    },
+    {
+        "id": 17303,
+        "name": "パーティードリンクバー",
+        "comfortBonus": 350
+    },
+    {
+        "id": 17304,
+        "name": "DJライブステージ",
+        "comfortBonus": 500
+    },
+    {
         "id": 100000,
         "name": "ビナー戦（屋外戦）のブロンズトロフィー",
         "comfortBonus": 50
@@ -3097,6 +3232,21 @@
     {
         "id": 210346,
         "name": "メッシュハンモック",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210347,
+        "name": "エキスパート向け移動標的",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210348,
+        "name": "アビドス自転車整備スタンド",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210349,
+        "name": "ビーチフェスティバル用椅子",
         "comfortBonus": 350
     },
     {

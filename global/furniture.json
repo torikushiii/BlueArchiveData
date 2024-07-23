@@ -1966,172 +1966,172 @@
     },
     {
         "id": 15100,
-        "name": "",
+        "name": "Elegant Candle Set",
         "comfortBonus": 50
     },
     {
         "id": 15101,
-        "name": "",
+        "name": "Magnificent Luxury Carpet",
         "comfortBonus": 50
     },
     {
         "id": 15102,
-        "name": "",
+        "name": "Elegant Luxury Carpet",
         "comfortBonus": 50
     },
     {
         "id": 15103,
-        "name": "",
+        "name": "Writer's Desk",
         "comfortBonus": 50
     },
     {
         "id": 15104,
-        "name": "",
+        "name": "Gehenna Stone Fence",
         "comfortBonus": 50
     },
     {
         "id": 15105,
-        "name": "",
+        "name": "Gehenna Flag",
         "comfortBonus": 50
     },
     {
         "id": 15106,
-        "name": "",
+        "name": "Gehenna Grand Flag",
         "comfortBonus": 50
     },
     {
         "id": 15107,
-        "name": "",
+        "name": "Gehenna Wooden Partition",
         "comfortBonus": 50
     },
     {
         "id": 15108,
-        "name": "",
+        "name": "Marble Planter",
         "comfortBonus": 50
     },
     {
         "id": 15109,
-        "name": "",
+        "name": "Classic Lamp Table",
         "comfortBonus": 50
     },
     {
         "id": 15110,
-        "name": "",
+        "name": "Grand Wall Panel",
         "comfortBonus": 50
     },
     {
         "id": 15111,
-        "name": "",
+        "name": "Gehenna Painting",
         "comfortBonus": 50
     },
     {
         "id": 15200,
-        "name": "",
+        "name": "Bookshelf of Masterpieces",
         "comfortBonus": 120
     },
     {
         "id": 15201,
-        "name": "",
+        "name": "Baroque Carpet",
         "comfortBonus": 120
     },
     {
         "id": 15202,
-        "name": "",
+        "name": "Classic 2-Tier Cart",
         "comfortBonus": 120
     },
     {
         "id": 15203,
-        "name": "",
+        "name": "Grand Chandelier",
         "comfortBonus": 120
     },
     {
         "id": 15204,
-        "name": "",
+        "name": "Floral Fountain",
         "comfortBonus": 120
     },
     {
         "id": 15205,
-        "name": "",
+        "name": "Classic Sofa",
         "comfortBonus": 120
     },
     {
         "id": 15206,
-        "name": "",
+        "name": "Violet Sofa",
         "comfortBonus": 120
     },
     {
         "id": 15207,
-        "name": "",
+        "name": "Floral Luncheon Set",
         "comfortBonus": 120
     },
     {
         "id": 15208,
-        "name": "",
+        "name": "Violet Garden Vase",
         "comfortBonus": 120
     },
     {
         "id": 15209,
-        "name": "",
+        "name": "White Garden Vase",
         "comfortBonus": 120
     },
     {
         "id": 15210,
-        "name": "",
+        "name": "Wall-Mounted Candelabra",
         "comfortBonus": 120
     },
     {
         "id": 15211,
-        "name": "",
+        "name": "Classic Window",
         "comfortBonus": 120
     },
     {
         "id": 15212,
-        "name": "",
+        "name": "Grand Tile",
         "comfortBonus": 120
     },
     {
         "id": 15213,
-        "name": "",
+        "name": "Grand Wallpaper",
         "comfortBonus": 120
     },
     {
         "id": 15214,
-        "name": "",
+        "name": "Classic Backdrop",
         "comfortBonus": 120
     },
     {
         "id": 15300,
-        "name": "",
+        "name": "Grand Balcony",
         "comfortBonus": 350
     },
     {
         "id": 15301,
-        "name": "",
+        "name": "Grand Desk",
         "comfortBonus": 350
     },
     {
         "id": 15302,
-        "name": "",
+        "name": "Grand Fountain",
         "comfortBonus": 350
     },
     {
         "id": 15303,
-        "name": "",
+        "name": "Violet Party Table Set",
         "comfortBonus": 350
     },
     {
         "id": 15304,
-        "name": "",
+        "name": "Grand Concessions Table",
         "comfortBonus": 350
     },
     {
         "id": 15305,
-        "name": "",
+        "name": "Grand Piano",
         "comfortBonus": 350
     },
     {
         "id": 15306,
-        "name": "",
+        "name": "Classic Sofa Table Set",
         "comfortBonus": 350
     },
     {
@@ -2856,17 +2856,17 @@
     },
     {
         "id": 210330,
-        "name": "",
+        "name": "One-Two-Three Study Corner",
         "comfortBonus": 350
     },
     {
         "id": 210331,
-        "name": "",
+        "name": "Stately Executive Desk",
         "comfortBonus": 350
     },
     {
         "id": 210332,
-        "name": "",
+        "name": "Traditional Performance Stage",
         "comfortBonus": 350
     },
     {
@@ -2936,7 +2936,7 @@
     },
     {
         "id": 302306,
-        "name": "",
+        "name": "Recollection Player 5",
         "comfortBonus": 350
     }
 ]

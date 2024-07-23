@@ -1916,7 +1916,7 @@
     },
     {
         "id": 10086,
-        "name": "",
+        "name": "Hina (Dress)",
         "devname": "CH0230",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1938,7 +1938,7 @@
     },
     {
         "id": 10087,
-        "name": "",
+        "name": "Ako (Dress)",
         "devname": "CH0231",
         "rarity": "SSR",
         "role": "Support",
@@ -2576,7 +2576,7 @@
     },
     {
         "id": 16014,
-        "name": "",
+        "name": "Ibuki",
         "devname": "CH0077",
         "rarity": "R",
         "role": "Support",
@@ -3336,7 +3336,7 @@
     },
     {
         "id": 20033,
-        "name": "",
+        "name": "Makoto",
         "devname": "CH0079",
         "rarity": "SSR",
         "role": "Dealer",

@@ -1239,7 +1239,7 @@
         "id": 2000,
         "rarity": "SR",
         "quality": 3,
-        "name": "",
+        "name": "Physical Education Workbook",
         "category": "Material",
         "tags": [
             "k",
@@ -1251,7 +1251,7 @@
         "id": 2001,
         "rarity": "SR",
         "quality": 3,
-        "name": "",
+        "name": "Shooting Workbook",
         "category": "Material",
         "tags": [
             "k",
@@ -1263,7 +1263,7 @@
         "id": 2002,
         "rarity": "SR",
         "quality": 3,
-        "name": "",
+        "name": "Hygiene Workbook",
         "category": "Material",
         "tags": [
             "k",
@@ -3301,7 +3301,7 @@
         "id": 6510,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "10-Recruitment Ticket",
         "category": "Material",
         "tags": []
     },
@@ -3309,7 +3309,7 @@
         "id": 6511,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "10-Recruitment Ticket",
         "category": "Material",
         "tags": []
     },
@@ -3317,7 +3317,7 @@
         "id": 6512,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "10-Recruitment Ticket",
         "category": "Material",
         "tags": []
     },
@@ -3357,7 +3357,7 @@
         "id": 6700,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "3★ Student Guaranteed Recruitment Ticket (Division)",
         "category": "Material",
         "tags": []
     },
@@ -3365,7 +3365,7 @@
         "id": 6701,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "3★ Student Guaranteed Recruitment Ticket (Division)",
         "category": "Material",
         "tags": []
     },
@@ -3373,7 +3373,7 @@
         "id": 6702,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "3★ Student Guaranteed Recruitment Ticket (Division)",
         "category": "Material",
         "tags": []
     },
@@ -3381,7 +3381,7 @@
         "id": 6703,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "3★ Student Guaranteed Recruitment Ticket (Division)",
         "category": "Material",
         "tags": []
     },
@@ -4301,7 +4301,7 @@
         "id": 10086,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "Hina (Dress)'s Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -4311,7 +4311,7 @@
         "id": 10087,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "Ako (Dress)'s Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -4321,7 +4321,7 @@
         "id": 10088,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "Kayoko (Dress)'s Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -4331,7 +4331,7 @@
         "id": 10089,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "Aru (Dress)'s Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -4341,7 +4341,7 @@
         "id": 10090,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "Umika's Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -4631,7 +4631,7 @@
         "id": 16014,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "Ibuki's Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -4971,7 +4971,7 @@
         "id": 20033,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "Makoto's Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -4981,7 +4981,7 @@
         "id": 20034,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "Akari (New Year)'s Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -4991,7 +4991,7 @@
         "id": 20035,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "Tsubaki (Guide)'s Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -5939,7 +5939,7 @@
         "id": 61000,
         "rarity": "N",
         "quality": 1,
-        "name": "",
+        "name": "Artifact Raffle Ticket 1",
         "category": "Consumable",
         "tags": []
     },
@@ -5947,7 +5947,7 @@
         "id": 61001,
         "rarity": "R",
         "quality": 2,
-        "name": "",
+        "name": "Artifact Raffle Ticket 2",
         "category": "Consumable",
         "tags": []
     },
@@ -5955,7 +5955,7 @@
         "id": 61002,
         "rarity": "SR",
         "quality": 3,
-        "name": "",
+        "name": "Artifact Raffle Ticket 3",
         "category": "Consumable",
         "tags": []
     },
@@ -5963,7 +5963,7 @@
         "id": 61003,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "Artifact Raffle Ticket 4",
         "category": "Consumable",
         "tags": []
     },
@@ -8947,7 +8947,7 @@
         "id": 80380,
         "rarity": "N",
         "quality": 1,
-        "name": "",
+        "name": "Event Points",
         "category": "Coin",
         "tags": []
     },
@@ -8955,7 +8955,7 @@
         "id": 80381,
         "rarity": "N",
         "quality": 2,
-        "name": "",
+        "name": "Premium Cocktail Glass",
         "category": "Coin",
         "tags": []
     },
@@ -8963,7 +8963,7 @@
         "id": 80382,
         "rarity": "N",
         "quality": 3,
-        "name": "",
+        "name": "Table Napkin",
         "category": "Coin",
         "tags": []
     },
@@ -8971,7 +8971,7 @@
         "id": 80390,
         "rarity": "N",
         "quality": 1,
-        "name": "",
+        "name": "Target Clue",
         "category": "Coin",
         "tags": []
     },
@@ -8979,7 +8979,7 @@
         "id": 80391,
         "rarity": "N",
         "quality": 2,
-        "name": "",
+        "name": "Concert Program",
         "category": "Coin",
         "tags": []
     },
@@ -8987,7 +8987,7 @@
         "id": 80392,
         "rarity": "N",
         "quality": 3,
-        "name": "",
+        "name": "Bow Tie",
         "category": "Coin",
         "tags": []
     },
@@ -8995,7 +8995,7 @@
         "id": 80393,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Opera Binoculars",
         "category": "Coin",
         "tags": []
     },
@@ -9003,7 +9003,7 @@
         "id": 80394,
         "rarity": "N",
         "quality": 5,
-        "name": "",
+        "name": "Valentine's Day Outing Pass",
         "category": "Coin",
         "tags": []
     },
@@ -9011,7 +9011,7 @@
         "id": 80400,
         "rarity": "N",
         "quality": 1,
-        "name": "",
+        "name": "Hyakkiyako Commemorative Card",
         "category": "Coin",
         "tags": []
     },
@@ -9019,7 +9019,7 @@
         "id": 80401,
         "rarity": "N",
         "quality": 2,
-        "name": "",
+        "name": "Field Trip Itinerary",
         "category": "Coin",
         "tags": []
     },
@@ -9027,7 +9027,7 @@
         "id": 80402,
         "rarity": "N",
         "quality": 3,
-        "name": "",
+        "name": "Guide Flag",
         "category": "Coin",
         "tags": []
     },
@@ -9035,7 +9035,7 @@
         "id": 80403,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Special Coupon Book",
         "category": "Coin",
         "tags": []
     },
@@ -10513,7 +10513,7 @@
         "id": 150041,
         "rarity": "N",
         "quality": 1,
-        "name": "",
+        "name": "T8 Equipment Blueprint Choice Ticket",
         "category": "Consumable",
         "tags": []
     },
@@ -10671,7 +10671,7 @@
         "id": 151015,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "Gehenna Party Furniture Choice Ticket",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11601,7 +11601,7 @@
         "id": 180093,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Homemade Chocolate Sticks",
         "category": "Collectible",
         "tags": []
     },
@@ -11609,7 +11609,7 @@
         "id": 180094,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Chocolate Slipper",
         "category": "Collectible",
         "tags": []
     },
@@ -11617,7 +11617,7 @@
         "id": 180095,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Secret Message",
         "category": "Collectible",
         "tags": []
     },
@@ -11625,7 +11625,7 @@
         "id": 180096,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Self-Made Choice",
         "category": "Collectible",
         "tags": []
     },
@@ -11633,7 +11633,7 @@
         "id": 180097,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Valentine Challenge",
         "category": "Collectible",
         "tags": []
     },
@@ -11641,7 +11641,7 @@
         "id": 180098,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Hot Springs Egg Chocolate",
         "category": "Collectible",
         "tags": []
     },
@@ -11649,7 +11649,7 @@
         "id": 180099,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Chocolate Moon Cake",
         "category": "Collectible",
         "tags": []
     },
@@ -11657,7 +11657,7 @@
         "id": 180100,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Genryumon Pattern Chocolate",
         "category": "Collectible",
         "tags": []
     },
@@ -11665,7 +11665,7 @@
         "id": 180101,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Chocolate Keychain",
         "category": "Collectible",
         "tags": []
     },
@@ -11673,7 +11673,7 @@
         "id": 180102,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Nagisa's Simple Chocolate",
         "category": "Collectible",
         "tags": []
     },
@@ -11681,7 +11681,7 @@
         "id": 180103,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "High-Calorie Chocolate",
         "category": "Collectible",
         "tags": []
     },
@@ -11689,7 +11689,7 @@
         "id": 180104,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Different Perspectives",
         "category": "Collectible",
         "tags": []
     },
@@ -11697,7 +11697,7 @@
         "id": 180105,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Plana-Full Chocolate",
         "category": "Collectible",
         "tags": []
     },
@@ -11705,7 +11705,7 @@
         "id": 180106,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Self-Portrait Chocolate",
         "category": "Collectible",
         "tags": []
     },
@@ -11713,7 +11713,7 @@
         "id": 180107,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Best, Greatest, Ultimate Homemade Chocolate Cake",
         "category": "Collectible",
         "tags": []
     },
@@ -11721,7 +11721,7 @@
         "id": 180108,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Lead Strategist's Homemade Chocolate",
         "category": "Collectible",
         "tags": []
     },
@@ -11729,7 +11729,7 @@
         "id": 180109,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "An Everyday Coffee",
         "category": "Collectible",
         "tags": []
     },
@@ -11737,7 +11737,7 @@
         "id": 180110,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "A Pair's Efforts: Raw Chocolate",
         "category": "Collectible",
         "tags": []
     },
@@ -11745,7 +11745,7 @@
         "id": 180111,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Operation Officer's Chocolate",
         "category": "Collectible",
         "tags": []
     },
@@ -11753,7 +11753,7 @@
         "id": 180112,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Kadenokoji Amulet and Chocolate Stick",
         "category": "Collectible",
         "tags": []
     },
@@ -11761,7 +11761,7 @@
         "id": 180113,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Ibuki's Chocolate Pudding",
         "category": "Collectible",
         "tags": []
     },
@@ -11769,7 +11769,7 @@
         "id": 180114,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Mika Special Chocolate Roll Cake ☆",
         "category": "Collectible",
         "tags": []
     },
@@ -11777,7 +11777,7 @@
         "id": 180115,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Chairman's Premium Chocolate Fountain",
         "category": "Collectible",
         "tags": []
     },
@@ -12055,7 +12055,7 @@
         "id": 191015,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "Gehenna Party Furniture Raffle Ticket",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12241,7 +12241,7 @@
         "id": 20000011,
         "rarity": "N",
         "quality": 2,
-        "name": "",
+        "name": "Shiba Seki Special Jumbo Ramen",
         "category": "Collectible",
         "tags": []
     },
@@ -12257,7 +12257,7 @@
         "id": 20001001,
         "rarity": "N",
         "quality": 2,
-        "name": "",
+        "name": "Mug of Coffee",
         "category": "Collectible",
         "tags": []
     },
@@ -12361,7 +12361,7 @@
         "id": 90000105,
         "rarity": "N",
         "quality": 1,
-        "name": "",
+        "name": "Weekly AP Pack",
         "category": "MonthlyBonus",
         "tags": []
     },
@@ -12409,7 +12409,7 @@
         "id": 90000505,
         "rarity": "N",
         "quality": 1,
-        "name": "",
+        "name": "Weekly AP Pack",
         "category": "MonthlyBonus",
         "tags": []
     },
@@ -12457,7 +12457,7 @@
         "id": 90000805,
         "rarity": "N",
         "quality": 1,
-        "name": "",
+        "name": "Weekly AP Pack",
         "category": "MonthlyBonus",
         "tags": []
     },
@@ -12505,7 +12505,7 @@
         "id": 90000305,
         "rarity": "N",
         "quality": 1,
-        "name": "",
+        "name": "Weekly AP Pack",
         "category": "MonthlyBonus",
         "tags": []
     },
@@ -12561,7 +12561,7 @@
         "id": 911000001,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "StartDash 3★ Ticket Ⅱ",
         "category": "Material",
         "tags": []
     },
@@ -12697,7 +12697,7 @@
         "id": 90006510,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "10-Recruitment Ticket",
         "category": "Material",
         "tags": []
     },
@@ -12705,7 +12705,7 @@
         "id": 90006511,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "10-Recruitment Ticket",
         "category": "Material",
         "tags": []
     },
@@ -12713,7 +12713,7 @@
         "id": 90006512,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "10-Recruitment Ticket",
         "category": "Material",
         "tags": []
     },
@@ -12721,7 +12721,7 @@
         "id": 90006700,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "3★ Student Guaranteed Recruitment Ticket (Division)",
         "category": "Material",
         "tags": []
     },
@@ -12729,7 +12729,7 @@
         "id": 90006701,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "3★ Student Guaranteed Recruitment Ticket (Division)",
         "category": "Material",
         "tags": []
     },
@@ -12737,7 +12737,7 @@
         "id": 90006702,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "3★ Student Guaranteed Recruitment Ticket (Division)",
         "category": "Material",
         "tags": []
     },
@@ -12745,7 +12745,7 @@
         "id": 90006703,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "3★ Student Guaranteed Recruitment Ticket (Division)",
         "category": "Material",
         "tags": []
     }

@@ -7704,6 +7704,22 @@
         "tags": []
     },
     {
+        "id": 90070094,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070095,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -12561,7 +12577,7 @@
         "id": 911000001,
         "rarity": "SSR",
         "quality": 4,
-        "name": "StartDash 3★ Ticket Ⅱ",
+        "name": "StartDash 3★ Ticket II",
         "category": "Material",
         "tags": []
     },

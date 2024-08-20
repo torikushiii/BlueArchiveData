@@ -5939,7 +5939,7 @@
         "id": 61000,
         "rarity": "N",
         "quality": 1,
-        "name": "Artifact Raffle Ticket 1",
+        "name": "Artifact Raffle Box 1",
         "category": "Consumable",
         "tags": []
     },
@@ -5947,7 +5947,7 @@
         "id": 61001,
         "rarity": "R",
         "quality": 2,
-        "name": "Artifact Raffle Ticket 2",
+        "name": "Artifact Raffle Box 2",
         "category": "Consumable",
         "tags": []
     },
@@ -5955,7 +5955,7 @@
         "id": 61002,
         "rarity": "SR",
         "quality": 3,
-        "name": "Artifact Raffle Ticket 3",
+        "name": "Artifact Raffle Box 3",
         "category": "Consumable",
         "tags": []
     },
@@ -5963,7 +5963,7 @@
         "id": 61003,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Artifact Raffle Ticket 4",
+        "name": "Artifact Raffle Box 4",
         "category": "Consumable",
         "tags": []
     },
@@ -7713,6 +7713,14 @@
     },
     {
         "id": 90070095,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070096,
         "rarity": "N",
         "quality": 2,
         "name": "Recruitment Points",
@@ -9977,7 +9985,7 @@
         "id": 100023,
         "rarity": "N",
         "quality": 1,
-        "name": "Artifact Raffle Ticket 1",
+        "name": "Artifact Raffle Box 1",
         "category": "Consumable",
         "tags": []
     },
@@ -9985,7 +9993,7 @@
         "id": 100024,
         "rarity": "R",
         "quality": 2,
-        "name": "Artifact Raffle Ticket 2",
+        "name": "Artifact Raffle Box 2",
         "category": "Consumable",
         "tags": []
     },
@@ -9993,7 +10001,7 @@
         "id": 100025,
         "rarity": "SR",
         "quality": 3,
-        "name": "Artifact Raffle Ticket 3",
+        "name": "Artifact Raffle Box 3",
         "category": "Consumable",
         "tags": []
     },
@@ -10001,7 +10009,7 @@
         "id": 100026,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Artifact Raffle Ticket 4",
+        "name": "Artifact Raffle Box 4",
         "category": "Consumable",
         "tags": []
     },
@@ -10177,7 +10185,7 @@
         "id": 150000,
         "rarity": "N",
         "quality": 1,
-        "name": "Beginner Tech Notes Choice Ticket",
+        "name": "Beginner Tech Notes Choice Box",
         "category": "Consumable",
         "tags": [
             "DB"
@@ -10187,7 +10195,7 @@
         "id": 150001,
         "rarity": "R",
         "quality": 2,
-        "name": "Normal Tech Notes Choice Ticket",
+        "name": "Normal Tech Notes Choice Box",
         "category": "Consumable",
         "tags": [
             "DB"
@@ -10197,7 +10205,7 @@
         "id": 150002,
         "rarity": "SR",
         "quality": 3,
-        "name": "Advanced Tech Notes Choice Ticket",
+        "name": "Advanced Tech Notes Choice Box",
         "category": "Consumable",
         "tags": [
             "DB"
@@ -10207,7 +10215,7 @@
         "id": 150003,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Superior Tech Notes Choice Ticket",
+        "name": "Superior Tech Notes Choice Box",
         "category": "Consumable",
         "tags": [
             "DB"
@@ -10217,7 +10225,7 @@
         "id": 150004,
         "rarity": "N",
         "quality": 1,
-        "name": "Beginner Tactical Training Blu-ray Choice Ticket",
+        "name": "Beginner Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": [
             "Da"
@@ -10227,7 +10235,7 @@
         "id": 150005,
         "rarity": "R",
         "quality": 2,
-        "name": "Normal Tactical Training Blu-ray Choice Ticket",
+        "name": "Normal Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": [
             "Da"
@@ -10237,7 +10245,7 @@
         "id": 150006,
         "rarity": "SR",
         "quality": 3,
-        "name": "Advanced Tactical Training Blu-ray Choice Ticket",
+        "name": "Advanced Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": [
             "Da"
@@ -10247,7 +10255,7 @@
         "id": 150007,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Superior Tactical Training Blu-ray Choice Ticket",
+        "name": "Superior Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": [
             "Da"
@@ -10257,7 +10265,7 @@
         "id": 150008,
         "rarity": "N",
         "quality": 1,
-        "name": "Artifact Choice Ticket 1",
+        "name": "Artifact Choice Box 1",
         "category": "Consumable",
         "tags": [
             "DA"
@@ -10267,7 +10275,7 @@
         "id": 150009,
         "rarity": "R",
         "quality": 2,
-        "name": "Artifact Choice Ticket 2",
+        "name": "Artifact Choice Box 2",
         "category": "Consumable",
         "tags": [
             "DA"
@@ -10277,7 +10285,7 @@
         "id": 150010,
         "rarity": "SR",
         "quality": 3,
-        "name": "Artifact Choice Ticket 3",
+        "name": "Artifact Choice Box 3",
         "category": "Consumable",
         "tags": [
             "DA"
@@ -10287,7 +10295,7 @@
         "id": 150011,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Artifact Choice Ticket 4",
+        "name": "Artifact Choice Box 4",
         "category": "Consumable",
         "tags": [
             "DA"
@@ -10297,7 +10305,7 @@
         "id": 150012,
         "rarity": "N",
         "quality": 1,
-        "name": "Beginner Tech Notes Choice Ticket",
+        "name": "Beginner Tech Notes Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10305,7 +10313,7 @@
         "id": 150013,
         "rarity": "R",
         "quality": 2,
-        "name": "Normal Tech Notes Choice Ticket",
+        "name": "Normal Tech Notes Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10313,7 +10321,7 @@
         "id": 150014,
         "rarity": "SR",
         "quality": 3,
-        "name": "Advanced Tech Notes Choice Ticket",
+        "name": "Advanced Tech Notes Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10321,7 +10329,7 @@
         "id": 150015,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Superior Tech Notes Choice Ticket",
+        "name": "Superior Tech Notes Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10329,7 +10337,7 @@
         "id": 150016,
         "rarity": "N",
         "quality": 1,
-        "name": "Beginner Tech Notes Choice Ticket",
+        "name": "Beginner Tech Notes Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10337,7 +10345,7 @@
         "id": 150017,
         "rarity": "R",
         "quality": 2,
-        "name": "Normal Tech Notes Choice Ticket",
+        "name": "Normal Tech Notes Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10345,7 +10353,7 @@
         "id": 150018,
         "rarity": "SR",
         "quality": 3,
-        "name": "Advanced Tech Notes Choice Ticket",
+        "name": "Advanced Tech Notes Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10353,7 +10361,7 @@
         "id": 150019,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Superior Tech Notes Choice Ticket",
+        "name": "Superior Tech Notes Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10361,7 +10369,7 @@
         "id": 150020,
         "rarity": "N",
         "quality": 1,
-        "name": "Beginner Tactical Training Blu-ray Choice Ticket",
+        "name": "Beginner Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10369,7 +10377,7 @@
         "id": 150021,
         "rarity": "R",
         "quality": 2,
-        "name": "Normal Tactical Training Blu-ray Choice Ticket",
+        "name": "Normal Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10377,7 +10385,7 @@
         "id": 150022,
         "rarity": "SR",
         "quality": 3,
-        "name": "Advanced Tactical Training Blu-ray Choice Ticket",
+        "name": "Advanced Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10385,7 +10393,7 @@
         "id": 150023,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Superior Tactical Training Blu-ray Choice Ticket",
+        "name": "Superior Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10393,7 +10401,7 @@
         "id": 150024,
         "rarity": "N",
         "quality": 1,
-        "name": "Beginner Tactical Training Blu-ray Choice Ticket",
+        "name": "Beginner Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10401,7 +10409,7 @@
         "id": 150025,
         "rarity": "R",
         "quality": 2,
-        "name": "Normal Tactical Training Blu-ray Choice Ticket",
+        "name": "Normal Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10409,7 +10417,7 @@
         "id": 150026,
         "rarity": "SR",
         "quality": 3,
-        "name": "Advanced Tactical Training Blu-ray Choice Ticket",
+        "name": "Advanced Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10417,7 +10425,7 @@
         "id": 150027,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Superior Tactical Training Blu-ray Choice Ticket",
+        "name": "Superior Tactical Training Blu-ray Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10425,7 +10433,7 @@
         "id": 150028,
         "rarity": "N",
         "quality": 1,
-        "name": "T2 Equipment Blueprint Choice Ticket",
+        "name": "T2 Equipment Blueprint Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10433,7 +10441,7 @@
         "id": 150029,
         "rarity": "N",
         "quality": 1,
-        "name": "T3 Equipment Blueprint Choice Ticket",
+        "name": "T3 Equipment Blueprint Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10441,7 +10449,7 @@
         "id": 150030,
         "rarity": "N",
         "quality": 1,
-        "name": "T4 Equipment Blueprint Choice Ticket",
+        "name": "T4 Equipment Blueprint Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10449,7 +10457,7 @@
         "id": 150031,
         "rarity": "N",
         "quality": 1,
-        "name": "T5 Equipment Blueprint Choice Ticket",
+        "name": "T5 Equipment Blueprint Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10457,7 +10465,7 @@
         "id": 150032,
         "rarity": "N",
         "quality": 1,
-        "name": "T6 Equipment Blueprint Choice Ticket",
+        "name": "T6 Equipment Blueprint Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10465,7 +10473,7 @@
         "id": 150033,
         "rarity": "N",
         "quality": 1,
-        "name": "T7 Equipment Blueprint Choice Ticket",
+        "name": "T7 Equipment Blueprint Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10529,7 +10537,7 @@
         "id": 150041,
         "rarity": "N",
         "quality": 1,
-        "name": "T8 Equipment Blueprint Choice Ticket",
+        "name": "T8 Equipment Blueprint Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -10537,7 +10545,7 @@
         "id": 151000,
         "rarity": "N",
         "quality": 1,
-        "name": "Beginner Furniture Choice Ticket",
+        "name": "Beginner Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10547,7 +10555,7 @@
         "id": 151001,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Momo Friends Furniture Choice Ticket",
+        "name": "Momo Friends Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10557,7 +10565,7 @@
         "id": 151002,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Jellies Arcade Furniture Choice Ticket",
+        "name": "Jellies Arcade Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10567,7 +10575,7 @@
         "id": 151003,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Valentine's Furniture Choice Ticket",
+        "name": "Valentine's Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10577,7 +10585,7 @@
         "id": 151004,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Summer Resort Furniture Choice Ticket",
+        "name": "Summer Resort Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10587,7 +10595,7 @@
         "id": 151005,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Halloween Furniture Choice Ticket",
+        "name": "Halloween Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10597,7 +10605,7 @@
         "id": 151006,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Hot Springs Resort Furniture Choice Ticket",
+        "name": "Hot Springs Resort Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10607,7 +10615,7 @@
         "id": 151007,
         "rarity": "SSR",
         "quality": 4,
-        "name": "New Year's Furniture Choice Ticket",
+        "name": "New Year's Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10617,7 +10625,7 @@
         "id": 151008,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Military Campground Furniture Choice Ticket",
+        "name": "Military Campground Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10627,7 +10635,7 @@
         "id": 151009,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Beachside Furniture Choice Ticket",
+        "name": "Beachside Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10637,7 +10645,7 @@
         "id": 151010,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Field Day Furniture Choice Ticket",
+        "name": "Field Day Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10647,7 +10655,7 @@
         "id": 151011,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Abydos Classroom Furniture Choice Ticket",
+        "name": "Abydos Classroom Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10657,7 +10665,7 @@
         "id": 151012,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Game Development Department Furniture Choice Ticket",
+        "name": "Game Development Department Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10667,7 +10675,7 @@
         "id": 151013,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Sunshine Resort Furniture Choice Ticket",
+        "name": "Sunshine Resort Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10677,7 +10685,7 @@
         "id": 151014,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Shopping Mall Furniture Choice Ticket",
+        "name": "Shopping Mall Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10687,7 +10695,7 @@
         "id": 151015,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Gehenna Party Furniture Choice Ticket",
+        "name": "Gehenna Party Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -10727,7 +10735,7 @@
         "id": 151999,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Mixed Furniture Choice Ticket",
+        "name": "Mixed Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11769,7 +11777,7 @@
         "id": 180112,
         "rarity": "N",
         "quality": 4,
-        "name": "Kadenokoji Amulet and Chocolate Stick",
+        "name": "Kadenokouji Amulet and Chocolate Stick",
         "category": "Collectible",
         "tags": []
     },
@@ -11801,7 +11809,7 @@
         "id": 190000,
         "rarity": "N",
         "quality": 1,
-        "name": "Beginner Tech Notes Raffle Ticket",
+        "name": "Beginner Tech Notes Raffle Box",
         "category": "Consumable",
         "tags": [
             "DB"
@@ -11811,7 +11819,7 @@
         "id": 190001,
         "rarity": "R",
         "quality": 2,
-        "name": "Normal Tech Notes Raffle Ticket",
+        "name": "Normal Tech Notes Raffle Box",
         "category": "Consumable",
         "tags": [
             "DB"
@@ -11821,7 +11829,7 @@
         "id": 190002,
         "rarity": "SR",
         "quality": 3,
-        "name": "Advanced Tech Notes Raffle Ticket",
+        "name": "Advanced Tech Notes Raffle Box",
         "category": "Consumable",
         "tags": [
             "DB"
@@ -11831,7 +11839,7 @@
         "id": 190003,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Superior Tech Notes Raffle Ticket",
+        "name": "Superior Tech Notes Raffle Box",
         "category": "Consumable",
         "tags": [
             "DB"
@@ -11841,7 +11849,7 @@
         "id": 190010,
         "rarity": "N",
         "quality": 1,
-        "name": "Beginner Tactical Training Blu-ray Raffle Ticket",
+        "name": "Beginner Tactical Training Blu-ray Raffle Box",
         "category": "Consumable",
         "tags": [
             "Da"
@@ -11851,7 +11859,7 @@
         "id": 190011,
         "rarity": "R",
         "quality": 2,
-        "name": "Normal Tactical Training Blu-ray Raffle Ticket",
+        "name": "Normal Tactical Training Blu-ray Raffle Box",
         "category": "Consumable",
         "tags": [
             "Da"
@@ -11861,7 +11869,7 @@
         "id": 190012,
         "rarity": "SR",
         "quality": 3,
-        "name": "Advanced Tactical Training Blu-ray Raffle Ticket",
+        "name": "Advanced Tactical Training Blu-ray Raffle Box",
         "category": "Consumable",
         "tags": [
             "Da"
@@ -11871,7 +11879,7 @@
         "id": 190013,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Superior Tactical Training Blu-ray Raffle Ticket",
+        "name": "Superior Tactical Training Blu-ray Raffle Box",
         "category": "Consumable",
         "tags": [
             "Da"
@@ -11881,7 +11889,7 @@
         "id": 190020,
         "rarity": "N",
         "quality": 1,
-        "name": "Artifact Raffle Ticket 1",
+        "name": "Artifact Raffle Box 1",
         "category": "Consumable",
         "tags": [
             "DA"
@@ -11891,7 +11899,7 @@
         "id": 190021,
         "rarity": "R",
         "quality": 2,
-        "name": "Artifact Raffle Ticket 2",
+        "name": "Artifact Raffle Box 2",
         "category": "Consumable",
         "tags": [
             "DA"
@@ -11901,7 +11909,7 @@
         "id": 190022,
         "rarity": "SR",
         "quality": 3,
-        "name": "Artifact Raffle Ticket 3",
+        "name": "Artifact Raffle Box 3",
         "category": "Consumable",
         "tags": [
             "DA"
@@ -11911,7 +11919,7 @@
         "id": 190023,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Artifact Raffle Ticket 4",
+        "name": "Artifact Raffle Box 4",
         "category": "Consumable",
         "tags": [
             "DA"
@@ -11921,7 +11929,7 @@
         "id": 191000,
         "rarity": "N",
         "quality": 1,
-        "name": "Beginner Furniture Raffle Ticket",
+        "name": "Beginner Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11931,7 +11939,7 @@
         "id": 191001,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Momo Friends Furniture Raffle Ticket",
+        "name": "Momo Friends Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11941,7 +11949,7 @@
         "id": 191002,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Jellies Arcade Furniture Raffle Ticket",
+        "name": "Jellies Arcade Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11951,7 +11959,7 @@
         "id": 191003,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Valentine's Furniture Raffle Ticket",
+        "name": "Valentine's Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11961,7 +11969,7 @@
         "id": 191004,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Summer Resort Furniture Raffle Ticket",
+        "name": "Summer Resort Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11971,7 +11979,7 @@
         "id": 191005,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Halloween Furniture Raffle Ticket",
+        "name": "Halloween Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11981,7 +11989,7 @@
         "id": 191006,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Hot Springs Resort Furniture Raffle Ticket",
+        "name": "Hot Springs Resort Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11991,7 +11999,7 @@
         "id": 191007,
         "rarity": "SSR",
         "quality": 4,
-        "name": "New Year Furniture Raffle Ticket",
+        "name": "New Year Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12001,7 +12009,7 @@
         "id": 191008,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Military Campground Furniture Raffle Ticket",
+        "name": "Military Campground Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12011,7 +12019,7 @@
         "id": 191009,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Beachside Furniture Raffle Ticket",
+        "name": "Beachside Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12021,7 +12029,7 @@
         "id": 191010,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Field Day Furniture Raffle Ticket",
+        "name": "Field Day Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12031,7 +12039,7 @@
         "id": 191011,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Abydos Classroom Furniture Raffle Ticket",
+        "name": "Abydos Classroom Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12041,7 +12049,7 @@
         "id": 191012,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Game Development Department Furniture Raffle Ticket",
+        "name": "Game Development Department Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12051,7 +12059,7 @@
         "id": 191013,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Sunshine Resort Furniture Raffle Ticket",
+        "name": "Sunshine Resort Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12061,7 +12069,7 @@
         "id": 191014,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Shopping Mall Furniture Raffle Ticket",
+        "name": "Shopping Mall Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12071,7 +12079,7 @@
         "id": 191015,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Gehenna Party Furniture Raffle Ticket",
+        "name": "Gehenna Party Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12111,7 +12119,7 @@
         "id": 191999,
         "rarity": "SSR",
         "quality": 4,
-        "name": "Mixed Furniture Raffle Ticket",
+        "name": "Mixed Furniture Raffle Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12297,7 +12305,7 @@
         "id": 30000000,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Shiroko Recruitment Ticket",
         "category": "Consumable",
         "tags": []
     },
@@ -12305,7 +12313,7 @@
         "id": 30000001,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Serika Recruitment Ticket",
         "category": "Consumable",
         "tags": []
     },
@@ -12313,7 +12321,7 @@
         "id": 30000002,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Nonomi Recruitment Ticket",
         "category": "Consumable",
         "tags": []
     },
@@ -12321,7 +12329,7 @@
         "id": 30000003,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Ayane Recruitment Ticket",
         "category": "Consumable",
         "tags": []
     },
@@ -12329,7 +12337,7 @@
         "id": 30000004,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "Hoshino Recruitment Ticket",
         "category": "Consumable",
         "tags": []
     },
@@ -12763,6 +12771,54 @@
         "quality": 4,
         "name": "3★ Student Guaranteed Recruitment Ticket (Division)",
         "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006003,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "3★ Student Guaranteed (x10) Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 930000000,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Shiroko Recruitment Ticket",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 930000001,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Serika Recruitment Ticket",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 930000002,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Nonomi Recruitment Ticket",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 930000003,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Ayane Recruitment Ticket",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 930000004,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Hoshino Recruitment Ticket",
+        "category": "Consumable",
         "tags": []
     }
 ]

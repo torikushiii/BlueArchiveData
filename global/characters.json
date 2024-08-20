@@ -1960,6 +1960,50 @@
         ]
     },
     {
+        "id": 10088,
+        "name": "Kayoko (Dress)",
+        "devname": "CH0239",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "aL",
+            "aQ"
+        ]
+    },
+    {
+        "id": 10089,
+        "name": "Aru (Dress)",
+        "devname": "CH0240",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68",
+        "favoriteGift": [
+            "ak",
+            "aV"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",

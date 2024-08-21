@@ -1824,6 +1824,54 @@
         "extensionTime": "2024-08-14 10:59:59"
     },
     {
+        "id": 839,
+        "subId": 839,
+        "rerun": false,
+        "name": "Event_Name_839",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-08-21 11:00:00",
+        "startTime": "2024-08-21 11:00:00",
+        "endTime": "2024-09-04 10:59:59",
+        "extensionTime": "2024-09-11 10:59:59"
+    },
+    {
+        "id": 839,
+        "subId": 839,
+        "rerun": false,
+        "name": "Event_Name_839",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-08-21 11:00:00",
+        "startTime": "2024-08-21 11:00:00",
+        "endTime": "2024-09-04 10:59:59",
+        "extensionTime": "2024-09-11 10:59:59"
+    },
+    {
+        "id": 839,
+        "subId": 839,
+        "rerun": false,
+        "name": "Event_Name_839",
+        "eventContentType": "BoxGacha",
+        "subEvent": false,
+        "exposedTime": "2024-08-21 11:00:00",
+        "startTime": "2024-08-21 11:00:00",
+        "endTime": "2024-09-04 10:59:59",
+        "extensionTime": "2024-09-11 10:59:59"
+    },
+    {
+        "id": 839,
+        "subId": 839,
+        "rerun": false,
+        "name": "Event_Name_839",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-08-21 11:00:00",
+        "startTime": "2024-08-21 11:00:00",
+        "endTime": "2024-09-04 10:59:59",
+        "extensionTime": "2024-09-11 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -2962,6 +3010,66 @@
         "startTime": "2024-08-07 11:00:00",
         "endTime": "2024-08-14 10:59:59",
         "extensionTime": "2024-08-21 10:59:59"
+    },
+    {
+        "id": 10828,
+        "subId": 828,
+        "rerun": true,
+        "name": "Event_Name_828",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-09-04 11:00:00",
+        "startTime": "2024-09-04 11:00:00",
+        "endTime": "2024-09-18 10:59:59",
+        "extensionTime": "2024-09-25 10:59:59"
+    },
+    {
+        "id": 10828,
+        "subId": 828,
+        "rerun": true,
+        "name": "Event_Name_828",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-09-04 11:00:00",
+        "startTime": "2024-09-04 11:00:00",
+        "endTime": "2024-09-18 10:59:59",
+        "extensionTime": "2024-09-25 10:59:59"
+    },
+    {
+        "id": 10828,
+        "subId": 828,
+        "rerun": true,
+        "name": "Event_Name_828",
+        "eventContentType": "MiniGameTBG",
+        "subEvent": false,
+        "exposedTime": "2024-09-04 11:00:00",
+        "startTime": "2024-09-04 11:00:00",
+        "endTime": "2024-09-18 10:59:59",
+        "extensionTime": "2024-09-25 10:59:59"
+    },
+    {
+        "id": 10828,
+        "subId": 828,
+        "rerun": true,
+        "name": "Event_Name_828",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-09-04 11:00:00",
+        "startTime": "2024-09-04 11:00:00",
+        "endTime": "2024-09-18 10:59:59",
+        "extensionTime": "2024-09-25 10:59:59"
+    },
+    {
+        "id": 10828,
+        "subId": 828,
+        "rerun": true,
+        "name": "Event_Name_828",
+        "eventContentType": "Collection",
+        "subEvent": false,
+        "exposedTime": "2024-09-04 11:00:00",
+        "startTime": "2024-09-04 11:00:00",
+        "endTime": "2024-09-18 10:59:59",
+        "extensionTime": "2024-09-25 10:59:59"
     },
     {
         "id": 50822,

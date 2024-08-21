@@ -2297,6 +2297,28 @@
         ]
     },
     {
+        "id": 10103,
+        "name": "マリナ（チーパオ）",
+        "devname": "CH0270",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "RedwinterSecretary",
+        "favoriteGift": [
+            "ak",
+            "al"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -3861,6 +3883,28 @@
             "aP",
             "CX",
             "Cx"
+        ]
+    },
+    {
+        "id": 20038,
+        "name": "トモエ（チーパオ）",
+        "devname": "CH0271",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Mystic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "RedWinter",
+        "club": "RedwinterSecretary",
+        "favoriteGift": [
+            "BB",
+            "an"
         ]
     },
     {

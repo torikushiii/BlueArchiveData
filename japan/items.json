@@ -2252,7 +2252,9 @@
             "BQ",
             "FG",
             "GA",
-            "Gk"
+            "Gk",
+            "GP",
+            "Gp"
         ]
     },
     {
@@ -2508,7 +2510,8 @@
             "co",
             "Dd",
             "Di",
-            "DK"
+            "DK",
+            "GO"
         ]
     },
     {
@@ -2820,7 +2823,9 @@
             "FG",
             "Fg",
             "GA",
-            "Ga"
+            "Ga",
+            "GP",
+            "Gp"
         ]
     },
     {
@@ -2986,7 +2991,9 @@
             "GA",
             "Ga",
             "Gk",
-            "GL"
+            "GL",
+            "GO",
+            "Go"
         ]
     },
     {
@@ -3497,6 +3504,14 @@
     },
     {
         "id": 6516,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6517,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4648,6 +4663,16 @@
         ]
     },
     {
+        "id": 10103,
+        "rarity": "N",
+        "quality": 9,
+        "name": "マリナ（チーパオ）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -5322,6 +5347,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "フブキ（水着）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20038,
+        "rarity": "N",
+        "quality": 9,
+        "name": "トモエ（チーパオ）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -8424,6 +8459,38 @@
         "tags": []
     },
     {
+        "id": 80460,
+        "rarity": "N",
+        "quality": 1,
+        "name": "お土産の人形",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80461,
+        "rarity": "N",
+        "quality": 2,
+        "name": "小型のお茶セット",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80462,
+        "rarity": "N",
+        "quality": 3,
+        "name": "六和閣模型",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80463,
+        "rarity": "N",
+        "quality": 4,
+        "name": "幸運のキーホルダー",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -9308,6 +9375,38 @@
         "tags": []
     },
     {
+        "id": 85250,
+        "rarity": "N",
+        "quality": 1,
+        "name": "イベントPt",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85251,
+        "rarity": "N",
+        "quality": 2,
+        "name": "羊皮紙の欠片",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85252,
+        "rarity": "N",
+        "quality": 3,
+        "name": "レモン",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85253,
+        "rarity": "N",
+        "quality": 4,
+        "name": "古びた鍵",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -9639,6 +9738,14 @@
     },
     {
         "id": 100039,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100040,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",

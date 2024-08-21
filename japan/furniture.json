@@ -3250,6 +3250,21 @@
         "comfortBonus": 350
     },
     {
+        "id": 210350,
+        "name": "カフェ用グランピングセット",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210351,
+        "name": "木人椿",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210352,
+        "name": "演説用の机",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "総力戦ブロンズトロフィースタンド01",
         "comfortBonus": 50

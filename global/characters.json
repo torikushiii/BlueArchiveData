@@ -3403,6 +3403,27 @@
         ]
     },
     {
+        "id": 20034,
+        "name": "Akari (New Year)",
+        "devname": "CH0196",
+        "rarity": "SSR",
+        "role": "T.S.",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "az"
+        ]
+    },
+    {
         "id": 23000,
         "name": "Airi",
         "devname": "airi",

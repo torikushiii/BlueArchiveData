@@ -1872,6 +1872,54 @@
         "extensionTime": "2024-09-11 10:59:59"
     },
     {
+        "id": 840,
+        "subId": 840,
+        "rerun": false,
+        "name": "Event_Name_840",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-09-25 11:00:00",
+        "startTime": "2024-09-25 11:00:00",
+        "endTime": "2024-10-10 10:59:59",
+        "extensionTime": "2024-10-17 10:59:59"
+    },
+    {
+        "id": 840,
+        "subId": 840,
+        "rerun": false,
+        "name": "Event_Name_840",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-09-25 11:00:00",
+        "startTime": "2024-09-25 11:00:00",
+        "endTime": "2024-10-10 10:59:59",
+        "extensionTime": "2024-10-17 10:59:59"
+    },
+    {
+        "id": 840,
+        "subId": 840,
+        "rerun": false,
+        "name": "Event_Name_840",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-09-25 11:00:00",
+        "startTime": "2024-09-25 11:00:00",
+        "endTime": "2024-10-10 10:59:59",
+        "extensionTime": "2024-10-17 10:59:59"
+    },
+    {
+        "id": 840,
+        "subId": 840,
+        "rerun": false,
+        "name": "Event_Name_840",
+        "eventContentType": "Treasure",
+        "subEvent": false,
+        "exposedTime": "2024-09-25 11:00:00",
+        "startTime": "2024-09-25 11:00:00",
+        "endTime": "2024-10-10 10:59:59",
+        "extensionTime": "2024-10-17 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -3346,6 +3394,30 @@
         "startTime": "2024-06-05 11:00:00",
         "endTime": "2024-06-19 10:59:59",
         "extensionTime": "2024-06-26 10:59:59"
+    },
+    {
+        "id": 60009,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "MiniEvent",
+        "subEvent": false,
+        "exposedTime": "2024-10-10 11:00:00",
+        "startTime": "2024-10-10 11:00:00",
+        "endTime": "2024-10-23 10:59:59",
+        "extensionTime": "2024-10-30 10:59:59"
+    },
+    {
+        "id": 60009,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-10-10 11:00:00",
+        "startTime": "2024-10-10 11:00:00",
+        "endTime": "2024-10-23 10:59:59",
+        "extensionTime": "2024-10-30 10:59:59"
     },
     {
         "id": 900801,

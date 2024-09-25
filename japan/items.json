@@ -2573,7 +2573,9 @@
             "BK",
             "Dj",
             "eg",
-            "Gc"
+            "Gc",
+            "Gs",
+            "GT"
         ]
     },
     {
@@ -2729,7 +2731,9 @@
             "cj",
             "DU",
             "EP",
-            "fC"
+            "fC",
+            "Gr",
+            "GS"
         ]
     },
     {
@@ -3051,7 +3055,9 @@
             "Bo",
             "dP",
             "Ey",
-            "EZ"
+            "EZ",
+            "Gs",
+            "GT"
         ]
     },
     {
@@ -3134,7 +3140,9 @@
             "FE",
             "Fe",
             "Gh",
-            "GI"
+            "GI",
+            "Gr",
+            "GS"
         ]
     },
     {
@@ -3512,6 +3520,14 @@
     },
     {
         "id": 6517,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6518,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4673,6 +4689,16 @@
         ]
     },
     {
+        "id": 10104,
+        "rarity": "N",
+        "quality": 9,
+        "name": "レイジョの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -5357,6 +5383,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "トモエ（チーパオ）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20039,
+        "rarity": "N",
+        "quality": 9,
+        "name": "キサキの神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -7153,6 +7189,78 @@
         "tags": []
     },
     {
+        "id": 70132,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70133,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70134,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70135,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70136,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70137,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70138,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70139,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70140,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 79999,
         "rarity": "N",
         "quality": 2,
@@ -8487,6 +8595,46 @@
         "rarity": "N",
         "quality": 4,
         "name": "幸運のキーホルダー",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80470,
+        "rarity": "N",
+        "quality": 1,
+        "name": "月影祭の商品券",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80471,
+        "rarity": "N",
+        "quality": 2,
+        "name": "月影祭の月餅",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80472,
+        "rarity": "N",
+        "quality": 3,
+        "name": "錬丹術研究会の特製栄養剤",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80473,
+        "rarity": "N",
+        "quality": 4,
+        "name": "月影祭の爆竹",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80480,
+        "rarity": "N",
+        "quality": 1,
+        "name": "高級万年筆",
         "category": "Coin",
         "tags": []
     },

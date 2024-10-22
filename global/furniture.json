@@ -2135,6 +2135,166 @@
         "comfortBonus": 350
     },
     {
+        "id": 16100,
+        "name": "Trinity Solid Wood Storage Cabinet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16101,
+        "name": "Decorated Trinity Solid Wood Storage Cabinet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16102,
+        "name": "Basic Pattern Carpet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16103,
+        "name": "Classic Pattern Carpet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16104,
+        "name": "Trinity Hexagon Carpet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16105,
+        "name": "Blue Line Carpet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16106,
+        "name": "Trinity Classroom Desk",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16107,
+        "name": "Trinity Classroom Pillar",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16108,
+        "name": "Trinity Classroom Pattern Pillar",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16109,
+        "name": "Trinity Classroom Lamp Pillar",
+        "comfortBonus": 50
+    },
+    {
+        "id": 16200,
+        "name": "Trinity Classroom Blackboard",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16201,
+        "name": "Trinity Classroom Lecture Desk",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16202,
+        "name": "Desk with a Peroro Doll",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16203,
+        "name": "Desk With Bag",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16204,
+        "name": "Desk With Gun and Bag",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16205,
+        "name": "Desk With Peroro's Bag",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16206,
+        "name": "Trinity Window Single Partition",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16207,
+        "name": "Trinity Classroom Window Double Partition",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16208,
+        "name": "Trinity Classroom Single Partition",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16209,
+        "name": "Trinity Classroom Double Partition",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16210,
+        "name": "Nightstand With Flowers",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16211,
+        "name": "Nightstand With Lamp",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16212,
+        "name": "Trinity Bench",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16213,
+        "name": "Trinity Classroom Background",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16214,
+        "name": "Trinity Classroom Wall",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16215,
+        "name": "Trinity Classroom Floor",
+        "comfortBonus": 120
+    },
+    {
+        "id": 16300,
+        "name": "Trinity Large Bookshelf",
+        "comfortBonus": 350
+    },
+    {
+        "id": 16301,
+        "name": "Grandfather Clock",
+        "comfortBonus": 350
+    },
+    {
+        "id": 16302,
+        "name": "Trinity Medium Bookshelf",
+        "comfortBonus": 350
+    },
+    {
+        "id": 16303,
+        "name": "Trinity Classroom Door",
+        "comfortBonus": 350
+    },
+    {
+        "id": 16304,
+        "name": "Trinity Gun Rack",
+        "comfortBonus": 350
+    },
+    {
+        "id": 16305,
+        "name": "Trinity Classroom Window",
+        "comfortBonus": 350
+    },
+    {
         "id": 100000,
         "name": "Binah Bronze Trophy - Field Warfare",
         "comfortBonus": 50
@@ -2885,6 +3045,26 @@
         "comfortBonus": 350
     },
     {
+        "id": 210336,
+        "name": "Dark Blue Bass Guitar",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210337,
+        "name": "Pink Electric Guitar",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210338,
+        "name": "Basic Electric Keyboard",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210340,
+        "name": "Legendary Record Board",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "Total Assault Bronze Trophy Display Cabinet 01",
         "comfortBonus": 50
@@ -2952,6 +3132,11 @@
     {
         "id": 302306,
         "name": "Recollection Player 5",
+        "comfortBonus": 350
+    },
+    {
+        "id": 302307,
+        "name": "Recollection Player -ive aLIVE!",
         "comfortBonus": 350
     }
 ]

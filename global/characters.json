@@ -2026,6 +2026,50 @@
         ]
     },
     {
+        "id": 10091,
+        "name": "Kazusa (Band)",
+        "devname": "CH0250",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert",
+        "favoriteGift": [
+            "aJ",
+            "aQ"
+        ]
+    },
+    {
+        "id": 10092,
+        "name": "Yoshimi (Band)",
+        "devname": "CH0220",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert",
+        "favoriteGift": [
+            "aJ",
+            "ar"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -2664,6 +2708,82 @@
             "aJ",
             "ao"
         ]
+    },
+    {
+        "id": 16015,
+        "name": "Airi (Band)",
+        "devname": "CH0251",
+        "rarity": "R",
+        "role": "Dealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert",
+        "favoriteGift": [
+            "aJ",
+            "BA"
+        ]
+    },
+    {
+        "id": 19018,
+        "name": "Hibiki",
+        "devname": "Hibiki",
+        "rarity": "R",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "SMG",
+        "bulletType": "Mystic",
+        "armorType": "Light",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 19019,
+        "name": "Karin",
+        "devname": "karin",
+        "rarity": "R",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "Shugyobu"
+    },
+    {
+        "id": 19020,
+        "name": "Saya",
+        "devname": "saya",
+        "rarity": "R",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SR",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "GameDev"
     },
     {
         "id": 20000,

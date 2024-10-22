@@ -2248,7 +2248,8 @@
             "Bb",
             "ar",
             "BQ",
-            "FG"
+            "FG",
+            "GA"
         ]
     },
     {
@@ -2297,7 +2298,11 @@
             "By",
             "bE",
             "ce",
-            "EM"
+            "EM",
+            "fX",
+            "fY",
+            "fZ",
+            "Gg"
         ]
     },
     {
@@ -2345,7 +2350,8 @@
             "aL",
             "aR",
             "BW",
-            "cG"
+            "cG",
+            "Gb"
         ]
     },
     {
@@ -2418,7 +2424,8 @@
             "aj",
             "aR",
             "BJ",
-            "Ei"
+            "Ei",
+            "Gh"
         ]
     },
     {
@@ -2555,7 +2562,8 @@
             "ay",
             "BK",
             "Dj",
-            "eg"
+            "eg",
+            "Gc"
         ]
     },
     {
@@ -2588,7 +2596,10 @@
             "az",
             "BT",
             "cH",
-            "ER"
+            "ER",
+            "fX",
+            "fY",
+            "fZ"
         ]
     },
     {
@@ -2634,7 +2645,8 @@
             "av",
             "BO",
             "cn",
-            "fg"
+            "fg",
+            "Gd"
         ]
     },
     {
@@ -2766,7 +2778,9 @@
             "FC",
             "Fc",
             "FT",
-            "Ft"
+            "Ft",
+            "Ge",
+            "GF"
         ]
     },
     {
@@ -2795,7 +2809,9 @@
             "eP",
             "ep",
             "FG",
-            "Fg"
+            "Fg",
+            "GA",
+            "Ga"
         ]
     },
     {
@@ -2832,7 +2848,9 @@
             "fE",
             "fe",
             "fg",
-            "fH"
+            "fH",
+            "Gd",
+            "GE"
         ]
     },
     {
@@ -2869,7 +2887,15 @@
             "fD",
             "fd",
             "fh",
-            "fI"
+            "fI",
+            "fX",
+            "fx",
+            "fY",
+            "fy",
+            "fZ",
+            "fz",
+            "Gg",
+            "GH"
         ]
     },
     {
@@ -2906,7 +2932,9 @@
             "Fz",
             "fA",
             "ff",
-            "fG"
+            "fG",
+            "Gf",
+            "GG"
         ]
     },
     {
@@ -2943,7 +2971,9 @@
             "eR",
             "er",
             "FP",
-            "FR"
+            "FR",
+            "GA",
+            "Ga"
         ]
     },
     {
@@ -3034,7 +3064,9 @@
             "eT",
             "et",
             "FS",
-            "Fs"
+            "Fs",
+            "Gc",
+            "GD"
         ]
     },
     {
@@ -3080,7 +3112,9 @@
             "en",
             "eO",
             "FE",
-            "Fe"
+            "Fe",
+            "Gh",
+            "GI"
         ]
     },
     {
@@ -3115,7 +3149,9 @@
             "fD",
             "fd",
             "fS",
-            "fs"
+            "fs",
+            "Gb",
+            "GC"
         ]
     },
     {
@@ -3242,6 +3278,28 @@
         ]
     },
     {
+        "id": 91000040,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Papa Johns Commemorative Card",
+        "category": "Favor",
+        "tags": [
+            "BC",
+            "Bc"
+        ]
+    },
+    {
+        "id": 91000041,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Nexon 30-Year Anniversary Commemorative Card",
+        "category": "Favor",
+        "tags": [
+            "BC",
+            "Bc"
+        ]
+    },
+    {
         "id": 6000,
         "rarity": "SSR",
         "quality": 4,
@@ -3270,6 +3328,14 @@
         "rarity": "SSR",
         "quality": 4,
         "name": " 3★ Student Guaranteed (x10) Ticket ",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6105,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "3★ Student Guaranteed (x10) Ticket ",
         "category": "Material",
         "tags": []
     },
@@ -3315,6 +3381,30 @@
     },
     {
         "id": 6512,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6513,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6514,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6515,
         "rarity": "SSR",
         "quality": 4,
         "name": "10-Recruitment Ticket",
@@ -4348,6 +4438,76 @@
         ]
     },
     {
+        "id": 10091,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Kazusa (Band)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10092,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Yoshimi (Band)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10093,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Kirara's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10094,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Momoi (Maid)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10095,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Midori (Maid)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10096,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Kanna (Swimsuit)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10097,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Moe (Swimsuit)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -4632,6 +4792,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "Ibuki's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 16015,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Airi (Band)'s Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -4998,6 +5168,26 @@
         ]
     },
     {
+        "id": 20036,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Serika (Swimsuit)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20037,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Fubuki (Swimsuit)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 23000,
         "rarity": "N",
         "quality": 9,
@@ -5202,6 +5392,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "Saten Ruiko's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 26012,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Kirino (Swimsuit)'s Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -6944,6 +7144,86 @@
         "tags": []
     },
     {
+        "id": 70122,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70123,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70124,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70125,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70126,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70127,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70128,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70129,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70130,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70131,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 79999,
         "rarity": "N",
         "quality": 2,
@@ -7761,6 +8041,14 @@
     },
     {
         "id": 90070101,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070102,
         "rarity": "N",
         "quality": 2,
         "name": "Recruitment Points",
@@ -9112,6 +9400,78 @@
         "tags": []
     },
     {
+        "id": 80420,
+        "rarity": "N",
+        "quality": 1,
+        "name": "D-Day Calendar",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80421,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Rechargeable Cookie",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80422,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Motivation Boost Cookie",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80423,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Event Points",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80430,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Financial Calculator",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80440,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Water Park Wristband",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80441,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Safety Whistle",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80442,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Lifebuoy",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80443,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Life Vest",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -9820,6 +10180,150 @@
         "tags": []
     },
     {
+        "id": 85200,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Game Card Bundle",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85201,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Black Tortoise Promenade Meal Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85202,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Genryumon Badge",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85203,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Solvent Extraction Set",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85210,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Immaculate Maid Hairband",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85211,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Makeup Palette",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85212,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Old Mansion Invitation",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85220,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Frozen Shrimp",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85221,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Pebble",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85222,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Seashell",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85223,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Dried Starfish",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85224,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Guaranteed Roll Ticket",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 85225,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Guaranteed Roll (1) Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85226,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Guaranteed Roll (2) Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85227,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Guaranteed Roll (3) Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85228,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Guaranteed Roll (4) Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85229,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Guaranteed Roll (5) Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85230,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Guaranteed Roll (6) Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -10134,6 +10638,22 @@
         "tags": []
     },
     {
+        "id": 100037,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100038,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 110000,
         "rarity": "N",
         "quality": 1,
@@ -10199,6 +10719,22 @@
     },
     {
         "id": 110008,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110009,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110010,
         "rarity": "N",
         "quality": 1,
         "name": "Equipment Chest",
@@ -10736,6 +11272,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "Gehenna Party Furniture Choice Box",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151016,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Trinity Classroom Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12126,6 +12672,16 @@
         ]
     },
     {
+        "id": 191016,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Trinity Classroom Furniture Raffle Box",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
         "id": 191991,
         "rarity": "R",
         "quality": 2,
@@ -12306,6 +12862,14 @@
         "rarity": "N",
         "quality": 2,
         "name": "Shiba Seki Special Jumbo Ramen",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 20000012,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Abydos Student ID (First-year)",
         "category": "Collectible",
         "tags": []
     },
@@ -12710,6 +13274,14 @@
         "tags": []
     },
     {
+        "id": 90006105,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "3★ Student Guaranteed (x10) Ticket ",
+        "category": "Material",
+        "tags": []
+    },
+    {
         "id": 90006504,
         "rarity": "SSR",
         "quality": 4,
@@ -12775,6 +13347,30 @@
     },
     {
         "id": 90006512,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006513,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006514,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006515,
         "rarity": "SSR",
         "quality": 4,
         "name": "10-Recruitment Ticket",
@@ -12859,6 +13455,30 @@
         "quality": 4,
         "name": "Hoshino Recruitment Ticket",
         "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 90016500,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 913000001,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "3★ Student Choice Ticket II",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 90016101,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "3★ Student Guaranteed (x10) Ticket II",
+        "category": "Material",
         "tags": []
     }
 ]

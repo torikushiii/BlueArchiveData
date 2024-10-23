@@ -2341,6 +2341,52 @@
         ]
     },
     {
+        "id": 10105,
+        "name": "マリー（アイドル）",
+        "devname": "CH0273",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "SisterHood",
+        "favoriteGift": [
+            "am",
+            "BA",
+            "ay"
+        ]
+    },
+    {
+        "id": 10106,
+        "name": "サクラコ（アイドル）",
+        "devname": "CH0274",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "SisterHood",
+        "favoriteGift": [
+            "BB",
+            "av",
+            "aW"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -3003,6 +3049,29 @@
         ]
     },
     {
+        "id": 16016,
+        "name": "ミネ（アイドル）",
+        "devname": "CH0275",
+        "rarity": "R",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "KnightsHospitaller",
+        "favoriteGift": [
+            "Bb",
+            "ar",
+            "ap"
+        ]
+    },
+    {
         "id": 19018,
         "name": "ヒビキ",
         "devname": "Hibiki",
@@ -3055,6 +3124,24 @@
         ],
         "school": "Millennium",
         "club": "GameDev"
+    },
+    {
+        "id": 19021,
+        "name": "ユウカ",
+        "devname": "Yuuka",
+        "rarity": "SR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar"
     },
     {
         "id": 20000,
@@ -4453,5 +4540,23 @@
             "Cx",
             "CX"
         ]
+    },
+    {
+        "id": 29012,
+        "name": "ハレ",
+        "devname": "Hare",
+        "rarity": "SR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "Veritas"
     }
 ]

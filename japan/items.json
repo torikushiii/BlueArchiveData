@@ -2164,7 +2164,8 @@
             "ap",
             "Bo",
             "cP",
-            "fT"
+            "fT",
+            "Gv"
         ]
     },
     {
@@ -2511,7 +2512,9 @@
             "Dd",
             "Di",
             "DK",
-            "GO"
+            "GO",
+            "Gv",
+            "GW"
         ]
     },
     {
@@ -2697,7 +2700,8 @@
             "DT",
             "EM",
             "eg",
-            "em"
+            "em",
+            "Gt"
         ]
     },
     {
@@ -2733,7 +2737,9 @@
             "EP",
             "fC",
             "Gr",
-            "GS"
+            "GS",
+            "Gu",
+            "GV"
         ]
     },
     {
@@ -2915,7 +2921,9 @@
             "Gg",
             "GH",
             "Gl",
-            "GM"
+            "GM",
+            "Gu",
+            "GV"
         ]
     },
     {
@@ -2997,7 +3005,9 @@
             "Gk",
             "GL",
             "GO",
-            "Go"
+            "Go",
+            "Gv",
+            "GW"
         ]
     },
     {
@@ -3092,7 +3102,9 @@
             "FS",
             "Fs",
             "Gc",
-            "GD"
+            "GD",
+            "Gt",
+            "GU"
         ]
     },
     {
@@ -3528,6 +3540,14 @@
     },
     {
         "id": 6518,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6519,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4699,6 +4719,26 @@
         ]
     },
     {
+        "id": 10105,
+        "rarity": "N",
+        "quality": 9,
+        "name": "マリー（アイドル）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10106,
+        "rarity": "N",
+        "quality": 9,
+        "name": "サクラコ（アイドル）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -4993,6 +5033,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "アイリ（バンド）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 16016,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ミネ（アイドル）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -8639,6 +8689,46 @@
         "tags": []
     },
     {
+        "id": 80490,
+        "rarity": "N",
+        "quality": 1,
+        "name": "イベントPt",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80491,
+        "rarity": "N",
+        "quality": 2,
+        "name": "ライブチケット",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80492,
+        "rarity": "N",
+        "quality": 3,
+        "name": "カラフルペンライト",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80493,
+        "rarity": "N",
+        "quality": 4,
+        "name": "ぷちケーキ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80500,
+        "rarity": "N",
+        "quality": 1,
+        "name": "謎の物質",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -10013,6 +10103,14 @@
         "tags": []
     },
     {
+        "id": 120002,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 150000,
         "rarity": "N",
         "quality": 1,
@@ -10571,6 +10669,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "DJパーティー会場シリーズ選択ボックス",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151018,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "百鬼夜行シリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -11975,6 +12083,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "DJパーティー会場シリーズ抽選ボックス",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 191018,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "百鬼夜行シリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
             "Db"

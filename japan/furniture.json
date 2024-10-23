@@ -2430,6 +2430,211 @@
         "comfortBonus": 500
     },
     {
+        "id": 18100,
+        "name": "百花繚乱の旗",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18101,
+        "name": "臙脂色の長椅子",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18102,
+        "name": "百鬼夜行教室の黒板",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18103,
+        "name": "古風な茣蓙",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18104,
+        "name": "若草色の座椅子",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18105,
+        "name": "臙脂色の座椅子",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18106,
+        "name": "百花繚乱の座敷机",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18107,
+        "name": "行灯付き百花繚乱の座敷机",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18108,
+        "name": "きれいな座敷机",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18109,
+        "name": "百花繚乱専用ガンスタンド",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18110,
+        "name": "昔ながらの行灯",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18111,
+        "name": "盆栽仕立ての観葉植物",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18112,
+        "name": "木製の棚",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18113,
+        "name": "木製の大きな座卓",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18114,
+        "name": "きれいな座卓",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18115,
+        "name": "百花繚乱の掛け軸",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18116,
+        "name": "円形の窓",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18117,
+        "name": "古風な木製の椅子",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18118,
+        "name": "射撃練習用の的",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18200,
+        "name": "百花繚乱の竹垣根",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18201,
+        "name": "古風な本棚",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18202,
+        "name": "横長の座椅子",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18203,
+        "name": "少し散らかっている百花繚乱の座敷机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18204,
+        "name": "使用中の百花繚乱の座敷机",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18205,
+        "name": "桜の花瓶",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18206,
+        "name": "古風な紋様の屏風",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18207,
+        "name": "羽織掛け",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18208,
+        "name": "古風な紋様の仕切り",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18209,
+        "name": "花瓶の棚",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18210,
+        "name": "石灯籠",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18211,
+        "name": "間食用の座卓",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18212,
+        "name": "食事用の座卓",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18213,
+        "name": "古風な柱",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18214,
+        "name": "古風な壁",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18215,
+        "name": "古風な畳",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18216,
+        "name": "百鬼夜行の背景",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18300,
+        "name": "来客用の座卓",
+        "comfortBonus": 350
+    },
+    {
+        "id": 18301,
+        "name": "小型庭園・青竹",
+        "comfortBonus": 500
+    },
+    {
+        "id": 18302,
+        "name": "金魚鉢の棚",
+        "comfortBonus": 350
+    },
+    {
+        "id": 18303,
+        "name": "茶卓",
+        "comfortBonus": 350
+    },
+    {
+        "id": 18304,
+        "name": "桜の見える露台",
+        "comfortBonus": 500
+    },
+    {
         "id": 100000,
         "name": "ビナー戦（屋外戦）のブロンズトロフィー",
         "comfortBonus": 50
@@ -3268,6 +3473,11 @@
         "id": 210353,
         "name": "玄龍門の玉座",
         "comfortBonus": 350
+    },
+    {
+        "id": 210354,
+        "name": "ライブステージ",
+        "comfortBonus": 500
     },
     {
         "id": 301001,

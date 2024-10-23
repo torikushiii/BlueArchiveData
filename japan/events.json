@@ -1920,6 +1920,54 @@
         "extensionTime": "2024-10-17 10:59:59"
     },
     {
+        "id": 841,
+        "subId": 841,
+        "rerun": false,
+        "name": "Event_Name_841",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2024-10-23 11:00:00",
+        "startTime": "2024-10-23 11:00:00",
+        "endTime": "2024-11-06 10:59:59",
+        "extensionTime": "2024-11-13 10:59:59"
+    },
+    {
+        "id": 841,
+        "subId": 841,
+        "rerun": false,
+        "name": "Event_Name_841",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2024-10-23 11:00:00",
+        "startTime": "2024-10-23 11:00:00",
+        "endTime": "2024-11-06 10:59:59",
+        "extensionTime": "2024-11-13 10:59:59"
+    },
+    {
+        "id": 841,
+        "subId": 841,
+        "rerun": false,
+        "name": "Event_Name_841",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2024-10-23 11:00:00",
+        "startTime": "2024-10-23 11:00:00",
+        "endTime": "2024-11-06 10:59:59",
+        "extensionTime": "2024-11-13 10:59:59"
+    },
+    {
+        "id": 841,
+        "subId": 841,
+        "rerun": false,
+        "name": "Event_Name_841",
+        "eventContentType": "Recollection",
+        "subEvent": false,
+        "exposedTime": "2024-10-23 11:00:00",
+        "startTime": "2024-10-23 11:00:00",
+        "endTime": "2024-11-06 10:59:59",
+        "extensionTime": "2024-11-13 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -3420,6 +3468,90 @@
         "extensionTime": "2024-10-30 10:59:59"
     },
     {
+        "id": 70000,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "SpecialMiniEvent",
+        "subEvent": false,
+        "exposedTime": "2023-02-01 11:00:00",
+        "startTime": "2023-02-01 11:00:00",
+        "endTime": "2023-07-17 10:59:59",
+        "extensionTime": "2023-07-24 10:59:59"
+    },
+    {
+        "id": 70000,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "ScenarioCollection",
+        "subEvent": false,
+        "exposedTime": "2023-02-01 11:00:00",
+        "startTime": "2023-02-01 11:00:00",
+        "endTime": "2023-07-17 10:59:59",
+        "extensionTime": "2023-07-24 10:59:59"
+    },
+    {
+        "id": 70000,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "ScenarioShortcut",
+        "subEvent": false,
+        "exposedTime": "2023-02-01 11:00:00",
+        "startTime": "2023-02-01 11:00:00",
+        "endTime": "2023-07-17 10:59:59",
+        "extensionTime": "2023-07-24 10:59:59"
+    },
+    {
+        "id": 70001,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "SpecialMiniEvent",
+        "subEvent": false,
+        "exposedTime": "2024-11-06 11:00:00",
+        "startTime": "2024-11-06 11:00:00",
+        "endTime": "2024-11-20 10:59:59",
+        "extensionTime": "2024-11-27 10:59:59"
+    },
+    {
+        "id": 70001,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "BoxGacha",
+        "subEvent": false,
+        "exposedTime": "2024-11-06 11:00:00",
+        "startTime": "2024-11-06 11:00:00",
+        "endTime": "2024-11-20 10:59:59",
+        "extensionTime": "2024-11-27 10:59:59"
+    },
+    {
+        "id": 70001,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "ScenarioCollection",
+        "subEvent": false,
+        "exposedTime": "2024-11-06 11:00:00",
+        "startTime": "2024-11-06 11:00:00",
+        "endTime": "2024-11-20 10:59:59",
+        "extensionTime": "2024-11-27 10:59:59"
+    },
+    {
+        "id": 70001,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "ScenarioShortcut",
+        "subEvent": false,
+        "exposedTime": "2024-11-06 11:00:00",
+        "startTime": "2024-11-06 11:00:00",
+        "endTime": "2024-11-20 10:59:59",
+        "extensionTime": "2024-11-27 10:59:59"
+    },
+    {
         "id": 900801,
         "subId": 801,
         "rerun": true,
@@ -3656,8 +3788,8 @@
         "subEvent": false,
         "exposedTime": "2024-01-24 11:00:00",
         "startTime": "2024-01-24 11:00:00",
-        "endTime": "2099-12-31 23:59:59",
-        "extensionTime": "2099-12-31 23:59:59"
+        "endTime": "2024-10-23 10:59:59",
+        "extensionTime": "2024-10-23 10:59:59"
     },
     {
         "id": 900701,
@@ -3668,7 +3800,7 @@
         "subEvent": false,
         "exposedTime": "2024-01-24 11:00:00",
         "startTime": "2024-01-24 11:00:00",
-        "endTime": "2099-12-31 23:59:59",
-        "extensionTime": "2099-12-31 23:59:59"
+        "endTime": "2024-10-23 10:59:59",
+        "extensionTime": "2024-10-23 10:59:59"
     }
 ]

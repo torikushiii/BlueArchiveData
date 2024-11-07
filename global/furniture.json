@@ -1,3142 +1,3557 @@
 [
     {
         "id": 1,
-        "name": "Natural Wood Floor",
+        "name": "",
         "comfortBonus": 20
     },
     {
         "id": 2,
-        "name": "Natural Wood Wall",
+        "name": "",
         "comfortBonus": 20
     },
     {
         "id": 3,
-        "name": "Sky Blue Gradient Background",
+        "name": "",
         "comfortBonus": 20
     },
     {
         "id": 4,
-        "name": "Whiteboard",
+        "name": "",
         "comfortBonus": 20
     },
     {
         "id": 5,
-        "name": "Wood Storage Cabinet",
+        "name": "",
         "comfortBonus": 20
     },
     {
         "id": 6,
-        "name": "Simple Blue Carpet",
+        "name": "",
         "comfortBonus": 20
     },
     {
         "id": 7,
-        "name": "Solid Wood Chair",
+        "name": "",
         "comfortBonus": 20
     },
     {
         "id": 8,
-        "name": "Solid Wood Spare Chair",
+        "name": "",
         "comfortBonus": 20
     },
     {
         "id": 9,
-        "name": "Solid Wood Storage Table",
+        "name": "",
         "comfortBonus": 20
     },
     {
         "id": 10,
-        "name": "Large Wood Table",
+        "name": "",
         "comfortBonus": 20
     },
     {
         "id": 11,
-        "name": "Curtained Window",
+        "name": "",
         "comfortBonus": 20
     },
     {
         "id": 1100,
-        "name": "White Coffee Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 1101,
-        "name": "Colorful Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 1102,
-        "name": "Planter Set Shelf",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 1300,
-        "name": "Polished Blue Wall",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 1200,
-        "name": "Polished Blue Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 1103,
-        "name": "White Dessert Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 1104,
-        "name": "Colorful Loveseat",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 1105,
-        "name": "Colorful 2-Tier Planter",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 1106,
-        "name": "Momo Friends Menu Wall Decoration",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 1107,
-        "name": "Momo Friends Frame Pillar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 1108,
-        "name": "All-Glass Window",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 1109,
-        "name": "Peroro Set Shelf",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 1201,
-        "name": "Wood Bar Counter",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 1202,
-        "name": "Wood Self-Serve Bar",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 1203,
-        "name": "Colorful Peroro Chair",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 1204,
-        "name": "Momo Friends Neon Display",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 1301,
-        "name": "Wood Kitchen Bar",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 1302,
-        "name": "Momo Friends Storage Cabinet",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 1303,
-        "name": "Peroro Barista Plush",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 2100,
-        "name": "Simple Pink Stool",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 2101,
-        "name": "Foliage Plant",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 2102,
-        "name": "Small Window",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 2300,
-        "name": "Grid Tile Wall",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 2200,
-        "name": "Grid Tile Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 2103,
-        "name": "Simple White Sofa",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 2104,
-        "name": "Red Arcade Machine",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 2105,
-        "name": "Purple Arcade Machine",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 2106,
-        "name": "Blue Arcade Machine",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 2107,
-        "name": "Neon Arcade Display",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 2108,
-        "name": "Neon Jellies Display",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 2109,
-        "name": "Colorful Plaid Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 2201,
-        "name": "Cassette Tape Table",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 2202,
-        "name": "Colorful Vending Machine",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 2203,
-        "name": "Colorful Multi-Screen TV",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 2204,
-        "name": "Jellies Plush Claw Machine",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 2301,
-        "name": "Air Hockey Game Machine",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 2302,
-        "name": "Speed Racing Game Machine",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 2303,
-        "name": "Dancing Star Game Machine",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 3100,
-        "name": "Chocolate Dessert Model",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3101,
-        "name": "Valentine Sweets Oven",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3102,
-        "name": "Valentine Sweets Kitchen Bar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3103,
-        "name": "Valentine Sweets Storage Bar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3104,
-        "name": "Brown Plaid Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3105,
-        "name": "Valentine Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3106,
-        "name": "Chocolate Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3107,
-        "name": "Valentine Dessert Showcase",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3108,
-        "name": "Valentine Cookie Sofa",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3109,
-        "name": "Valentine Multi-Purpose Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3110,
-        "name": "Accent Light Pole",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3111,
-        "name": "Neon Chocolate Display",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3112,
-        "name": "Chocolate Heart Model",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3113,
-        "name": "Valentine Chocolate Window",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 3200,
-        "name": "Large Chocolate Fountain",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 3201,
-        "name": "Pink Valentine Sweets Model",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 3202,
-        "name": "Valentine Sweets Bar Counter",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 3203,
-        "name": "Sweets Chocolate Wall Decoration",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 3204,
-        "name": "Pink Valentine Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 3300,
-        "name": "Valentine Heart Gift Display",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 3301,
-        "name": "Valentine Tea Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 3302,
-        "name": "Valentine Chocolate Wall",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 3303,
-        "name": "Pink Heart Background",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 4100,
-        "name": "Colorful Striped Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 4101,
-        "name": "Round Colorful Striped Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 4102,
-        "name": "Folding Beach Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 4103,
-        "name": "Summer Picnic Set Supplies",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 4104,
-        "name": "Blue Solid Wood Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 4105,
-        "name": "Simple Rectangle Planter",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 4106,
-        "name": "Monstera White Planter",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 4107,
-        "name": "Resort Tropical Planter",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 4108,
-        "name": "Folding Resort Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 4109,
-        "name": "Tropical Plant Art Set Frame",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 4110,
-        "name": "Plaid Pattern Vertical Window",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 4200,
-        "name": "Summer Picnic Set Parasol",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 4201,
-        "name": "Retro Music Amp",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 4202,
-        "name": "Tropical Plant Art Wall Decoration",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 4203,
-        "name": "Neon Summer Display",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 4204,
-        "name": "Summer Resort All-Glass Window",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 4205,
-        "name": "Blue Point Porcelain Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 4300,
-        "name": "Summer Dessert Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 4301,
-        "name": "Small Floaty Set Pool",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 4302,
-        "name": "Colorful Large Pool",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 4303,
-        "name": "Resort Canopy Sofa",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 4304,
-        "name": "Blue Summer Dot Background",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 4305,
-        "name": "Summer Wave Decoration Wall",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 5101,
-        "name": "Jack-O-Lantern Storage Bar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5102,
-        "name": "Halloween Spiderweb Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5103,
-        "name": "Single Ghost Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5104,
-        "name": "Pumpkin Soup Stool",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5105,
-        "name": "Halloween Ghost Sign",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5106,
-        "name": "Colorful Halloween Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5107,
-        "name": "Two-Tier Jack-O-Lantern Shelf",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5108,
-        "name": "Jack-O-Lantern Double Sofa",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5109,
-        "name": "Colorful Halloween Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5110,
-        "name": "Neon Halloween Display",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5111,
-        "name": "Candle Light Decoration",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5112,
-        "name": "Horror Halloween Set Frame",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5113,
-        "name": "Three-Tier Jack-O-Lantern Decoration",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 5201,
-        "name": "Jack-O-Lantern Fireplace",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 5202,
-        "name": "Halloween Diamond Pattern Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 5203,
-        "name": "Halloween Pumpkin Dessert Table",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 5204,
-        "name": "Spiderweb Arched Window",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 5205,
-        "name": "Jack-O-Lantern Bar Counter",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 5301,
-        "name": "Jack-O-Lantern Photo Zone",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 5302,
-        "name": "Trick or Treat Ghost Doll",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 5303,
-        "name": "Happy Halloween Decoration",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 5304,
-        "name": "Halloween Syrup Wave Wall",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 5305,
-        "name": "Halloween Background",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 6100,
-        "name": "Wave Pattern Floor Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6101,
-        "name": "Hot Springs Capybara Storage Cabinet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6102,
-        "name": "Hot Springs Capybara Capsule Vending Machine",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6103,
-        "name": "Hot Springs Wooden Mood Light",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6104,
-        "name": "Fan Pattern Mood Light",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6105,
-        "name": "Steel Magazine Stand",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6106,
-        "name": "Traditional Wooden Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6107,
-        "name": "Wooden Entrance Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6108,
-        "name": "Square Bamboo Planter",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6109,
-        "name": "Hot Springs Capybara Tapestry",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6110,
-        "name": "Hot Springs Storage Cabinet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6111,
-        "name": "Cherry Blossom Vase Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6112,
-        "name": "Wooden Lattice Window",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 6200,
-        "name": "Healing Massage Chair",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 6201,
-        "name": "Matcha Set Low Table",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 6202,
-        "name": "Traditional Tatami Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 6203,
-        "name": "Electric Beverage Heating Cabinet",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 6300,
-        "name": "Traditional Tile Lattice Wall",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 6301,
-        "name": "Cypress Healing Set Bathtub",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 6302,
-        "name": "Snow Flower Gradient Background",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 7100,
-        "name": "Traditional Pattern Silk Cushion",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 7101,
-        "name": "Traditional Pattern Umbrella Decoration",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 7102,
-        "name": "New Year Mood Light",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 7103,
-        "name": "New Year Kimono Sash Hanger",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 7104,
-        "name": "New Year Color Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 7105,
-        "name": "Lattice Hinged Window",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 7106,
-        "name": "Kerosene Stove and Rice Cakes",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 7107,
-        "name": "New Year Kendama Set Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 7200,
-        "name": "Floral Pattern Kimono Hanger",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 7201,
-        "name": "New Year Cuisine Set Table",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 7202,
-        "name": "Brick-Style Tatami Flooring",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 7203,
-        "name": "Resolution Writing Set Table",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 7300,
-        "name": "New Year Wall with Gold Ornaments",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 7301,
-        "name": "New Year Relaxing Kotatsu",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 7302,
-        "name": "New Year Pattern Background",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 8100,
-        "name": "Military Ammo Storage Box",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 8101,
-        "name": "Square Special Pattern Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 8102,
-        "name": "Rectangular Special Pattern Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 8103,
-        "name": "Folding Green Camping Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 8104,
-        "name": "Folding Yellow Camping Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 8105,
-        "name": "Folding Pink Camping Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 8106,
-        "name": "Folding Blue Camping Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 8107,
-        "name": "Military Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 8108,
-        "name": "Simple Folding Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 8200,
-        "name": "Brunch Set Camping Table",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 8201,
-        "name": "Special Pattern Folding Chair",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 8202,
-        "name": "Military Emergency Rations Storage Cabinet",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 8203,
-        "name": "Military Camping Bunk Bed",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 8204,
-        "name": "Wooden Deck Camping Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 8205,
-        "name": "Military Camping Tarp Wall",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 8206,
-        "name": "Military Camping Tree Background",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 8300,
-        "name": "Grill Set Camping Brazier ",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 8301,
-        "name": "Military Camping Tent Entrance",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 8302,
-        "name": "Self-Assembly Military Kitchen Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 8303,
-        "name": "Wooden Military Gun Mount",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 9100,
-        "name": "White Beachside Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 9101,
-        "name": "Beachside Cooling Mat",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 9102,
-        "name": "Basic White Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 9103,
-        "name": "White Solid Wood Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 9104,
-        "name": "Cold Drink Refrigerator",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 9105,
-        "name": "White Beachside Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 9106,
-        "name": "Solid Wood Terrace Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 9107,
-        "name": "Fresh Fruit Bar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 9108,
-        "name": "Fresh Fruit Wall Decoration",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 9200,
-        "name": "Rolling Wave Banner",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 9201,
-        "name": "Beachside Cooling Fan",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 9202,
-        "name": "Colorful Beachside Life Vests",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 9203,
-        "name": "White Lemon Parasol Table",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 9204,
-        "name": "Beachside Solid Wood Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 9205,
-        "name": "Beachside Wall",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 9206,
-        "name": "Beachside Ocean View Window",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 9207,
-        "name": "Beachside Background",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 9300,
-        "name": "Chill & Cool Ice Cream Refrigerator",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 9301,
-        "name": "Colorful Drink Bar",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 9302,
-        "name": "Sweet & Cool Shaved Ice Bar",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 9303,
-        "name": "Beachside Ocean View Terrace",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 9304,
-        "name": "Beachside Water Floaty",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 10100,
-        "name": "Field Day Wall Clock",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10101,
-        "name": "Red Field Day Cone",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10102,
-        "name": "Blue Field Day Cone",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10103,
-        "name": "Sky Blue Field Day Cone",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10104,
-        "name": "Light Blue Field Day Flag",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10105,
-        "name": "Blue Field Day Flag",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10106,
-        "name": "Yellow Field Day Flag",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10107,
-        "name": "Field Day Sports Mat",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10108,
-        "name": "Sky Blue Field Day Mat",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10109,
-        "name": "Blue Field Day Mat",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10110,
-        "name": "Beige Field Day Mat",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10111,
-        "name": "Field Day Scoreboard",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10112,
-        "name": "Field Day Window",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10113,
-        "name": "Beige Field Day Pillar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 10200,
-        "name": "Field Day Ball Storage",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10201,
-        "name": "Energy Drink Cooler",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10202,
-        "name": "Field Day Basketball Hoop",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10203,
-        "name": "Yellow Ball-Toss Basket",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10204,
-        "name": "Blue Ball-Toss Basket",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10205,
-        "name": "Light Blue Ball-Toss Basket",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10206,
-        "name": "Field Day Ref Bench",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10207,
-        "name": "Field Day Net",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10208,
-        "name": "Field Day Wooden Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10209,
-        "name": "Field Day Peroro Flag",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10210,
-        "name": "Field Day Cheering Flag",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10211,
-        "name": "Field Day Wallpaper",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10212,
-        "name": "Field Day Background",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10213,
-        "name": "Field Day Billboard",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10214,
-        "name": "Field Day Folding Chair",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10215,
-        "name": "Field Day Vaulting Horse",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 10300,
-        "name": "Field Day Donut Game",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 10301,
-        "name": "Field Day Rest Tent",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 10302,
-        "name": "Field Day Cheering Stands",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 10303,
-        "name": "Field Day Equipment Storage",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 10304,
-        "name": "Field Day Lunch Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 10305,
-        "name": "Field Day Trophy Case",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 10306,
-        "name": "Field Day Welcome Gate",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 11100,
-        "name": "Abydos Classroom Blackboard",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 11101,
-        "name": "Abydos Classroom Student Cabinet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 11102,
-        "name": "Abydos Classroom Storage Cabinet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 11103,
-        "name": "Abydos Classroom Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 11104,
-        "name": "Abydos Classroom Wall Clock",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 11105,
-        "name": "Abydos Classroom Desk with Boxed Lunch",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 11106,
-        "name": "Abydos Classroom Floor",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 11107,
-        "name": "Abydos Classroom Hallway Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 11108,
-        "name": "Abydos Classroom Wall-Mounted Speaker",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 11109,
-        "name": "Abydos Classroom Pillar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 11200,
-        "name": "Abydos Classroom Schedule Blackboard",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11201,
-        "name": "Abydos Classroom Campaign Blackboard",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11202,
-        "name": "Abydos Classroom Cleaning Toolbox",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11203,
-        "name": "Sensei's Abydos Classroom Cabinet",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11204,
-        "name": "Abydos Classroom Desk with Cardigan",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11205,
-        "name": "Abydos Classroom Desk with Whale Toy",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11206,
-        "name": "Abydos Classroom Desk with Glasses",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11207,
-        "name": "Abydos Classroom Desk with Mask",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11208,
-        "name": "Abydos Classroom Desk with Ribbon and Gloves",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11209,
-        "name": "Abydos Classroom Desk with Large Bag",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11210,
-        "name": "Abydos Classroom Gun Rack",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11211,
-        "name": "Abydos Classroom Board Partition",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11212,
-        "name": "Sensei's Abydos Classroom Desk",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11213,
-        "name": "Abydos Classroom Framed Logo",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11214,
-        "name": "Abydos Classroom Motto",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11215,
-        "name": "Abydos Classroom Recycling Basket",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11216,
-        "name": "Abydos Classroom Whiteboard",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11217,
-        "name": "Abydos Classroom Background",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11218,
-        "name": "Abydos Classroom Tile Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11219,
-        "name": "Abydos Classroom Wall",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 11300,
-        "name": "Abydos Classroom Bookshelf",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 11301,
-        "name": "Abydos Classroom Bicycle",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 11302,
-        "name": "Abydos Classroom Normal Partition",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 11303,
-        "name": "Abydos Classroom Lecture Desk",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 11304,
-        "name": "Abydos Classroom Vending Machine",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 11305,
-        "name": "Abydos Classroom Gatling Gun Rack",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 11306,
-        "name": "Abydos Classroom Window",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 12100,
-        "name": "Game Development Department Bedding",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12101,
-        "name": "Millennium Parcel",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12102,
-        "name": "Round Blue Rug",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12103,
-        "name": "White Game Development Department Stool",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12104,
-        "name": "Blue Game Development Department Floor Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12105,
-        "name": "Red Game Development Department Cushion",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12106,
-        "name": "Game Development Department Club Room Door",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12107,
-        "name": "Millennium Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12108,
-        "name": "Polished Silver Floor Panel",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12109,
-        "name": "Blue Game Development Department Cabinet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12110,
-        "name": "Game Development Department Metal Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12111,
-        "name": "Snake Plant Set",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12112,
-        "name": "Game Development Department Schedule Board",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12113,
-        "name": "Messy Refreshments Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12114,
-        "name": "Vintage Blue Pillar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12115,
-        "name": "Game Development Department Name Plate",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12116,
-        "name": "White Mini Fan",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12117,
-        "name": "Game Development Department LED Sign",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12118,
-        "name": "Vintage Wall-Mounted Fan",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12119,
-        "name": "Game Development Department Framed Art",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12120,
-        "name": "Game Development Department Modern AC",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 12200,
-        "name": "Retro Entertainment Center",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12201,
-        "name": "Laptop Storage Table",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12202,
-        "name": "Game Development Books Storage Table",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12203,
-        "name": "Old Gaming Monitor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12204,
-        "name": "Board Game Bookcase",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12205,
-        "name": "Messy Game Storage Bookcase",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12206,
-        "name": "Gaming Console Bookcase",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12207,
-        "name": "Game Development Department Oversized Sofa",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12208,
-        "name": "Game Development Department Pink Teddy Bear",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12209,
-        "name": "Monochromatic Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12210,
-        "name": "Blue Striped Vintage Wall",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12211,
-        "name": "Game Development Department Background",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 12300,
-        "name": "Game Development Department Personal Storage",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 12301,
-        "name": "Vintage Gaming TV",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 12302,
-        "name": "Game Development Department Rug",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 12303,
-        "name": "Game Development Department Doll Set Display",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 12304,
-        "name": "Game Development Department Whiteboard",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 12305,
-        "name": "Game Development Department Cute Curtained Window",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 13100,
-        "name": "Sunshine Ensemble Planter",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13101,
-        "name": "Sunshine Sign",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13102,
-        "name": "Sunshine Planter Display",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13103,
-        "name": "Sunshine Aloha Planter",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13104,
-        "name": "Sunshine Rattan Light Set",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13105,
-        "name": "Sunshine Tropical Basket",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13106,
-        "name": "Sunshine Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13107,
-        "name": "Sunshine Tropical Planter",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13108,
-        "name": "Sunshine Mini Window",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13109,
-        "name": "Sunshine Tropical Painting",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13110,
-        "name": "Sunshine Aloha Wall Hanging",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13111,
-        "name": "Sunshine Aloha Lights",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13112,
-        "name": "Sunshine Aloha Wall-Mounted Light",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13113,
-        "name": "Sunshine Pattern Mat",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13114,
-        "name": "Sunshine Diamond Pattern Mat",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13115,
-        "name": "Sunshine Natural Mat",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13116,
-        "name": "Sunshine Rattan Mat",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 13200,
-        "name": "Sunshine Brunch Sofa",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13201,
-        "name": "Sunshine Sofa",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13202,
-        "name": "Sunshine Tropical Table",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13203,
-        "name": "Sunshine Juice Table",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13204,
-        "name": "Sunshine Flower Fountain",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13205,
-        "name": "Sunshine Striped Sofa",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13206,
-        "name": "White Sunshine Sun Bed",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13207,
-        "name": "Lemon Sunshine Sun Bed",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13208,
-        "name": "Sunshine Display Rack",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13209,
-        "name": "Sunshine Palm Tree",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13210,
-        "name": "Sunshine White Flower Pot",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13211,
-        "name": "Sunshine Ocean View Window",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13212,
-        "name": "Sunshine Beach Mat",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13213,
-        "name": "Lovely Sunshine Wallpaper",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13214,
-        "name": "Sunshine Natural Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13215,
-        "name": "Sunshine Resort Background",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 13300,
-        "name": "Sunshine Canopy Sofa",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 13301,
-        "name": "Sunshine Drink Bar",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 13302,
-        "name": "Sunshine Flower Pool",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 13303,
-        "name": "Sunshine Tropical Pool",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 13304,
-        "name": "Sunshine Lace Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 13305,
-        "name": "Sunshine Aloha Window",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 14100,
-        "name": "Modern Shopping Mall Boutique Display",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14101,
-        "name": "Modern Shopping Mall Bag Display",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14102,
-        "name": "Shopping Mall Designer Sofa",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14103,
-        "name": "Shopping Mall Dual-Seater",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14104,
-        "name": "Shopping Mall Basket Stand",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14105,
-        "name": "Shopping Mall Magazine Display",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14106,
-        "name": "Shopping Mall Picture Book Display",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14107,
-        "name": "Modern Shopping Mall Marble Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14108,
-        "name": "Long Modern Shopping Mall Marble Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14109,
-        "name": "Comforting Shopping Mall Beige Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14110,
-        "name": "Shopping Mall Checkered Kiddie Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14111,
-        "name": "White Leather Cushioned Chair",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14112,
-        "name": "Momo Friends Picture Board",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14113,
-        "name": "Shopping Mall Railing",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14114,
-        "name": "Shopping Mall Mood Light",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14115,
-        "name": "Silver Shopping Mall Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14116,
-        "name": "Gold Shopping Mall Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14117,
-        "name": "Shopping Mall Nature Sofa",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14118,
-        "name": "Shopping Mall Spotlight",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14119,
-        "name": "Wide Shopping Mall Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14120,
-        "name": "Shopping Mall Momo Friends Neon Light",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14121,
-        "name": "Basic Shopping Mall Pillar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 14200,
-        "name": "Shopping Mall Literary Bookshelf",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14201,
-        "name": "Shopping Mall Cutie Elegant Sofa",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14202,
-        "name": "Shopping Mall Momo Friends Clothing Rack",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14203,
-        "name": "Upscale Shopping Mall Dressing Room",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14204,
-        "name": "Shopping Mall Fruit Stand",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14205,
-        "name": "Shopping Mall Nature Garden",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14206,
-        "name": "Modern Shopping Mall Kiosk",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14207,
-        "name": "Shopping Mall Momo Friends Partition",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14208,
-        "name": "Elegant Shopping Mall Perfume Display",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14209,
-        "name": "Elegant Shopping Mall Shoe Display",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14210,
-        "name": "Elegant Shopping Mall Bag Display",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14211,
-        "name": "Elegant Shopping Mall Clothing Display",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14212,
-        "name": "Elegant Shopping Mall Luxury Display",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14213,
-        "name": "Shopping Mall Momo Friends Toy Display",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14214,
-        "name": "Fine Shopping Mall Marble Tile",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14215,
-        "name": "Shopping Mall Luxury Wallpaper",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14216,
-        "name": "Shopping Mall Luxury Background",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 14300,
-        "name": "Shopping Mall Momo Friends Pool",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 14301,
-        "name": "Shopping Mall Momo Friends Kiosk",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 14302,
-        "name": "Shopping Mall Momo Friends Cushion Display",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 14303,
-        "name": "Shopping Mall Luxury Special Display",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 14304,
-        "name": "Large Shopping Mall Display",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 14305,
-        "name": "Shopping Mall Wavecat Vending Machine",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 14306,
-        "name": "Wide Shopping Mall Window",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 15100,
-        "name": "Elegant Candle Set",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15101,
-        "name": "Magnificent Luxury Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15102,
-        "name": "Elegant Luxury Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15103,
-        "name": "Writer's Desk",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15104,
-        "name": "Gehenna Stone Fence",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15105,
-        "name": "Gehenna Flag",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15106,
-        "name": "Gehenna Grand Flag",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15107,
-        "name": "Gehenna Wooden Partition",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15108,
-        "name": "Marble Planter",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15109,
-        "name": "Classic Lamp Table",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15110,
-        "name": "Grand Wall Panel",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15111,
-        "name": "Gehenna Painting",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 15200,
-        "name": "Bookshelf of Masterpieces",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15201,
-        "name": "Baroque Carpet",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15202,
-        "name": "Classic 2-Tier Cart",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15203,
-        "name": "Grand Chandelier",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15204,
-        "name": "Floral Fountain",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15205,
-        "name": "Classic Sofa",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15206,
-        "name": "Violet Sofa",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15207,
-        "name": "Floral Luncheon Set",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15208,
-        "name": "Violet Garden Vase",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15209,
-        "name": "White Garden Vase",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15210,
-        "name": "Wall-Mounted Candelabra",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15211,
-        "name": "Classic Window",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15212,
-        "name": "Grand Tile",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15213,
-        "name": "Grand Wallpaper",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15214,
-        "name": "Classic Backdrop",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 15300,
-        "name": "Grand Balcony",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 15301,
-        "name": "Grand Desk",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 15302,
-        "name": "Grand Fountain",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 15303,
-        "name": "Violet Party Table Set",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 15304,
-        "name": "Grand Concessions Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 15305,
-        "name": "Grand Piano",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 15306,
-        "name": "Classic Sofa Table Set",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 16100,
-        "name": "Trinity Solid Wood Storage Cabinet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 16101,
-        "name": "Decorated Trinity Solid Wood Storage Cabinet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 16102,
-        "name": "Basic Pattern Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 16103,
-        "name": "Classic Pattern Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 16104,
-        "name": "Trinity Hexagon Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 16105,
-        "name": "Blue Line Carpet",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 16106,
-        "name": "Trinity Classroom Desk",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 16107,
-        "name": "Trinity Classroom Pillar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 16108,
-        "name": "Trinity Classroom Pattern Pillar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 16109,
-        "name": "Trinity Classroom Lamp Pillar",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 16200,
-        "name": "Trinity Classroom Blackboard",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16201,
-        "name": "Trinity Classroom Lecture Desk",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16202,
-        "name": "Desk with a Peroro Doll",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16203,
-        "name": "Desk With Bag",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16204,
-        "name": "Desk With Gun and Bag",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16205,
-        "name": "Desk With Peroro's Bag",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16206,
-        "name": "Trinity Window Single Partition",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16207,
-        "name": "Trinity Classroom Window Double Partition",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16208,
-        "name": "Trinity Classroom Single Partition",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16209,
-        "name": "Trinity Classroom Double Partition",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16210,
-        "name": "Nightstand With Flowers",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16211,
-        "name": "Nightstand With Lamp",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16212,
-        "name": "Trinity Bench",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16213,
-        "name": "Trinity Classroom Background",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16214,
-        "name": "Trinity Classroom Wall",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16215,
-        "name": "Trinity Classroom Floor",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 16300,
-        "name": "Trinity Large Bookshelf",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 16301,
-        "name": "Grandfather Clock",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 16302,
-        "name": "Trinity Medium Bookshelf",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 16303,
-        "name": "Trinity Classroom Door",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 16304,
-        "name": "Trinity Gun Rack",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 16305,
-        "name": "Trinity Classroom Window",
+        "name": "",
         "comfortBonus": 350
     },
     {
+        "id": 17100,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17101,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17102,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17103,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17104,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17105,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17106,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17107,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17108,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17109,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17200,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17201,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17202,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17203,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17204,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17205,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17206,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17207,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17208,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17209,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17210,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17211,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17300,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 17301,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 17302,
+        "name": "",
+        "comfortBonus": 500
+    },
+    {
+        "id": 17303,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 17304,
+        "name": "",
+        "comfortBonus": 500
+    },
+    {
+        "id": 18100,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18101,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18102,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18103,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18104,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18105,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18106,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18107,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18108,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18109,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18110,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18111,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18112,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18113,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18114,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18115,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18116,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18117,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18118,
+        "name": "",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18200,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18201,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18202,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18203,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18204,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18205,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18206,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18207,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18208,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18209,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18210,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18211,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18212,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18213,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18214,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18215,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18216,
+        "name": "",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18300,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 18301,
+        "name": "",
+        "comfortBonus": 500
+    },
+    {
+        "id": 18302,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 18303,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 18304,
+        "name": "",
+        "comfortBonus": 500
+    },
+    {
         "id": 100000,
-        "name": "Binah Bronze Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100001,
-        "name": "Binah Silver Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100002,
-        "name": "Binah Gold Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100003,
-        "name": "Binah Platinum Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100010,
-        "name": "Binah Bronze Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100011,
-        "name": "Binah Silver Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100012,
-        "name": "Binah Gold Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100013,
-        "name": "Binah Platinum Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100020,
-        "name": "Binah Bronze Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100021,
-        "name": "Binah Silver Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100022,
-        "name": "Binah Gold Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100023,
-        "name": "Binah Platinum Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100100,
-        "name": "Chesed Bronze Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100101,
-        "name": "Chesed Silver Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100102,
-        "name": "Chesed Gold Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100103,
-        "name": "Chesed Platinum Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100110,
-        "name": "Chesed Bronze Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100111,
-        "name": "Chesed Silver Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100112,
-        "name": "Chesed Gold Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100113,
-        "name": "Chesed Platinum Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100120,
-        "name": "Chesed Bronze Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100121,
-        "name": "Chesed Silver Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100122,
-        "name": "Chesed Gold Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100123,
-        "name": "Chesed Platinum Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100200,
-        "name": "Shiro & Kuro Bronze Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100201,
-        "name": "Shiro & Kuro Silver Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100202,
-        "name": "Shiro & Kuro Gold Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100203,
-        "name": "Shiro & Kuro Platinum Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100210,
-        "name": "Shiro & Kuro Bronze Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100211,
-        "name": "Shiro & Kuro Silver Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100212,
-        "name": "Shiro & Kuro Gold Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100213,
-        "name": "Shiro & Kuro Platinum Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100220,
-        "name": "Shiro & Kuro Bronze Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100221,
-        "name": "Shiro & Kuro Silver Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100222,
-        "name": "Shiro & Kuro Gold Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100223,
-        "name": "Shiro & Kuro Platinum Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100310,
-        "name": "Hieronymus Bronze Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100311,
-        "name": "Hieronymus Silver Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100312,
-        "name": "Hieronymus Gold Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100313,
-        "name": "Hieronymus Platinum Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100320,
-        "name": "Hieronymus Bronze Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100321,
-        "name": "Hieronymus Silver Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100322,
-        "name": "Hieronymus Gold Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100323,
-        "name": "Hieronymus Platinum Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100400,
-        "name": "KAITEN FX Mk.0 Bronze Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100401,
-        "name": "KAITEN FX Mk.0 Silver Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100402,
-        "name": "KAITEN FX Mk.0 Gold Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100403,
-        "name": "KAITEN FX Mk.0 Platinum Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100420,
-        "name": "KAITEN FX Mk.0 Bronze Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100421,
-        "name": "KAITEN FX Mk.0 Silver Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100422,
-        "name": "KAITEN FX Mk.0 Gold Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100423,
-        "name": "KAITEN FX Mk.0 Platinum Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100510,
-        "name": "Perorodzilla Bronze Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100511,
-        "name": "Perorodzilla Silver Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100512,
-        "name": "Perorodzilla Gold Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100513,
-        "name": "Perorodzilla Platinum Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100500,
-        "name": "Perorodzilla Bronze Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100501,
-        "name": "Perorodzilla Silver Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100502,
-        "name": "Perorodzilla Gold Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100503,
-        "name": "Perorodzilla Platinum Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100620,
-        "name": "Hod Bronze Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100621,
-        "name": "Hod Silver Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100622,
-        "name": "Hod Gold Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100623,
-        "name": "Hod Platinum Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100710,
-        "name": "Goz Bronze Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100711,
-        "name": "Goz Silver Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100712,
-        "name": "Goz Gold Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100713,
-        "name": "Goz Platinum Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100610,
-        "name": "Hod Bronze Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100611,
-        "name": "Hod Silver Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100612,
-        "name": "Hod Gold Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100613,
-        "name": "Hod Platinum Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100810,
-        "name": "Gregorius Bronze Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100811,
-        "name": "Gregorius Silver Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100812,
-        "name": "Gregorius Gold Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100813,
-        "name": "Gregorius Platinum Trophy - Indoor Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100700,
-        "name": "Goz Bronze Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100701,
-        "name": "Goz Silver Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100702,
-        "name": "Goz Gold Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100703,
-        "name": "Goz Platinum Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100900,
-        "name": "Hovercraft Bronze Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100901,
-        "name": "Hovercraft Silver Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100902,
-        "name": "Hovercraft Gold Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 100903,
-        "name": "Hovercraft Platinum Trophy - Field Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 101020,
-        "name": "Kurokage Bronze Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 101021,
-        "name": "Kurokage Silver Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 101022,
-        "name": "Kurokage Gold Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 101023,
-        "name": "Kurokage Platinum Trophy - Urban Warfare",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 200301,
-        "name": "Trinity-Style Fountain",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 201301,
-        "name": "Summer Concept Photo Board",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 202301,
-        "name": "Twinkling Christmas Tree",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 202302,
-        "name": "Hot Springs Resort No. 227 Guide Board",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 203301,
-        "name": "Blue Newtro Turntable",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 203302,
-        "name": "Momoyodou Food Stall",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 203303,
-        "name": "Expandable Traditional Wooden Windows",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 204301,
-        "name": "Antique Wooden Desk",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 205301,
-        "name": "Royal Diamond Cushioned Chair",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 206301,
-        "name": "Hologram Cube Turntable",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 207301,
-        "name": "Field Day Guide",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 207302,
-        "name": "Black and Gold Stool",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 207303,
-        "name": "Red and Gold Stool",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 207304,
-        "name": "Blue and Silver Stool",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 207305,
-        "name": "Dark Violet Stool",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 207306,
-        "name": "Field Day Concept Board",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 207307,
-        "name": "Field Day Game Machine",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 207308,
-        "name": "Warm Christmas Fireplace",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 207309,
-        "name": "Cheerful Melody Music Stand",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 207310,
-        "name": "Elegant Flower Tea Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 207311,
-        "name": "Trinity Organ",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 207312,
-        "name": "Tea Party Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 207313,
-        "name": "Interrogation Room Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 207314,
-        "name": "Prayer Chair",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 208301,
-        "name": "D.U. Shiratori City Diorama Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 209301,
-        "name": "Weedy Garden",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 209302,
-        "name": "Hyakkiyako Merch Display",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210301,
-        "name": "Game Development Department Locker",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210302,
-        "name": "Deep Blue Silver Stool",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 210303,
-        "name": "Sky Blue Sofa Chair",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210304,
-        "name": "Steel Sliding Cabinet",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210305,
-        "name": "Chinese Hot Food Display",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210306,
-        "name": "Luxurious Chinese Chair",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210307,
-        "name": "Woodworking Workbench",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210308,
-        "name": "Fresh Fish Coolers",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210309,
-        "name": "Scuba Diving Gear Rack",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210310,
-        "name": "Portable Shower Stand",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210311,
-        "name": "Mechanical Marlin Decor",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210312,
-        "name": "Problem Solver 68 Band Stage",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210313,
-        "name": "Classic Pattern Travel Bag",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210314,
-        "name": "Mini Stool and Sun Bed",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210315,
-        "name": "Ice Cream Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210316,
-        "name": "Sunshine Lemon Tree",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210317,
-        "name": "Board Game Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210318,
-        "name": "Classic Library Chair",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210319,
-        "name": "Manuscript Work Desk",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210320,
-        "name": "Resting Bench Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210321,
-        "name": "Origami Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210322,
-        "name": "Momo Friends Merch Kiosk",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210323,
-        "name": "Fresh Shop Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210324,
-        "name": "Tarot Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210325,
-        "name": "Antique Countertop",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210326,
-        "name": "Relaxation Chair",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210327,
-        "name": "Ice Pool",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210328,
-        "name": "Camping Partition",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210329,
-        "name": "Camping Coffee Table",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210330,
-        "name": "One-Two-Three Study Corner",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210331,
-        "name": "Stately Executive Desk",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210332,
-        "name": "Traditional Performance Stage",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210333,
-        "name": "Premium Executive Desk",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210334,
-        "name": "Mortar and Pestle",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210335,
-        "name": "Festival Mask Stall",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210336,
-        "name": "Dark Blue Bass Guitar",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210337,
-        "name": "Pink Electric Guitar",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210338,
-        "name": "Basic Electric Keyboard",
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210339,
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 210340,
-        "name": "Legendary Record Board",
+        "name": "",
         "comfortBonus": 350
     },
     {
+        "id": 210341,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210342,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210343,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210344,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210345,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210346,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210347,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210348,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210349,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210350,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210351,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210352,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210353,
+        "name": "",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210354,
+        "name": "",
+        "comfortBonus": 500
+    },
+    {
         "id": 301001,
-        "name": "Total Assault Bronze Trophy Display Cabinet 01",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 301101,
-        "name": "Total Assault Silver Trophy Display Cabinet 01",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 301201,
-        "name": "Total Assault Gold Trophy Display Cabinet 01",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 301301,
-        "name": "Total Assault Platinum Trophy Display Cabinet 01",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 301002,
-        "name": "Total Assault Bronze Trophy Display Cabinet 02",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 301102,
-        "name": "Total Assault Silver Trophy Display Cabinet 02",
+        "name": "",
         "comfortBonus": 50
     },
     {
         "id": 301202,
-        "name": "Total Assault Gold Trophy Display Cabinet 02",
+        "name": "",
         "comfortBonus": 120
     },
     {
         "id": 301302,
-        "name": "Total Assault Platinum Trophy Display Cabinet 02",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 302301,
-        "name": "Recollection Player 1",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 302302,
-        "name": "Recollection Player 2",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 302303,
-        "name": "Recollection Player 3",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 302304,
-        "name": "Recollection Player 4",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 302305,
-        "name": "Recollection Player 4.5",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 302306,
-        "name": "Recollection Player 5",
+        "name": "",
         "comfortBonus": 350
     },
     {
         "id": 302307,
-        "name": "Recollection Player -ive aLIVE!",
+        "name": "",
         "comfortBonus": 350
     }
 ]

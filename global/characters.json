@@ -1,7 +1,7 @@
 [
     {
         "id": 10000,
-        "name": "",
+        "name": "Aru",
         "devname": "aru",
         "rarity": "SSR",
         "role": "Dealer",
@@ -23,7 +23,7 @@
     },
     {
         "id": 10001,
-        "name": "",
+        "name": "Eimi",
         "devname": "eimi",
         "rarity": "SSR",
         "role": "Tank",
@@ -45,7 +45,7 @@
     },
     {
         "id": 10002,
-        "name": "",
+        "name": "Haruna",
         "devname": "haruna",
         "rarity": "SSR",
         "role": "Dealer",
@@ -66,7 +66,7 @@
     },
     {
         "id": 10003,
-        "name": "",
+        "name": "Hifumi",
         "devname": "hihumi",
         "rarity": "SSR",
         "role": "Support",
@@ -87,7 +87,7 @@
     },
     {
         "id": 10004,
-        "name": "",
+        "name": "Hina",
         "devname": "hina",
         "rarity": "SSR",
         "role": "Dealer",
@@ -108,7 +108,7 @@
     },
     {
         "id": 10005,
-        "name": "",
+        "name": "Hoshino",
         "devname": "hoshino",
         "rarity": "SSR",
         "role": "Tank",
@@ -129,7 +129,7 @@
     },
     {
         "id": 10006,
-        "name": "",
+        "name": "Iori",
         "devname": "Iori",
         "rarity": "SSR",
         "role": "Dealer",
@@ -151,7 +151,7 @@
     },
     {
         "id": 10007,
-        "name": "",
+        "name": "Maki",
         "devname": "Maki",
         "rarity": "SSR",
         "role": "Dealer",
@@ -173,7 +173,7 @@
     },
     {
         "id": 10008,
-        "name": "",
+        "name": "Neru",
         "devname": "neru",
         "rarity": "SSR",
         "role": "Dealer",
@@ -194,7 +194,7 @@
     },
     {
         "id": 10009,
-        "name": "",
+        "name": "Izumi",
         "devname": "izumi",
         "rarity": "SSR",
         "role": "Dealer",
@@ -216,7 +216,7 @@
     },
     {
         "id": 10010,
-        "name": "",
+        "name": "Shiroko",
         "devname": "shiroko",
         "rarity": "SSR",
         "role": "Dealer",
@@ -237,7 +237,7 @@
     },
     {
         "id": 10011,
-        "name": "",
+        "name": "Shun",
         "devname": "Shun",
         "rarity": "SSR",
         "role": "Dealer",
@@ -259,7 +259,7 @@
     },
     {
         "id": 10012,
-        "name": "",
+        "name": "Sumire",
         "devname": "Sumire",
         "rarity": "SSR",
         "role": "Dealer",
@@ -280,7 +280,7 @@
     },
     {
         "id": 10013,
-        "name": "",
+        "name": "Tsurugi",
         "devname": "Tsurugi",
         "rarity": "SSR",
         "role": "Dealer",
@@ -301,7 +301,7 @@
     },
     {
         "id": 10014,
-        "name": "",
+        "name": "Izuna",
         "devname": "Izuna",
         "rarity": "SSR",
         "role": "Dealer",
@@ -322,7 +322,7 @@
     },
     {
         "id": 10015,
-        "name": "",
+        "name": "Aris",
         "devname": "Aris",
         "rarity": "SSR",
         "role": "Dealer",
@@ -343,7 +343,7 @@
     },
     {
         "id": 10016,
-        "name": "",
+        "name": "Midori",
         "devname": "Midori",
         "rarity": "SSR",
         "role": "Dealer",
@@ -364,7 +364,7 @@
     },
     {
         "id": 10017,
-        "name": "",
+        "name": "Cherino",
         "devname": "cherino",
         "rarity": "SSR",
         "role": "Dealer",
@@ -386,7 +386,7 @@
     },
     {
         "id": 10018,
-        "name": "",
+        "name": "Yuzu",
         "devname": "Yuzu",
         "rarity": "SSR",
         "role": "Dealer",
@@ -408,7 +408,7 @@
     },
     {
         "id": 10019,
-        "name": "",
+        "name": "Azusa",
         "devname": "Azusa",
         "rarity": "SSR",
         "role": "Dealer",
@@ -431,7 +431,7 @@
     },
     {
         "id": 10020,
-        "name": "",
+        "name": "Koharu",
         "devname": "Koharu",
         "rarity": "SSR",
         "role": "Healer",
@@ -454,7 +454,7 @@
     },
     {
         "id": 10021,
-        "name": "",
+        "name": "Azusa (Swimsuit)",
         "devname": "Azusa",
         "rarity": "SSR",
         "role": "Dealer",
@@ -478,7 +478,7 @@
     },
     {
         "id": 10022,
-        "name": "",
+        "name": "Hina (Swimsuit)",
         "devname": "CH0063",
         "rarity": "SSR",
         "role": "Dealer",
@@ -501,7 +501,7 @@
     },
     {
         "id": 10023,
-        "name": "",
+        "name": "Iori (Swimsuit)",
         "devname": "CH0064",
         "rarity": "SSR",
         "role": "Dealer",
@@ -525,7 +525,7 @@
     },
     {
         "id": 10024,
-        "name": "",
+        "name": "Shiroko (Cycling)",
         "devname": "Shiroko",
         "rarity": "SSR",
         "role": "Dealer",
@@ -547,7 +547,7 @@
     },
     {
         "id": 10025,
-        "name": "",
+        "name": "Shun (Small)",
         "devname": "CH0066",
         "rarity": "SSR",
         "role": "Dealer",
@@ -569,7 +569,7 @@
     },
     {
         "id": 10026,
-        "name": "",
+        "name": "Neru (Bunny)",
         "devname": "CH0101",
         "rarity": "SSR",
         "role": "Tank",
@@ -590,7 +590,7 @@
     },
     {
         "id": 10027,
-        "name": "",
+        "name": "Karin (Bunny)",
         "devname": "CH0100",
         "rarity": "SSR",
         "role": "Dealer",
@@ -611,7 +611,7 @@
     },
     {
         "id": 10028,
-        "name": "",
+        "name": "Asuna (Bunny)",
         "devname": "CH0098",
         "rarity": "SSR",
         "role": "Support",
@@ -632,7 +632,7 @@
     },
     {
         "id": 10029,
-        "name": "",
+        "name": "Natsu",
         "devname": "CH0155",
         "rarity": "SSR",
         "role": "Tank",
@@ -654,7 +654,7 @@
     },
     {
         "id": 10030,
-        "name": "",
+        "name": "Chinatsu (Hot Spring)",
         "devname": "CH0163",
         "rarity": "SSR",
         "role": "Support",
@@ -677,7 +677,7 @@
     },
     {
         "id": 10031,
-        "name": "",
+        "name": "Aru (New Year)",
         "devname": "Aru_newyear",
         "rarity": "SSR",
         "role": "Dealer",
@@ -699,7 +699,7 @@
     },
     {
         "id": 10032,
-        "name": "",
+        "name": "Mutsuki (New Year)",
         "devname": "Mutsuki_newyear",
         "rarity": "SSR",
         "role": "Dealer",
@@ -721,7 +721,7 @@
     },
     {
         "id": 10033,
-        "name": "",
+        "name": "Wakamo",
         "devname": "wakamo",
         "rarity": "SSR",
         "role": "Dealer",
@@ -742,7 +742,7 @@
     },
     {
         "id": 10034,
-        "name": "",
+        "name": "Mimori",
         "devname": "Mimori",
         "rarity": "SSR",
         "role": "Support",
@@ -766,7 +766,7 @@
     },
     {
         "id": 10035,
-        "name": "",
+        "name": "Ui",
         "devname": "CH0169",
         "rarity": "SSR",
         "role": "Support",
@@ -789,7 +789,7 @@
     },
     {
         "id": 10036,
-        "name": "",
+        "name": "Hinata",
         "devname": "Hinata",
         "rarity": "SSR",
         "role": "Dealer",
@@ -811,7 +811,7 @@
     },
     {
         "id": 10037,
-        "name": "",
+        "name": "Marina",
         "devname": "Marina",
         "rarity": "SSR",
         "role": "Tank",
@@ -833,7 +833,7 @@
     },
     {
         "id": 10038,
-        "name": "",
+        "name": "Miyako",
         "devname": "Miyako",
         "rarity": "SSR",
         "role": "Tank",
@@ -855,7 +855,7 @@
     },
     {
         "id": 10039,
-        "name": "",
+        "name": "Miyu",
         "devname": "CH0145",
         "rarity": "SSR",
         "role": "Support",
@@ -877,7 +877,7 @@
     },
     {
         "id": 10040,
-        "name": "",
+        "name": "Tsukuyo",
         "devname": "CH0114",
         "rarity": "SSR",
         "role": "Tank",
@@ -899,7 +899,7 @@
     },
     {
         "id": 10041,
-        "name": "",
+        "name": "Misaki",
         "devname": "misaki",
         "rarity": "SSR",
         "role": "Dealer",
@@ -920,7 +920,7 @@
     },
     {
         "id": 10042,
-        "name": "",
+        "name": "Atsuko",
         "devname": "atsuko",
         "rarity": "SSR",
         "role": "Tank",
@@ -941,7 +941,7 @@
     },
     {
         "id": 10043,
-        "name": "",
+        "name": "Wakamo (Swimsuit)",
         "devname": "CH0175",
         "rarity": "SSR",
         "role": "Dealer",
@@ -964,7 +964,7 @@
     },
     {
         "id": 10044,
-        "name": "",
+        "name": "Nonomi (Swimsuit)",
         "devname": "CH0092",
         "rarity": "SSR",
         "role": "Dealer",
@@ -988,7 +988,7 @@
     },
     {
         "id": 10045,
-        "name": "",
+        "name": "Hoshino (Swimsuit)",
         "devname": "Hoshino_Swimsuit",
         "rarity": "SSR",
         "role": "Support",
@@ -1011,7 +1011,7 @@
     },
     {
         "id": 10046,
-        "name": "",
+        "name": "Izuna (Swimsuit)",
         "devname": "CH0179",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1034,7 +1034,7 @@
     },
     {
         "id": 10047,
-        "name": "",
+        "name": "Chise (Swimsuit)",
         "devname": "CH0178",
         "rarity": "SSR",
         "role": "Support",
@@ -1058,7 +1058,7 @@
     },
     {
         "id": 10048,
-        "name": "",
+        "name": "Saori",
         "devname": "Saori",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1080,7 +1080,7 @@
     },
     {
         "id": 10049,
-        "name": "",
+        "name": "Kazusa",
         "devname": "Kazusa",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1103,7 +1103,7 @@
     },
     {
         "id": 10050,
-        "name": "",
+        "name": "Kokona",
         "devname": "CH0137",
         "rarity": "SSR",
         "role": "Healer",
@@ -1125,7 +1125,7 @@
     },
     {
         "id": 10051,
-        "name": "",
+        "name": "Utaha (Cheer Squad)",
         "devname": "CH0182",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1147,7 +1147,7 @@
     },
     {
         "id": 10052,
-        "name": "",
+        "name": "Noa",
         "devname": "CH0095",
         "rarity": "SSR",
         "role": "Support",
@@ -1169,7 +1169,7 @@
     },
     {
         "id": 10053,
-        "name": "",
+        "name": "Yuuka (Track)",
         "devname": "CH0184",
         "rarity": "SSR",
         "role": "Tank",
@@ -1190,7 +1190,7 @@
     },
     {
         "id": 10054,
-        "name": "",
+        "name": "Mari (Track)",
         "devname": "CH0186",
         "rarity": "SSR",
         "role": "Healer",
@@ -1213,7 +1213,7 @@
     },
     {
         "id": 10055,
-        "name": "",
+        "name": "Shigure",
         "devname": "Shigure",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1235,7 +1235,7 @@
     },
     {
         "id": 10056,
-        "name": "",
+        "name": "Serina (Christmas)",
         "devname": "CH0194",
         "rarity": "SSR",
         "role": "Support",
@@ -1258,7 +1258,7 @@
     },
     {
         "id": 10057,
-        "name": "",
+        "name": "Haruna (New Year)",
         "devname": "CH0191",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1280,7 +1280,7 @@
     },
     {
         "id": 10058,
-        "name": "",
+        "name": "Mine",
         "devname": "CH0152",
         "rarity": "SSR",
         "role": "Tank",
@@ -1302,7 +1302,7 @@
     },
     {
         "id": 10059,
-        "name": "",
+        "name": "Mika",
         "devname": "CH0069",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1325,7 +1325,7 @@
     },
     {
         "id": 10060,
-        "name": "",
+        "name": "Megu",
         "devname": "CH0088",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1347,7 +1347,7 @@
     },
     {
         "id": 10061,
-        "name": "",
+        "name": "Sakurako",
         "devname": "Sakurako",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1368,7 +1368,7 @@
     },
     {
         "id": 10062,
-        "name": "",
+        "name": "Toki",
         "devname": "CH0187",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1390,7 +1390,7 @@
     },
     {
         "id": 10063,
-        "name": "",
+        "name": "Koyuki",
         "devname": "CH0198",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1413,7 +1413,7 @@
     },
     {
         "id": 10064,
-        "name": "",
+        "name": "Kayoko (New Year)",
         "devname": "CH0086",
         "rarity": "SSR",
         "role": "Support",
@@ -1437,7 +1437,7 @@
     },
     {
         "id": 10065,
-        "name": "",
+        "name": "Kaho",
         "devname": "CH0107",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1459,7 +1459,7 @@
     },
     {
         "id": 10066,
-        "name": "",
+        "name": "Aris (Maid)",
         "devname": "CH0200",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1482,7 +1482,7 @@
     },
     {
         "id": 10067,
-        "name": "",
+        "name": "Toki (Bunny)",
         "devname": "CH0211",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1504,7 +1504,7 @@
     },
     {
         "id": 10068,
-        "name": "",
+        "name": "Reisa",
         "devname": "CH0167",
         "rarity": "SSR",
         "role": "Tank",
@@ -1527,7 +1527,7 @@
     },
     {
         "id": 10069,
-        "name": "",
+        "name": "Rumi",
         "devname": "CH0135",
         "rarity": "SSR",
         "role": "Healer",
@@ -1549,7 +1549,7 @@
     },
     {
         "id": 10070,
-        "name": "",
+        "name": "Mina",
         "devname": "CH0138",
         "rarity": "SSR",
         "role": "Support",
@@ -1571,7 +1571,7 @@
     },
     {
         "id": 10071,
-        "name": "",
+        "name": "Miyako (Swimsuit)",
         "devname": "CH0215",
         "rarity": "SSR",
         "role": "Tank",
@@ -1595,7 +1595,7 @@
     },
     {
         "id": 10072,
-        "name": "",
+        "name": "Saki (Swimsuit)",
         "devname": "CH0217",
         "rarity": "SSR",
         "role": "Support",
@@ -1620,7 +1620,7 @@
     },
     {
         "id": 10073,
-        "name": "",
+        "name": "Ui (Swimsuit)",
         "devname": "CH0204",
         "rarity": "SSR",
         "role": "Support",
@@ -1645,7 +1645,7 @@
     },
     {
         "id": 10074,
-        "name": "",
+        "name": "Hanako (Swimsuit)",
         "devname": "CH0209",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1670,7 +1670,7 @@
     },
     {
         "id": 10075,
-        "name": "",
+        "name": "Meru",
         "devname": "CH0124",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1693,7 +1693,7 @@
     },
     {
         "id": 10076,
-        "name": "",
+        "name": "Kotori (Cheer Squad)",
         "devname": "CH0185",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1716,7 +1716,7 @@
     },
     {
         "id": 10077,
-        "name": "",
+        "name": "Ichika",
         "devname": "CH0071",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1739,7 +1739,7 @@
     },
     {
         "id": 10078,
-        "name": "",
+        "name": "Kasumi",
         "devname": "CH0089",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1762,7 +1762,7 @@
     },
     {
         "id": 10079,
-        "name": "",
+        "name": "Misaka Mikoto",
         "devname": "CH9998",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1781,7 +1781,7 @@
     },
     {
         "id": 10080,
-        "name": "",
+        "name": "Shokuhou Misaki",
         "devname": "CH9997",
         "rarity": "SSR",
         "role": "Support",
@@ -1800,7 +1800,7 @@
     },
     {
         "id": 10081,
-        "name": "",
+        "name": "Yukari",
         "devname": "CH0161",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1823,7 +1823,7 @@
     },
     {
         "id": 10082,
-        "name": "",
+        "name": "Renge",
         "devname": "CH0224",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1848,7 +1848,7 @@
     },
     {
         "id": 10083,
-        "name": "",
+        "name": "Kikyou",
         "devname": "CH0225",
         "rarity": "SSR",
         "role": "Support",
@@ -1873,7 +1873,7 @@
     },
     {
         "id": 10084,
-        "name": "",
+        "name": "Kotama (Camp)",
         "devname": "CH0232",
         "rarity": "SSR",
         "role": "Support",
@@ -1895,7 +1895,7 @@
     },
     {
         "id": 10085,
-        "name": "",
+        "name": "Hare (Camp)",
         "devname": "CH0233",
         "rarity": "SSR",
         "role": "Support",
@@ -1916,7 +1916,7 @@
     },
     {
         "id": 10086,
-        "name": "",
+        "name": "Hina (Dress)",
         "devname": "CH0230",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1938,7 +1938,7 @@
     },
     {
         "id": 10087,
-        "name": "",
+        "name": "Ako (Dress)",
         "devname": "CH0231",
         "rarity": "SSR",
         "role": "Support",
@@ -1961,7 +1961,7 @@
     },
     {
         "id": 10088,
-        "name": "",
+        "name": "Kayoko (Dress)",
         "devname": "CH0239",
         "rarity": "SSR",
         "role": "Dealer",
@@ -1983,7 +1983,7 @@
     },
     {
         "id": 10089,
-        "name": "",
+        "name": "Aru (Dress)",
         "devname": "CH0240",
         "rarity": "SSR",
         "role": "Support",
@@ -2005,7 +2005,7 @@
     },
     {
         "id": 10090,
-        "name": "",
+        "name": "Umika",
         "devname": "CH0110",
         "rarity": "SSR",
         "role": "Dealer",
@@ -2027,7 +2027,7 @@
     },
     {
         "id": 10091,
-        "name": "",
+        "name": "Kazusa (Band)",
         "devname": "CH0250",
         "rarity": "SSR",
         "role": "Dealer",
@@ -2049,7 +2049,7 @@
     },
     {
         "id": 10092,
-        "name": "",
+        "name": "Yoshimi (Band)",
         "devname": "CH0220",
         "rarity": "SSR",
         "role": "Dealer",
@@ -2071,7 +2071,7 @@
     },
     {
         "id": 10093,
-        "name": "",
+        "name": "Kirara",
         "devname": "kirara",
         "rarity": "SSR",
         "role": "Dealer",
@@ -2094,7 +2094,7 @@
     },
     {
         "id": 10094,
-        "name": "",
+        "name": "Momoi (Maid)",
         "devname": "CH0201",
         "rarity": "SSR",
         "role": "Dealer",
@@ -2116,7 +2116,7 @@
     },
     {
         "id": 10095,
-        "name": "",
+        "name": "Midori (Maid)",
         "devname": "CH0202",
         "rarity": "SSR",
         "role": "Dealer",
@@ -2137,258 +2137,8 @@
         ]
     },
     {
-        "id": 10096,
-        "name": "",
-        "devname": "CH0260",
-        "rarity": "SSR",
-        "role": "Support",
-        "range": "Middle",
-        "weaponType": "HG",
-        "bulletType": "Explosive",
-        "armorType": "Light",
-        "equipment": [
-            "Shoes",
-            "Hairpin",
-            "Charm"
-        ],
-        "school": "Valkyrie",
-        "club": "PublicPeaceBureau",
-        "favoriteGift": [
-            "BB",
-            "au",
-            "CX",
-            "Cx"
-        ]
-    },
-    {
-        "id": 10097,
-        "name": "",
-        "devname": "CH0216",
-        "rarity": "SSR",
-        "role": "Dealer",
-        "range": "Middle",
-        "weaponType": "HG",
-        "bulletType": "Sonic",
-        "armorType": "Special",
-        "equipment": [
-            "Shoes",
-            "Hairpin",
-            "Watch"
-        ],
-        "school": "SRT",
-        "club": "RabbitPlatoon",
-        "favoriteGift": [
-            "as",
-            "av",
-            "aL",
-            "CX",
-            "Cx"
-        ]
-    },
-    {
-        "id": 10098,
-        "name": "",
-        "devname": "CH0258_02",
-        "rarity": "SSR",
-        "role": "Tank",
-        "range": "Front",
-        "weaponType": "SG",
-        "bulletType": "Mystic",
-        "armorType": "Heavy",
-        "equipment": [
-            "Hat",
-            "Bag",
-            "Watch"
-        ],
-        "school": "Abydos",
-        "club": "Countermeasure",
-        "favoriteGift": [
-            "ak",
-            "as"
-        ]
-    },
-    {
-        "id": 10099,
-        "name": "",
-        "devname": "CH0258_01",
-        "rarity": "SSR",
-        "role": "Dealer",
-        "range": "Front",
-        "weaponType": "SG",
-        "bulletType": "Mystic",
-        "armorType": "Heavy",
-        "equipment": [
-            "Hat",
-            "Bag",
-            "Watch"
-        ],
-        "school": "Abydos",
-        "club": "Countermeasure"
-    },
-    {
-        "id": 10100,
-        "name": "",
-        "devname": "CH0263",
-        "rarity": "SSR",
-        "role": "Dealer",
-        "range": "Middle",
-        "weaponType": "AR",
-        "bulletType": "Mystic",
-        "armorType": "Special",
-        "equipment": [
-            "Hat",
-            "Badge",
-            "Watch"
-        ],
-        "school": "Abydos",
-        "club": "AbydosStudentCouncil",
-        "favoriteGift": [
-            "aj"
-        ]
-    },
-    {
-        "id": 10101,
-        "name": "",
-        "devname": "CH0266",
-        "rarity": "SSR",
-        "role": "Dealer",
-        "range": "Middle",
-        "weaponType": "AR",
-        "bulletType": "Mystic",
-        "armorType": "Heavy",
-        "equipment": [
-            "Gloves",
-            "Hairpin",
-            "Watch"
-        ],
-        "school": "Arius",
-        "club": "AriusSqud",
-        "favoriteGift": [
-            "Bb",
-            "aS",
-            "as",
-            "Cx",
-            "CX"
-        ]
-    },
-    {
-        "id": 10102,
-        "name": "",
-        "devname": "CH0269",
-        "rarity": "SSR",
-        "role": "Dealer",
-        "range": "Back",
-        "weaponType": "SR",
-        "bulletType": "Pierce",
-        "armorType": "Heavy",
-        "equipment": [
-            "Hat",
-            "Hairpin",
-            "Watch"
-        ],
-        "school": "Arius",
-        "club": "AriusSqud",
-        "favoriteGift": [
-            "aJ",
-            "az",
-            "aq",
-            "Cx",
-            "CX"
-        ]
-    },
-    {
-        "id": 10103,
-        "name": "",
-        "devname": "CH0270",
-        "rarity": "SSR",
-        "role": "Dealer",
-        "range": "Front",
-        "weaponType": "SMG",
-        "bulletType": "Pierce",
-        "armorType": "Heavy",
-        "equipment": [
-            "Gloves",
-            "Hairpin",
-            "Watch"
-        ],
-        "school": "RedWinter",
-        "club": "RedwinterSecretary",
-        "favoriteGift": [
-            "ak",
-            "al"
-        ]
-    },
-    {
-        "id": 10104,
-        "name": "",
-        "devname": "reizyo",
-        "rarity": "SSR",
-        "role": "Support",
-        "range": "Middle",
-        "weaponType": "AR",
-        "bulletType": "Mystic",
-        "armorType": "Heavy",
-        "equipment": [
-            "Gloves",
-            "Hairpin",
-            "Watch"
-        ],
-        "school": "Shanhaijing",
-        "club": "BlackTortoisePromenade",
-        "favoriteGift": [
-            "aj",
-            "aV"
-        ]
-    },
-    {
-        "id": 10105,
-        "name": "",
-        "devname": "CH0273",
-        "rarity": "SSR",
-        "role": "Healer",
-        "range": "Middle",
-        "weaponType": "HG",
-        "bulletType": "Explosive",
-        "armorType": "Heavy",
-        "equipment": [
-            "Shoes",
-            "Hairpin",
-            "Necklace"
-        ],
-        "school": "Trinity",
-        "club": "SisterHood",
-        "favoriteGift": [
-            "am",
-            "BA",
-            "ay"
-        ]
-    },
-    {
-        "id": 10106,
-        "name": "",
-        "devname": "CH0274",
-        "rarity": "SSR",
-        "role": "Support",
-        "range": "Middle",
-        "weaponType": "AR",
-        "bulletType": "Explosive",
-        "armorType": "Heavy",
-        "equipment": [
-            "Gloves",
-            "Hairpin",
-            "Watch"
-        ],
-        "school": "Trinity",
-        "club": "SisterHood",
-        "favoriteGift": [
-            "BB",
-            "av",
-            "aW"
-        ]
-    },
-    {
         "id": 13000,
-        "name": "",
+        "name": "Akane",
         "devname": "akane",
         "rarity": "SR",
         "role": "Support",
@@ -2409,7 +2159,7 @@
     },
     {
         "id": 13001,
-        "name": "",
+        "name": "Chise",
         "devname": "Chise",
         "rarity": "SR",
         "role": "Dealer",
@@ -2431,7 +2181,7 @@
     },
     {
         "id": 13002,
-        "name": "",
+        "name": "Akari",
         "devname": "akari",
         "rarity": "SR",
         "role": "Dealer",
@@ -2452,7 +2202,7 @@
     },
     {
         "id": 13003,
-        "name": "",
+        "name": "Hasumi",
         "devname": "hasumi",
         "rarity": "SR",
         "role": "Dealer",
@@ -2474,7 +2224,7 @@
     },
     {
         "id": 13004,
-        "name": "",
+        "name": "Nonomi",
         "devname": "nonomi",
         "rarity": "SR",
         "role": "Dealer",
@@ -2496,7 +2246,7 @@
     },
     {
         "id": 13005,
-        "name": "",
+        "name": "Kayoko",
         "devname": "kayoko",
         "rarity": "SR",
         "role": "Support",
@@ -2518,7 +2268,7 @@
     },
     {
         "id": 13006,
-        "name": "",
+        "name": "Mutsuki",
         "devname": "mutsuki",
         "rarity": "SR",
         "role": "Dealer",
@@ -2540,7 +2290,7 @@
     },
     {
         "id": 13007,
-        "name": "",
+        "name": "Junko",
         "devname": "Zunko",
         "rarity": "SR",
         "role": "Dealer",
@@ -2562,7 +2312,7 @@
     },
     {
         "id": 13008,
-        "name": "",
+        "name": "Serika",
         "devname": "serika",
         "rarity": "SR",
         "role": "Dealer",
@@ -2583,7 +2333,7 @@
     },
     {
         "id": 13009,
-        "name": "",
+        "name": "Tsubaki",
         "devname": "Tusbaki",
         "rarity": "SR",
         "role": "Tank",
@@ -2604,7 +2354,7 @@
     },
     {
         "id": 13010,
-        "name": "",
+        "name": "Yuuka",
         "devname": "Yuuka",
         "rarity": "SR",
         "role": "Tank",
@@ -2625,7 +2375,7 @@
     },
     {
         "id": 13011,
-        "name": "",
+        "name": "Momoi",
         "devname": "Momoi",
         "rarity": "SR",
         "role": "Dealer",
@@ -2646,7 +2396,7 @@
     },
     {
         "id": 13012,
-        "name": "",
+        "name": "Kirino",
         "devname": "Kirino",
         "rarity": "SR",
         "role": "Support",
@@ -2668,7 +2418,7 @@
     },
     {
         "id": 13013,
-        "name": "",
+        "name": "Momiji",
         "devname": "momiji",
         "rarity": "SR",
         "role": "Dealer",
@@ -2691,7 +2441,7 @@
     },
     {
         "id": 16000,
-        "name": "",
+        "name": "Haruka",
         "devname": "haruka",
         "rarity": "R",
         "role": "Tank",
@@ -2713,7 +2463,7 @@
     },
     {
         "id": 16001,
-        "name": "",
+        "name": "Asuna",
         "devname": "Asuna",
         "rarity": "R",
         "role": "Dealer",
@@ -2734,7 +2484,7 @@
     },
     {
         "id": 16002,
-        "name": "",
+        "name": "Kotori",
         "devname": "kotori",
         "rarity": "R",
         "role": "Support",
@@ -2756,7 +2506,7 @@
     },
     {
         "id": 16003,
-        "name": "",
+        "name": "Suzumi",
         "devname": "suzumi",
         "rarity": "R",
         "role": "Support",
@@ -2777,7 +2527,7 @@
     },
     {
         "id": 16004,
-        "name": "",
+        "name": "Pina",
         "devname": "pina",
         "rarity": "R",
         "role": "Dealer",
@@ -2798,7 +2548,7 @@
     },
     {
         "id": 16005,
-        "name": "",
+        "name": "Tsurugi (Swimsuit)",
         "devname": "Tsurugi",
         "rarity": "R",
         "role": "Dealer",
@@ -2821,7 +2571,7 @@
     },
     {
         "id": 16006,
-        "name": "",
+        "name": "Izumi (Swimsuit)",
         "devname": "Izumi",
         "rarity": "R",
         "role": "Support",
@@ -2845,7 +2595,7 @@
     },
     {
         "id": 16007,
-        "name": "",
+        "name": "Tomoe",
         "devname": "Tomoe",
         "rarity": "R",
         "role": "Support",
@@ -2868,7 +2618,7 @@
     },
     {
         "id": 16008,
-        "name": "",
+        "name": "Fubuki",
         "devname": "CH0141",
         "rarity": "R",
         "role": "Dealer",
@@ -2890,7 +2640,7 @@
     },
     {
         "id": 16009,
-        "name": "",
+        "name": "Michiru",
         "devname": "CH0113",
         "rarity": "R",
         "role": "Dealer",
@@ -2912,7 +2662,7 @@
     },
     {
         "id": 16010,
-        "name": "",
+        "name": "Hibiki (Cheer Squad)",
         "devname": "CH0181",
         "rarity": "R",
         "role": "Dealer",
@@ -2935,7 +2685,7 @@
     },
     {
         "id": 16011,
-        "name": "",
+        "name": "Hasumi (Track)",
         "devname": "CH0190",
         "rarity": "R",
         "role": "Dealer",
@@ -2957,7 +2707,7 @@
     },
     {
         "id": 16012,
-        "name": "",
+        "name": "Junko (New Year)",
         "devname": "CH0192",
         "rarity": "R",
         "role": "Dealer",
@@ -2979,7 +2729,7 @@
     },
     {
         "id": 16013,
-        "name": "",
+        "name": "Koharu (Swimsuit)",
         "devname": "CH0205",
         "rarity": "R",
         "role": "Dealer",
@@ -3003,7 +2753,7 @@
     },
     {
         "id": 16014,
-        "name": "",
+        "name": "Ibuki",
         "devname": "CH0077",
         "rarity": "R",
         "role": "Support",
@@ -3028,7 +2778,7 @@
     },
     {
         "id": 16015,
-        "name": "",
+        "name": "Airi (Band)",
         "devname": "CH0251",
         "rarity": "R",
         "role": "Dealer",
@@ -3049,31 +2799,8 @@
         ]
     },
     {
-        "id": 16016,
-        "name": "",
-        "devname": "CH0275",
-        "rarity": "R",
-        "role": "Tank",
-        "range": "Front",
-        "weaponType": "SG",
-        "bulletType": "Explosive",
-        "armorType": "Heavy",
-        "equipment": [
-            "Shoes",
-            "Bag",
-            "Charm"
-        ],
-        "school": "Trinity",
-        "club": "KnightsHospitaller",
-        "favoriteGift": [
-            "Bb",
-            "ar",
-            "ap"
-        ]
-    },
-    {
         "id": 19018,
-        "name": "",
+        "name": "Hibiki",
         "devname": "Hibiki",
         "rarity": "R",
         "role": "Dealer",
@@ -3091,7 +2818,7 @@
     },
     {
         "id": 19019,
-        "name": "",
+        "name": "Karin",
         "devname": "karin",
         "rarity": "R",
         "role": "Support",
@@ -3109,7 +2836,7 @@
     },
     {
         "id": 19020,
-        "name": "",
+        "name": "Saya",
         "devname": "saya",
         "rarity": "R",
         "role": "Tank",
@@ -3126,26 +2853,8 @@
         "club": "GameDev"
     },
     {
-        "id": 19021,
-        "name": "",
-        "devname": "Yuuka",
-        "rarity": "SR",
-        "role": "Tank",
-        "range": "Front",
-        "weaponType": "SMG",
-        "bulletType": "Explosive",
-        "armorType": "Heavy",
-        "equipment": [
-            "Shoes",
-            "Badge",
-            "Charm"
-        ],
-        "school": "Millennium",
-        "club": "TheSeminar"
-    },
-    {
         "id": 20000,
-        "name": "",
+        "name": "Hibiki",
         "devname": "Hibiki",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3166,7 +2875,7 @@
     },
     {
         "id": 20001,
-        "name": "",
+        "name": "Karin",
         "devname": "karin",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3187,7 +2896,7 @@
     },
     {
         "id": 20002,
-        "name": "",
+        "name": "Saya",
         "devname": "saya",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3209,7 +2918,7 @@
     },
     {
         "id": 20003,
-        "name": "",
+        "name": "Mashiro",
         "devname": "mashiro",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3230,7 +2939,7 @@
     },
     {
         "id": 20004,
-        "name": "",
+        "name": "Mashiro (Swimsuit)",
         "devname": "CH0061",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3253,7 +2962,7 @@
     },
     {
         "id": 20005,
-        "name": "",
+        "name": "Hifumi (Swimsuit)",
         "devname": "CH0058",
         "rarity": "SSR",
         "role": "T.S.",
@@ -3276,7 +2985,7 @@
     },
     {
         "id": 20006,
-        "name": "",
+        "name": "Saya (Casual)",
         "devname": "saya_casual",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3298,7 +3007,7 @@
     },
     {
         "id": 20007,
-        "name": "",
+        "name": "Hatsune Miku",
         "devname": "CH9999",
         "rarity": "SSR",
         "role": "Support",
@@ -3317,7 +3026,7 @@
     },
     {
         "id": 20008,
-        "name": "",
+        "name": "Ako",
         "devname": "Ako",
         "rarity": "SSR",
         "role": "Support",
@@ -3339,7 +3048,7 @@
     },
     {
         "id": 20009,
-        "name": "",
+        "name": "Cherino (Hot Spring)",
         "devname": "CH0164",
         "rarity": "SSR",
         "role": "T.S.",
@@ -3361,7 +3070,7 @@
     },
     {
         "id": 20010,
-        "name": "",
+        "name": "Nodoka (Hot Spring)",
         "devname": "CH0165",
         "rarity": "SSR",
         "role": "Healer",
@@ -3384,7 +3093,7 @@
     },
     {
         "id": 20011,
-        "name": "",
+        "name": "Serika (New Year)",
         "devname": "Serika_newyear",
         "rarity": "SSR",
         "role": "Support",
@@ -3405,7 +3114,7 @@
     },
     {
         "id": 20012,
-        "name": "",
+        "name": "Sena",
         "devname": "CH0081",
         "rarity": "SSR",
         "role": "T.S.",
@@ -3427,7 +3136,7 @@
     },
     {
         "id": 20013,
-        "name": "",
+        "name": "Chihiro",
         "devname": "CH0160",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3449,7 +3158,7 @@
     },
     {
         "id": 20014,
-        "name": "",
+        "name": "Saki",
         "devname": "CH0144",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3472,7 +3181,7 @@
     },
     {
         "id": 20015,
-        "name": "",
+        "name": "Kaede",
         "devname": "Kaede",
         "rarity": "SSR",
         "role": "Support",
@@ -3495,7 +3204,7 @@
     },
     {
         "id": 20016,
-        "name": "",
+        "name": "Iroha",
         "devname": "CH0156",
         "rarity": "SSR",
         "role": "T.S.",
@@ -3517,7 +3226,7 @@
     },
     {
         "id": 20017,
-        "name": "",
+        "name": "Hiyori",
         "devname": "hiyori",
         "rarity": "SSR",
         "role": "Support",
@@ -3538,7 +3247,7 @@
     },
     {
         "id": 20018,
-        "name": "",
+        "name": "Moe",
         "devname": "Moe",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3560,7 +3269,7 @@
     },
     {
         "id": 20019,
-        "name": "",
+        "name": "Akane (Bunny)",
         "devname": "CH0099",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3582,7 +3291,7 @@
     },
     {
         "id": 20020,
-        "name": "",
+        "name": "Himari",
         "devname": "CH0159",
         "rarity": "SSR",
         "role": "Support",
@@ -3604,7 +3313,7 @@
     },
     {
         "id": 20021,
-        "name": "",
+        "name": "Hanae (Christmas)",
         "devname": "CH0195",
         "rarity": "SSR",
         "role": "Healer",
@@ -3626,7 +3335,7 @@
     },
     {
         "id": 20022,
-        "name": "",
+        "name": "Fuuka (New Year)",
         "devname": "CH0177",
         "rarity": "SSR",
         "role": "Support",
@@ -3649,7 +3358,7 @@
     },
     {
         "id": 20023,
-        "name": "",
+        "name": "Kanna",
         "devname": "CH0170",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3671,7 +3380,7 @@
     },
     {
         "id": 20024,
-        "name": "",
+        "name": "Nagisa",
         "devname": "Nagisa",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3693,7 +3402,7 @@
     },
     {
         "id": 20025,
-        "name": "",
+        "name": "Haruka (New Year)",
         "devname": "CH0087",
         "rarity": "SSR",
         "role": "Support",
@@ -3715,7 +3424,7 @@
     },
     {
         "id": 20026,
-        "name": "",
+        "name": "Minori",
         "devname": "CH0214",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3738,7 +3447,7 @@
     },
     {
         "id": 20027,
-        "name": "",
+        "name": "Shiroko (Swimsuit)",
         "devname": "CH0188",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3761,7 +3470,7 @@
     },
     {
         "id": 20028,
-        "name": "",
+        "name": "Hinata (Swimsuit)",
         "devname": "CH0210",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3786,7 +3495,7 @@
     },
     {
         "id": 20029,
-        "name": "",
+        "name": "Mimori (Swimsuit)",
         "devname": "CH0183",
         "rarity": "SSR",
         "role": "Support",
@@ -3811,7 +3520,7 @@
     },
     {
         "id": 20030,
-        "name": "",
+        "name": "Haruna (Track)",
         "devname": "CH0193",
         "rarity": "SSR",
         "role": "Healer",
@@ -3834,7 +3543,7 @@
     },
     {
         "id": 20031,
-        "name": "",
+        "name": "Shigure (Hot Spring)",
         "devname": "CH0123",
         "rarity": "SSR",
         "role": "Healer",
@@ -3856,7 +3565,7 @@
     },
     {
         "id": 20032,
-        "name": "",
+        "name": "Eimi (Swimsuit)",
         "devname": "CH0219",
         "rarity": "SSR",
         "role": "Support",
@@ -3880,7 +3589,7 @@
     },
     {
         "id": 20033,
-        "name": "",
+        "name": "Makoto",
         "devname": "CH0079",
         "rarity": "SSR",
         "role": "Dealer",
@@ -3904,7 +3613,7 @@
     },
     {
         "id": 20034,
-        "name": "",
+        "name": "Akari (New Year)",
         "devname": "CH0196",
         "rarity": "SSR",
         "role": "T.S.",
@@ -3925,7 +3634,7 @@
     },
     {
         "id": 20035,
-        "name": "",
+        "name": "Tsubaki (Guide)",
         "devname": "CH0255",
         "rarity": "SSR",
         "role": "Support",
@@ -3946,101 +3655,8 @@
         ]
     },
     {
-        "id": 20036,
-        "name": "",
-        "devname": "CH0189",
-        "rarity": "SSR",
-        "role": "Dealer",
-        "range": "Back",
-        "weaponType": "AR",
-        "bulletType": "Mystic",
-        "armorType": "Heavy",
-        "equipment": [
-            "Gloves",
-            "Bag",
-            "Watch"
-        ],
-        "school": "Abydos",
-        "club": "Countermeasure",
-        "favoriteGift": [
-            "ak",
-            "BA",
-            "CX",
-            "Cx"
-        ]
-    },
-    {
-        "id": 20037,
-        "name": "",
-        "devname": "CH0261",
-        "rarity": "SSR",
-        "role": "Dealer",
-        "range": "Back",
-        "weaponType": "SR",
-        "bulletType": "Explosive",
-        "armorType": "Heavy",
-        "equipment": [
-            "Hat",
-            "Bag",
-            "Watch"
-        ],
-        "school": "Valkyrie",
-        "club": "anzenkyoku",
-        "favoriteGift": [
-            "aJ",
-            "aR",
-            "aP",
-            "CX",
-            "Cx"
-        ]
-    },
-    {
-        "id": 20038,
-        "name": "",
-        "devname": "CH0271",
-        "rarity": "SSR",
-        "role": "Support",
-        "range": "Back",
-        "weaponType": "SR",
-        "bulletType": "Mystic",
-        "armorType": "Special",
-        "equipment": [
-            "Shoes",
-            "Badge",
-            "Necklace"
-        ],
-        "school": "RedWinter",
-        "club": "RedwinterSecretary",
-        "favoriteGift": [
-            "BB",
-            "an"
-        ]
-    },
-    {
-        "id": 20039,
-        "name": "",
-        "devname": "CH0139",
-        "rarity": "SSR",
-        "role": "Support",
-        "range": "Back",
-        "weaponType": "SMG",
-        "bulletType": "Sonic",
-        "armorType": "Elastic",
-        "equipment": [
-            "Shoes",
-            "Badge",
-            "Necklace"
-        ],
-        "school": "Shanhaijing",
-        "club": "Genryumon",
-        "favoriteGift": [
-            "BB",
-            "av"
-        ]
-    },
-    {
         "id": 23000,
-        "name": "",
+        "name": "Airi",
         "devname": "airi",
         "rarity": "SR",
         "role": "Support",
@@ -4061,7 +3677,7 @@
     },
     {
         "id": 23001,
-        "name": "",
+        "name": "Fuuka",
         "devname": "fuuka",
         "rarity": "SR",
         "role": "Healer",
@@ -4083,7 +3699,7 @@
     },
     {
         "id": 23002,
-        "name": "",
+        "name": "Hanae",
         "devname": "hanae",
         "rarity": "SR",
         "role": "Healer",
@@ -4104,7 +3720,7 @@
     },
     {
         "id": 23003,
-        "name": "",
+        "name": "Hare",
         "devname": "Hare",
         "rarity": "SR",
         "role": "Support",
@@ -4125,7 +3741,7 @@
     },
     {
         "id": 23004,
-        "name": "",
+        "name": "Utaha",
         "devname": "Utaha",
         "rarity": "SR",
         "role": "Dealer",
@@ -4146,7 +3762,7 @@
     },
     {
         "id": 23005,
-        "name": "",
+        "name": "Ayane",
         "devname": "Ayane",
         "rarity": "SR",
         "role": "Healer",
@@ -4167,7 +3783,7 @@
     },
     {
         "id": 23006,
-        "name": "",
+        "name": "Shizuko",
         "devname": "Shizuko",
         "rarity": "SR",
         "role": "Support",
@@ -4188,7 +3804,7 @@
     },
     {
         "id": 23007,
-        "name": "",
+        "name": "Hanako",
         "devname": "hanako",
         "rarity": "SR",
         "role": "Healer",
@@ -4211,7 +3827,7 @@
     },
     {
         "id": 23008,
-        "name": "",
+        "name": "Mari",
         "devname": "Mari",
         "rarity": "SR",
         "role": "Support",
@@ -4233,7 +3849,7 @@
     },
     {
         "id": 26000,
-        "name": "",
+        "name": "Chinatsu",
         "devname": "chinatsu",
         "rarity": "R",
         "role": "Healer",
@@ -4255,7 +3871,7 @@
     },
     {
         "id": 26001,
-        "name": "",
+        "name": "Kotama",
         "devname": "kotama",
         "rarity": "R",
         "role": "Support",
@@ -4277,7 +3893,7 @@
     },
     {
         "id": 26002,
-        "name": "",
+        "name": "Juri",
         "devname": "Juri",
         "rarity": "R",
         "role": "Support",
@@ -4298,7 +3914,7 @@
     },
     {
         "id": 26003,
-        "name": "",
+        "name": "Serina",
         "devname": "serina",
         "rarity": "R",
         "role": "Healer",
@@ -4319,7 +3935,7 @@
     },
     {
         "id": 26004,
-        "name": "",
+        "name": "Shimiko",
         "devname": "shimiko",
         "rarity": "R",
         "role": "Support",
@@ -4340,7 +3956,7 @@
     },
     {
         "id": 26005,
-        "name": "",
+        "name": "Yoshimi",
         "devname": "yoshimi",
         "rarity": "R",
         "role": "Dealer",
@@ -4361,7 +3977,7 @@
     },
     {
         "id": 26006,
-        "name": "",
+        "name": "Nodoka",
         "devname": "Nodoka",
         "rarity": "R",
         "role": "Support",
@@ -4383,7 +3999,7 @@
     },
     {
         "id": 26007,
-        "name": "",
+        "name": "Ayane (Swimsuit)",
         "devname": "CH0176",
         "rarity": "R",
         "role": "T.S.",
@@ -4406,7 +4022,7 @@
     },
     {
         "id": 26008,
-        "name": "",
+        "name": "Shizuko (Swimsuit)",
         "devname": "CH0180",
         "rarity": "R",
         "role": "Support",
@@ -4429,7 +4045,7 @@
     },
     {
         "id": 26009,
-        "name": "",
+        "name": "Yuzu (Maid)",
         "devname": "CH0203",
         "rarity": "R",
         "role": "Dealer",
@@ -4451,7 +4067,7 @@
     },
     {
         "id": 26010,
-        "name": "",
+        "name": "Miyu (Swimsuit)",
         "devname": "CH0218",
         "rarity": "R",
         "role": "Dealer",
@@ -4475,7 +4091,7 @@
     },
     {
         "id": 26011,
-        "name": "",
+        "name": "Saten Ruiko",
         "devname": "CH9996",
         "rarity": "R",
         "role": "Dealer",
@@ -4491,72 +4107,5 @@
         "school": "Sakugawa",
         "club": "EmptyClub",
         "favoriteGift": []
-    },
-    {
-        "id": 26012,
-        "name": "",
-        "devname": "CH0262",
-        "rarity": "R",
-        "role": "Support",
-        "range": "Back",
-        "weaponType": "HG",
-        "bulletType": "Mystic",
-        "armorType": "Heavy",
-        "equipment": [
-            "Shoes",
-            "Badge",
-            "Watch"
-        ],
-        "school": "Valkyrie",
-        "club": "anzenkyoku",
-        "favoriteGift": [
-            "aj",
-            "ao",
-            "CX",
-            "Cx"
-        ]
-    },
-    {
-        "id": 26013,
-        "name": "",
-        "devname": "CH0267",
-        "rarity": "R",
-        "role": "Healer",
-        "range": "Back",
-        "weaponType": "SMG",
-        "bulletType": "Sonic",
-        "armorType": "Special",
-        "equipment": [
-            "Shoes",
-            "Badge",
-            "Necklace"
-        ],
-        "school": "Arius",
-        "club": "AriusSqud",
-        "favoriteGift": [
-            "BB",
-            "Ba",
-            "av",
-            "Cx",
-            "CX"
-        ]
-    },
-    {
-        "id": 29012,
-        "name": "",
-        "devname": "Hare",
-        "rarity": "SR",
-        "role": "Support",
-        "range": "Back",
-        "weaponType": "AR",
-        "bulletType": "Explosive",
-        "armorType": "Light",
-        "equipment": [
-            "Shoes",
-            "Hairpin",
-            "Necklace"
-        ],
-        "school": "Millennium",
-        "club": "Veritas"
     }
 ]

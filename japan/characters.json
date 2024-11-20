@@ -2387,6 +2387,29 @@
         ]
     },
     {
+        "id": 10107,
+        "name": "チアキ",
+        "devname": "CH0238",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety",
+        "favoriteGift": [
+            "BB",
+            "aY",
+            "aW"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -4036,6 +4059,29 @@
         "favoriteGift": [
             "BB",
             "av"
+        ]
+    },
+    {
+        "id": 20040,
+        "name": "サツキ",
+        "devname": "CH0080",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety",
+        "favoriteGift": [
+            "BB",
+            "Ba",
+            "aW"
         ]
     },
     {

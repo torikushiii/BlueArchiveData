@@ -2874,7 +2874,9 @@
             "fg",
             "fH",
             "Gd",
-            "GE"
+            "GE",
+            "ga",
+            "gB"
         ]
     },
     {
@@ -2962,7 +2964,9 @@
             "ff",
             "fG",
             "Gf",
-            "GG"
+            "GG",
+            "Gz",
+            "gA"
         ]
     },
     {
@@ -3548,6 +3552,14 @@
     },
     {
         "id": 6519,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6520,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4739,6 +4751,16 @@
         ]
     },
     {
+        "id": 10107,
+        "rarity": "N",
+        "quality": 9,
+        "name": "チアキの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -5443,6 +5465,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "キサキの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20040,
+        "rarity": "N",
+        "quality": 9,
+        "name": "サツキの神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -8729,6 +8761,14 @@
         "tags": []
     },
     {
+        "id": 80510,
+        "rarity": "N",
+        "quality": 1,
+        "name": "高級万年筆",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -9645,6 +9685,68 @@
         "tags": []
     },
     {
+        "id": 85260,
+        "rarity": "N",
+        "quality": 1,
+        "name": "イベントPt",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85261,
+        "rarity": "N",
+        "quality": 2,
+        "name": "高級カクテルグラス",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85262,
+        "rarity": "N",
+        "quality": 3,
+        "name": "テーブルナプキン",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85270,
+        "rarity": "N",
+        "quality": 1,
+        "name": "イベントPt",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85271,
+        "rarity": "N",
+        "quality": 2,
+        "name": "切符",
+        "category": "Coin",
+        "tags": [
+            "FK"
+        ]
+    },
+    {
+        "id": 85272,
+        "rarity": "N",
+        "quality": 3,
+        "name": "アタッシュケース",
+        "category": "Coin",
+        "tags": [
+            "FK"
+        ]
+    },
+    {
+        "id": 85273,
+        "rarity": "N",
+        "quality": 4,
+        "name": "乗務員ホイッスル",
+        "category": "Coin",
+        "tags": [
+            "FK"
+        ]
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -10080,6 +10182,14 @@
     },
     {
         "id": 110011,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110012,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",
@@ -10854,6 +10964,14 @@
     },
     {
         "id": 160016,
+        "rarity": "N",
+        "quality": 1,
+        "name": "ミッションデータ2：TypeD-X ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 169999,
         "rarity": "N",
         "quality": 1,
         "name": "ミッションデータ2：TypeD-X ",

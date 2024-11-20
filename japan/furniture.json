@@ -3480,6 +3480,16 @@
         "comfortBonus": 500
     },
     {
+        "id": 210355,
+        "name": "万魔殿のデスク",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210356,
+        "name": "万魔殿の掲示板",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "総力戦ブロンズトロフィースタンド01",
         "comfortBonus": 50

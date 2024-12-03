@@ -3655,6 +3655,30 @@
         ]
     },
     {
+        "id": 20036,
+        "name": "Serika (Swimsuit)",
+        "devname": "CH0189",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "ak",
+            "BA",
+            "CX",
+            "Cx"
+        ]
+    },
+    {
         "id": 23000,
         "name": "Airi",
         "devname": "airi",

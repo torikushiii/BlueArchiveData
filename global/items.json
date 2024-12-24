@@ -2205,7 +2205,7 @@
         "id": 5003,
         "rarity": "SR",
         "quality": 3,
-        "name": "Forbidden Love: Its beauty lies in its illicitness",
+        "name": "Forbidden Love: Its Beauty Lies in its Illicitness",
         "category": "Favor",
         "tags": [
             "K",
@@ -2400,7 +2400,7 @@
         "id": 5015,
         "rarity": "SR",
         "quality": 3,
-        "name": "Extraordinary Cottontail Detective- Case of the Misty Hot Spring Slide -",
+        "name": "Extraordinary Cottontail Detective:- Case of the Misty Hot Spring Slide -",
         "category": "Favor",
         "tags": [
             "K",
@@ -8089,6 +8089,14 @@
     },
     {
         "id": 90070107,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070108,
         "rarity": "N",
         "quality": 2,
         "name": "Recruitment Points",

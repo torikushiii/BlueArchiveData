@@ -3490,6 +3490,16 @@
         "comfortBonus": 350
     },
     {
+        "id": 210357,
+        "name": "ダメにするソファ・白",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210358,
+        "name": "ダメにするソファ・青",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "総力戦ブロンズトロフィースタンド01",
         "comfortBonus": 50

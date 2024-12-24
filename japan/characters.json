@@ -2410,6 +2410,52 @@
         ]
     },
     {
+        "id": 10108,
+        "name": "ユウカ（パジャマ）",
+        "devname": "CH0284",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar",
+        "favoriteGift": [
+            "aK",
+            "aL",
+            "Bb"
+        ]
+    },
+    {
+        "id": 10109,
+        "name": "ノア（パジャマ）",
+        "devname": "CH0285",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "Light",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar",
+        "favoriteGift": [
+            "aK",
+            "BB",
+            "Bb"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",

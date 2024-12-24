@@ -2165,7 +2165,8 @@
             "Bo",
             "cP",
             "fT",
-            "Gv"
+            "Gv",
+            "gb"
         ]
     },
     {
@@ -2559,7 +2560,8 @@
             "aY",
             "cL",
             "eT",
-            "Gm"
+            "Gm",
+            "gc"
         ]
     },
     {
@@ -2779,7 +2781,11 @@
             "fT",
             "ft",
             "Gi",
-            "GJ"
+            "GJ",
+            "gb",
+            "gC",
+            "gc",
+            "gD"
         ]
     },
     {
@@ -3351,6 +3357,14 @@
         "tags": []
     },
     {
+        "id": 6107,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
         "id": 6200,
         "rarity": "SSR",
         "quality": 4,
@@ -3560,6 +3574,14 @@
     },
     {
         "id": 6520,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6521,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4755,6 +4777,26 @@
         "rarity": "N",
         "quality": 9,
         "name": "チアキの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10108,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ユウカ（パジャマ）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10109,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ノア（パジャマ）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -7343,6 +7385,150 @@
         "tags": []
     },
     {
+        "id": 70141,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70142,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70143,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70144,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70145,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70146,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70147,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70148,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70149,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70150,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70151,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70152,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70153,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70154,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70155,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70156,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70157,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 70158,
+        "rarity": "N",
+        "quality": 2,
+        "name": "呼び出しポイント",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 79999,
         "rarity": "N",
         "quality": 2,
@@ -8765,6 +8951,46 @@
         "rarity": "N",
         "quality": 1,
         "name": "高級万年筆",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80520,
+        "rarity": "N",
+        "quality": 1,
+        "name": "妖怪MAX梅干し味",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80521,
+        "rarity": "N",
+        "quality": 2,
+        "name": "ふかふか枕",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80522,
+        "rarity": "N",
+        "quality": 3,
+        "name": "新弾カードパック",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80523,
+        "rarity": "N",
+        "quality": 4,
+        "name": "BOOM：クラシックコレクション",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80530,
+        "rarity": "N",
+        "quality": 1,
+        "name": "財務用電卓",
         "category": "Coin",
         "tags": []
     },
@@ -10214,6 +10440,14 @@
     },
     {
         "id": 120002,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 120003,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",

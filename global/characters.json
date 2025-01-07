@@ -2161,6 +2161,31 @@
         ]
     },
     {
+        "id": 10097,
+        "name": "Moe (Swimsuit)",
+        "devname": "CH0216",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "RabbitPlatoon",
+        "favoriteGift": [
+            "as",
+            "av",
+            "aL",
+            "CX",
+            "Cx"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",

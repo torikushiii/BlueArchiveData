@@ -2343,7 +2343,9 @@
             "at",
             "ba",
             "bG",
-            "dZ"
+            "dZ",
+            "gf",
+            "gi"
         ]
     },
     {
@@ -2580,7 +2582,8 @@
             "eg",
             "Gc",
             "Gs",
-            "GT"
+            "GT",
+            "gF"
         ]
     },
     {
@@ -2808,7 +2811,9 @@
             "FT",
             "Ft",
             "Ge",
-            "GF"
+            "GF",
+            "gE",
+            "gH"
         ]
     },
     {
@@ -2841,7 +2846,9 @@
             "GA",
             "Ga",
             "GP",
-            "Gp"
+            "Gp",
+            "ge",
+            "gh"
         ]
     },
     {
@@ -2972,7 +2979,9 @@
             "Gf",
             "GG",
             "Gz",
-            "gA"
+            "gA",
+            "gf",
+            "gi"
         ]
     },
     {
@@ -3114,7 +3123,9 @@
             "Gc",
             "GD",
             "Gt",
-            "GU"
+            "GU",
+            "gF",
+            "gI"
         ]
     },
     {
@@ -3203,7 +3214,9 @@
             "Gb",
             "GC",
             "Gm",
-            "GN"
+            "GN",
+            "gG",
+            "gJ"
         ]
     },
     {
@@ -3589,6 +3602,14 @@
         "tags": []
     },
     {
+        "id": 6522,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
         "id": 6600,
         "rarity": "SSR",
         "quality": 4,
@@ -3661,6 +3682,14 @@
         "tags": []
     },
     {
+        "id": 6801,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
         "id": 6998,
         "rarity": "SSR",
         "quality": 4,
@@ -3690,6 +3719,14 @@
         "quality": 1,
         "name": "ミッションデータ1：TypeD ",
         "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 8100,
+        "rarity": "N",
+        "quality": 4,
+        "name": "★3生徒確定1回募集チケット（攻撃タイプ別）",
+        "category": "Material",
         "tags": []
     },
     {
@@ -4803,6 +4840,36 @@
         ]
     },
     {
+        "id": 10110,
+        "rarity": "N",
+        "quality": 9,
+        "name": "セイアの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10111,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ネル（制服）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10112,
+        "rarity": "N",
+        "quality": 9,
+        "name": "アスナ（制服）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -5523,6 +5590,26 @@
         ]
     },
     {
+        "id": 20041,
+        "rarity": "N",
+        "quality": 9,
+        "name": "リオの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20042,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 23000,
         "rarity": "N",
         "quality": 9,
@@ -5747,6 +5834,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "アツコ（水着）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 26014,
+        "rarity": "N",
+        "quality": 9,
+        "name": "カリン（制服）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -8995,6 +9092,54 @@
         "tags": []
     },
     {
+        "id": 80540,
+        "rarity": "N",
+        "quality": 1,
+        "name": "イベントPt",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80541,
+        "rarity": "N",
+        "quality": 2,
+        "name": "EXPO記念品",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80542,
+        "rarity": "N",
+        "quality": 3,
+        "name": "誰かの忘れ物",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80550,
+        "rarity": "N",
+        "quality": 1,
+        "name": "謎の物質",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80560,
+        "rarity": "N",
+        "quality": 1,
+        "name": "バレンタインスタンプ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80561,
+        "rarity": "N",
+        "quality": 4,
+        "name": "バレンタインデーのお誘い",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -9971,6 +10116,38 @@
         "tags": [
             "FK"
         ]
+    },
+    {
+        "id": 85280,
+        "rarity": "N",
+        "quality": 1,
+        "name": "イベントPt",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85281,
+        "rarity": "N",
+        "quality": 2,
+        "name": "超合金ペグ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85282,
+        "rarity": "N",
+        "quality": 3,
+        "name": "多目的ロープ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85283,
+        "rarity": "N",
+        "quality": 4,
+        "name": "S&Dカレーパウダー",
+        "category": "Coin",
+        "tags": []
     },
     {
         "id": 90000,
@@ -11023,6 +11200,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "百鬼夜行シリーズ選択ボックス",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151019,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "ミレニアムタワーラウンジシリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12141,6 +12328,78 @@
         "tags": []
     },
     {
+        "id": 180116,
+        "rarity": "N",
+        "quality": 4,
+        "name": "神輿チョコ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180117,
+        "rarity": "N",
+        "quality": 4,
+        "name": "最強☆チョコクレープ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180118,
+        "rarity": "N",
+        "quality": 4,
+        "name": "想い出いっぱいの「あのチョコ」",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180119,
+        "rarity": "N",
+        "quality": 4,
+        "name": "カカオニブのお茶",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180120,
+        "rarity": "N",
+        "quality": 4,
+        "name": "鉄砂掌チョコ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180121,
+        "rarity": "N",
+        "quality": 4,
+        "name": "サツキのシークレットレシピチョコ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180122,
+        "rarity": "N",
+        "quality": 4,
+        "name": "チアキの週刊万魔殿バレンタイン号外版",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180123,
+        "rarity": "N",
+        "quality": 4,
+        "name": "セイアのスリリングチョコ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
+        "id": 180124,
+        "rarity": "N",
+        "quality": 4,
+        "name": "ミレニアム校章チョコ",
+        "category": "Collectible",
+        "tags": []
+    },
+    {
         "id": 190000,
         "rarity": "N",
         "quality": 1,
@@ -12445,6 +12704,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "百鬼夜行シリーズ抽選ボックス",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 191019,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "ミレニアムタワーラウンジシリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
             "Db"

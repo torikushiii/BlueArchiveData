@@ -2456,6 +2456,75 @@
         ]
     },
     {
+        "id": 10110,
+        "name": "セイア",
+        "devname": "CH0070",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "Elastic",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "TeaParty",
+        "favoriteGift": [
+            "BB",
+            "av",
+            "aY"
+        ]
+    },
+    {
+        "id": 10111,
+        "name": "ネル（制服）",
+        "devname": "CH0280",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "Elastic",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "al",
+            "aR",
+            "av"
+        ]
+    },
+    {
+        "id": 10112,
+        "name": "アスナ（制服）",
+        "devname": "CH0281",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "Bb",
+            "ar",
+            "aS"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -4131,6 +4200,46 @@
         ]
     },
     {
+        "id": 20041,
+        "name": "リオ",
+        "devname": "CH0158",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "Elastic",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar",
+        "favoriteGift": [
+            "av",
+            "aL"
+        ]
+    },
+    {
+        "id": 20042,
+        "name": "",
+        "devname": "CH0235",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "Veritas"
+    },
+    {
         "id": 23000,
         "name": "アイリ",
         "devname": "airi",
@@ -4631,6 +4740,29 @@
             "av",
             "Cx",
             "CX"
+        ]
+    },
+    {
+        "id": 26014,
+        "name": "カリン（制服）",
+        "devname": "CH0282",
+        "rarity": "R",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing",
+        "favoriteGift": [
+            "am",
+            "BA",
+            "aq"
         ]
     },
     {

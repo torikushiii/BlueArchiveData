@@ -2635,6 +2635,291 @@
         "comfortBonus": 500
     },
     {
+        "id": 19100,
+        "name": "お洒落なラウンジベンチ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19101,
+        "name": "大型のラウンジベンチ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19102,
+        "name": "八角形のカーペット・青",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19103,
+        "name": "八角形のカーペット・紺",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19104,
+        "name": "幾何学模様のカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19105,
+        "name": "ハニカムカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19106,
+        "name": "緑の縁取りのカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19107,
+        "name": "大理石模様のカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19108,
+        "name": "角が丸い大理石模様のカーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19109,
+        "name": "壁掛けデジタル時計",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19110,
+        "name": "施設案内用ディスプレイ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19111,
+        "name": "イベント広報用ディスプレイ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19112,
+        "name": "ラウンジのディスプレイ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19113,
+        "name": "立ち入り禁止バー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19114,
+        "name": "ガラスフェンス",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19115,
+        "name": "壁掛けランプ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19116,
+        "name": "スタンドランプ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19117,
+        "name": "四角形のラウンジパーティション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19118,
+        "name": "三角形のラウンジパーティション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19119,
+        "name": "観葉植物の植木鉢・A",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19120,
+        "name": "観葉植物の植木鉢・B",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19121,
+        "name": "観葉植物の植木鉢・C",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19122,
+        "name": "植木鉢つきの六角形テーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19123,
+        "name": "タブレットと円形テーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19124,
+        "name": "ランプつきの円形テーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19125,
+        "name": "ミレニアムの柱・A",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19126,
+        "name": "ミレニアムの柱・B",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19127,
+        "name": "ミレニアムの柱・C",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19128,
+        "name": "ミレニアムのロゴが刻まれた柱",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19129,
+        "name": "ミレニアムの半透明窓",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19130,
+        "name": "ミレニアムチェア・青緑",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19131,
+        "name": "ミレニアムチェア・青",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19132,
+        "name": "ミレニアムチェア・紺",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19200,
+        "name": "ラウンジベンチ・A型",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19201,
+        "name": "八角形の大型ベンチ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19202,
+        "name": "円形のディスプレイベンチ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19203,
+        "name": "ミレニアムワイドデスク",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19204,
+        "name": "ラウンジマップディスプレイ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19205,
+        "name": "ガラス張りのエレベーター",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19206,
+        "name": "ミレニアムタワーラウンジのゲート",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19207,
+        "name": "ミレニアム製マッサージチェア",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19208,
+        "name": "格子調のパーティション",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19209,
+        "name": "長方形の植木鉢",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19210,
+        "name": "壁掛け型ミレニアムロゴ",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19211,
+        "name": "ミレニアムタワーラウンジの自動販売機",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19212,
+        "name": "ミレニアムの格子窓",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19213,
+        "name": "ミレニアムタワーラウンジの壁",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19214,
+        "name": "ミレニアムタワーラウンジの床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19215,
+        "name": "ミレニアムタワーラウンジの背景",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19300,
+        "name": "三位一体ベンチ",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19301,
+        "name": "ミレニアムホログラムマップ",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19302,
+        "name": "ミレニアムタワーラウンジのエスカレーター",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19303,
+        "name": "インフォメーションデスク",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19304,
+        "name": "ラウンジのガイドドローン",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19305,
+        "name": "ラウンジのガイドロボット",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19306,
+        "name": "ミレニアムのワイドウィンドウ",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19307,
+        "name": "2人用ミレニアムデスク",
+        "comfortBonus": 350
+    },
+    {
         "id": 100000,
         "name": "ビナー戦（屋外戦）のブロンズトロフィー",
         "comfortBonus": 50
@@ -3075,6 +3360,26 @@
         "comfortBonus": 50
     },
     {
+        "id": 101100,
+        "name": "ゲブラ（屋外戦）のブロンズトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 101101,
+        "name": "ゲブラ（屋外戦）のシルバートロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 101102,
+        "name": "ゲブラ（屋外戦）のゴールドトロフィー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 101103,
+        "name": "ゲブラ（屋外戦）のプラチナトロフィー",
+        "comfortBonus": 50
+    },
+    {
         "id": 200301,
         "name": "トリニティの噴水",
         "comfortBonus": 350
@@ -3497,6 +3802,16 @@
     {
         "id": 210358,
         "name": "ダメにするソファ・青",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210359,
+        "name": "ミリタリーキャンプボードの設置物",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210360,
+        "name": "原初のアバンギャルド",
         "comfortBonus": 350
     },
     {

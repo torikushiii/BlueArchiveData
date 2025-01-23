@@ -1776,6 +1776,198 @@
         "extensionTime": "2025-01-14 10:59:59"
     },
     {
+        "id": 838,
+        "subId": 838,
+        "rerun": false,
+        "name": "Event_Name_838",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-01-23 11:00:00",
+        "startTime": "2025-01-23 11:00:00",
+        "endTime": "2025-02-08 10:59:59",
+        "extensionTime": "2025-02-15 10:59:59"
+    },
+    {
+        "id": 838,
+        "subId": 838,
+        "rerun": false,
+        "name": "Event_Name_838",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-01-23 11:00:00",
+        "startTime": "2025-01-23 11:00:00",
+        "endTime": "2025-02-08 10:59:59",
+        "extensionTime": "2025-02-15 10:59:59"
+    },
+    {
+        "id": 838,
+        "subId": 838,
+        "rerun": false,
+        "name": "Event_Name_838",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-01-23 11:00:00",
+        "startTime": "2025-01-23 11:00:00",
+        "endTime": "2025-02-08 10:59:59",
+        "extensionTime": "2025-02-15 10:59:59"
+    },
+    {
+        "id": 838,
+        "subId": 838,
+        "rerun": false,
+        "name": "Event_Name_838",
+        "eventContentType": "MiniGameDefense",
+        "subEvent": false,
+        "exposedTime": "2025-01-23 11:00:00",
+        "startTime": "2025-01-23 11:00:00",
+        "endTime": "2025-02-08 10:59:59",
+        "extensionTime": "2025-02-15 10:59:59"
+    },
+    {
+        "id": 839,
+        "subId": 839,
+        "rerun": false,
+        "name": "Event_Name_839",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-02-18 11:00:00",
+        "startTime": "2025-02-18 11:00:00",
+        "endTime": "2025-03-04 10:59:59",
+        "extensionTime": "2025-03-11 10:59:59"
+    },
+    {
+        "id": 839,
+        "subId": 839,
+        "rerun": false,
+        "name": "Event_Name_839",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-02-18 11:00:00",
+        "startTime": "2025-02-18 11:00:00",
+        "endTime": "2025-03-04 10:59:59",
+        "extensionTime": "2025-03-11 10:59:59"
+    },
+    {
+        "id": 839,
+        "subId": 839,
+        "rerun": false,
+        "name": "Event_Name_839",
+        "eventContentType": "BoxGacha",
+        "subEvent": false,
+        "exposedTime": "2025-02-18 11:00:00",
+        "startTime": "2025-02-18 11:00:00",
+        "endTime": "2025-03-04 10:59:59",
+        "extensionTime": "2025-03-11 10:59:59"
+    },
+    {
+        "id": 839,
+        "subId": 839,
+        "rerun": false,
+        "name": "Event_Name_839",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-02-18 11:00:00",
+        "startTime": "2025-02-18 11:00:00",
+        "endTime": "2025-03-04 10:59:59",
+        "extensionTime": "2025-03-11 10:59:59"
+    },
+    {
+        "id": 840,
+        "subId": 840,
+        "rerun": false,
+        "name": "Event_Name_840",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-03-18 11:00:00",
+        "startTime": "2025-03-18 11:00:00",
+        "endTime": "2025-04-01 10:59:59",
+        "extensionTime": "2025-04-08 10:59:59"
+    },
+    {
+        "id": 840,
+        "subId": 840,
+        "rerun": false,
+        "name": "Event_Name_840",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-03-18 11:00:00",
+        "startTime": "2025-03-18 11:00:00",
+        "endTime": "2025-04-01 10:59:59",
+        "extensionTime": "2025-04-08 10:59:59"
+    },
+    {
+        "id": 840,
+        "subId": 840,
+        "rerun": false,
+        "name": "Event_Name_840",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-03-18 11:00:00",
+        "startTime": "2025-03-18 11:00:00",
+        "endTime": "2025-04-01 10:59:59",
+        "extensionTime": "2025-04-08 10:59:59"
+    },
+    {
+        "id": 840,
+        "subId": 840,
+        "rerun": false,
+        "name": "Event_Name_840",
+        "eventContentType": "Treasure",
+        "subEvent": false,
+        "exposedTime": "2025-03-18 11:00:00",
+        "startTime": "2025-03-18 11:00:00",
+        "endTime": "2025-04-01 10:59:59",
+        "extensionTime": "2025-04-08 10:59:59"
+    },
+    {
+        "id": 841,
+        "subId": 841,
+        "rerun": false,
+        "name": "Event_Name_841",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-04-15 11:00:00",
+        "startTime": "2025-04-15 11:00:00",
+        "endTime": "2025-04-29 10:59:59",
+        "extensionTime": "2025-05-06 10:59:59"
+    },
+    {
+        "id": 841,
+        "subId": 841,
+        "rerun": false,
+        "name": "Event_Name_841",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-04-15 11:00:00",
+        "startTime": "2025-04-15 11:00:00",
+        "endTime": "2025-04-29 10:59:59",
+        "extensionTime": "2025-05-06 10:59:59"
+    },
+    {
+        "id": 841,
+        "subId": 841,
+        "rerun": false,
+        "name": "Event_Name_841",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-04-15 11:00:00",
+        "startTime": "2025-04-15 11:00:00",
+        "endTime": "2025-04-29 10:59:59",
+        "extensionTime": "2025-05-06 10:59:59"
+    },
+    {
+        "id": 841,
+        "subId": 841,
+        "rerun": false,
+        "name": "Event_Name_841",
+        "eventContentType": "Recollection",
+        "subEvent": false,
+        "exposedTime": "2025-04-15 11:00:00",
+        "startTime": "2025-04-15 11:00:00",
+        "endTime": "2025-04-29 10:59:59",
+        "extensionTime": "2025-05-06 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -2828,8 +3020,8 @@
         "subEvent": false,
         "exposedTime": "2025-01-07 11:00:00",
         "startTime": "2025-01-07 11:00:00",
-        "endTime": "2025-01-16 10:59:59",
-        "extensionTime": "2025-01-23 10:59:59"
+        "endTime": "2025-01-14 10:59:59",
+        "extensionTime": "2025-01-21 10:59:59"
     },
     {
         "id": 10827,
@@ -2840,8 +3032,8 @@
         "subEvent": false,
         "exposedTime": "2025-01-07 11:00:00",
         "startTime": "2025-01-07 11:00:00",
-        "endTime": "2025-01-16 10:59:59",
-        "extensionTime": "2025-01-23 10:59:59"
+        "endTime": "2025-01-14 10:59:59",
+        "extensionTime": "2025-01-21 10:59:59"
     },
     {
         "id": 10827,
@@ -2852,8 +3044,8 @@
         "subEvent": false,
         "exposedTime": "2025-01-07 11:00:00",
         "startTime": "2025-01-07 11:00:00",
-        "endTime": "2025-01-16 10:59:59",
-        "extensionTime": "2025-01-23 10:59:59"
+        "endTime": "2025-01-14 10:59:59",
+        "extensionTime": "2025-01-21 10:59:59"
     },
     {
         "id": 10827,
@@ -2864,8 +3056,116 @@
         "subEvent": false,
         "exposedTime": "2025-01-07 11:00:00",
         "startTime": "2025-01-07 11:00:00",
-        "endTime": "2025-01-16 10:59:59",
-        "extensionTime": "2025-01-23 10:59:59"
+        "endTime": "2025-01-14 10:59:59",
+        "extensionTime": "2025-01-21 10:59:59"
+    },
+    {
+        "id": 10829,
+        "subId": 829,
+        "rerun": true,
+        "name": "Event_Name_829",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-02-08 11:00:00",
+        "startTime": "2025-02-08 11:00:00",
+        "endTime": "2025-02-18 10:59:59",
+        "extensionTime": "2025-02-25 10:59:59"
+    },
+    {
+        "id": 10829,
+        "subId": 829,
+        "rerun": true,
+        "name": "Event_Name_829",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-02-08 11:00:00",
+        "startTime": "2025-02-08 11:00:00",
+        "endTime": "2025-02-18 10:59:59",
+        "extensionTime": "2025-02-25 10:59:59"
+    },
+    {
+        "id": 10829,
+        "subId": 829,
+        "rerun": true,
+        "name": "Event_Name_829",
+        "eventContentType": "CardShop",
+        "subEvent": false,
+        "exposedTime": "2025-02-08 11:00:00",
+        "startTime": "2025-02-08 11:00:00",
+        "endTime": "2025-02-18 10:59:59",
+        "extensionTime": "2025-02-25 10:59:59"
+    },
+    {
+        "id": 10829,
+        "subId": 829,
+        "rerun": true,
+        "name": "Event_Name_829",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-02-08 11:00:00",
+        "startTime": "2025-02-08 11:00:00",
+        "endTime": "2025-02-18 10:59:59",
+        "extensionTime": "2025-02-25 10:59:59"
+    },
+    {
+        "id": 10828,
+        "subId": 828,
+        "rerun": true,
+        "name": "Event_Name_828",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-03-04 11:00:00",
+        "startTime": "2025-03-04 11:00:00",
+        "endTime": "2025-03-18 10:59:59",
+        "extensionTime": "2025-03-25 10:59:59"
+    },
+    {
+        "id": 10828,
+        "subId": 828,
+        "rerun": true,
+        "name": "Event_Name_828",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-03-04 11:00:00",
+        "startTime": "2025-03-04 11:00:00",
+        "endTime": "2025-03-18 10:59:59",
+        "extensionTime": "2025-03-25 10:59:59"
+    },
+    {
+        "id": 10828,
+        "subId": 828,
+        "rerun": true,
+        "name": "Event_Name_828",
+        "eventContentType": "MiniGameTBG",
+        "subEvent": false,
+        "exposedTime": "2025-03-04 11:00:00",
+        "startTime": "2025-03-04 11:00:00",
+        "endTime": "2025-03-18 10:59:59",
+        "extensionTime": "2025-03-25 10:59:59"
+    },
+    {
+        "id": 10828,
+        "subId": 828,
+        "rerun": true,
+        "name": "Event_Name_828",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-03-04 11:00:00",
+        "startTime": "2025-03-04 11:00:00",
+        "endTime": "2025-03-18 10:59:59",
+        "extensionTime": "2025-03-25 10:59:59"
+    },
+    {
+        "id": 10828,
+        "subId": 828,
+        "rerun": true,
+        "name": "Event_Name_828",
+        "eventContentType": "Collection",
+        "subEvent": false,
+        "exposedTime": "2025-03-04 11:00:00",
+        "startTime": "2025-03-04 11:00:00",
+        "endTime": "2025-03-18 10:59:59",
+        "extensionTime": "2025-03-25 10:59:59"
     },
     {
         "id": 50822,
@@ -3144,6 +3444,114 @@
         "extensionTime": "2024-12-24 10:59:59"
     },
     {
+        "id": 60009,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "MiniEvent",
+        "subEvent": false,
+        "exposedTime": "2025-04-01 11:00:00",
+        "startTime": "2025-04-01 11:00:00",
+        "endTime": "2025-04-15 10:59:59",
+        "extensionTime": "2025-04-22 10:59:59"
+    },
+    {
+        "id": 60009,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-04-01 11:00:00",
+        "startTime": "2025-04-01 11:00:00",
+        "endTime": "2025-04-15 10:59:59",
+        "extensionTime": "2025-04-22 10:59:59"
+    },
+    {
+        "id": 70000,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "SpecialMiniEvent",
+        "subEvent": false,
+        "exposedTime": "2023-02-01 11:00:00",
+        "startTime": "2023-02-01 11:00:00",
+        "endTime": "2023-07-17 10:59:59",
+        "extensionTime": "2023-07-24 10:59:59"
+    },
+    {
+        "id": 70000,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "ScenarioCollection",
+        "subEvent": false,
+        "exposedTime": "2023-02-01 11:00:00",
+        "startTime": "2023-02-01 11:00:00",
+        "endTime": "2023-07-17 10:59:59",
+        "extensionTime": "2023-07-24 10:59:59"
+    },
+    {
+        "id": 70000,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "ScenarioShortcut",
+        "subEvent": false,
+        "exposedTime": "2023-02-01 11:00:00",
+        "startTime": "2023-02-01 11:00:00",
+        "endTime": "2023-07-17 10:59:59",
+        "extensionTime": "2023-07-24 10:59:59"
+    },
+    {
+        "id": 70001,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "SpecialMiniEvent",
+        "subEvent": false,
+        "exposedTime": "2025-04-29 11:00:00",
+        "startTime": "2025-04-29 11:00:00",
+        "endTime": "2025-05-13 10:59:59",
+        "extensionTime": "2025-05-20 10:59:59"
+    },
+    {
+        "id": 70001,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "BoxGacha",
+        "subEvent": false,
+        "exposedTime": "2025-04-29 11:00:00",
+        "startTime": "2025-04-29 11:00:00",
+        "endTime": "2025-05-13 10:59:59",
+        "extensionTime": "2025-05-20 10:59:59"
+    },
+    {
+        "id": 70001,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "ScenarioCollection",
+        "subEvent": false,
+        "exposedTime": "2025-04-29 11:00:00",
+        "startTime": "2025-04-29 11:00:00",
+        "endTime": "2025-05-13 10:59:59",
+        "extensionTime": "2025-05-20 10:59:59"
+    },
+    {
+        "id": 70001,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "ScenarioShortcut",
+        "subEvent": false,
+        "exposedTime": "2025-04-29 11:00:00",
+        "startTime": "2025-04-29 11:00:00",
+        "endTime": "2025-05-13 10:59:59",
+        "extensionTime": "2025-05-20 10:59:59"
+    },
+    {
         "id": 900801,
         "subId": 801,
         "rerun": true,
@@ -3380,8 +3788,8 @@
         "subEvent": false,
         "exposedTime": "2024-07-23 11:00:00",
         "startTime": "2024-07-23 11:00:00",
-        "endTime": "2099-12-31 23:59:59",
-        "extensionTime": "2099-12-31 23:59:59"
+        "endTime": "2025-01-23 10:59:59",
+        "extensionTime": "2025-01-23 10:59:59"
     },
     {
         "id": 900701,
@@ -3392,7 +3800,7 @@
         "subEvent": false,
         "exposedTime": "2024-07-23 11:00:00",
         "startTime": "2024-07-23 11:00:00",
-        "endTime": "2099-12-31 23:59:59",
-        "extensionTime": "2099-12-31 23:59:59"
+        "endTime": "2025-01-23 10:59:59",
+        "extensionTime": "2025-01-23 10:59:59"
     }
 ]

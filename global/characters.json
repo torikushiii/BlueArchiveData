@@ -2186,6 +2186,117 @@
         ]
     },
     {
+        "id": 10098,
+        "name": "Hoshino (Armed)",
+        "devname": "CH0258_02",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure",
+        "favoriteGift": [
+            "ak",
+            "as"
+        ]
+    },
+    {
+        "id": 10099,
+        "name": "Hoshino (Armed)",
+        "devname": "CH0258_01",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "Countermeasure"
+    },
+    {
+        "id": 10100,
+        "name": "Shiroko*Terror",
+        "devname": "CH0263",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Abydos",
+        "club": "AbydosStudentCouncil",
+        "favoriteGift": [
+            "aj"
+        ]
+    },
+    {
+        "id": 10101,
+        "name": "Saori (Swimsuit)",
+        "devname": "CH0266",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "Bb",
+            "aS",
+            "as",
+            "Cx",
+            "CX"
+        ]
+    },
+    {
+        "id": 10102,
+        "name": "Hiyori (Swimsuit)",
+        "devname": "CH0269",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "aJ",
+            "az",
+            "aq",
+            "Cx",
+            "CX"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -2900,6 +3011,24 @@
         ],
         "school": "Millennium",
         "club": "GameDev"
+    },
+    {
+        "id": 19021,
+        "name": "Yuuka",
+        "devname": "Yuuka",
+        "rarity": "SR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Charm"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar"
     },
     {
         "id": 20000,
@@ -4229,5 +4358,48 @@
             "CX",
             "Cx"
         ]
+    },
+    {
+        "id": 26013,
+        "name": "Atsuko (Swimsuit)",
+        "devname": "CH0267",
+        "rarity": "R",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "BB",
+            "Ba",
+            "av",
+            "Cx",
+            "CX"
+        ]
+    },
+    {
+        "id": 29012,
+        "name": "Hare",
+        "devname": "Hare",
+        "rarity": "SR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "Veritas"
     }
 ]

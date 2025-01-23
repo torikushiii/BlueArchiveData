@@ -2295,6 +2295,141 @@
         "comfortBonus": 350
     },
     {
+        "id": 17100,
+        "name": "Blue Stripe Beach Mat",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17101,
+        "name": "Wide Leaf Palm Trees",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17102,
+        "name": "Two-tier Party Parasol",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17103,
+        "name": "Beach Sandcastle",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17104,
+        "name": "White Beach Sun Bed",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17105,
+        "name": "Beach Sun Bed and Mini Table",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17106,
+        "name": "Beach Surfboards",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17107,
+        "name": "Sun Light",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17108,
+        "name": "Crescent Moon Light",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17109,
+        "name": "Neon Wave Lights",
+        "comfortBonus": 50
+    },
+    {
+        "id": 17200,
+        "name": "Summer Festival Sign",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17201,
+        "name": "Stage Searchlight",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17202,
+        "name": "Beach Picnic Set",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17203,
+        "name": "Festival Audience Chair A",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17204,
+        "name": "Festival Audience Chair B",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17205,
+        "name": "Festival Audience Chair C",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17206,
+        "name": "Concert Speaker Set",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17207,
+        "name": "Summer Beach Table Set",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17208,
+        "name": "Mountable Festival Lights",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17209,
+        "name": "Night Ocean Decorative Wall",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17210,
+        "name": "White Sand Beach Floor",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17211,
+        "name": "Beach Festival Background",
+        "comfortBonus": 120
+    },
+    {
+        "id": 17300,
+        "name": "Festival Information Booth",
+        "comfortBonus": 350
+    },
+    {
+        "id": 17301,
+        "name": "Ice Cream Truck",
+        "comfortBonus": 350
+    },
+    {
+        "id": 17302,
+        "name": "Festival Screen",
+        "comfortBonus": 500
+    },
+    {
+        "id": 17303,
+        "name": "Festival Drink Bar",
+        "comfortBonus": 350
+    },
+    {
+        "id": 17304,
+        "name": "DJ Main Performance Stage",
+        "comfortBonus": 500
+    },
+    {
         "id": 100000,
         "name": "Binah Bronze Trophy - Field Warfare",
         "comfortBonus": 50
@@ -3097,6 +3232,21 @@
     {
         "id": 210346,
         "name": "Net Hammock",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210347,
+        "name": "Expert Target Range",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210348,
+        "name": "Abydos Bike Maintenance Rack",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210349,
+        "name": "Beach Festival Chair",
         "comfortBonus": 350
     },
     {

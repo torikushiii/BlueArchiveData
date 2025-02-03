@@ -4223,7 +4223,7 @@
     },
     {
         "id": 20042,
-        "name": "",
+        "name": "マキ（キャンプ）",
         "devname": "CH0235",
         "rarity": "SSR",
         "role": "Dealer",
@@ -4237,7 +4237,12 @@
             "Watch"
         ],
         "school": "Millennium",
-        "club": "Veritas"
+        "club": "Veritas",
+        "favoriteGift": [
+            "ax",
+            "aL",
+            "aR"
+        ]
     },
     {
         "id": 23000,

@@ -2546,7 +2546,8 @@
             "DV",
             "al",
             "ax",
-            "bc"
+            "bc",
+            "gg"
         ]
     },
     {
@@ -3026,7 +3027,9 @@
             "GO",
             "Go",
             "Gv",
-            "GW"
+            "GW",
+            "gg",
+            "gj"
         ]
     },
     {
@@ -5603,7 +5606,7 @@
         "id": 20042,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "マキ（キャンプ）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"

@@ -3250,6 +3250,16 @@
         "comfortBonus": 350
     },
     {
+        "id": 210351,
+        "name": "Wooden Dummy",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210352,
+        "name": "Speech Table",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "Total Assault Bronze Trophy Display Cabinet 01",
         "comfortBonus": 50

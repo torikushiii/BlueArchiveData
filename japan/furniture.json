@@ -3815,6 +3815,21 @@
         "comfortBonus": 350
     },
     {
+        "id": 210361,
+        "name": "おせち料理セットテーブル",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210362,
+        "name": "パンケーキ・ティーテーブル",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210363,
+        "name": "救急箱ホワイトテーブル",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "総力戦ブロンズトロフィースタンド01",
         "comfortBonus": 50

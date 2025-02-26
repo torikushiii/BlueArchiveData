@@ -2707,7 +2707,9 @@
             "EM",
             "eg",
             "em",
-            "Gt"
+            "Gt",
+            "gl",
+            "gM"
         ]
     },
     {
@@ -2745,7 +2747,8 @@
             "Gr",
             "GS",
             "Gu",
-            "GV"
+            "GV",
+            "gk"
         ]
     },
     {
@@ -2939,7 +2942,9 @@
             "Gl",
             "GM",
             "Gu",
-            "GV"
+            "GV",
+            "gl",
+            "gM"
         ]
     },
     {
@@ -3070,7 +3075,9 @@
             "FI",
             "Fi",
             "fC",
-            "fc"
+            "fc",
+            "gk",
+            "gL"
         ]
     },
     {
@@ -3606,6 +3613,14 @@
     },
     {
         "id": 6522,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6523,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4873,6 +4888,26 @@
         ]
     },
     {
+        "id": 10113,
+        "rarity": "N",
+        "quality": 9,
+        "name": "セナ（私服）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10114,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ジュリ（アルバイト）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -5607,6 +5642,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "マキ（キャンプ）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20043,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -9143,6 +9188,46 @@
         "tags": []
     },
     {
+        "id": 80570,
+        "rarity": "N",
+        "quality": 1,
+        "name": "パフェ交換券",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80571,
+        "rarity": "N",
+        "quality": 2,
+        "name": "試食用パンケーキ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80572,
+        "rarity": "N",
+        "quality": 3,
+        "name": "救急医学部の特製薬",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80573,
+        "rarity": "N",
+        "quality": 4,
+        "name": "使い切りタイプの洗剤",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80580,
+        "rarity": "N",
+        "quality": 1,
+        "name": "財務用電卓",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -10492,6 +10577,14 @@
     },
     {
         "id": 100040,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 100041,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",

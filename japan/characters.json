@@ -2525,6 +2525,50 @@
         ]
     },
     {
+        "id": 10113,
+        "name": "セナ（私服）",
+        "devname": "CH0082",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Middle",
+        "weaponType": "GL",
+        "bulletType": "Sonic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "Emergentology",
+        "favoriteGift": [
+            "Ba",
+            "av"
+        ]
+    },
+    {
+        "id": 10114,
+        "name": "ジュリ（アルバイト）",
+        "devname": "CH0286",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Gehenna",
+        "club": "FoodService",
+        "favoriteGift": [
+            "ay",
+            "ar"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -4243,6 +4287,24 @@
             "aL",
             "aR"
         ]
+    },
+    {
+        "id": 20043,
+        "name": "",
+        "devname": "CH0197",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub"
     },
     {
         "id": 23000,

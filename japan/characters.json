@@ -4290,7 +4290,7 @@
     },
     {
         "id": 20043,
-        "name": "",
+        "name": "イズミ（正月）",
         "devname": "CH0197",
         "rarity": "SSR",
         "role": "Support",
@@ -4304,7 +4304,11 @@
             "Necklace"
         ],
         "school": "Gehenna",
-        "club": "GourmetClub"
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "aP",
+            "aJ"
+        ]
     },
     {
         "id": 23000,

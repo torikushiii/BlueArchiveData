@@ -8442,6 +8442,14 @@
         "tags": []
     },
     {
+        "id": 90070117,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -9941,7 +9949,7 @@
         "id": 80472,
         "rarity": "N",
         "quality": 3,
-        "name": "Eastern Alchemy Society Special Energy Supplement",
+        "name": "Eastern Alchemy Energy Supplement",
         "category": "Coin",
         "tags": []
     },

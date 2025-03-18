@@ -2319,6 +2319,28 @@
         ]
     },
     {
+        "id": 10104,
+        "name": "Reijo",
+        "devname": "reizyo",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Shanhaijing",
+        "club": "BlackTortoisePromenade",
+        "favoriteGift": [
+            "aj",
+            "aV"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -3923,6 +3945,28 @@
         "favoriteGift": [
             "BB",
             "an"
+        ]
+    },
+    {
+        "id": 20039,
+        "name": "Kisaki",
+        "devname": "CH0139",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Sonic",
+        "armorType": "Elastic",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Shanhaijing",
+        "club": "Genryumon",
+        "favoriteGift": [
+            "BB",
+            "av"
         ]
     },
     {

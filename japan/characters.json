@@ -2569,6 +2569,46 @@
         ]
     },
     {
+        "id": 10115,
+        "name": "レイ",
+        "devname": "CH0245",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "RL",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "TrainingClub",
+        "favoriteGift": [
+            "aV",
+            "aL"
+        ]
+    },
+    {
+        "id": 10116,
+        "name": "",
+        "devname": "CH0259",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -4308,6 +4348,28 @@
         "favoriteGift": [
             "aP",
             "aJ"
+        ]
+    },
+    {
+        "id": 20044,
+        "name": "スミレ（アルバイト）",
+        "devname": "CH0287",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Pierce",
+        "armorType": "Light",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "TrainingClub",
+        "favoriteGift": [
+            "aj",
+            "aO"
         ]
     },
     {

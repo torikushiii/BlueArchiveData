@@ -2436,7 +2436,8 @@
             "aR",
             "BJ",
             "Ei",
-            "Gh"
+            "Gh",
+            "gp"
         ]
     },
     {
@@ -2987,7 +2988,9 @@
             "Gz",
             "gA",
             "gf",
-            "gi"
+            "gi",
+            "gn",
+            "gO"
         ]
     },
     {
@@ -3077,7 +3080,9 @@
             "fC",
             "fc",
             "gk",
-            "gL"
+            "gL",
+            "gp",
+            "gQ"
         ]
     },
     {
@@ -3621,6 +3626,14 @@
     },
     {
         "id": 6523,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6524,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4908,6 +4921,26 @@
         ]
     },
     {
+        "id": 10115,
+        "rarity": "N",
+        "quality": 9,
+        "name": "レイの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10116,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -5652,6 +5685,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "イズミ（正月）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20044,
+        "rarity": "N",
+        "quality": 9,
+        "name": "スミレ（アルバイト）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -9228,6 +9271,38 @@
         "tags": []
     },
     {
+        "id": 80590,
+        "rarity": "N",
+        "quality": 1,
+        "name": "イベントPt",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80591,
+        "rarity": "N",
+        "quality": 2,
+        "name": "応援バルーン",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80592,
+        "rarity": "N",
+        "quality": 3,
+        "name": "プロテインドリンク",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80593,
+        "rarity": "N",
+        "quality": 3,
+        "name": "抽選券",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -10238,6 +10313,38 @@
         "tags": []
     },
     {
+        "id": 85290,
+        "rarity": "N",
+        "quality": 1,
+        "name": "ターゲットの手がかり",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85291,
+        "rarity": "N",
+        "quality": 2,
+        "name": "公演のパンフレット",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85292,
+        "rarity": "N",
+        "quality": 3,
+        "name": "蝶ネクタイ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85293,
+        "rarity": "N",
+        "quality": 4,
+        "name": "オペラグラス",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -10689,6 +10796,14 @@
     },
     {
         "id": 110012,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110013,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",

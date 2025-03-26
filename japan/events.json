@@ -2124,6 +2124,54 @@
         "extensionTime": "2025-03-19 10:59:59"
     },
     {
+        "id": 845,
+        "subId": 845,
+        "rerun": false,
+        "name": "Event_Name_845",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-03-26 11:00:00",
+        "startTime": "2025-03-26 11:00:00",
+        "endTime": "2025-04-09 10:59:59",
+        "extensionTime": "2025-04-16 10:59:59"
+    },
+    {
+        "id": 845,
+        "subId": 845,
+        "rerun": false,
+        "name": "Event_Name_845",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-03-26 11:00:00",
+        "startTime": "2025-03-26 11:00:00",
+        "endTime": "2025-04-09 10:59:59",
+        "extensionTime": "2025-04-16 10:59:59"
+    },
+    {
+        "id": 845,
+        "subId": 845,
+        "rerun": false,
+        "name": "Event_Name_845",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-03-26 11:00:00",
+        "startTime": "2025-03-26 11:00:00",
+        "endTime": "2025-04-09 10:59:59",
+        "extensionTime": "2025-04-16 10:59:59"
+    },
+    {
+        "id": 845,
+        "subId": 845,
+        "rerun": false,
+        "name": "Event_Name_845",
+        "eventContentType": "FortuneGachaShop",
+        "subEvent": false,
+        "exposedTime": "2025-03-26 11:00:00",
+        "startTime": "2025-03-26 11:00:00",
+        "endTime": "2025-04-09 10:59:59",
+        "extensionTime": "2025-04-16 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -3456,6 +3504,54 @@
         "extensionTime": "2025-03-05 10:59:59"
     },
     {
+        "id": 10834,
+        "subId": 834,
+        "rerun": true,
+        "name": "Event_Name_834",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-04-09 11:00:00",
+        "startTime": "2025-04-09 11:00:00",
+        "endTime": "2025-04-16 10:59:59",
+        "extensionTime": "2025-04-22 10:59:59"
+    },
+    {
+        "id": 10834,
+        "subId": 834,
+        "rerun": true,
+        "name": "Event_Name_834",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-04-09 11:00:00",
+        "startTime": "2025-04-09 11:00:00",
+        "endTime": "2025-04-16 10:59:59",
+        "extensionTime": "2025-04-22 10:59:59"
+    },
+    {
+        "id": 10834,
+        "subId": 834,
+        "rerun": true,
+        "name": "Event_Name_834",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-04-09 11:00:00",
+        "startTime": "2025-04-09 11:00:00",
+        "endTime": "2025-04-16 10:59:59",
+        "extensionTime": "2025-04-22 10:59:59"
+    },
+    {
+        "id": 10834,
+        "subId": 834,
+        "rerun": true,
+        "name": "Event_Name_834",
+        "eventContentType": "BoxGacha",
+        "subEvent": false,
+        "exposedTime": "2025-04-09 11:00:00",
+        "startTime": "2025-04-09 11:00:00",
+        "endTime": "2025-04-16 10:59:59",
+        "extensionTime": "2025-04-22 10:59:59"
+    },
+    {
         "id": 50822,
         "subId": 822,
         "rerun": false,
@@ -4304,6 +4400,18 @@
         "subEvent": false,
         "exposedTime": "2025-01-15 11:00:00",
         "startTime": "2025-01-15 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900826,
+        "subId": 826,
+        "rerun": true,
+        "name": "Event_Name_826",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-04-16 11:00:00",
+        "startTime": "2025-04-16 11:00:00",
         "endTime": "2099-12-31 23:59:59",
         "extensionTime": "2099-12-31 23:59:59"
     },

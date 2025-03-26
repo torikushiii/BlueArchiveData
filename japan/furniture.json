@@ -3830,6 +3830,26 @@
         "comfortBonus": 350
     },
     {
+        "id": 210364,
+        "name": "ミレニアム製ピッチングマシン",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210365,
+        "name": "アシストプルアップマシン",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210366,
+        "name": "豪華な姿見",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210367,
+        "name": "船遊び用の人工池",
+        "comfortBonus": 500
+    },
+    {
         "id": 301001,
         "name": "総力戦ブロンズトロフィースタンド01",
         "comfortBonus": 50

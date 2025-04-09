@@ -2256,7 +2256,8 @@
             "GA",
             "Gk",
             "GP",
-            "Gp"
+            "Gp",
+            "go"
         ]
     },
     {
@@ -3037,7 +3038,9 @@
             "Gv",
             "GW",
             "gg",
-            "gj"
+            "gj",
+            "go",
+            "gP"
         ]
     },
     {
@@ -4934,7 +4937,7 @@
         "id": 10116,
         "rarity": "N",
         "quality": 9,
-        "name": "",
+        "name": "サオリ（ドレス）の神名文字",
         "category": "SecretStone",
         "tags": [
             "J"

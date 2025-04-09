@@ -2592,7 +2592,7 @@
     },
     {
         "id": 10116,
-        "name": "",
+        "name": "サオリ（ドレス）",
         "devname": "CH0259",
         "rarity": "SSR",
         "role": "Dealer",
@@ -2606,7 +2606,11 @@
             "Watch"
         ],
         "school": "Arius",
-        "club": "AriusSqud"
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "Bb",
+            "an"
+        ]
     },
     {
         "id": 13000,

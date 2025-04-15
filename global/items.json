@@ -8466,6 +8466,14 @@
         "tags": []
     },
     {
+        "id": 90070120,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -11966,6 +11974,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "DJ Party Venue Furniture Choice Box",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151018,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Hyakkiyako Furniture Choice Box",
         "category": "Consumable",
         "tags": [
             "Db"

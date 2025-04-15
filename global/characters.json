@@ -2341,6 +2341,52 @@
         ]
     },
     {
+        "id": 10105,
+        "name": "Mari (Pop Idol)",
+        "devname": "CH0273",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "SisterHood",
+        "favoriteGift": [
+            "am",
+            "BA",
+            "ay"
+        ]
+    },
+    {
+        "id": 10106,
+        "name": "Sakurako (Pop Idol)",
+        "devname": "CH0274",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "SisterHood",
+        "favoriteGift": [
+            "BB",
+            "av",
+            "aW"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -3000,6 +3046,29 @@
         "favoriteGift": [
             "aJ",
             "BA"
+        ]
+    },
+    {
+        "id": 16016,
+        "name": "Mine (Pop Idol)",
+        "devname": "CH0275",
+        "rarity": "R",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Trinity",
+        "club": "KnightsHospitaller",
+        "favoriteGift": [
+            "Bb",
+            "ar",
+            "ap"
         ]
     },
     {

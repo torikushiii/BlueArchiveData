@@ -2430,6 +2430,211 @@
         "comfortBonus": 500
     },
     {
+        "id": 18100,
+        "name": "Hyakkaryouran Flag",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18101,
+        "name": "Cherry Blossom-Style Bench",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18102,
+        "name": "Hyakkiyako Classroom Blackboard",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18103,
+        "name": "Traditional Pattern Mat",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18104,
+        "name": "Light Green Cushion Chair",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18105,
+        "name": "Pink Cushion Chair",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18106,
+        "name": "Neat Hyakkaryouran Table",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18107,
+        "name": "Hyakkaryouran Table with Lanterns",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18108,
+        "name": "Neat Hyakkaryouran Desk",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18109,
+        "name": "Hyakkaryouran Wooden Gun Mount",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18110,
+        "name": "Traditional Lantern",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18111,
+        "name": "Foliage Planter",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18112,
+        "name": "Single-Tier Wooden Shelf",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18113,
+        "name": "Wide Wooden Table",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18114,
+        "name": "Neat Wooden Table",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18115,
+        "name": "Hyakkaryouran Wall Scroll",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18116,
+        "name": "Round Window",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18117,
+        "name": "Traditional Wooden Chair",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18118,
+        "name": "Practice Target",
+        "comfortBonus": 50
+    },
+    {
+        "id": 18200,
+        "name": "Hyakkaryouran Bamboo Fence",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18201,
+        "name": "Antique Bookshelf",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18202,
+        "name": "Wide Cushion Chair",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18203,
+        "name": "Messy Hyakkaryouran Table",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18204,
+        "name": "Recently Used Hyakkaryouran Table",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18205,
+        "name": "Cherry Blossom Vase",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18206,
+        "name": "Traditional Pattern Folding Screen",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18207,
+        "name": "Haori Hanger",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18208,
+        "name": "Traditional Pattern Partition",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18209,
+        "name": "Two-Tier Shelf with Vase",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18210,
+        "name": "Stone Lantern",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18211,
+        "name": "Wide Table for Snacks",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18212,
+        "name": "Dining Table",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18213,
+        "name": "Traditional-Style Pillar",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18214,
+        "name": "Traditional Pattern Wall",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18215,
+        "name": "Traditional Pattern Tatami",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18216,
+        "name": "Hyakkiyako Background",
+        "comfortBonus": 120
+    },
+    {
+        "id": 18300,
+        "name": "Guest Sitting Table",
+        "comfortBonus": 350
+    },
+    {
+        "id": 18301,
+        "name": "Bamboo Indoor Garden",
+        "comfortBonus": 500
+    },
+    {
+        "id": 18302,
+        "name": "Shelf with Fishbowl",
+        "comfortBonus": 350
+    },
+    {
+        "id": 18303,
+        "name": "Tea Table",
+        "comfortBonus": 350
+    },
+    {
+        "id": 18304,
+        "name": "Cherry Blossom Viewing Platform",
+        "comfortBonus": 500
+    },
+    {
         "id": 100000,
         "name": "Binah Bronze Trophy - Field Warfare",
         "comfortBonus": 50
@@ -3263,6 +3468,11 @@
         "id": 210353,
         "name": "Genryumon Throne",
         "comfortBonus": 350
+    },
+    {
+        "id": 210354,
+        "name": "Live Stage",
+        "comfortBonus": 500
     },
     {
         "id": 301001,

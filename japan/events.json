@@ -2172,6 +2172,54 @@
         "extensionTime": "2025-04-16 10:59:59"
     },
     {
+        "id": 846,
+        "subId": 846,
+        "rerun": false,
+        "name": "Event_Name_846",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-04-22 11:00:00",
+        "startTime": "2025-04-22 11:00:00",
+        "endTime": "2025-05-07 10:59:59",
+        "extensionTime": "2025-05-14 10:59:59"
+    },
+    {
+        "id": 846,
+        "subId": 846,
+        "rerun": false,
+        "name": "Event_Name_846",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-04-22 11:00:00",
+        "startTime": "2025-04-22 11:00:00",
+        "endTime": "2025-05-07 10:59:59",
+        "extensionTime": "2025-05-14 10:59:59"
+    },
+    {
+        "id": 846,
+        "subId": 846,
+        "rerun": false,
+        "name": "Event_Name_846",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-04-22 11:00:00",
+        "startTime": "2025-04-22 11:00:00",
+        "endTime": "2025-05-07 10:59:59",
+        "extensionTime": "2025-05-14 10:59:59"
+    },
+    {
+        "id": 846,
+        "subId": 846,
+        "rerun": false,
+        "name": "Event_Name_846",
+        "eventContentType": "MiniGameRoad",
+        "subEvent": false,
+        "exposedTime": "2025-04-22 11:00:00",
+        "startTime": "2025-04-22 11:00:00",
+        "endTime": "2025-05-07 10:59:59",
+        "extensionTime": "2025-05-14 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -3552,6 +3600,54 @@
         "extensionTime": "2025-04-22 10:59:59"
     },
     {
+        "id": 10835,
+        "subId": 835,
+        "rerun": true,
+        "name": "Event_Name_835",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-05-14 11:00:00",
+        "startTime": "2025-05-14 11:00:00",
+        "endTime": "2025-05-21 10:59:59",
+        "extensionTime": "2025-05-28 10:59:59"
+    },
+    {
+        "id": 10835,
+        "subId": 835,
+        "rerun": true,
+        "name": "Event_Name_835",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-05-14 11:00:00",
+        "startTime": "2025-05-14 11:00:00",
+        "endTime": "2025-05-21 10:59:59",
+        "extensionTime": "2025-05-28 10:59:59"
+    },
+    {
+        "id": 10835,
+        "subId": 835,
+        "rerun": true,
+        "name": "Event_Name_835",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-05-14 11:00:00",
+        "startTime": "2025-05-14 11:00:00",
+        "endTime": "2025-05-21 10:59:59",
+        "extensionTime": "2025-05-28 10:59:59"
+    },
+    {
+        "id": 10835,
+        "subId": 835,
+        "rerun": true,
+        "name": "Event_Name_835",
+        "eventContentType": "CardShop",
+        "subEvent": false,
+        "exposedTime": "2025-05-14 11:00:00",
+        "startTime": "2025-05-14 11:00:00",
+        "endTime": "2025-05-21 10:59:59",
+        "extensionTime": "2025-05-28 10:59:59"
+    },
+    {
         "id": 50822,
         "subId": 822,
         "rerun": false,
@@ -4054,6 +4150,54 @@
         "startTime": "2025-02-03 11:00:00",
         "endTime": "2025-02-12 10:59:59",
         "extensionTime": "2025-02-19 10:59:59"
+    },
+    {
+        "id": 70003,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "SpecialMiniEvent",
+        "subEvent": false,
+        "exposedTime": "2025-05-07 11:00:00",
+        "startTime": "2025-05-07 11:00:00",
+        "endTime": "2025-05-14 10:59:59",
+        "extensionTime": "2025-05-21 10:59:59"
+    },
+    {
+        "id": 70003,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "BoxGacha",
+        "subEvent": false,
+        "exposedTime": "2025-05-07 11:00:00",
+        "startTime": "2025-05-07 11:00:00",
+        "endTime": "2025-05-14 10:59:59",
+        "extensionTime": "2025-05-21 10:59:59"
+    },
+    {
+        "id": 70003,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "ScenarioCollection",
+        "subEvent": false,
+        "exposedTime": "2025-05-07 11:00:00",
+        "startTime": "2025-05-07 11:00:00",
+        "endTime": "2025-05-14 10:59:59",
+        "extensionTime": "2025-05-21 10:59:59"
+    },
+    {
+        "id": 70003,
+        "subId": 70000,
+        "rerun": false,
+        "name": "Event_Name_70000",
+        "eventContentType": "ScenarioShortcut",
+        "subEvent": false,
+        "exposedTime": "2025-05-07 11:00:00",
+        "startTime": "2025-05-07 11:00:00",
+        "endTime": "2025-05-14 10:59:59",
+        "extensionTime": "2025-05-21 10:59:59"
     },
     {
         "id": 80000,

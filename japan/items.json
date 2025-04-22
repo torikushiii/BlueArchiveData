@@ -1712,6 +1712,54 @@
         ]
     },
     {
+        "id": 3090,
+        "rarity": "N",
+        "quality": 1,
+        "name": "初級戦術教育BD\n（ハイランダー）",
+        "category": "Material",
+        "tags": [
+            "I",
+            "M",
+            "ct"
+        ]
+    },
+    {
+        "id": 3091,
+        "rarity": "R",
+        "quality": 2,
+        "name": "中級戦術教育BD\n（ハイランダー）",
+        "category": "Material",
+        "tags": [
+            "I",
+            "M",
+            "cU"
+        ]
+    },
+    {
+        "id": 3092,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "上級戦術教育BD\n（ハイランダー）",
+        "category": "Material",
+        "tags": [
+            "I",
+            "M",
+            "cu"
+        ]
+    },
+    {
+        "id": 3093,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "最上級戦術教育BD\n（ハイランダー）",
+        "category": "Material",
+        "tags": [
+            "I",
+            "M",
+            "cV"
+        ]
+    },
+    {
         "id": 4000,
         "rarity": "N",
         "quality": 1,
@@ -2152,6 +2200,54 @@
         ]
     },
     {
+        "id": 4090,
+        "rarity": "N",
+        "quality": 1,
+        "name": "初級技術ノート\n（ハイランダー）",
+        "category": "Material",
+        "tags": [
+            "j",
+            "M",
+            "cv"
+        ]
+    },
+    {
+        "id": 4091,
+        "rarity": "R",
+        "quality": 2,
+        "name": "中級技術ノート\n（ハイランダー）",
+        "category": "Material",
+        "tags": [
+            "j",
+            "M",
+            "cW"
+        ]
+    },
+    {
+        "id": 4092,
+        "rarity": "SR",
+        "quality": 3,
+        "name": "上級技術ノート\n（ハイランダー）",
+        "category": "Material",
+        "tags": [
+            "j",
+            "M",
+            "cw"
+        ]
+    },
+    {
+        "id": 4093,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "最上級技術ノート\n（ハイランダー）",
+        "category": "Material",
+        "tags": [
+            "j",
+            "M",
+            "cX"
+        ]
+    },
+    {
         "id": 5000,
         "rarity": "SR",
         "quality": 3,
@@ -2311,7 +2407,8 @@
             "fX",
             "fY",
             "fZ",
-            "Gg"
+            "Gg",
+            "gY"
         ]
     },
     {
@@ -2476,7 +2573,8 @@
             "av",
             "BH",
             "BN",
-            "cf"
+            "cf",
+            "gZ"
         ]
     },
     {
@@ -2638,7 +2736,8 @@
             "az",
             "BL",
             "cM",
-            "fh"
+            "fh",
+            "HA"
         ]
     },
     {
@@ -2946,7 +3045,9 @@
             "Gu",
             "GV",
             "gl",
-            "gM"
+            "gM",
+            "gY",
+            "gy"
         ]
     },
     {
@@ -3143,7 +3244,9 @@
             "Gt",
             "GU",
             "gF",
-            "gI"
+            "gI",
+            "HA",
+            "Ha"
         ]
     },
     {
@@ -3234,7 +3337,9 @@
             "Gm",
             "GN",
             "gG",
-            "gJ"
+            "gJ",
+            "gZ",
+            "gz"
         ]
     },
     {
@@ -3389,6 +3494,14 @@
     },
     {
         "id": 6107,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "★3生徒確定募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6108,
         "rarity": "SSR",
         "quality": 4,
         "name": "★3生徒確定募集チケット",
@@ -3637,6 +3750,14 @@
     },
     {
         "id": 6524,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10回募集チケット",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 6525,
         "rarity": "SSR",
         "quality": 4,
         "name": "10回募集チケット",
@@ -4944,6 +5065,26 @@
         ]
     },
     {
+        "id": 10117,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ヒカリの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10118,
+        "rarity": "N",
+        "quality": 9,
+        "name": "ノゾミの神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -5248,6 +5389,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "ミネ（アイドル）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 16017,
+        "rarity": "N",
+        "quality": 9,
+        "name": "アオバの神名文字",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -5698,6 +5849,16 @@
         "rarity": "N",
         "quality": 9,
         "name": "スミレ（アルバイト）の神名文字",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20045,
+        "rarity": "N",
+        "quality": 9,
+        "name": "",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -9306,6 +9467,46 @@
         "tags": []
     },
     {
+        "id": 80600,
+        "rarity": "N",
+        "quality": 1,
+        "name": "ハイランダー記念ステッカー",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80601,
+        "rarity": "N",
+        "quality": 2,
+        "name": "貨物列車の路線図",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80602,
+        "rarity": "N",
+        "quality": 3,
+        "name": "謎の積荷",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80603,
+        "rarity": "N",
+        "quality": 4,
+        "name": "鉄パイプ",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80610,
+        "rarity": "N",
+        "quality": 1,
+        "name": "謎の物質",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -10348,6 +10549,38 @@
         "tags": []
     },
     {
+        "id": 85300,
+        "rarity": "N",
+        "quality": 1,
+        "name": "百鬼夜行記念カード",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85301,
+        "rarity": "N",
+        "quality": 2,
+        "name": "修学旅行案内計画表",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85302,
+        "rarity": "N",
+        "quality": 3,
+        "name": "ガイド手旗",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85303,
+        "rarity": "N",
+        "quality": 4,
+        "name": "特別クーポンブック",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -10814,6 +11047,14 @@
         "tags": []
     },
     {
+        "id": 110014,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 120000,
         "rarity": "N",
         "quality": 1,
@@ -10839,6 +11080,14 @@
     },
     {
         "id": 120003,
+        "rarity": "N",
+        "quality": 1,
+        "name": "装備ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 120004,
         "rarity": "N",
         "quality": 1,
         "name": "装備ボックス",
@@ -11230,6 +11479,14 @@
         "tags": []
     },
     {
+        "id": 150045,
+        "rarity": "N",
+        "quality": 1,
+        "name": "T9装備設計図選択ボックス",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 151000,
         "rarity": "N",
         "quality": 1,
@@ -11424,6 +11681,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "ミレニアムタワーラウンジシリーズ選択ボックス",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 151020,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "ハイランダー列車シリーズ選択ボックス",
         "category": "Consumable",
         "tags": [
             "Db"
@@ -12928,6 +13195,16 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "ミレニアムタワーラウンジシリーズ抽選ボックス",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
+        "id": 191020,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "ハイランダー列車シリーズ抽選ボックス",
         "category": "Consumable",
         "tags": [
             "Db"

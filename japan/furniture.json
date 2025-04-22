@@ -2920,6 +2920,201 @@
         "comfortBonus": 350
     },
     {
+        "id": 20100,
+        "name": "ハイランダー発車標",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20101,
+        "name": "ハイランダー待合室長椅子",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20102,
+        "name": "ハイランダー点字ブロック",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20103,
+        "name": "ハイランダー一般ロッカー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20104,
+        "name": "ハイランダー高級ロッカー",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20105,
+        "name": "ハイランダー一般カーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20106,
+        "name": "ハイランダー高級カーペット",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20107,
+        "name": "ハイランダーロープパーテーション",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20108,
+        "name": "ハイランダーガラスフェンス",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20109,
+        "name": "ハイランダー駅構内図",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20110,
+        "name": "ハイランダー壁掛けランプ",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20111,
+        "name": "ハイランダー列車壁面パーテーションA",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20112,
+        "name": "ハイランダー乗客用シート",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20113,
+        "name": "ハイランダー広告用パネル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20114,
+        "name": "ハイランダー鉄道学園のシンボル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20115,
+        "name": "ハイランダー食堂車のテーブル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20116,
+        "name": "ハイランダー鉄道学園のロゴシンボル",
+        "comfortBonus": 50
+    },
+    {
+        "id": 20201,
+        "name": "ハイランダー食堂車の販売コーナー",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20202,
+        "name": "ハイランダー高級ロープパーテーション",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20203,
+        "name": "ハイランダー列車壁面パーテーションB",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20204,
+        "name": "ハイランダーアーチ型の柱",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20205,
+        "name": "ハイランダー特等席のシート",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20206,
+        "name": "ハイランダー駅構内の案内標識",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20207,
+        "name": "ハイランダースーツケース見本品",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20208,
+        "name": "ハイランダー高級食堂車のテーブル",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20209,
+        "name": "ハイランダー車内販売のワゴン",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20210,
+        "name": "ハイランダー車内自動販売機",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20211,
+        "name": "ハイランダーテーマ窓",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20212,
+        "name": "ハイランダー壁",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20213,
+        "name": "ハイランダー床",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20214,
+        "name": "ハイランダー背景",
+        "comfortBonus": 120
+    },
+    {
+        "id": 20301,
+        "name": "ハイランダー時計塔",
+        "comfortBonus": 350
+    },
+    {
+        "id": 20302,
+        "name": "マスコット等身大・シュッポ（駅員）",
+        "comfortBonus": 350
+    },
+    {
+        "id": 20303,
+        "name": "マスコット等身大・シュッポ（CCC）",
+        "comfortBonus": 350
+    },
+    {
+        "id": 20304,
+        "name": "ハイランダーインフォメーションデスク",
+        "comfortBonus": 350
+    },
+    {
+        "id": 20305,
+        "name": "ハイランダー駅構内コンビニ",
+        "comfortBonus": 350
+    },
+    {
+        "id": 20306,
+        "name": "ハイランダー車両基地",
+        "comfortBonus": 350
+    },
+    {
+        "id": 20307,
+        "name": "しゅっしゅっぽっぽ！ミニ列車セット",
+        "comfortBonus": 500
+    },
+    {
+        "id": 20308,
+        "name": "ハイランダー自動改札機",
+        "comfortBonus": 350
+    },
+    {
         "id": 100000,
         "name": "ビナー（屋外戦）のブロンズトロフィー",
         "comfortBonus": 50
@@ -3848,6 +4043,11 @@
         "id": 210367,
         "name": "船遊び用の人工池",
         "comfortBonus": 500
+    },
+    {
+        "id": 210368,
+        "name": "テレビデオ",
+        "comfortBonus": 350
     },
     {
         "id": 301001,

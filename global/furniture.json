@@ -3475,6 +3475,16 @@
         "comfortBonus": 500
     },
     {
+        "id": 210355,
+        "name": "Pandemonium Desk",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210356,
+        "name": "Pandemonium Society Notice Board",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "Total Assault Bronze Trophy Display Cabinet 01",
         "comfortBonus": 50

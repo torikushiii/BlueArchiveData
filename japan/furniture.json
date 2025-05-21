@@ -4050,6 +4050,16 @@
         "comfortBonus": 350
     },
     {
+        "id": 210369,
+        "name": "陰陽部室の座卓",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210370,
+        "name": "リズムの導き手",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "総力戦ブロンズトロフィースタンド01",
         "comfortBonus": 50

@@ -2657,6 +2657,51 @@
         ]
     },
     {
+        "id": 10119,
+        "name": "ナグサ",
+        "devname": "CH0222",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Elastic",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran",
+        "favoriteGift": [
+            "aJ",
+            "aS",
+            "BA"
+        ]
+    },
+    {
+        "id": 10120,
+        "name": "",
+        "devname": "CH0221",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert",
+        "favoriteGift": [
+            "aJ",
+            "aV"
+        ]
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -4445,7 +4490,7 @@
     },
     {
         "id": 20045,
-        "name": "",
+        "name": "フィーナ（ガイド）",
         "devname": "CH0257",
         "rarity": "SSR",
         "role": "Dealer",
@@ -4459,7 +4504,35 @@
             "Watch"
         ],
         "school": "Hyakkiyako",
-        "club": "MatsuriOffice"
+        "club": "MatsuriOffice",
+        "favoriteGift": [
+            "aX",
+            "BB",
+            "aM"
+        ]
+    },
+    {
+        "id": 20046,
+        "name": "ニヤ",
+        "devname": "CH0109",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Onmyobu",
+        "favoriteGift": [
+            "av",
+            "al",
+            "ak"
+        ]
     },
     {
         "id": 23000,

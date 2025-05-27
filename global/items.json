@@ -3376,6 +3376,28 @@
         "tags": []
     },
     {
+        "id": 91000043,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Korean Red Cross Commemorative Card",
+        "category": "Favor",
+        "tags": [
+            "BC",
+            "Bc"
+        ]
+    },
+    {
+        "id": 91000044,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "MUSINSA Commemorative Card",
+        "category": "Favor",
+        "tags": [
+            "BC",
+            "Bc"
+        ]
+    },
+    {
         "id": 91000045,
         "rarity": "SSR",
         "quality": 4,
@@ -8819,6 +8841,22 @@
         "tags": []
     },
     {
+        "id": 90070124,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070125,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -13712,7 +13750,7 @@
         "id": 180123,
         "rarity": "N",
         "quality": 4,
-        "name": "Seia's Trap Chocolate",
+        "name": "Seia's Booby-Trapped Chocolate",
         "category": "Collectible",
         "tags": []
     },

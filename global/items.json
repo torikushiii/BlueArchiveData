@@ -8857,6 +8857,14 @@
         "tags": []
     },
     {
+        "id": 90070126,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -14733,6 +14741,14 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "3★ Student Guaranteed (x10) Ticket ",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006107,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "3★ Student Guaranteed (x10) Ticket",
         "category": "Material",
         "tags": []
     },

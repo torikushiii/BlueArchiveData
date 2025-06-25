@@ -2702,6 +2702,24 @@
         ]
     },
     {
+        "id": 10121,
+        "name": "ユカリ（水着）",
+        "devname": "CH0301",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -3003,6 +3021,24 @@
             "aq",
             "ar"
         ]
+    },
+    {
+        "id": 13014,
+        "name": "レンゲ（水着）",
+        "devname": "CH0302",
+        "rarity": "SR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran"
     },
     {
         "id": 16000,
@@ -4533,6 +4569,24 @@
             "al",
             "ak"
         ]
+    },
+    {
+        "id": 20047,
+        "name": "キキョウ（水着）",
+        "devname": "CH0300",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran"
     },
     {
         "id": 23000,

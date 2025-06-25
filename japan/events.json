@@ -2220,6 +2220,54 @@
         "extensionTime": "2025-05-14 10:59:59"
     },
     {
+        "id": 847,
+        "subId": 847,
+        "rerun": false,
+        "name": "Event_Name_847",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-06-25 11:00:00",
+        "startTime": "2025-06-25 11:00:00",
+        "endTime": "2025-07-09 10:59:59",
+        "extensionTime": "2025-07-16 10:59:59"
+    },
+    {
+        "id": 847,
+        "subId": 847,
+        "rerun": false,
+        "name": "Event_Name_847",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-06-25 11:00:00",
+        "startTime": "2025-06-25 11:00:00",
+        "endTime": "2025-07-09 10:59:59",
+        "extensionTime": "2025-07-16 10:59:59"
+    },
+    {
+        "id": 847,
+        "subId": 847,
+        "rerun": false,
+        "name": "Event_Name_847",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-06-25 11:00:00",
+        "startTime": "2025-06-25 11:00:00",
+        "endTime": "2025-07-09 10:59:59",
+        "extensionTime": "2025-07-16 10:59:59"
+    },
+    {
+        "id": 847,
+        "subId": 847,
+        "rerun": false,
+        "name": "Event_Name_847",
+        "eventContentType": "Treasure",
+        "subEvent": false,
+        "exposedTime": "2025-06-25 11:00:00",
+        "startTime": "2025-06-25 11:00:00",
+        "endTime": "2025-07-09 10:59:59",
+        "extensionTime": "2025-07-16 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -4104,6 +4152,30 @@
         "extensionTime": "2025-06-11 10:59:59"
     },
     {
+        "id": 60014,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "MiniEvent",
+        "subEvent": false,
+        "exposedTime": "2025-07-09 11:00:00",
+        "startTime": "2025-07-09 11:00:00",
+        "endTime": "2025-07-22 10:59:59",
+        "extensionTime": "2025-07-30 10:59:59"
+    },
+    {
+        "id": 60014,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "BoxGacha",
+        "subEvent": false,
+        "exposedTime": "2025-07-09 11:00:00",
+        "startTime": "2025-07-09 11:00:00",
+        "endTime": "2025-07-22 10:59:59",
+        "extensionTime": "2025-07-30 10:59:59"
+    },
+    {
         "id": 70000,
         "subId": 70000,
         "rerun": false,
@@ -4640,6 +4712,18 @@
         "subEvent": false,
         "exposedTime": "2025-04-16 11:00:00",
         "startTime": "2025-04-16 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900827,
+        "subId": 827,
+        "rerun": true,
+        "name": "Event_Name_827",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-07-09 11:00:00",
+        "startTime": "2025-07-09 11:00:00",
         "endTime": "2099-12-31 23:59:59",
         "extensionTime": "2099-12-31 23:59:59"
     },

@@ -2635,6 +2635,291 @@
         "comfortBonus": 500
     },
     {
+        "id": 19100,
+        "name": "Rounded Lounge Bench",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19101,
+        "name": "Multi-Seater Lounge Bench",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19102,
+        "name": "Blue Octagon Rug",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19103,
+        "name": "Indigo Octagon Rug",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19104,
+        "name": "Geometric Pattern Rug",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19105,
+        "name": "Hexagon Pattern Rug",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19106,
+        "name": "Green Border Rug",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19107,
+        "name": "Rectangular Marble Rug",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19108,
+        "name": "Round Marble Rug",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19109,
+        "name": "Digital Wall Clock",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19110,
+        "name": "Facility Guide Display",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19111,
+        "name": "Event Promotional Display",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19112,
+        "name": "Visitor Experience Display",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19113,
+        "name": "Crowd Control Barrier",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19114,
+        "name": "All-Glass Fence",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19115,
+        "name": "Wall Lamp",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19116,
+        "name": "Standing Lamp",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19117,
+        "name": "Rectangular Lounge Partition",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19118,
+        "name": "Triangular Lounge Partition",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19119,
+        "name": "Ornamental Planter Type A",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19120,
+        "name": "Ornamental Planter Type B",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19121,
+        "name": "Ornamental Planter Type C",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19122,
+        "name": "Hexagon Table with Planter",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19123,
+        "name": "Round Table with Tablet",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19124,
+        "name": "Round Table with Lamp",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19125,
+        "name": "Millennium Pillar Type A",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19126,
+        "name": "Millennium Pillar Type B",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19127,
+        "name": "Millennium Pillar Type C",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19128,
+        "name": "Millennium Logo Pillar",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19129,
+        "name": "Translucent Millennium Window",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19130,
+        "name": "Turquoise Millennium Chair",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19131,
+        "name": "Blue Millennium Chair",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19132,
+        "name": "Indigo Millennium Chair",
+        "comfortBonus": 50
+    },
+    {
+        "id": 19200,
+        "name": "Lounge Bench Type A",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19201,
+        "name": "Large Octagon Bench",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19202,
+        "name": "Circular Display Bench",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19203,
+        "name": "Wide Millennium Desk",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19204,
+        "name": "Lounge Map Display",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19205,
+        "name": "Glass Millennium Elevator",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19206,
+        "name": "Millennium Tower Lounge Gate",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19207,
+        "name": "Relaxation Massage Chair",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19208,
+        "name": "Vertical Pillar Partition",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19209,
+        "name": "Rectangular Ornamental Planter",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19210,
+        "name": "Millennium Wall Logo",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19211,
+        "name": "Millennium Tower Lounge Vending Machine",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19212,
+        "name": "Millennium Lattice Window",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19213,
+        "name": "Millennium Tower Lounge Wall",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19214,
+        "name": "Millennium Tower Lounge Floor",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19215,
+        "name": "Millennium Tower Lounge Background",
+        "comfortBonus": 120
+    },
+    {
+        "id": 19300,
+        "name": "Three-sided Open Bench",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19301,
+        "name": "Millennium Hologram Map",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19302,
+        "name": "Millennium Tower Lounge Escalator",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19303,
+        "name": "Lounge Information Desk",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19304,
+        "name": "Lounge Guide Drone",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19305,
+        "name": "Lounge Guide Robot",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19306,
+        "name": "Wide Millennium Window",
+        "comfortBonus": 350
+    },
+    {
+        "id": 19307,
+        "name": "2-Person Millennium Desk",
+        "comfortBonus": 350
+    },
+    {
         "id": 100000,
         "name": "Binah Bronze Trophy - Field Warfare",
         "comfortBonus": 50
@@ -3075,6 +3360,26 @@
         "comfortBonus": 50
     },
     {
+        "id": 101100,
+        "name": "Geburah Bronze Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 101101,
+        "name": "Geburah Silver Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 101102,
+        "name": "Geburah Gold Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
+        "id": 101103,
+        "name": "Geburah Platinum Trophy - Field Warfare",
+        "comfortBonus": 50
+    },
+    {
         "id": 200301,
         "name": "Trinity-Style Fountain",
         "comfortBonus": 350
@@ -3492,6 +3797,11 @@
     {
         "id": 210358,
         "name": "Blue Bean Bag",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210360,
+        "name": "The First Avant Guard",
         "comfortBonus": 350
     },
     {

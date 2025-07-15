@@ -3409,6 +3409,17 @@
         ]
     },
     {
+        "id": 91000046,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "GS25 Commemorative Bento",
+        "category": "Favor",
+        "tags": [
+            "BC",
+            "Bc"
+        ]
+    },
+    {
         "id": 6000,
         "rarity": "SSR",
         "quality": 4,
@@ -3644,7 +3655,7 @@
         "id": 6801,
         "rarity": "SSR",
         "quality": 4,
-        "name": "",
+        "name": "10-Recruitment Ticket",
         "category": "Material",
         "tags": []
     },
@@ -3684,7 +3695,7 @@
         "id": 8100,
         "rarity": "N",
         "quality": 4,
-        "name": "",
+        "name": "3★ Student Guaranteed 1-Recruitment Ticket (Attack Type)",
         "category": "Material",
         "tags": []
     },
@@ -8881,6 +8892,22 @@
         "tags": []
     },
     {
+        "id": 90070129,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070130,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -12603,6 +12630,16 @@
         ]
     },
     {
+        "id": 151019,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Millennium Tower Lounge Furniture Choice Box",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
         "id": 151991,
         "rarity": "R",
         "quality": 2,
@@ -14097,6 +14134,16 @@
         ]
     },
     {
+        "id": 191019,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Millennium Tower Lounge Furniture Raffle Box",
+        "category": "Consumable",
+        "tags": [
+            "Db"
+        ]
+    },
+    {
         "id": 191991,
         "rarity": "R",
         "quality": 2,
@@ -14957,6 +15004,22 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006801,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90008100,
+        "rarity": "N",
+        "quality": 4,
+        "name": "3★ Student Guaranteed 1-Recruitment Ticket (Attack Type)",
         "category": "Material",
         "tags": []
     },

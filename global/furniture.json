@@ -3800,6 +3800,11 @@
         "comfortBonus": 350
     },
     {
+        "id": 210359,
+        "name": "Military Camping Board Installation",
+        "comfortBonus": 350
+    },
+    {
         "id": 210360,
         "name": "The First Avant Guard",
         "comfortBonus": 350

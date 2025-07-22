@@ -3420,6 +3420,28 @@
         ]
     },
     {
+        "id": 91000047,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Ve Wong Commemorative Card",
+        "category": "Favor",
+        "tags": [
+            "BC",
+            "Bc"
+        ]
+    },
+    {
+        "id": 91000048,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "Bearhouse Commemorative Card",
+        "category": "Favor",
+        "tags": [
+            "BC",
+            "Bc"
+        ]
+    },
+    {
         "id": 6000,
         "rarity": "SSR",
         "quality": 4,
@@ -8901,6 +8923,14 @@
     },
     {
         "id": 90070130,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070131,
         "rarity": "N",
         "quality": 2,
         "name": "Recruitment Points",

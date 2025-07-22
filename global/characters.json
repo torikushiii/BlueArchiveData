@@ -4222,6 +4222,29 @@
         ]
     },
     {
+        "id": 20042,
+        "name": "Maki (Camp)",
+        "devname": "CH0235",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "Veritas",
+        "favoriteGift": [
+            "ax",
+            "aL",
+            "aR"
+        ]
+    },
+    {
         "id": 23000,
         "name": "Airi",
         "devname": "airi",

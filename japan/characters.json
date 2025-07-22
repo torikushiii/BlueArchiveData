@@ -2720,6 +2720,60 @@
         "club": "Hyakkayouran"
     },
     {
+        "id": 10122,
+        "name": "ミカ（水着）",
+        "devname": "CH0294",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "TeaParty"
+    },
+    {
+        "id": 10123,
+        "name": "セイア（水着）",
+        "devname": "CH0295",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "TeaParty"
+    },
+    {
+        "id": 10124,
+        "name": "ハスミ（水着）",
+        "devname": "CH0291",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "Justice"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -4589,6 +4643,24 @@
         "club": "Hyakkayouran"
     },
     {
+        "id": 20048,
+        "name": "ナギサ（水着）",
+        "devname": "CH0293",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Elastic",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "TeaParty"
+    },
+    {
         "id": 23000,
         "name": "アイリ",
         "devname": "airi",
@@ -5113,6 +5185,24 @@
             "BA",
             "aq"
         ]
+    },
+    {
+        "id": 26015,
+        "name": "イチカ（水着）",
+        "devname": "CH0292",
+        "rarity": "R",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "Justice"
     },
     {
         "id": 29012,

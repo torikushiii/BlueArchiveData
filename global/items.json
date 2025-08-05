@@ -2256,7 +2256,8 @@
             "GA",
             "Gk",
             "GP",
-            "Gp"
+            "Gp",
+            "go"
         ]
     },
     {
@@ -2310,7 +2311,8 @@
             "fX",
             "fY",
             "fZ",
-            "Gg"
+            "Gg",
+            "gY"
         ]
     },
     {
@@ -2436,7 +2438,8 @@
             "aR",
             "BJ",
             "Ei",
-            "Gh"
+            "Gh",
+            "gp"
         ]
     },
     {
@@ -2474,7 +2477,8 @@
             "av",
             "BH",
             "BN",
-            "cf"
+            "cf",
+            "gZ"
         ]
     },
     {
@@ -2636,7 +2640,8 @@
             "az",
             "BL",
             "cM",
-            "fh"
+            "fh",
+            "HA"
         ]
     },
     {
@@ -2707,7 +2712,9 @@
             "EM",
             "eg",
             "em",
-            "Gt"
+            "Gt",
+            "gl",
+            "gM"
         ]
     },
     {
@@ -2745,7 +2752,8 @@
             "Gr",
             "GS",
             "Gu",
-            "GV"
+            "GV",
+            "gk"
         ]
     },
     {
@@ -2814,7 +2822,9 @@
             "Ge",
             "GF",
             "gE",
-            "gH"
+            "gH",
+            "HB",
+            "Hb"
         ]
     },
     {
@@ -2939,7 +2949,11 @@
             "Gl",
             "GM",
             "Gu",
-            "GV"
+            "GV",
+            "gl",
+            "gM",
+            "gY",
+            "gy"
         ]
     },
     {
@@ -2982,7 +2996,9 @@
             "Gz",
             "gA",
             "gf",
-            "gi"
+            "gi",
+            "gn",
+            "gO"
         ]
     },
     {
@@ -3029,7 +3045,9 @@
             "Gv",
             "GW",
             "gg",
-            "gj"
+            "gj",
+            "go",
+            "gP"
         ]
     },
     {
@@ -3070,7 +3088,11 @@
             "FI",
             "Fi",
             "fC",
-            "fc"
+            "fc",
+            "gk",
+            "gL",
+            "gp",
+            "gQ"
         ]
     },
     {
@@ -3128,7 +3150,9 @@
             "Gt",
             "GU",
             "gF",
-            "gI"
+            "gI",
+            "HA",
+            "Ha"
         ]
     },
     {
@@ -3219,7 +3243,9 @@
             "Gm",
             "GN",
             "gG",
-            "gJ"
+            "gJ",
+            "gZ",
+            "gz"
         ]
     },
     {
@@ -4856,6 +4882,26 @@
         "rarity": "N",
         "quality": 9,
         "name": "Asuna (School)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10113,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Sena (Casual)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 10114,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Juri (Part-Timer)'s Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -8938,6 +8984,14 @@
         "tags": []
     },
     {
+        "id": 90070132,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -10594,6 +10648,46 @@
         "tags": []
     },
     {
+        "id": 80570,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Parfait Exchange Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80571,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Pancake Sample",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80572,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Medical Emergency Club Remedy",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80573,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Single-Use Detergent",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80580,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Financial Calculator",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,
@@ -11950,6 +12044,14 @@
         "tags": []
     },
     {
+        "id": 100041,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
         "id": 110000,
         "rarity": "N",
         "quality": 1,
@@ -12466,6 +12568,14 @@
         "rarity": "SSR",
         "quality": 4,
         "name": "Superior Furniture Raffle Box",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 150045,
+        "rarity": "N",
+        "quality": 1,
+        "name": "T9 Equipment Blueprint Choice Box",
         "category": "Consumable",
         "tags": []
     },
@@ -14991,6 +15101,30 @@
     },
     {
         "id": 90006522,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006523,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006524,
+        "rarity": "SSR",
+        "quality": 4,
+        "name": "10-Recruitment Ticket",
+        "category": "Material",
+        "tags": []
+    },
+    {
+        "id": 90006525,
         "rarity": "SSR",
         "quality": 4,
         "name": "10-Recruitment Ticket",

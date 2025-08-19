@@ -4908,6 +4908,16 @@
         ]
     },
     {
+        "id": 10115,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Rei's Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -5642,6 +5652,26 @@
         "rarity": "N",
         "quality": 9,
         "name": "Maki (Camp)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20043,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Izumi (New Year)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
+        "id": 20044,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Sumire (Part-Timer)'s Eleph",
         "category": "SecretStone",
         "tags": [
             "J"
@@ -8985,6 +9015,22 @@
     },
     {
         "id": 90070132,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070133,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070134,
         "rarity": "N",
         "quality": 2,
         "name": "Recruitment Points",

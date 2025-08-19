@@ -4272,6 +4272,30 @@
         "extensionTime": "2099-12-31 23:59:59"
     },
     {
+        "id": 900819,
+        "subId": 819,
+        "rerun": true,
+        "name": "Event_Name_819",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-08-19 11:00:00",
+        "startTime": "2025-08-19 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
+        "id": 900820,
+        "subId": 820,
+        "rerun": true,
+        "name": "Event_Name_820",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-08-19 11:00:00",
+        "startTime": "2025-08-19 11:00:00",
+        "endTime": "2099-12-31 23:59:59",
+        "extensionTime": "2099-12-31 23:59:59"
+    },
+    {
         "id": 900825,
         "subId": 825,
         "rerun": true,

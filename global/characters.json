@@ -4289,6 +4289,28 @@
         ]
     },
     {
+        "id": 20043,
+        "name": "Izumi (New Year)",
+        "devname": "CH0197",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "GourmetClub",
+        "favoriteGift": [
+            "aP",
+            "aJ"
+        ]
+    },
+    {
         "id": 23000,
         "name": "Airi",
         "devname": "airi",

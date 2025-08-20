@@ -2774,6 +2774,42 @@
         "club": "Justice"
     },
     {
+        "id": 10125,
+        "name": "エリ",
+        "devname": "CH0304",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "WildHunt",
+        "club": "OccultClub"
+    },
+    {
+        "id": 10126,
+        "name": "カノエ",
+        "devname": "CH0306",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "WildHunt",
+        "club": "OccultClub"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -4659,6 +4695,24 @@
         ],
         "school": "Trinity",
         "club": "TeaParty"
+    },
+    {
+        "id": 20049,
+        "name": "",
+        "devname": "CH0268",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "RL",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud"
     },
     {
         "id": 23000,

@@ -2328,6 +2328,54 @@
         "extensionTime": "2025-08-13 10:59:59"
     },
     {
+        "id": 849,
+        "subId": 849,
+        "rerun": false,
+        "name": "Event_Name_849",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-08-20 11:00:00",
+        "startTime": "2025-08-20 11:00:00",
+        "endTime": "2025-09-03 10:59:59",
+        "extensionTime": "2025-09-10 10:59:59"
+    },
+    {
+        "id": 849,
+        "subId": 849,
+        "rerun": false,
+        "name": "Event_Name_849",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-08-20 11:00:00",
+        "startTime": "2025-08-20 11:00:00",
+        "endTime": "2025-09-03 10:59:59",
+        "extensionTime": "2025-09-10 10:59:59"
+    },
+    {
+        "id": 849,
+        "subId": 849,
+        "rerun": false,
+        "name": "Event_Name_849",
+        "eventContentType": "DiceRace",
+        "subEvent": false,
+        "exposedTime": "2025-08-20 11:00:00",
+        "startTime": "2025-08-20 11:00:00",
+        "endTime": "2025-09-03 10:59:59",
+        "extensionTime": "2025-09-10 10:59:59"
+    },
+    {
+        "id": 849,
+        "subId": 849,
+        "rerun": false,
+        "name": "Event_Name_849",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-08-20 11:00:00",
+        "startTime": "2025-08-20 11:00:00",
+        "endTime": "2025-09-03 10:59:59",
+        "extensionTime": "2025-09-10 10:59:59"
+    },
+    {
         "id": 10801,
         "subId": 801,
         "rerun": true,
@@ -3874,6 +3922,54 @@
         "startTime": "2025-08-06 11:00:00",
         "endTime": "2025-08-13 10:59:59",
         "extensionTime": "2025-08-20 10:59:59"
+    },
+    {
+        "id": 10838,
+        "subId": 838,
+        "rerun": true,
+        "name": "Event_Name_838",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-09-03 11:00:00",
+        "startTime": "2025-09-03 11:00:00",
+        "endTime": "2025-09-17 10:59:59",
+        "extensionTime": "2025-09-24 10:59:59"
+    },
+    {
+        "id": 10838,
+        "subId": 838,
+        "rerun": true,
+        "name": "Event_Name_838",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-09-03 11:00:00",
+        "startTime": "2025-09-03 11:00:00",
+        "endTime": "2025-09-17 10:59:59",
+        "extensionTime": "2025-09-24 10:59:59"
+    },
+    {
+        "id": 10838,
+        "subId": 838,
+        "rerun": true,
+        "name": "Event_Name_838",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-09-03 11:00:00",
+        "startTime": "2025-09-03 11:00:00",
+        "endTime": "2025-09-17 10:59:59",
+        "extensionTime": "2025-09-24 10:59:59"
+    },
+    {
+        "id": 10838,
+        "subId": 838,
+        "rerun": true,
+        "name": "Event_Name_838",
+        "eventContentType": "MiniGameDefense",
+        "subEvent": false,
+        "exposedTime": "2025-09-03 11:00:00",
+        "startTime": "2025-09-03 11:00:00",
+        "endTime": "2025-09-17 10:59:59",
+        "extensionTime": "2025-09-24 10:59:59"
     },
     {
         "id": 50822,

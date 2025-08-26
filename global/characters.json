@@ -2569,6 +2569,28 @@
         ]
     },
     {
+        "id": 10115,
+        "name": "Rei",
+        "devname": "CH0245",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "RL",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "TrainingClub",
+        "favoriteGift": [
+            "aV",
+            "aL"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -4308,6 +4330,28 @@
         "favoriteGift": [
             "aP",
             "aJ"
+        ]
+    },
+    {
+        "id": 20044,
+        "name": "Sumire (Part-Timer)",
+        "devname": "CH0287",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Pierce",
+        "armorType": "Light",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "TrainingClub",
+        "favoriteGift": [
+            "aj",
+            "aO"
         ]
     },
     {

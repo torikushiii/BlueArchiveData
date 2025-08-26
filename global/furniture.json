@@ -3825,6 +3825,21 @@
         "comfortBonus": 350
     },
     {
+        "id": 210364,
+        "name": "Millennium Batting Machine",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210365,
+        "name": "Assisted Pull-Up Machine",
+        "comfortBonus": 350
+    },
+    {
+        "id": 210366,
+        "name": "White Curtain Mirror",
+        "comfortBonus": 350
+    },
+    {
         "id": 301001,
         "name": "Total Assault Bronze Trophy Display Cabinet 01",
         "comfortBonus": 50

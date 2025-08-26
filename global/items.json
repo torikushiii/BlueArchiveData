@@ -10734,6 +10734,38 @@
         "tags": []
     },
     {
+        "id": 80590,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Event Points",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80591,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Thundersticks",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80592,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Protein Drink",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 80593,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Prize Raffle Ticket",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 85000,
         "rarity": "N",
         "quality": 1,

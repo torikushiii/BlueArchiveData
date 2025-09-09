@@ -2591,6 +2591,28 @@
         ]
     },
     {
+        "id": 10116,
+        "name": "Saori (Dress)",
+        "devname": "CH0259",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Arius",
+        "club": "AriusSqud",
+        "favoriteGift": [
+            "Bb",
+            "an"
+        ]
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",

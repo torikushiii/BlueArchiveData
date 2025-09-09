@@ -4918,6 +4918,16 @@
         ]
     },
     {
+        "id": 10116,
+        "rarity": "N",
+        "quality": 9,
+        "name": "Saori (Dress)'s Eleph",
+        "category": "SecretStone",
+        "tags": [
+            "J"
+        ]
+    },
+    {
         "id": 13000,
         "rarity": "N",
         "quality": 9,
@@ -9038,6 +9048,22 @@
         "tags": []
     },
     {
+        "id": 90070135,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
+        "id": 90070136,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Recruitment Points",
+        "category": "RecruitCoin",
+        "tags": []
+    },
+    {
         "id": 80000,
         "rarity": "N",
         "quality": 1,
@@ -11776,6 +11802,38 @@
         "tags": []
     },
     {
+        "id": 85290,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Target Clue",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85291,
+        "rarity": "N",
+        "quality": 2,
+        "name": "Concert Program",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85292,
+        "rarity": "N",
+        "quality": 3,
+        "name": "Bow Tie",
+        "category": "Coin",
+        "tags": []
+    },
+    {
+        "id": 85293,
+        "rarity": "N",
+        "quality": 4,
+        "name": "Opera Binoculars",
+        "category": "Coin",
+        "tags": []
+    },
+    {
         "id": 90000,
         "rarity": "N",
         "quality": 3,
@@ -12227,6 +12285,14 @@
     },
     {
         "id": 110012,
+        "rarity": "N",
+        "quality": 1,
+        "name": "Equipment Chest",
+        "category": "Consumable",
+        "tags": []
+    },
+    {
+        "id": 110013,
         "rarity": "N",
         "quality": 1,
         "name": "Equipment Chest",

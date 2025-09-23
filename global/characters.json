@@ -2613,6 +2613,42 @@
         ]
     },
     {
+        "id": 10117,
+        "name": "Hikari",
+        "devname": "CH0242",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Charm"
+        ],
+        "school": "Highlander",
+        "club": "CentralControlCenter"
+    },
+    {
+        "id": 10118,
+        "name": "Nozomi",
+        "devname": "CH0243",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Highlander",
+        "club": "CentralControlCenter"
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -3296,6 +3332,24 @@
             "ar",
             "ap"
         ]
+    },
+    {
+        "id": 16017,
+        "name": "Aoba",
+        "devname": "CH0288",
+        "rarity": "R",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Highlander",
+        "club": "FreightLogisticsDepartment"
     },
     {
         "id": 19018,
@@ -4375,6 +4429,24 @@
             "aj",
             "aO"
         ]
+    },
+    {
+        "id": 20045,
+        "name": "Pina (Guide)",
+        "devname": "CH0257",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "MatsuriOffice"
     },
     {
         "id": 23000,

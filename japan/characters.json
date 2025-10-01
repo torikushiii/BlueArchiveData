@@ -2810,6 +2810,42 @@
         "club": "OccultClub"
     },
     {
+        "id": 10127,
+        "name": "ミヨ",
+        "devname": "CH0317",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Elastic",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "WildHunt",
+        "club": "FreeTradeCartel"
+    },
+    {
+        "id": 10128,
+        "name": "フユ",
+        "devname": "CH0318",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "WildHunt",
+        "club": "FreeTradeCartel"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -4713,6 +4749,24 @@
         ],
         "school": "Arius",
         "club": "AriusSqud"
+    },
+    {
+        "id": 20050,
+        "name": "リツ",
+        "devname": "CH0319",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SMG",
+        "bulletType": "Mystic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "WildHunt",
+        "club": "FreeTradeCartel"
     },
     {
         "id": 23000,

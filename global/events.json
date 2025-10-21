@@ -4020,6 +4020,30 @@
         "extensionTime": "2025-09-02 10:59:59"
     },
     {
+        "id": 60013,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "MiniEvent",
+        "subEvent": false,
+        "exposedTime": "2025-10-21 11:00:00",
+        "startTime": "2025-10-21 11:00:00",
+        "endTime": "2025-11-04 10:59:59",
+        "extensionTime": "2025-11-11 10:59:59"
+    },
+    {
+        "id": 60013,
+        "subId": 60000,
+        "rerun": false,
+        "name": "Event_Name_60000",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-10-21 11:00:00",
+        "startTime": "2025-10-21 11:00:00",
+        "endTime": "2025-11-04 10:59:59",
+        "extensionTime": "2025-11-11 10:59:59"
+    },
+    {
         "id": 70000,
         "subId": 70000,
         "rerun": false,

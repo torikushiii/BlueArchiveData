@@ -2649,6 +2649,24 @@
         "club": "CentralControlCenter"
     },
     {
+        "id": 10119,
+        "name": "Nagusa",
+        "devname": "CH0222",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Elastic",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran"
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -4447,6 +4465,24 @@
         ],
         "school": "Hyakkiyako",
         "club": "MatsuriOffice"
+    },
+    {
+        "id": 20046,
+        "name": "Niya",
+        "devname": "CH0109",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Onmyobu"
     },
     {
         "id": 23000,

@@ -2846,6 +2846,42 @@
         "club": "FreeTradeCartel"
     },
     {
+        "id": 10129,
+        "name": "スズミ（マジカル）",
+        "devname": "CH0325",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "TrinityVigilance"
+    },
+    {
+        "id": 10130,
+        "name": "",
+        "devname": "CH0309",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Arius",
+        "club": "NicomediasTroop"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -3570,6 +3606,24 @@
             "am",
             "aO"
         ]
+    },
+    {
+        "id": 16018,
+        "name": "ラブ",
+        "devname": "CH0166",
+        "rarity": "R",
+        "role": "Dealer",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "EmptyClub"
     },
     {
         "id": 19018,
@@ -4767,6 +4821,24 @@
         ],
         "school": "WildHunt",
         "club": "FreeTradeCartel"
+    },
+    {
+        "id": 20051,
+        "name": "レイサ（マジカル）",
+        "devname": "CH0326",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "TrinityVigilance"
     },
     {
         "id": 23000,

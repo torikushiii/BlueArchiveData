@@ -2667,6 +2667,96 @@
         "club": "Hyakkayouran"
     },
     {
+        "id": 10120,
+        "name": "Natsu (Band)",
+        "devname": "CH0221",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "HoukagoDessert"
+    },
+    {
+        "id": 10121,
+        "name": "Yukari (Swimsuit)",
+        "devname": "CH0301",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran"
+    },
+    {
+        "id": 10122,
+        "name": "Mika (Swimsuit)",
+        "devname": "CH0294",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "TeaParty"
+    },
+    {
+        "id": 10123,
+        "name": "Seia (Swimsuit)",
+        "devname": "CH0295",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "TeaParty"
+    },
+    {
+        "id": 10124,
+        "name": "Hasumi (Swimsuit)",
+        "devname": "CH0291",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Pierce",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "Justice"
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -2968,6 +3058,24 @@
             "aq",
             "ar"
         ]
+    },
+    {
+        "id": 13014,
+        "name": "Renge (Swimsuit)",
+        "devname": "CH0302",
+        "rarity": "SR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran"
     },
     {
         "id": 16000,
@@ -4485,6 +4593,42 @@
         "club": "Onmyobu"
     },
     {
+        "id": 20047,
+        "name": "Kikyou (Swimsuit)",
+        "devname": "CH0300",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran"
+    },
+    {
+        "id": 20048,
+        "name": "Nagisa (Swimsuit)",
+        "devname": "CH0293",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Elastic",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "TeaParty"
+    },
+    {
         "id": 23000,
         "name": "Airi",
         "devname": "airi",
@@ -5009,6 +5153,24 @@
             "BA",
             "aq"
         ]
+    },
+    {
+        "id": 26015,
+        "name": "Ichika (Swimsuit)",
+        "devname": "CH0292",
+        "rarity": "R",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Sonic",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "Justice"
     },
     {
         "id": 29012,

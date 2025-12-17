@@ -2882,6 +2882,24 @@
         "club": "NicomediasTroop"
     },
     {
+        "id": 10131,
+        "name": "タカネ",
+        "devname": "CH0229",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Mystic",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "RedWinter",
+        "club": "PublishingDepartment"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -4839,6 +4857,24 @@
         ],
         "school": "Trinity",
         "club": "TrinityVigilance"
+    },
+    {
+        "id": 20052,
+        "name": "ヤクモ",
+        "devname": "CH0228",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "RedWinter",
+        "club": "PublishingDepartment"
     },
     {
         "id": 23000,

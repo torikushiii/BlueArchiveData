@@ -2900,6 +2900,24 @@
         "club": "PublishingDepartment"
     },
     {
+        "id": 10132,
+        "name": "ツクヨ（ドレス）",
+        "devname": "CH0297",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Hyakkiyako",
+        "club": "NinpoKenkyubu"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -4875,6 +4893,24 @@
         ],
         "school": "RedWinter",
         "club": "PublishingDepartment"
+    },
+    {
+        "id": 20053,
+        "name": "ミチル（ドレス）",
+        "devname": "CH0296",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Hyakkiyako",
+        "club": "NinpoKenkyubu"
     },
     {
         "id": 23000,

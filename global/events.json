@@ -3816,6 +3816,66 @@
         "extensionTime": "2025-11-25 10:59:59"
     },
     {
+        "id": 10837,
+        "subId": 837,
+        "rerun": true,
+        "name": "Event_Name_837",
+        "eventContentType": "Stage",
+        "subEvent": false,
+        "exposedTime": "2025-12-30 11:00:00",
+        "startTime": "2025-12-30 11:00:00",
+        "endTime": "2026-01-06 10:59:59",
+        "extensionTime": "2026-01-13 10:59:59"
+    },
+    {
+        "id": 10837,
+        "subId": 837,
+        "rerun": true,
+        "name": "Event_Name_837",
+        "eventContentType": "Mission",
+        "subEvent": false,
+        "exposedTime": "2025-12-30 11:00:00",
+        "startTime": "2025-12-30 11:00:00",
+        "endTime": "2026-01-06 10:59:59",
+        "extensionTime": "2026-01-13 10:59:59"
+    },
+    {
+        "id": 10837,
+        "subId": 837,
+        "rerun": true,
+        "name": "Event_Name_837",
+        "eventContentType": "BoxGacha",
+        "subEvent": false,
+        "exposedTime": "2025-12-30 11:00:00",
+        "startTime": "2025-12-30 11:00:00",
+        "endTime": "2026-01-06 10:59:59",
+        "extensionTime": "2026-01-13 10:59:59"
+    },
+    {
+        "id": 10837,
+        "subId": 837,
+        "rerun": true,
+        "name": "Event_Name_837",
+        "eventContentType": "Shop",
+        "subEvent": false,
+        "exposedTime": "2025-12-30 11:00:00",
+        "startTime": "2025-12-30 11:00:00",
+        "endTime": "2026-01-06 10:59:59",
+        "extensionTime": "2026-01-13 10:59:59"
+    },
+    {
+        "id": 10837,
+        "subId": 837,
+        "rerun": true,
+        "name": "Event_Name_837",
+        "eventContentType": "Recollection",
+        "subEvent": false,
+        "exposedTime": "2025-12-30 11:00:00",
+        "startTime": "2025-12-30 11:00:00",
+        "endTime": "2026-01-06 10:59:59",
+        "extensionTime": "2026-01-13 10:59:59"
+    },
+    {
         "id": 50822,
         "subId": 822,
         "rerun": false,

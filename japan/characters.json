@@ -2918,6 +2918,60 @@
         "club": "NinpoKenkyubu"
     },
     {
+        "id": 10133,
+        "name": "リオ（臨戦）",
+        "devname": "CH0331",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar"
+    },
+    {
+        "id": 10134,
+        "name": "アリス（臨戦）",
+        "devname": "CH0334",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "CompositeArmor",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev"
+    },
+    {
+        "id": 10135,
+        "name": "ケイ",
+        "devname": "CH0335",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "RG",
+        "bulletType": "Mystic",
+        "armorType": "CompositeArmor",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "SPTF"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -3660,6 +3714,24 @@
         ],
         "school": "Trinity",
         "club": "EmptyClub"
+    },
+    {
+        "id": 16019,
+        "name": "トキ（臨戦）",
+        "devname": "CH0333",
+        "rarity": "R",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
     },
     {
         "id": 19018,
@@ -4911,6 +4983,24 @@
         ],
         "school": "Hyakkiyako",
         "club": "NinpoKenkyubu"
+    },
+    {
+        "id": 20054,
+        "name": "ヒマリ（臨戦）",
+        "devname": "CH0332",
+        "rarity": "SSR",
+        "role": "T.S.",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "Elastic",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Millennium",
+        "club": "SPTF"
     },
     {
         "id": 23000,

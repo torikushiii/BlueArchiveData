@@ -2972,6 +2972,24 @@
         "club": "SPTF"
     },
     {
+        "id": 10136,
+        "name": "エイミ（臨戦）",
+        "devname": "CH0337",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "SPTF"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -5001,6 +5019,42 @@
         ],
         "school": "Millennium",
         "club": "SPTF"
+    },
+    {
+        "id": 20055,
+        "name": "ユズ（臨戦）",
+        "devname": "CH0336",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "GL",
+        "bulletType": "Mystic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev"
+    },
+    {
+        "id": 20056,
+        "name": "",
+        "devname": "CH0310",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Mystic",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar"
     },
     {
         "id": 23000,

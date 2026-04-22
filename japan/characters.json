@@ -2990,6 +2990,78 @@
         "club": "SPTF"
     },
     {
+        "id": 10137,
+        "name": "コノカ",
+        "devname": "CH0264",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Valkyrie",
+        "club": "PublicPeaceBureau"
+    },
+    {
+        "id": 10138,
+        "name": "レナ",
+        "devname": "CH0305",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "WildHunt",
+        "club": "OccultClub"
+    },
+    {
+        "id": 10139,
+        "name": "ニコ",
+        "devname": "CH0172",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Explosive",
+        "armorType": "Elastic",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "FoxSquad"
+    },
+    {
+        "id": 10140,
+        "name": "クルミ",
+        "devname": "CH0173",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "SRT",
+        "club": "FoxSquad"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -3750,6 +3822,24 @@
         ],
         "school": "Millennium",
         "club": "CleanNClearing"
+    },
+    {
+        "id": 16020,
+        "name": "オトギ",
+        "devname": "CH0174",
+        "rarity": "R",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "FoxSquad"
     },
     {
         "id": 19018,
@@ -5055,6 +5145,42 @@
         ],
         "school": "Millennium",
         "club": "TheSeminar"
+    },
+    {
+        "id": 20057,
+        "name": "アカネ（制服）",
+        "devname": "CH0307",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
+    },
+    {
+        "id": 20058,
+        "name": "",
+        "devname": "CH0076",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "ShinySparkleSociety"
     },
     {
         "id": 23000,

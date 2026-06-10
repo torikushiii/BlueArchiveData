@@ -3062,6 +3062,42 @@
         "club": "FoxSquad"
     },
     {
+        "id": 10141,
+        "name": "ハルカ（ドレス）",
+        "devname": "CH0247",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
+    },
+    {
+        "id": 10142,
+        "name": "ナグサ（水着）",
+        "devname": "CH0303",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -5166,7 +5202,7 @@
     },
     {
         "id": 20058,
-        "name": "",
+        "name": "エリカ",
         "devname": "CH0076",
         "rarity": "SSR",
         "role": "Support",
@@ -5181,6 +5217,24 @@
         ],
         "school": "Gehenna",
         "club": "ShinySparkleSociety"
+    },
+    {
+        "id": 20059,
+        "name": "ムツキ（ドレス）",
+        "devname": "CH0246",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
     },
     {
         "id": 23000,

@@ -2955,6 +2955,24 @@
         "club": "SPTF"
     },
     {
+        "id": 10136,
+        "name": "Eimi (Armed)",
+        "devname": "CH0337",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "SPTF"
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -4969,6 +4987,24 @@
         ],
         "school": "Millennium",
         "club": "SPTF"
+    },
+    {
+        "id": 20055,
+        "name": "Yuzu (Armed)",
+        "devname": "CH0336",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "GL",
+        "bulletType": "Mystic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "GameDev"
     },
     {
         "id": 23000,

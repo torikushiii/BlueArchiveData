@@ -3098,6 +3098,60 @@
         "club": "Hyakkayouran"
     },
     {
+        "id": 10143,
+        "name": "シュン（水着）",
+        "devname": "CH0355_01",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Shanhaijing",
+        "club": "Meihuayuan"
+    },
+    {
+        "id": 10144,
+        "name": "シュン（水着）",
+        "devname": "CH0355_02",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Shanhaijing",
+        "club": "Meihuayuan"
+    },
+    {
+        "id": 10145,
+        "name": "キサキ（水着）",
+        "devname": "CH0356",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Sonic",
+        "armorType": "Elastic",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Shanhaijing",
+        "club": "Genryumon"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",

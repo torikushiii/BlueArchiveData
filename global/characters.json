@@ -2973,6 +2973,78 @@
         "club": "SPTF"
     },
     {
+        "id": 10137,
+        "name": "Konoka",
+        "devname": "CH0264",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Mystic",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Charm"
+        ],
+        "school": "Valkyrie",
+        "club": "PublicPeaceBureau"
+    },
+    {
+        "id": 10138,
+        "name": "Rena",
+        "devname": "CH0305",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "WildHunt",
+        "club": "OccultClub"
+    },
+    {
+        "id": 10139,
+        "name": "Niko",
+        "devname": "CH0172",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Explosive",
+        "armorType": "Elastic",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "FoxSquad"
+    },
+    {
+        "id": 10140,
+        "name": "Kurumi",
+        "devname": "CH0173",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "SRT",
+        "club": "FoxSquad"
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -3728,6 +3800,24 @@
         ],
         "school": "Millennium",
         "club": "CleanNClearing"
+    },
+    {
+        "id": 16020,
+        "name": "Otogi",
+        "devname": "CH0174",
+        "rarity": "R",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "SRT",
+        "club": "FoxSquad"
     },
     {
         "id": 19018,
@@ -5005,6 +5095,42 @@
         ],
         "school": "Millennium",
         "club": "GameDev"
+    },
+    {
+        "id": 20056,
+        "name": "Koyuki (Pajamas)",
+        "devname": "CH0310",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Mystic",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "TheSeminar"
+    },
+    {
+        "id": 20057,
+        "name": "Akane (School)",
+        "devname": "CH0307",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Millennium",
+        "club": "CleanNClearing"
     },
     {
         "id": 23000,

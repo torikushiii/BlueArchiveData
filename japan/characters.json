@@ -3152,6 +3152,96 @@
         "club": "Genryumon"
     },
     {
+        "id": 10146,
+        "name": "マコト（水着）",
+        "devname": "CH0344",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety"
+    },
+    {
+        "id": 10147,
+        "name": "サツキ（水着）",
+        "devname": "CH0345",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Elastic",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety"
+    },
+    {
+        "id": 10148,
+        "name": "イロハ（水着）",
+        "devname": "CH0346",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety"
+    },
+    {
+        "id": 10149,
+        "name": "ココロ",
+        "devname": "CH0368",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Mystic",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Odyssey",
+        "club": "DivingClub"
+    },
+    {
+        "id": 10150,
+        "name": "コトネ",
+        "devname": "CH0369",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Odyssey",
+        "club": "DivingClub"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -5291,6 +5381,42 @@
         "club": "Kohshinjo68"
     },
     {
+        "id": 20060,
+        "name": "イブキ（水着）",
+        "devname": "CH0347",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety"
+    },
+    {
+        "id": 20061,
+        "name": "",
+        "devname": "CH0328",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "Special",
+        "equipment": [
+            "Gloves",
+            "Bag",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "HotSpringsDepartment"
+    },
+    {
         "id": 23000,
         "name": "アイリ",
         "devname": "airi",
@@ -5833,6 +5959,24 @@
         ],
         "school": "Trinity",
         "club": "Justice"
+    },
+    {
+        "id": 26016,
+        "name": "チアキ（水着）",
+        "devname": "CH0348",
+        "rarity": "R",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety"
     },
     {
         "id": 29012,

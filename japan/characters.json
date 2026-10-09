@@ -3242,6 +3242,42 @@
         "club": "DivingClub"
     },
     {
+        "id": 10151,
+        "name": "アンナ",
+        "devname": "CH0320",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Pierce",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "Class183"
+    },
+    {
+        "id": 10152,
+        "name": "ツムギ",
+        "devname": "CH0252",
+        "rarity": "SSR",
+        "role": "Tank",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Pierce",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "WildHunt",
+        "club": "OccultClub"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -5400,7 +5436,7 @@
     },
     {
         "id": 20061,
-        "name": "",
+        "name": "カスミ（水着）",
         "devname": "CH0328",
         "rarity": "SSR",
         "role": "Support",
@@ -5415,6 +5451,24 @@
         ],
         "school": "Gehenna",
         "club": "HotSpringsDepartment"
+    },
+    {
+        "id": 20062,
+        "name": "エリナ",
+        "devname": "CH0321",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "RedWinter",
+        "club": "Class183"
     },
     {
         "id": 23000,

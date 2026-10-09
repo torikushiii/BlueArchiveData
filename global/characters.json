@@ -3045,6 +3045,42 @@
         "club": "FoxSquad"
     },
     {
+        "id": 10141,
+        "name": "Haruka (Dress)",
+        "devname": "CH0247",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Front",
+        "weaponType": "SG",
+        "bulletType": "Explosive",
+        "armorType": "Light",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
+    },
+    {
+        "id": 10142,
+        "name": "Nagusa (Swimsuit)",
+        "devname": "CH0303",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Explosive",
+        "armorType": "Heavy",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Hyakkiyako",
+        "club": "Hyakkayouran"
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -5131,6 +5167,42 @@
         ],
         "school": "Millennium",
         "club": "CleanNClearing"
+    },
+    {
+        "id": 20058,
+        "name": "Erika",
+        "devname": "CH0076",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "ShinySparkleSociety"
+    },
+    {
+        "id": 20059,
+        "name": "Mutsuki (Dress)",
+        "devname": "CH0246",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "MG",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "Kohshinjo68"
     },
     {
         "id": 23000,

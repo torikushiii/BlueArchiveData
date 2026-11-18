@@ -3081,6 +3081,114 @@
         "club": "Hyakkayouran"
     },
     {
+        "id": 10143,
+        "name": "Shun (Swimsuit)",
+        "devname": "CH0355_01",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Shanhaijing",
+        "club": "Meihuayuan"
+    },
+    {
+        "id": 10144,
+        "name": "Shunling (Swimsuit)",
+        "devname": "CH0355_02",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Sonic",
+        "armorType": "Light",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Shanhaijing",
+        "club": "Meihuayuan"
+    },
+    {
+        "id": 10145,
+        "name": "Kisaki (Swimsuit)",
+        "devname": "CH0356",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Front",
+        "weaponType": "SMG",
+        "bulletType": "Sonic",
+        "armorType": "Elastic",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Shanhaijing",
+        "club": "Genryumon"
+    },
+    {
+        "id": 10146,
+        "name": "Makoto (Swimsuit)",
+        "devname": "CH0344",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "SR",
+        "bulletType": "Mystic",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety"
+    },
+    {
+        "id": 10147,
+        "name": "Satsuki (Swimsuit)",
+        "devname": "CH0345",
+        "rarity": "SSR",
+        "role": "Healer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Sonic",
+        "armorType": "Elastic",
+        "equipment": [
+            "Gloves",
+            "Hairpin",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety"
+    },
+    {
+        "id": 10148,
+        "name": "Iroha (Swimsuit)",
+        "devname": "CH0346",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "HG",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Badge",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety"
+    },
+    {
         "id": 13000,
         "name": "Akane",
         "devname": "akane",
@@ -5205,6 +5313,24 @@
         "club": "Kohshinjo68"
     },
     {
+        "id": 20060,
+        "name": "Ibuki (Swimsuit)",
+        "devname": "CH0347",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Badge",
+            "Necklace"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety"
+    },
+    {
         "id": 23000,
         "name": "Airi",
         "devname": "airi",
@@ -5747,6 +5873,24 @@
         ],
         "school": "Trinity",
         "club": "Justice"
+    },
+    {
+        "id": 26016,
+        "name": "Chiaki (Swimsuit)",
+        "devname": "CH0348",
+        "rarity": "R",
+        "role": "Dealer",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Pierce",
+        "armorType": "Heavy",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Gehenna",
+        "club": "PandemoniumSociety"
     },
     {
         "id": 29012,

@@ -3278,6 +3278,24 @@
         "club": "OccultClub"
     },
     {
+        "id": 10153,
+        "name": "ヒフミ（レーシング）",
+        "devname": "CH0379",
+        "rarity": "SSR",
+        "role": "Dealer",
+        "range": "Middle",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Hairpin",
+            "Watch"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass"
+    },
+    {
         "id": 13000,
         "name": "アカネ",
         "devname": "akane",
@@ -5471,6 +5489,24 @@
         "club": "Class183"
     },
     {
+        "id": 20063,
+        "name": "アズサ（レーシング）",
+        "devname": "CH0380",
+        "rarity": "SSR",
+        "role": "Support",
+        "range": "Back",
+        "weaponType": "AR",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Shoes",
+            "Bag",
+            "Necklace"
+        ],
+        "school": "Trinity",
+        "club": "RemedialClass"
+    },
+    {
         "id": 23000,
         "name": "アイリ",
         "devname": "airi",
@@ -6031,6 +6067,24 @@
         ],
         "school": "Gehenna",
         "club": "PandemoniumSociety"
+    },
+    {
+        "id": 26017,
+        "name": "ラナ",
+        "devname": "CH0322",
+        "rarity": "R",
+        "role": "T.S.",
+        "range": "Back",
+        "weaponType": "SG",
+        "bulletType": "Explosive",
+        "armorType": "Special",
+        "equipment": [
+            "Hat",
+            "Badge",
+            "Watch"
+        ],
+        "school": "RedWinter",
+        "club": "Class183"
     },
     {
         "id": 29012,
